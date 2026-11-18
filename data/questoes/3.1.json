@@ -1,0 +1,749 @@
+[
+  {
+    "id": "3.1.1.1-01",
+    "topicoId": "3.1.1.1",
+    "enunciado": "Na engenharia de requisitos, entrevistas, observação do trabalho em campo e análise de documentos são técnicas de elicitação complementares, pois os usuários frequentemente não conseguem verbalizar todo o conhecimento tácito que aplicam em suas atividades.",
+    "gabarito": "C",
+    "comentario": "Certo. Parte do conhecimento do usuário é tácito: ele executa a tarefa, mas não a descreve espontaneamente numa entrevista. Por isso se combinam técnicas: a entrevista capta o que é dito, a observação (etnografia) capta o que é feito e a análise de documentos capta regras formais.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.1.1.1-02",
+    "topicoId": "3.1.1.1",
+    "enunciado": "Como os usuários finais são a principal fonte de necessidades de um sistema, a elicitação de requisitos deve se limitar a eles, dispensando-se a consulta a gestores, áreas jurídicas e demais partes interessadas.",
+    "gabarito": "E",
+    "comentario": "Errado. A elicitação envolve todas as partes interessadas (stakeholders): usuários, gestores, área jurídica, segurança, operação, órgãos de controle etc. Requisitos legais, de negócio e de segurança raramente vêm dos usuários finais, e ignorá-los gera retrabalho.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.1.1.1-03",
+    "topicoId": "3.1.1.1",
+    "enunciado": "Necessidade do usuário e requisito de sistema são conceitos equivalentes, de modo que a necessidade expressa pelo usuário deve ser transcrita literalmente como requisito, sem análise ou negociação.",
+    "gabarito": "E",
+    "comentario": "Errado. A necessidade expressa o problema ou objetivo do usuário; o requisito é a especificação analisada, negociada e verificável do que o sistema deve fazer para atendê-la. Usuários muitas vezes descrevem uma solução (\"quero um botão que exporte para Excel\") quando a necessidade real é outra (\"preciso conferir os pagamentos do mês\").",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.1.1.2-01",
+    "topicoId": "3.1.1.2",
+    "enunciado": "O requisito \"o sistema deve emitir o comprovante de inscrição em PDF\" é funcional, enquanto \"o comprovante deve ser gerado em até 2 segundos em 95% das requisições\" é não funcional.",
+    "gabarito": "C",
+    "comentario": "Certo. Requisito funcional descreve o que o sistema faz (emitir o comprovante). Requisito não funcional descreve como ou com que qualidade ele faz: desempenho, segurança, usabilidade, disponibilidade etc. O tempo de resposta com percentil é um requisito de desempenho.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.1.1.2-02",
+    "topicoId": "3.1.1.2",
+    "enunciado": "Requisitos não funcionais referem-se apenas a aspectos de desempenho, como tempo de resposta e vazão, e não abrangem segurança, usabilidade ou conformidade legal.",
+    "gabarito": "E",
+    "comentario": "Errado. Requisitos não funcionais abrangem desempenho, segurança, usabilidade, acessibilidade, confiabilidade, manutenibilidade, portabilidade e também requisitos legais e regulatórios (como a LGPD). A ISO/IEC 25010 organiza várias dessas características de qualidade.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.1.1.2-03",
+    "topicoId": "3.1.1.2",
+    "enunciado": "Um requisito como \"o sistema deve ser fácil de usar\" é considerado mal especificado, pois não é verificável; recomenda-se reescrevê-lo com critérios mensuráveis, como o tempo médio para concluir uma tarefa ou a taxa de erros dos usuários.",
+    "gabarito": "C",
+    "comentario": "Certo. Um bom requisito precisa ser verificável: deve ser possível testar se foi atendido. \"Fácil de usar\" é subjetivo; \"80% dos usuários concluem a inscrição em até 5 minutos sem ajuda\" pode ser medido em teste de usabilidade.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.1.1.3-01",
+    "topicoId": "3.1.1.3",
+    "enunciado": "Restrições de projeto, como a obrigatoriedade de uso de determinada plataforma ou um prazo legal para entrada em produção, limitam o espaço de soluções possíveis e devem ser registradas junto com os requisitos.",
+    "gabarito": "C",
+    "comentario": "Certo. Restrições não descrevem funcionalidades, mas condicionam o projeto: tecnologia obrigatória, orçamento, prazo legal, normas, integrações existentes. Registrá-las evita propor soluções inviáveis.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.1.1.3-02",
+    "topicoId": "3.1.1.3",
+    "enunciado": "No formato Dado–Quando–Então (Given–When–Then), critérios de aceitação descrevem o contexto inicial, a ação executada e o resultado esperado, o que facilita convertê-los em testes de aceitação automatizados.",
+    "gabarito": "C",
+    "comentario": "Certo. Exemplo: \"Dado que o candidato pagou a taxa, quando consultar a inscrição, então o status deve ser 'efetivada'\". A estrutura é usada no BDD (Behavior-Driven Development) e em ferramentas como Cucumber, que executam esses cenários como testes.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.1.1.3-03",
+    "topicoId": "3.1.1.3",
+    "enunciado": "Critérios de aceitação devem ser definidos somente após a implementação da funcionalidade, quando a equipe já conhece as limitações técnicas da solução.",
+    "gabarito": "E",
+    "comentario": "Errado. Critérios de aceitação são definidos antes da implementação (no refinamento do item), pois orientam o desenvolvimento e definem quando o item está pronto. Defini-los depois transforma o critério em mera descrição do que foi feito.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.1.1.4-01",
+    "topicoId": "3.1.1.4",
+    "enunciado": "No design centrado no ser humano, descrito na norma ISO 9241-210, o processo é iterativo: compreende-se o contexto de uso, especificam-se os requisitos, produzem-se soluções e avaliam-se essas soluções com usuários, repetindo-se o ciclo conforme necessário.",
+    "gabarito": "C",
+    "comentario": "Certo. A ISO 9241-210 descreve essas quatro atividades e enfatiza a iteração e o envolvimento dos usuários ao longo de todo o projeto, não apenas no fim.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.1.1.4-02",
+    "topicoId": "3.1.1.4",
+    "enunciado": "No desenho centrado nas pessoas, a participação dos usuários restringe-se à fase de testes finais, para não influenciar as decisões de design tomadas pela equipe.",
+    "gabarito": "E",
+    "comentario": "Errado. O princípio é justamente envolver os usuários desde o início (pesquisa, definição do problema, protótipos) e ao longo de todo o ciclo. Descobrir problemas só nos testes finais torna a correção muito mais cara.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.1.1.4-03",
+    "topicoId": "3.1.1.4",
+    "enunciado": "Personas são perfis de usuários reais e identificados nominalmente, e por isso devem ser construídas a partir dos dados pessoais completos coletados nas entrevistas.",
+    "gabarito": "E",
+    "comentario": "Errado. Personas são arquétipos fictícios que sintetizam padrões observados na pesquisa com usuários (objetivos, contextos, dificuldades). Não representam uma pessoa real, e usar dados pessoais identificáveis seria desnecessário e contrário ao princípio da minimização da LGPD.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.1.1.5-01",
+    "topicoId": "3.1.1.5",
+    "enunciado": "Antes de digitalizar um serviço público, é recomendável analisar e, se necessário, redesenhar o processo de trabalho, pois automatizar um processo ineficiente tende a reproduzir, em meio digital, as mesmas falhas e etapas desnecessárias.",
+    "gabarito": "C",
+    "comentario": "Certo. Digitalizar sem rever o processo apenas transfere a burocracia para a tela (exigir documentos que o próprio governo já tem, etapas redundantes). O redesenho do processo é condição para que a solução digital gere ganho real ao cidadão.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.1.1.5-02",
+    "topicoId": "3.1.1.5",
+    "enunciado": "A existência de um sistema informatizado em uso pelo órgão é evidência suficiente de que o problema público que motivou sua criação foi resolvido.",
+    "gabarito": "E",
+    "comentario": "Errado. O sistema é um meio (produto), não o resultado. É preciso avaliar se ele é usado, por quem, e se o problema público diminuiu (resultado). Um sistema pode existir e não resolver nada, ou até criar novas barreiras de acesso.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.1.1.5-03",
+    "topicoId": "3.1.1.5",
+    "enunciado": "A Lei nº 14.129/2021 (Lei do Governo Digital) estabelece, entre seus princípios e diretrizes, a desburocratização e a simplificação da relação do poder público com a sociedade, mediante serviços digitais acessíveis, inclusive por dispositivos móveis.",
+    "gabarito": "C",
+    "comentario": "Certo. É o texto do art. 3º, inciso I, da Lei nº 14.129/2021: \"a desburocratização, a modernização, o fortalecimento e a simplificação da relação do poder público com a sociedade, mediante serviços digitais, acessíveis inclusive por dispositivos móveis\".",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.1.2.1-01",
+    "topicoId": "3.1.2.1",
+    "enunciado": "Considere o trecho de código Java apresentado. Sua execução imprime 3.5.",
+    "codigo": "int a = 7;\nint b = 2;\ndouble r = a / b;\nSystem.out.println(r);",
+    "gabarito": "E",
+    "comentario": "Errado. Como a e b são int, a / b é uma divisão inteira e resulta em 3. Só depois o valor é convertido para double, e o trecho imprime 3.0. Para obter 3.5, um dos operandos precisa ser double antes da divisão: (double) a / b.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.1.2.1-02",
+    "topicoId": "3.1.2.1",
+    "enunciado": "Em Java, tipos primitivos como int, double e boolean não são objetos; para armazená-los em coleções como List, utilizam-se as classes invólucro correspondentes, como Integer, com conversão automática por autoboxing.",
+    "gabarito": "C",
+    "comentario": "Certo. Coleções genéricas só armazenam objetos (List<int> não compila). O compilador converte automaticamente int em Integer (autoboxing) e Integer em int (unboxing).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.1.2.1-03",
+    "topicoId": "3.1.2.1",
+    "enunciado": "Em Java, quando o argumento é um objeto, a passagem de parâmetros é feita por referência, de modo que atribuir um novo objeto ao parâmetro dentro do método altera a variável original de quem chamou o método.",
+    "gabarito": "E",
+    "comentario": "Errado. Java sempre passa parâmetros por valor. No caso de objetos, o valor copiado é a referência: o método pode alterar o estado do objeto apontado (p.ex., lista.add(x)), mas atribuir um novo objeto ao parâmetro (lista = new ArrayList<>()) não afeta a variável de quem chamou.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.1.2.2-01",
+    "topicoId": "3.1.2.2",
+    "enunciado": "Declarar os atributos de uma classe como private e expor operações públicas que validam as alterações de estado é uma aplicação do princípio do encapsulamento.",
+    "gabarito": "C",
+    "comentario": "Certo. Encapsular é esconder a representação interna e controlar o acesso por meio de operações. Assim, a própria classe garante seus invariantes (por exemplo, um saldo que nunca fica negativo sem autorização).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.1.2.2-02",
+    "topicoId": "3.1.2.2",
+    "enunciado": "Em Java, uma classe pode estender várias classes concretas ao mesmo tempo, desde que não haja conflito entre os nomes dos métodos herdados.",
+    "gabarito": "E",
+    "comentario": "Errado. Java tem herança simples de classes: cada classe estende no máximo uma classe (extends). A múltipla herança de tipos é obtida pela implementação de várias interfaces (implements A, B).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.1.2.2-03",
+    "topicoId": "3.1.2.2",
+    "enunciado": "Considere o trecho de código Java apresentado. Sua execução imprime au, pois o método executado é escolhido em tempo de execução, conforme o tipo real do objeto.",
+    "codigo": "class Animal {\n    String som() { return \"...\"; }\n}\n\nclass Cachorro extends Animal {\n    @Override\n    String som() { return \"au\"; }\n}\n\nAnimal a = new Cachorro();\nSystem.out.println(a.som());",
+    "gabarito": "C",
+    "comentario": "Certo. É o polimorfismo por sobrescrita (ligação dinâmica): a variável é do tipo Animal, mas o objeto é um Cachorro, e a JVM executa a versão sobrescrita de som().",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.1.2.3-01",
+    "topicoId": "3.1.2.3",
+    "enunciado": "Um HashSet não admite elementos duplicados e não garante ordem de iteração; quando se deseja eliminar duplicatas mantendo a ordem de inserção, pode-se usar um LinkedHashSet.",
+    "gabarito": "C",
+    "comentario": "Certo. HashSet usa tabela de dispersão sem ordem definida; LinkedHashSet mantém também uma lista encadeada que preserva a ordem de inserção; TreeSet mantém os elementos ordenados (natural ou por Comparator).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.1.2.3-02",
+    "topicoId": "3.1.2.3",
+    "enunciado": "Em Java, List<Integer> é subtipo de List<Number>, já que Integer é subclasse de Number.",
+    "gabarito": "E",
+    "comentario": "Errado. Tipos genéricos são invariantes: List<Integer> não é subtipo de List<Number> (se fosse, seria possível inserir um Double numa lista de Integer). Para aceitar listas de qualquer subtipo de Number, usa-se curinga: List<? extends Number>.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.1.2.3-03",
+    "topicoId": "3.1.2.3",
+    "enunciado": "Considere o trecho de código Java apresentado. Sua execução remove \"Bia\" da lista e termina normalmente.",
+    "codigo": "List<String> nomes = new ArrayList<>(List.of(\"Ana\", \"Bia\", \"Caio\", \"Davi\"));\nfor (String n : nomes) {\n    if (n.startsWith(\"B\")) {\n        nomes.remove(n);\n    }\n}",
+    "gabarito": "E",
+    "comentario": "Errado. Alterar a lista diretamente enquanto ela é percorrida com for-each faz o iterador detectar a modificação e lançar ConcurrentModificationException na iteração seguinte. As formas corretas são nomes.removeIf(n -> n.startsWith(\"B\")) ou usar Iterator.remove().",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.1.2.4-01",
+    "topicoId": "3.1.2.4",
+    "enunciado": "Em Java, ao se sobrescrever o método equals de uma classe, deve-se sobrescrever também o método hashCode, pois objetos considerados iguais por equals precisam retornar o mesmo valor de hashCode.",
+    "gabarito": "C",
+    "comentario": "Certo. O contrato de Object.hashCode exige que objetos iguais segundo equals produzam o mesmo hashCode. Sem isso, coleções baseadas em hash, como HashMap e HashSet, deixam de funcionar corretamente (contains pode retornar false para um objeto \"igual\").",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.1.2.4-02",
+    "topicoId": "3.1.2.4",
+    "enunciado": "Considere o trecho de código Java apresentado. Sua execução imprime true, pois as duas strings têm o mesmo conteúdo.",
+    "codigo": "String a = new String(\"CGU\");\nString b = new String(\"CGU\");\nSystem.out.println(a == b);",
+    "gabarito": "E",
+    "comentario": "Errado. O operador == compara referências: new String cria dois objetos distintos, então o resultado é false. Para comparar conteúdo, usa-se a.equals(b), que retorna true.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.1.2.4-03",
+    "topicoId": "3.1.2.4",
+    "enunciado": "Em Java, exceções verificadas (checked), como IOException, devem ser tratadas com try-catch ou declaradas na cláusula throws do método, enquanto exceções não verificadas, subclasses de RuntimeException, não têm essa exigência do compilador.",
+    "gabarito": "C",
+    "comentario": "Certo. O compilador obriga a tratar ou declarar exceções verificadas. Exceções não verificadas (NullPointerException, IllegalArgumentException etc.) normalmente indicam erros de programação e podem ser lançadas sem declaração.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.1.2.4-04",
+    "topicoId": "3.1.2.4",
+    "enunciado": "Abrir um BufferedReader com try-with-resources garante que o recurso seja fechado ao final do bloco, mesmo que ocorra exceção durante a leitura, desde que o recurso implemente a interface AutoCloseable.",
+    "gabarito": "C",
+    "comentario": "Certo. No try (BufferedReader r = ...) { ... }, o método close() é chamado automaticamente ao sair do bloco, com ou sem exceção. Isso substitui o antigo padrão de fechar o recurso manualmente no finally.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.1.2.5-01",
+    "topicoId": "3.1.2.5",
+    "enunciado": "Uma pilha segue a política LIFO (último a entrar, primeiro a sair), enquanto uma fila segue a política FIFO (primeiro a entrar, primeiro a sair).",
+    "gabarito": "C",
+    "comentario": "Certo. Na pilha, inserção e remoção ocorrem no topo (push/pop), como no histórico de \"desfazer\" de um editor. Na fila, insere-se no fim e remove-se do início, como numa fila de atendimento.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.1.2.5-02",
+    "topicoId": "3.1.2.5",
+    "enunciado": "A busca binária pode ser aplicada a qualquer vetor, ordenado ou não, e localiza o elemento procurado em tempo O(log n).",
+    "gabarito": "E",
+    "comentario": "Errado. A busca binária exige que o vetor esteja ordenado, pois a cada passo descarta a metade em que o elemento não pode estar. Em vetor desordenado, é preciso busca sequencial, O(n), ou ordenar antes, O(n log n).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.1.2.5-03",
+    "topicoId": "3.1.2.5",
+    "enunciado": "Considere o algoritmo em pseudocódigo apresentado. Ao final da execução, ele escreve o valor 6.",
+    "codigo": "soma ← 0\npara i de 1 até 5 faça\n    se i mod 2 = 0 então\n        soma ← soma + i\n    fim se\nfim para\nescreva(soma)",
+    "gabarito": "C",
+    "comentario": "Certo. O laço percorre i = 1 a 5 e soma apenas os pares (resto da divisão por 2 igual a 0): 2 + 4 = 6.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.1.2.6-01",
+    "topicoId": "3.1.2.6",
+    "enunciado": "Para testar uma função que valida a idade mínima de 18 anos, a técnica de análise de valor-limite recomenda incluir entradas como 17, 18 e 19, pois erros de comparação, como usar > no lugar de >=, costumam se manifestar exatamente na fronteira.",
+    "gabarito": "C",
+    "comentario": "Certo. Defeitos se concentram nos limites das partições de entrada. Testar o limite e seus vizinhos imediatos detecta o clássico erro \"off-by-one\".",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.1.2.6-02",
+    "topicoId": "3.1.2.6",
+    "enunciado": "Considere o trecho de código Java apresentado. Sua execução calcula corretamente a soma dos elementos do vetor, que resulta em 27.",
+    "codigo": "int[] v = {4, 8, 15};\nint soma = 0;\nfor (int i = 0; i <= v.length; i++) {\n    soma += v[i];\n}",
+    "gabarito": "E",
+    "comentario": "Errado. Os índices válidos vão de 0 a v.length - 1 (0 a 2). Com a condição i <= v.length, o laço tenta acessar v[3] e lança ArrayIndexOutOfBoundsException. A condição correta é i < v.length.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.1.2.6-03",
+    "topicoId": "3.1.2.6",
+    "enunciado": "Se um conjunto de testes executa todas as linhas do código sem falhas, pode-se concluir que o programa está livre de defeitos.",
+    "gabarito": "E",
+    "comentario": "Errado. Testes podem mostrar a presença de defeitos, mas não provar sua ausência (Dijkstra). Cobertura total de linhas não garante que todas as combinações de condições, entradas e valores-limite foram verificadas.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.1.2.7-01",
+    "topicoId": "3.1.2.7",
+    "enunciado": "Verificar se uma lista tem elementos repetidos comparando cada elemento com todos os demais tem complexidade O(n²); usar um conjunto baseado em hash para registrar os elementos já vistos reduz o custo médio para O(n), em troca de memória adicional.",
+    "gabarito": "C",
+    "comentario": "Certo. Comparar todos os pares exige cerca de n²/2 comparações. Com HashSet, cada inserção ou consulta custa O(1) em média, e o total fica O(n), ao custo de memória O(n). É a troca clássica entre tempo e espaço.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.1.2.7-02",
+    "topicoId": "3.1.2.7",
+    "enunciado": "Um algoritmo de complexidade O(n log n) será sempre mais rápido que um algoritmo O(n²), qualquer que seja o tamanho da entrada.",
+    "gabarito": "E",
+    "comentario": "Errado. A notação O descreve o crescimento para entradas grandes e ignora constantes. Para entradas pequenas, um algoritmo O(n²) com constantes baixas (como o insertion sort) pode ser mais rápido, e por isso implementações reais de ordenação o usam em subvetores pequenos.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.1.2.7-03",
+    "topicoId": "3.1.2.7",
+    "enunciado": "Em um ArrayList, o acesso por índice tem custo O(1), enquanto inserir um elemento no início da lista tem custo O(n), pois os demais elementos precisam ser deslocados.",
+    "gabarito": "C",
+    "comentario": "Certo. ArrayList é baseado em vetor: acessa qualquer posição diretamente, mas inserir na frente exige mover todos os elementos uma posição. Para muitas inserções e remoções nas pontas, ArrayDeque costuma ser mais adequado.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.1.2.8-01",
+    "topicoId": "3.1.2.8",
+    "enunciado": "O padrão de projeto Strategy encapsula algoritmos intercambiáveis atrás de uma interface comum, permitindo trocar o comportamento em tempo de execução sem alterar o código que o utiliza, o que favorece o princípio aberto-fechado.",
+    "gabarito": "C",
+    "comentario": "Certo. Exemplo: diferentes regras de cálculo de desconto implementam a mesma interface, e o código cliente recebe a estratégia pronta. Para uma nova regra, cria-se uma classe nova sem modificar as existentes (aberto para extensão, fechado para modificação).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.1.2.8-02",
+    "topicoId": "3.1.2.8",
+    "enunciado": "O padrão Singleton é a forma recomendada de compartilhar dados entre as diversas partes de um sistema, pois o estado global facilita a escrita de testes unitários isolados.",
+    "gabarito": "E",
+    "comentario": "Errado. O Singleton cria estado global e dependências ocultas, o que dificulta os testes isolados: o estado vaza entre testes e é difícil substituir a instância por um dublê. Em geral, prefere-se injeção de dependências.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.1.2.8-03",
+    "topicoId": "3.1.2.8",
+    "enunciado": "Alta coesão e baixo acoplamento são objetivos complementares da modularização: cada módulo deve ter responsabilidades fortemente relacionadas entre si e depender o mínimo possível dos detalhes internos de outros módulos.",
+    "gabarito": "C",
+    "comentario": "Certo. Coesão mede o quanto as responsabilidades de um módulo pertencem ao mesmo propósito; acoplamento mede o quanto um módulo depende de outros. Módulos coesos e pouco acoplados são mais fáceis de entender, testar e alterar.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.1.3.1-01",
+    "topicoId": "3.1.3.1",
+    "enunciado": "Concorrência e paralelismo não são sinônimos: um programa pode ser concorrente, alternando a execução de várias tarefas em um único núcleo de processamento, sem que haja execução paralela simultânea.",
+    "gabarito": "C",
+    "comentario": "Certo. Concorrência é a estruturação do programa em tarefas que progridem de forma sobreposta no tempo. Paralelismo é a execução realmente simultânea, em vários núcleos. Num único núcleo há concorrência por alternância (time slicing), sem paralelismo.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.1.3.1-02",
+    "topicoId": "3.1.3.1",
+    "enunciado": "A programação assíncrona sempre acelera tarefas de uso intensivo de CPU, como cálculos numéricos complexos, pois libera a thread enquanto o processamento ocorre.",
+    "gabarito": "E",
+    "comentario": "Errado. A assincronia beneficia tarefas limitadas por E/S (rede, disco, banco), em que a thread ficaria parada esperando. Em tarefas de CPU não há espera a aproveitar: para acelerá-las, é preciso paralelismo real (mais núcleos, workers) ou um algoritmo melhor.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.1.3.1-03",
+    "topicoId": "3.1.3.1",
+    "enunciado": "Em JavaScript, o uso de async/await permite que, enquanto uma requisição de rede aguarda resposta, o laço de eventos continue processando outras tarefas, sem que seja necessário criar novas threads.",
+    "gabarito": "C",
+    "comentario": "Certo. O JavaScript executa o código da aplicação em uma única thread com laço de eventos (event loop). O await suspende a função até a Promise ser resolvida e devolve o controle ao laço, que segue tratando cliques, timers e outras respostas.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.1.3.2-01",
+    "topicoId": "3.1.3.2",
+    "enunciado": "Considere a classe Java apresentada. Se várias threads chamarem incrementar() simultaneamente sobre o mesmo objeto, o valor final poderá ser menor que o número de chamadas, pois a operação valor++ não é atômica.",
+    "codigo": "class Contador {\n    private int valor = 0;\n\n    void incrementar() {\n        valor++;\n    }\n}",
+    "gabarito": "C",
+    "comentario": "Certo. valor++ executa três passos: ler, somar 1 e gravar. Duas threads podem ler o mesmo valor e gravar o mesmo resultado, perdendo um incremento. É uma condição de corrida clássica (lost update).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.1.3.2-02",
+    "topicoId": "3.1.3.2",
+    "enunciado": "Em Java, declarar o método de incremento como synchronized ou utilizar AtomicInteger.incrementAndGet() são formas de tornar atômico o incremento de um contador compartilhado entre threads.",
+    "gabarito": "C",
+    "comentario": "Certo. synchronized garante exclusão mútua: só uma thread por vez executa o método naquele objeto. AtomicInteger usa operações atômicas de hardware (compare-and-swap) e não precisa de bloqueio explícito.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.1.3.2-03",
+    "topicoId": "3.1.3.2",
+    "enunciado": "Em Java, declarar um atributo como volatile é suficiente para tornar atômica a operação valor++ executada por múltiplas threads.",
+    "gabarito": "E",
+    "comentario": "Errado. volatile garante visibilidade (toda leitura vê a última escrita) e impede certas reordenações, mas não torna atômica uma sequência ler-modificar-gravar. Para isso, usa-se synchronized, locks ou classes atômicas.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.1.3.3-01",
+    "topicoId": "3.1.3.3",
+    "enunciado": "Ocorre deadlock quando duas threads aguardam indefinidamente uma pela outra; por exemplo, a thread A detém o bloqueio X e espera Y, enquanto a thread B detém Y e espera X. Adquirir os bloqueios sempre na mesma ordem global é uma forma de preveni-lo.",
+    "gabarito": "C",
+    "comentario": "Certo. O deadlock exige espera circular, entre outras condições. Se todas as threads adquirem os bloqueios na mesma ordem (sempre X antes de Y), a espera circular se torna impossível. Timeouts na aquisição (tryLock) são outra mitigação.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.1.3.3-02",
+    "topicoId": "3.1.3.3",
+    "enunciado": "Objetos imutáveis exigem sincronização em todas as leituras quando compartilhados entre threads, já que podem ser lidos simultaneamente.",
+    "gabarito": "E",
+    "comentario": "Errado. Leituras simultâneas não geram conflito; o problema surge quando há escrita. Como o estado de um objeto imutável não muda após a construção, ele pode ser compartilhado livremente entre threads sem sincronização (desde que publicado de forma segura). Por isso a imutabilidade é uma estratégia de concorrência.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.1.3.3-03",
+    "topicoId": "3.1.3.3",
+    "enunciado": "Quanto mais amplo for o trecho de código protegido por um bloqueio, melhor será o desempenho da aplicação, pois o bloqueio precisará ser adquirido menos vezes.",
+    "gabarito": "E",
+    "comentario": "Errado. Seções críticas amplas aumentam a contenção: as threads ficam mais tempo esperando umas pelas outras, e a aplicação se aproxima da execução serial. A boa prática é proteger apenas o estritamente necessário, sem incluir, por exemplo, chamadas de rede dentro do bloqueio.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.1.3.4-01",
+    "topicoId": "3.1.3.4",
+    "enunciado": "Em um sistema de reservas, verificar a disponibilidade de vagas e, em operação separada, gravar a reserva pode levar à venda de mais vagas do que as existentes quando há requisições simultâneas; uma solução é realizar a verificação e a atualização de forma atômica, como em uma atualização condicional no banco de dados.",
+    "gabarito": "C",
+    "comentario": "Certo. É o problema \"check-then-act\": duas requisições verificam que há 1 vaga e ambas reservam. Uma solução atômica é UPDATE vagas SET disponiveis = disponiveis - 1 WHERE id = ? AND disponiveis > 0, conferindo o número de linhas afetadas; outras são bloqueio pessimista ou controle otimista.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.1.3.4-02",
+    "topicoId": "3.1.3.4",
+    "enunciado": "O controle de concorrência otimista, implementado em JPA por meio de um atributo de versão anotado com @Version, detecta conflitos no momento da gravação e rejeita a atualização feita sobre uma versão desatualizada do registro.",
+    "gabarito": "C",
+    "comentario": "Certo. A cada atualização a versão é incrementada, e o UPDATE inclui WHERE versao = <versão lida>. Se outra transação já alterou o registro, nenhuma linha é afetada e é lançada OptimisticLockException. A abordagem funciona bem quando conflitos são raros.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.1.3.4-03",
+    "topicoId": "3.1.3.4",
+    "enunciado": "Aumentar indefinidamente o número de threads de um servidor de aplicação sempre melhora a vazão, pois mais requisições passam a ser atendidas ao mesmo tempo.",
+    "gabarito": "E",
+    "comentario": "Errado. Cada thread consome memória e tempo de troca de contexto, e os recursos compartilhados (CPU, conexões de banco, bloqueios) continuam limitados. A partir de certo ponto a vazão cai e a latência sobe. O dimensionamento deve ser medido com testes de carga.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.1.4.1-01",
+    "topicoId": "3.1.4.1",
+    "enunciado": "Protótipos de baixa fidelidade, como rascunhos em papel e wireframes, são úteis nas etapas iniciais do projeto por permitirem testar ideias de fluxo e de organização com baixo custo, antes de se investir em detalhes visuais.",
+    "gabarito": "C",
+    "comentario": "Certo. Por parecerem inacabados, protótipos de baixa fidelidade estimulam críticas sobre o essencial (fluxo, conteúdo, navegação) e são baratos de descartar. A alta fidelidade é mais adequada quando a estrutura já está validada.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.1.4.1-02",
+    "topicoId": "3.1.4.1",
+    "enunciado": "Design responsivo consiste em desenvolver uma versão separada do sistema para cada modelo de aparelho, com endereço próprio para os dispositivos móveis.",
+    "gabarito": "E",
+    "comentario": "Errado. No design responsivo, uma única base de código e um único endereço se adaptam ao tamanho da tela por meio de layouts fluidos, imagens flexíveis e media queries de CSS. Manter um site móvel separado (m.site) é outra abordagem, mais cara de manter.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.1.4.1-03",
+    "topicoId": "3.1.4.1",
+    "enunciado": "Entre as heurísticas de usabilidade de Nielsen, incluem-se a visibilidade do estado do sistema, a prevenção de erros e o reconhecimento em vez de memorização.",
+    "gabarito": "C",
+    "comentario": "Certo. São 3 das 10 heurísticas de Nielsen. As demais incluem correspondência com o mundo real, controle e liberdade do usuário, consistência e padrões, flexibilidade e eficiência, design estético e minimalista, ajuda para reconhecer e corrigir erros, e ajuda e documentação.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.1.4.2-01",
+    "topicoId": "3.1.4.2",
+    "enunciado": "Segundo as WCAG, imagens que transmitem informação devem ter alternativa textual, como o atributo alt em HTML, enquanto imagens meramente decorativas podem receber alt vazio, para que sejam ignoradas pelos leitores de tela.",
+    "gabarito": "C",
+    "comentario": "Certo. É o critério 1.1.1 (Conteúdo não textual) das WCAG. O alt=\"\" indica ao leitor de tela que a imagem é decorativa. Omitir o atributo alt é pior, pois alguns leitores anunciam o nome do arquivo.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.1.4.2-02",
+    "topicoId": "3.1.4.2",
+    "enunciado": "Indicar os campos com erro em um formulário apenas por meio de cor, como bordas vermelhas, atende às diretrizes de acessibilidade, já que a cor vermelha é universalmente associada a erro.",
+    "gabarito": "E",
+    "comentario": "Errado. O critério 1.4.1 (Uso de cor) das WCAG proíbe que a cor seja o único meio de transmitir informação: pessoas com daltonismo ou que usam leitores de tela não a percebem. O erro deve ser indicado também por texto (\"CPF inválido\"), ícone e associação programática ao campo (por exemplo, aria-describedby).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.1.4.2-03",
+    "topicoId": "3.1.4.2",
+    "enunciado": "Todas as funcionalidades de uma interface web devem poder ser operadas por meio de teclado, sem exigir o uso de mouse, o que beneficia, entre outros, usuários de leitores de tela e pessoas com deficiência motora.",
+    "gabarito": "C",
+    "comentario": "Certo. É o critério 2.1.1 (Teclado) das WCAG. Usar elementos nativos (button, a, input) em vez de div com onclick já garante foco e ativação por teclado. O foco também deve ser visível (critério 2.4.7).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.1.4.2-04",
+    "topicoId": "3.1.4.2",
+    "enunciado": "A Lei Brasileira de Inclusão (Lei nº 13.146/2015) torna obrigatória a acessibilidade nos sítios da internet mantidos por empresas com sede ou representação comercial no país ou por órgãos de governo, para uso da pessoa com deficiência.",
+    "gabarito": "C",
+    "comentario": "Certo. É o texto do art. 63, caput, da Lei nº 13.146/2015, que ainda remete às \"melhores práticas e diretrizes de acessibilidade adotadas internacionalmente\". No governo federal, o eMAG (Modelo de Acessibilidade em Governo Eletrônico) orienta essa implementação.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.1.4.3-01",
+    "topicoId": "3.1.4.3",
+    "enunciado": "Um design system reúne componentes de interface reutilizáveis, padrões e diretrizes de uso, promovendo consistência visual e de comportamento entre os diferentes sistemas de uma organização.",
+    "gabarito": "C",
+    "comentario": "Certo. Além dos componentes (botões, campos, alertas), o design system documenta quando e como usá-los, tokens de cor e tipografia e requisitos de acessibilidade. O Padrão Digital de Governo (gov.br) é um exemplo no governo federal.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.1.4.3-02",
+    "topicoId": "3.1.4.3",
+    "enunciado": "Para maximizar o reaproveitamento, um componente de interface deve buscar os próprios dados diretamente na API e conhecer as regras de negócio da tela em que é utilizado.",
+    "gabarito": "E",
+    "comentario": "Errado. É o oposto: componentes reutilizáveis recebem dados por parâmetros (props) e comunicam ações por eventos, sem conhecer a origem dos dados nem as regras da tela. Quem busca dados e decide é um componente de nível superior ou outra camada (serviço, composable, store).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.1.4.3-03",
+    "topicoId": "3.1.4.3",
+    "enunciado": "Em Vue.js, um componente filho não deve alterar diretamente uma prop recebida; para solicitar mudanças, ele deve emitir um evento que será tratado pelo componente pai, preservando o fluxo de dados unidirecional.",
+    "gabarito": "C",
+    "comentario": "Certo. As props descem do pai para o filho e os eventos sobem do filho para o pai. Alterar uma prop no filho gera aviso no Vue e torna o estado imprevisível. O dono do dado é quem o altera.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.1.4.4-01",
+    "topicoId": "3.1.4.4",
+    "enunciado": "Em testes de usabilidade, observar um pequeno número de usuários representativos executando tarefas reais costuma revelar grande parte dos problemas mais graves da interface, o que justifica ciclos curtos e repetidos de teste.",
+    "gabarito": "C",
+    "comentario": "Certo. Nielsen mostrou que cerca de 5 usuários por rodada encontram a maioria dos problemas relevantes, com retorno decrescente a partir daí. É mais eficiente testar várias rodadas pequenas, corrigindo entre elas, do que uma rodada grande.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.1.4.4-02",
+    "topicoId": "3.1.4.4",
+    "enunciado": "Mensagens como \"Erro 0x80004005\" são adequadas a serviços públicos digitais, pois são precisas e permitem ao suporte técnico identificar o problema.",
+    "gabarito": "E",
+    "comentario": "Errado. A mensagem deve ser escrita em linguagem simples, dizer o que aconteceu e como resolver (\"O CPF informado não foi encontrado. Confira os números e tente de novo.\"). Códigos técnicos podem constar à parte para o suporte, mas não substituem a explicação ao cidadão.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.1.4.4-03",
+    "topicoId": "3.1.4.4",
+    "enunciado": "Solicitar confirmação antes de ações destrutivas, desabilitar o botão de envio enquanto a requisição é processada e oferecer campos com formato predefinido são exemplos de prevenção de erros na interface.",
+    "gabarito": "C",
+    "comentario": "Certo. Prevenir é melhor que tratar o erro depois: a confirmação evita exclusões acidentais, o botão desabilitado evita envios duplicados e as máscaras e seletores evitam entradas inválidas.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.1.4.5-01",
+    "topicoId": "3.1.4.5",
+    "enunciado": "Considere o trecho de código Vue.js (Composition API) apresentado. Após sua execução, dobro.value vale 2, pois a propriedade computada é recalculada a partir de sua dependência reativa.",
+    "codigo": "import { ref, computed } from \"vue\";\n\nconst contador = ref(0);\nconst dobro = computed(() => contador.value * 2);\n\ncontador.value++;",
+    "gabarito": "C",
+    "comentario": "Certo. computed registra que depende de contador e é recalculado quando ele muda. Depois do incremento, contador.value é 1 e dobro.value é 2. Em script, acessa-se o valor de um ref por .value; no template, o Vue faz isso automaticamente.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.1.4.5-02",
+    "topicoId": "3.1.4.5",
+    "enunciado": "Em Vue.js, a diretiva v-if apenas oculta o elemento por meio de CSS, mantendo-o sempre no DOM, enquanto v-show remove e recria o elemento conforme a condição.",
+    "gabarito": "E",
+    "comentario": "Errado. Os papéis estão invertidos. v-if renderiza ou remove o elemento do DOM conforme a condição (bom para condições que mudam pouco). v-show mantém o elemento no DOM e alterna o CSS display (bom para alternâncias frequentes).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.1.4.5-03",
+    "topicoId": "3.1.4.5",
+    "enunciado": "No template de um componente Vue, a sintaxe @click=\"salvar\" é a forma abreviada de v-on:click=\"salvar\" e associa o método salvar ao evento de clique.",
+    "gabarito": "C",
+    "comentario": "Certo. @ abrevia v-on (eventos) e : abrevia v-bind (atributos). Modificadores podem ser encadeados, como @submit.prevent, que chama preventDefault().",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.1.4.5-04",
+    "topicoId": "3.1.4.5",
+    "enunciado": "Considere a função JavaScript apresentada. Ela carrega corretamente os dados da API, pois fetch retorna diretamente o objeto de resposta.",
+    "codigo": "async function carregar() {\n  const resposta = fetch(\"/api/questoes\");\n  const dados = await resposta.json();\n  return dados;\n}",
+    "gabarito": "E",
+    "comentario": "Errado. fetch retorna uma Promise, e falta o await. Assim, resposta é uma Promise, que não tem o método json(), e a chamada lança TypeError. O correto é const resposta = await fetch(...). Também é boa prática verificar resposta.ok, já que fetch não rejeita a Promise em erros HTTP como 404 ou 500.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.1.4.5-05",
+    "topicoId": "3.1.4.5",
+    "enunciado": "Em Vue.js, a diretiva v-model aplicada a um campo de formulário estabelece vinculação bidirecional entre o valor do campo e o estado reativo do componente.",
+    "gabarito": "C",
+    "comentario": "Certo. v-model combina a vinculação do valor (:value) com a escuta do evento de entrada (@input): quando o usuário digita, o estado é atualizado, e quando o estado muda, o campo reflete o novo valor.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.1.5.1-01",
+    "topicoId": "3.1.5.1",
+    "enunciado": "Débito técnico é a metáfora para o custo futuro de retrabalho decorrente de escolhas que priorizam a entrega rápida em detrimento da qualidade interna; assim como os juros de uma dívida, esse custo tende a crescer enquanto não é pago por meio de refatoração.",
+    "gabarito": "C",
+    "comentario": "Certo. A metáfora é de Ward Cunningham. O débito pode ser deliberado (atalho consciente para cumprir um prazo) ou inadvertido, mas sempre cobra juros: cada mudança futura fica mais lenta e arriscada até que seja pago.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.1.5.1-02",
+    "topicoId": "3.1.5.1",
+    "enunciado": "Refatorar significa acrescentar novas funcionalidades ao sistema aproveitando o código existente, razão pela qual toda refatoração altera o comportamento observável do software.",
+    "gabarito": "E",
+    "comentario": "Errado. Refatoração, segundo Martin Fowler, é melhorar a estrutura interna do código sem alterar seu comportamento observável. Adicionar funcionalidade é outra atividade, e misturar as duas na mesma mudança dificulta a revisão.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.1.5.1-03",
+    "topicoId": "3.1.5.1",
+    "enunciado": "Em sistemas com alto acoplamento, uma alteração em um módulo tende a ficar restrita a ele, o que reduz o custo de manutenção.",
+    "gabarito": "E",
+    "comentario": "Errado. Com alto acoplamento, os módulos dependem de detalhes uns dos outros, e uma alteração se propaga em cascata (efeito dominó). É o baixo acoplamento que confina as mudanças e reduz o custo de manutenção.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.1.5.2-01",
+    "topicoId": "3.1.5.2",
+    "enunciado": "O padrão strangler fig (estrangulamento) moderniza um sistema legado de forma incremental, substituindo gradualmente suas funcionalidades por novos serviços, enquanto o sistema antigo continua em operação até ser desativado.",
+    "gabarito": "C",
+    "comentario": "Certo. Uma fachada ou roteador direciona cada funcionalidade para o sistema novo à medida que ela é migrada. O risco fica distribuído em pequenas entregas reversíveis, em vez de uma troca única.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.1.5.2-02",
+    "topicoId": "3.1.5.2",
+    "enunciado": "Na modernização de um sistema legado, a reescrita completa a partir do zero é sempre a alternativa de menor risco, pois elimina de uma só vez todo o débito técnico acumulado.",
+    "gabarito": "E",
+    "comentario": "Errado. A reescrita total costuma ser a opção de maior risco: o sistema legado guarda regras de negócio não documentadas, o novo sistema demora a entregar valor e o antigo continua mudando durante a reescrita. Abordagens incrementais (refatoração, strangler fig, encapsulamento por APIs) geralmente são mais seguras.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.1.5.2-03",
+    "topicoId": "3.1.5.2",
+    "enunciado": "Antes de alterar um sistema legado sem testes automatizados, é recomendável escrever testes de caracterização, que registram o comportamento atual do sistema e ajudam a detectar mudanças não intencionais.",
+    "gabarito": "C",
+    "comentario": "Certo. Testes de caracterização (Michael Feathers) não afirmam o que o sistema deveria fazer, mas o que ele faz hoje. Eles funcionam como rede de segurança: se uma refatoração muda um resultado, o teste avisa.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.1.5.3-01",
+    "topicoId": "3.1.5.3",
+    "enunciado": "No versionamento semântico (MAJOR.MINOR.PATCH), o incremento do número MAJOR indica a introdução de mudanças incompatíveis com as versões anteriores da interface pública.",
+    "gabarito": "C",
+    "comentario": "Certo. MAJOR indica quebra de compatibilidade; MINOR, nova funcionalidade compatível; PATCH, correção compatível. Assim, quem depende da versão 2.3.1 pode atualizar para 2.4.0 com segurança, mas não para 3.0.0.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.1.5.3-02",
+    "topicoId": "3.1.5.3",
+    "enunciado": "Remover um campo obrigatório da resposta de uma API REST é uma mudança retrocompatível, pois os clientes existentes simplesmente deixarão de recebê-lo.",
+    "gabarito": "E",
+    "comentario": "Errado. Clientes que leem esse campo podem falhar. Em geral, acrescentar campos opcionais é compatível, enquanto remover ou renomear campos, mudar tipos e tornar obrigatório o que era opcional são mudanças incompatíveis, que exigem nova versão ou período de descontinuação.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.1.5.3-03",
+    "topicoId": "3.1.5.3",
+    "enunciado": "A e-PING (Padrões de Interoperabilidade de Governo Eletrônico) define premissas, políticas e especificações técnicas que regulamentam o uso das tecnologias de informação e comunicação na interoperabilidade de serviços de governo eletrônico no Brasil.",
+    "gabarito": "C",
+    "comentario": "Certo. A e-PING estabelece padrões para a comunicação entre sistemas do governo e com a sociedade (formatos, protocolos, segurança, metadados), priorizando padrões abertos, para que sistemas de órgãos diferentes troquem dados sem integrações sob medida.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.1.5.4-01",
+    "topicoId": "3.1.5.4",
+    "enunciado": "Implantações graduais, como o canary release, expõem a nova versão inicialmente a uma pequena parcela dos usuários, o que limita o impacto de eventuais falhas e permite reverter a mudança antes que ela atinja todos.",
+    "gabarito": "C",
+    "comentario": "Certo. Monitoram-se erros e latência no grupo \"canário\" e amplia-se a exposição aos poucos. Técnicas relacionadas são blue-green deployment e feature flags.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.1.5.4-02",
+    "topicoId": "3.1.5.4",
+    "enunciado": "Quando um serviço do qual a aplicação depende fica indisponível, a melhor prática é repetir imediatamente e sem limite as requisições até obter resposta, garantindo que nenhuma operação seja perdida.",
+    "gabarito": "E",
+    "comentario": "Errado. Repetições imediatas e ilimitadas sobrecarregam o serviço já degradado (tempestade de retries) e prendem recursos da aplicação. O recomendado é limitar as tentativas, usar espera exponencial com variação aleatória (backoff com jitter), circuit breaker e garantir idempotência das operações repetidas.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.1.5.4-03",
+    "topicoId": "3.1.5.4",
+    "enunciado": "Na degradação graciosa (graceful degradation), diante da falha de um componente não essencial, o sistema continua oferecendo suas funções principais, ainda que com recursos reduzidos.",
+    "gabarito": "C",
+    "comentario": "Certo. Exemplo: se o serviço de recomendações cai, a loja continua vendendo e apenas omite a seção \"você também pode gostar\". Isso exige identificar o que é essencial e isolar as dependências (timeouts, fallbacks).",
+    "revisada": false,
+    "origem": "ia"
+  }
+]
