@@ -1,0 +1,790 @@
+[
+  {
+    "id": "3.3.1.1-01",
+    "topicoId": "3.3.1.1",
+    "enunciado": "Uma tabela está na primeira forma normal (1FN) quando todos os seus atributos contêm apenas valores atômicos, sem grupos repetitivos nem atributos multivalorados.",
+    "gabarito": "C",
+    "comentario": "Certo. Um campo “telefones” com vários números separados por vírgula viola a 1FN. A solução é criar uma tabela de telefones relacionada à entidade principal.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.1.1-02",
+    "topicoId": "3.3.1.1",
+    "enunciado": "A segunda forma normal (2FN) exige a eliminação das dependências transitivas, em que um atributo não chave depende de outro atributo não chave.",
+    "gabarito": "E",
+    "comentario": "Errado. Isso é a 3FN. A 2FN elimina dependências parciais: em tabela com chave composta, nenhum atributo não chave pode depender de apenas parte da chave. Resumo: 1FN (atomicidade), 2FN (sem dependência parcial), 3FN (sem dependência transitiva).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.1.1-03",
+    "topicoId": "3.3.1.1",
+    "enunciado": "A integridade referencial garante que o valor de uma chave estrangeira corresponda a uma chave primária existente na tabela referenciada, ou seja nulo, quando isso for permitido.",
+    "gabarito": "C",
+    "comentario": "Certo. O SGBD impede, por exemplo, cadastrar contrato com fornecedor inexistente. Ações como ON DELETE RESTRICT ou CASCADE definem o que acontece quando o registro referenciado é excluído.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.1.2-01",
+    "topicoId": "3.3.1.2",
+    "enunciado": "Bancos de dados documentais armazenam registros como documentos semiestruturados, como JSON, permitindo que documentos de uma mesma coleção tenham estruturas diferentes.",
+    "gabarito": "C",
+    "comentario": "Certo. MongoDB e Firestore são exemplos. A flexibilidade de esquema facilita a evolução, mas transfere para a aplicação parte da responsabilidade por validar a estrutura.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.1.2-02",
+    "topicoId": "3.3.1.2",
+    "enunciado": "Bancos chave-valor são indicados para consultas complexas que envolvem junções entre várias entidades e filtros por múltiplos atributos.",
+    "gabarito": "E",
+    "comentario": "Errado. Bancos chave-valor (como Redis) são otimizados para acesso rápido por chave, como cache e sessões. Consultas com junções e filtros múltiplos são o ponto forte dos bancos relacionais.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.1.2-03",
+    "topicoId": "3.3.1.2",
+    "enunciado": "Bancos vetoriais são otimizados para armazenar vetores de alta dimensão e localizar os mais semelhantes a um vetor de consulta, o que os torna úteis em busca semântica.",
+    "gabarito": "C",
+    "comentario": "Certo. Usam índices de vizinhos mais próximos aproximados (ANN), trocando exatidão absoluta por velocidade. São o componente de recuperação típico em soluções de RAG.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.1.3-01",
+    "topicoId": "3.3.1.3",
+    "enunciado": "No padrão cache-aside, a aplicação consulta primeiro o cache e, em caso de ausência do dado (cache miss), busca-o no banco e o grava no cache para as próximas consultas.",
+    "gabarito": "C",
+    "comentario": "Certo. É o padrão mais comum. Na atualização, a aplicação grava no banco e invalida (ou atualiza) a entrada do cache, para não servir dado antigo.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.1.3-02",
+    "topicoId": "3.3.1.3",
+    "enunciado": "O uso de cache elimina qualquer risco de a aplicação exibir dados desatualizados, já que o cache sempre reflete o estado atual do banco.",
+    "gabarito": "E",
+    "comentario": "Errado. O cache guarda cópias, que podem ficar desatualizadas até expirarem (TTL) ou serem invalidadas. A escolha do TTL equilibra desempenho e atualidade dos dados.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.1.3-03",
+    "topicoId": "3.3.1.3",
+    "enunciado": "Motores de busca textual, como Elasticsearch e OpenSearch, utilizam índices invertidos, que mapeiam cada termo para os documentos em que ele aparece, permitindo buscas por relevância.",
+    "gabarito": "C",
+    "comentario": "Certo. O índice invertido funciona como o índice remissivo de um livro. Esses motores aplicam análise linguística (radicalização, remoção de acentos) e ranqueamento por relevância, o que um LIKE '%termo%' em banco relacional não faz bem.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.1.4-01",
+    "topicoId": "3.3.1.4",
+    "enunciado": "Para dados financeiros com regras rígidas de consistência e transações que envolvem várias entidades, bancos relacionais com suporte a transações ACID costumam ser escolha adequada.",
+    "gabarito": "C",
+    "comentario": "Certo. Transferências, pagamentos e saldos exigem que várias alterações aconteçam juntas ou nenhuma, com integridade garantida pelo banco.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.1.4-02",
+    "topicoId": "3.3.1.4",
+    "enunciado": "Bancos NoSQL devem substituir os bancos relacionais em qualquer sistema novo, pois são sempre mais rápidos e escaláveis.",
+    "gabarito": "E",
+    "comentario": "Errado. Cada tipo de banco atende melhor certos padrões de acesso. Muitos sistemas usam persistência poliglota: relacional para transações, cache chave-valor, motor de busca para texto.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.1.4-03",
+    "topicoId": "3.3.1.4",
+    "enunciado": "Armazenar arquivos grandes, como PDFs e imagens, diretamente em colunas do banco relacional é sempre a melhor prática, por simplificar backups e reduzir os custos de armazenamento.",
+    "gabarito": "E",
+    "comentario": "Errado. Arquivos grandes costumam ser guardados em armazenamento de objetos (como S3 ou equivalentes), mais barato e escalável, com o banco guardando apenas a referência e os metadados. Guardar no banco pode ser aceitável em casos pontuais, mas não é sempre a melhor prática.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.1.5-01",
+    "topicoId": "3.3.1.5",
+    "enunciado": "As propriedades ACID das transações são atomicidade, consistência, isolamento e durabilidade.",
+    "gabarito": "C",
+    "comentario": "Certo. Atomicidade: tudo ou nada. Consistência: a transação leva o banco de um estado válido a outro. Isolamento: transações concorrentes não interferem indevidamente. Durabilidade: o que foi confirmado não se perde.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.1.5-02",
+    "topicoId": "3.3.1.5",
+    "enunciado": "No nível de isolamento READ UNCOMMITTED, uma transação nunca enxerga alterações ainda não confirmadas por outras transações.",
+    "gabarito": "E",
+    "comentario": "Errado. READ UNCOMMITTED é o nível mais fraco e permite leituras sujas (dirty reads), ou seja, enxergar dados ainda não confirmados. READ COMMITTED já impede leituras sujas.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.1.5-03",
+    "topicoId": "3.3.1.5",
+    "enunciado": "Leituras não repetíveis ocorrem quando uma transação lê o mesmo registro duas vezes e obtém valores diferentes, porque outra transação confirmada o alterou entre as leituras.",
+    "gabarito": "C",
+    "comentario": "Certo. São impedidas a partir do nível REPEATABLE READ. Já as leituras fantasmas (novas linhas que aparecem em uma consulta repetida) são impedidas, pelo padrão SQL, no nível SERIALIZABLE.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.1.6-01",
+    "topicoId": "3.3.1.6",
+    "enunciado": "Considere o mapeamento JPA apresentado. Cada questão está associada a um tópico, e a coluna topico_id da tabela de questões armazena a chave estrangeira desse relacionamento.",
+    "codigo": "@Entity\npublic class Questao {\n\n    @Id\n    @GeneratedValue(strategy = GenerationType.IDENTITY)\n    private Long id;\n\n    @ManyToOne\n    @JoinColumn(name = \"topico_id\")\n    private Topico topico;\n}",
+    "gabarito": "C",
+    "comentario": "Certo. @ManyToOne indica que muitas questões pertencem a um tópico, e @JoinColumn define o nome da coluna de chave estrangeira. GenerationType.IDENTITY delega ao banco a geração do id (autoincremento).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.1.6-02",
+    "topicoId": "3.3.1.6",
+    "enunciado": "No JPA, entidades no estado detached continuam sendo gerenciadas pelo contexto de persistência, de modo que alterações em seus atributos são sincronizadas automaticamente com o banco.",
+    "gabarito": "E",
+    "comentario": "Errado. Os estados são: new (transient), managed, detached e removed. Uma entidade detached saiu do contexto (por exemplo, após o fim da transação) e suas alterações não são sincronizadas, a menos que seja reanexada com merge().",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.1.6-03",
+    "topicoId": "3.3.1.6",
+    "enunciado": "Dentro de uma transação, alterações feitas em uma entidade gerenciada pelo contexto de persistência são sincronizadas com o banco no flush ou no commit, mesmo sem chamada explícita a um método de salvar.",
+    "gabarito": "C",
+    "comentario": "Certo. É o dirty checking: o contexto compara o estado atual da entidade gerenciada com o estado carregado e gera os UPDATEs necessários. Por isso alterar um atributo por engano dentro de uma transação pode gravá-lo.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.1.6-04",
+    "topicoId": "3.3.1.6",
+    "enunciado": "Em um relacionamento bidirecional no JPA, o lado que declara o atributo mappedBy é o dono da relação e responsável pela coluna de chave estrangeira.",
+    "gabarito": "E",
+    "comentario": "Errado. mappedBy indica o lado inverso, que apenas espelha a relação. O dono é o outro lado (em geral o @ManyToOne), que contém a chave estrangeira e cujas alterações são persistidas.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.1.7-01",
+    "topicoId": "3.3.1.7",
+    "enunciado": "O problema N+1 ocorre quando uma consulta carrega N entidades e, em seguida, cada acesso a uma associação de carregamento tardio (lazy) dispara uma consulta adicional, totalizando N+1 consultas ao banco.",
+    "gabarito": "C",
+    "comentario": "Certo. Listar 100 questões e exibir o tópico de cada uma pode gerar 1 consulta para a lista e 100 para os tópicos. O problema costuma passar despercebido em desenvolvimento, com poucos dados, e aparecer em produção.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.1.7-02",
+    "topicoId": "3.3.1.7",
+    "enunciado": "No JPA, os relacionamentos @OneToMany e @ManyToMany são carregados, por padrão, de forma ansiosa (EAGER).",
+    "gabarito": "E",
+    "comentario": "Errado. Por padrão, @OneToMany e @ManyToMany são LAZY, enquanto @ManyToOne e @OneToOne são EAGER. É comum alterar os relacionamentos “para um” para LAZY e carregar explicitamente quando necessário.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.1.7-03",
+    "topicoId": "3.3.1.7",
+    "enunciado": "Consultas com JOIN FETCH em JPQL ou o uso de entity graphs permitem carregar as associações necessárias em uma única consulta, mitigando o problema N+1.",
+    "gabarito": "C",
+    "comentario": "Certo. Exemplo: SELECT q FROM Questao q JOIN FETCH q.topico. Carrega-se só o que a tela precisa, sem tornar a associação EAGER para todos os casos.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.1.7-04",
+    "topicoId": "3.3.1.7",
+    "enunciado": "Acessar uma associação de carregamento tardio (lazy) após o encerramento do contexto de persistência pode provocar LazyInitializationException no Hibernate.",
+    "gabarito": "C",
+    "comentario": "Certo. Sem contexto ativo, não há como buscar os dados no banco. A solução é carregar o necessário dentro da transação (JOIN FETCH, DTOs), e não manter a sessão aberta durante a renderização da resposta.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.1.8-01",
+    "topicoId": "3.3.1.8",
+    "enunciado": "Considere o repositório Spring Data JPA apresentado. O framework deriva automaticamente a consulta a partir do nome do método, retornando as questões com o gabarito informado e marcadas como revisadas.",
+    "codigo": "public interface QuestaoRepository extends JpaRepository<Questao, Long> {\n\n    List<Questao> findByGabaritoAndRevisadaTrue(String gabarito);\n}",
+    "gabarito": "C",
+    "comentario": "Certo. São as consultas derivadas (query methods): o Spring Data interpreta palavras-chave como findBy, And, Or, True, OrderBy e gera a JPQL. Para consultas complexas, usa-se @Query.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.1.8-02",
+    "topicoId": "3.3.1.8",
+    "enunciado": "Para usar os métodos save, findById e deleteById em um repositório que estende JpaRepository, o desenvolvedor precisa implementar manualmente uma classe concreta com esses métodos.",
+    "gabarito": "E",
+    "comentario": "Errado. O Spring Data gera a implementação em tempo de execução: basta declarar a interface. Esses métodos são herdados de CrudRepository/JpaRepository.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.1.8-03",
+    "topicoId": "3.3.1.8",
+    "enunciado": "No Spring Data, um método de repositório que recebe um parâmetro Pageable e retorna Page<T> permite paginar os resultados e obter informações como o total de elementos e de páginas.",
+    "gabarito": "C",
+    "comentario": "Certo. Exemplo: findAll(PageRequest.of(0, 20, Sort.by(\"id\"))). Page executa também uma consulta de contagem; quando o total não é necessário, Slice evita esse custo.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.1.9-01",
+    "topicoId": "3.3.1.9",
+    "enunciado": "Em aplicações Spring, é comum declarar @Transactional nos métodos da camada de serviço, que coordenam regras de negócio envolvendo várias operações de persistência que devem ser concluídas ou desfeitas em conjunto.",
+    "gabarito": "C",
+    "comentario": "Certo. O serviço sabe quais operações formam uma unidade de negócio (por exemplo, registrar pagamento e baixar saldo). Colocar a transação no controller ou no repositório costuma deixar a fronteira no lugar errado.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.1.9-02",
+    "topicoId": "3.3.1.9",
+    "enunciado": "Por padrão, no Spring, uma transação anotada com @Transactional é revertida quando o método lança exceção verificada (checked), mas não quando lança RuntimeException.",
+    "gabarito": "E",
+    "comentario": "Errado. É o contrário: por padrão, o rollback ocorre para RuntimeException e Error, e não para exceções verificadas. Para mudar, usa-se rollbackFor, como @Transactional(rollbackFor = Exception.class).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.1.9-03",
+    "topicoId": "3.3.1.9",
+    "enunciado": "No Spring, a chamada de um método anotado com @Transactional a partir de outro método da mesma classe sempre inicia uma nova transação, pois o proxy intercepta todas as chamadas internas.",
+    "gabarito": "E",
+    "comentario": "Errado. Com o modelo padrão baseado em proxy, chamadas internas (this.metodo()) não passam pelo proxy, e a anotação do método chamado é ignorada (auto-invocação). A solução é mover o método para outro bean.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.2.1-01",
+    "topicoId": "3.3.2.1",
+    "enunciado": "Em SQL, CREATE, ALTER e DROP são comandos de definição de dados (DDL); INSERT, UPDATE e DELETE são comandos de manipulação de dados (DML); e GRANT e REVOKE são comandos de controle de acesso (DCL).",
+    "gabarito": "C",
+    "comentario": "Certo. COMMIT, ROLLBACK e SAVEPOINT são às vezes agrupados como comandos de controle de transação (TCL). SELECT costuma ser classificado como DML ou, em algumas classificações, como DQL.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.2.1-02",
+    "topicoId": "3.3.2.1",
+    "enunciado": "Considere o comando SQL apresentado. Como não há cláusula WHERE, apenas o primeiro registro da tabela contrato terá o valor reajustado.",
+    "codigo": "UPDATE contrato\nSET valor = valor * 1.1;",
+    "gabarito": "E",
+    "comentario": "Errado. Sem WHERE, o UPDATE atinge todas as linhas da tabela: todos os contratos são reajustados em 10%. O mesmo vale para DELETE sem WHERE, que apaga tudo. Erro clássico em produção.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.2.1-03",
+    "topicoId": "3.3.2.1",
+    "enunciado": "Ao executar ROLLBACK, as alterações feitas desde o início da transação que ainda não foram confirmadas por COMMIT são desfeitas.",
+    "gabarito": "C",
+    "comentario": "Certo. Com SAVEPOINT, é possível desfazer só parte da transação (ROLLBACK TO SAVEPOINT). Atenção: em vários SGBDs, comandos DDL provocam commit implícito.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.2.2-01",
+    "topicoId": "3.3.2.2",
+    "enunciado": "Considere a consulta SQL apresentada. Ela retorna os fornecedores cujo valor total de contratos supera 1 milhão, e a condição sobre a soma precisa estar na cláusula HAVING, e não na WHERE.",
+    "codigo": "SELECT f.nome, SUM(c.valor) AS total\nFROM fornecedor f\nJOIN contrato c ON c.fornecedor_id = f.id\nGROUP BY f.nome\nHAVING SUM(c.valor) > 1000000;",
+    "gabarito": "C",
+    "comentario": "Certo. WHERE filtra linhas antes do agrupamento; HAVING filtra grupos depois. Funções de agregação como SUM não podem ser usadas no WHERE. Observação: agrupar por nome soma juntos fornecedores homônimos; agrupar por f.id seria mais seguro.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.2.2-02",
+    "topicoId": "3.3.2.2",
+    "enunciado": "Um LEFT JOIN de fornecedor com contrato retorna apenas os fornecedores que possuem pelo menos um contrato.",
+    "gabarito": "E",
+    "comentario": "Errado. Isso descreve o INNER JOIN. O LEFT JOIN retorna todos os fornecedores; os que não têm contrato aparecem com as colunas de contrato nulas. É útil, por exemplo, para encontrar fornecedores sem contrato (WHERE c.id IS NULL).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.2.2-03",
+    "topicoId": "3.3.2.2",
+    "enunciado": "Uma expressão de tabela comum (CTE), declarada com WITH, define um resultado temporário nomeado que pode ser referenciado na consulta principal, o que melhora a legibilidade de consultas complexas.",
+    "gabarito": "C",
+    "comentario": "Certo. Em vez de subconsultas aninhadas, cada etapa ganha um nome. CTEs recursivas (WITH RECURSIVE) permitem ainda percorrer hierarquias, como a árvore de tópicos do edital.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.2.3-01",
+    "topicoId": "3.3.2.3",
+    "enunciado": "Índices aceleram consultas que filtram ou ordenam pelas colunas indexadas, mas aumentam o custo de operações de escrita, como INSERT e UPDATE, e ocupam espaço adicional.",
+    "gabarito": "C",
+    "comentario": "Certo. Cada escrita precisa atualizar também os índices. Por isso não se indexa tudo: escolhem-se colunas usadas com frequência em filtros, junções e ordenações.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.2.3-02",
+    "topicoId": "3.3.2.3",
+    "enunciado": "Considere a consulta SQL apresentada. Ela retorna os servidores que não têm data de desligamento registrada.",
+    "codigo": "SELECT *\nFROM servidor\nWHERE data_desligamento = NULL;",
+    "gabarito": "E",
+    "comentario": "Errado. Em SQL, qualquer comparação com NULL usando = resulta em desconhecido (UNKNOWN), e a consulta não retorna linhas. O correto é WHERE data_desligamento IS NULL.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.2.3-03",
+    "topicoId": "3.3.2.3",
+    "enunciado": "Em SQL, COUNT(coluna) e COUNT(*) sempre retornam o mesmo valor, independentemente da existência de valores nulos na coluna.",
+    "gabarito": "E",
+    "comentario": "Errado. COUNT(*) conta todas as linhas; COUNT(coluna) ignora as linhas em que a coluna é nula. Da mesma forma, AVG(coluna) ignora nulos, o que pode distorcer médias se não for considerado.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.2.3-04",
+    "topicoId": "3.3.2.3",
+    "enunciado": "Uma junção entre tabelas em que a chave de ligação não é única pode multiplicar linhas e inflar totais calculados com SUM, levando a interpretações erradas.",
+    "gabarito": "C",
+    "comentario": "Certo. Se um contrato tem três aditivos e se junta contrato com aditivo antes de somar o valor do contrato, esse valor é contado três vezes. Conferir a cardinalidade das junções é essencial em análises de dados.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.2.4-01",
+    "topicoId": "3.3.2.4",
+    "enunciado": "O comando EXPLAIN, disponível em diversos SGBDs, exibe o plano de execução escolhido pelo otimizador, permitindo identificar, por exemplo, leituras sequenciais completas de tabelas grandes.",
+    "gabarito": "C",
+    "comentario": "Certo. O plano mostra se índices são usados, a ordem e o tipo das junções e as estimativas de linhas. Em PostgreSQL, EXPLAIN ANALYZE executa a consulta e mostra também os tempos reais.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.2.4-02",
+    "topicoId": "3.3.2.4",
+    "enunciado": "Aplicar uma função sobre a coluna indexada na cláusula WHERE, como em WHERE UPPER(nome) = 'ANA', garante o uso do índice comum criado sobre essa coluna.",
+    "gabarito": "E",
+    "comentario": "Errado. O índice comum guarda os valores originais da coluna, não o resultado da função; por isso, em geral, ele deixa de ser usado. Soluções: índice baseado em expressão (sobre UPPER(nome)) ou ajustar a forma de armazenar e comparar.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.2.4-03",
+    "topicoId": "3.3.2.4",
+    "enunciado": "Consultas que retornam muito mais colunas ou linhas do que a aplicação utiliza, como SELECT * sem paginação, aumentam o tráfego e o consumo de memória e podem degradar o desempenho.",
+    "gabarito": "C",
+    "comentario": "Certo. Selecionar só as colunas necessárias e paginar resultados reduz o trabalho do banco, da rede e da aplicação. Em JPA, projeções e DTOs cumprem esse papel.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.3.1-01",
+    "topicoId": "3.3.3.1",
+    "enunciado": "Em um pipeline de dados, a ingestão obtém os dados das fontes, a transformação os limpa, padroniza e enriquece, e a carga os grava no destino, como um data warehouse.",
+    "gabarito": "C",
+    "comentario": "Certo. Cada etapa deve registrar o que fez (quantidades, rejeições, tempos), para que falhas e perdas sejam detectadas.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.3.1-02",
+    "topicoId": "3.3.3.1",
+    "enunciado": "Na ingestão de dados, a validação de formato e de campos obrigatórios é desnecessária, pois qualquer erro será corrigido automaticamente na etapa de carga.",
+    "gabarito": "E",
+    "comentario": "Errado. Erros não validados na entrada se propagam e contaminam o destino. Validar cedo (formato, tipos, obrigatoriedade, domínios) é mais barato do que corrigir depois.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.3.1-03",
+    "topicoId": "3.3.3.1",
+    "enunciado": "Registros rejeitados por falha de validação devem ser separados e registrados para análise, em vez de simplesmente descartados sem rastro.",
+    "gabarito": "C",
+    "comentario": "Certo. Uma área de quarentena (dead letter) permite corrigir e reprocessar os registros e medir a qualidade da fonte. Descartar silenciosamente gera perda de dados invisível.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.3.2-01",
+    "topicoId": "3.3.3.2",
+    "enunciado": "No ETL, os dados são transformados antes de serem carregados no destino; no ELT, os dados são carregados primeiro, em estado bruto, e transformados no próprio ambiente de destino.",
+    "gabarito": "C",
+    "comentario": "Certo. A diferença está na ordem e no local da transformação: em ferramenta intermediária (ETL) ou no próprio banco ou plataforma analítica de destino (ELT).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.3.2-02",
+    "topicoId": "3.3.3.2",
+    "enunciado": "O ELT é inviável em data warehouses modernos em nuvem, pois esses ambientes não têm capacidade de processamento para transformar os dados.",
+    "gabarito": "E",
+    "comentario": "Errado. Ao contrário, o ELT se popularizou justamente com data warehouses e lakehouses em nuvem, que oferecem grande capacidade de processamento elástico para transformar dados com SQL.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.3.2-03",
+    "topicoId": "3.3.3.2",
+    "enunciado": "Uma vantagem do ELT é preservar os dados brutos no destino, o que permite refazer as transformações com novas regras sem precisar extrair novamente os dados da fonte.",
+    "gabarito": "C",
+    "comentario": "Certo. Se uma regra de transformação estava errada, basta reprocessar a partir dos dados brutos guardados. Em contrapartida, os dados brutos também precisam de governança e proteção.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.3.3-01",
+    "topicoId": "3.3.3.3",
+    "enunciado": "No processamento em lote, os dados são acumulados e processados em intervalos, ao passo que, no processamento em fluxo (streaming), os eventos são processados continuamente, à medida que chegam.",
+    "gabarito": "C",
+    "comentario": "Certo. Lote é adequado para fechamentos diários e relatórios; fluxo, para alertas e painéis em tempo quase real. O fluxo traz desafios adicionais, como eventos fora de ordem.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.3.3-02",
+    "topicoId": "3.3.3.3",
+    "enunciado": "A carga completa (full) é sempre mais eficiente que a carga incremental, pois evita controlar quais registros mudaram desde a última execução.",
+    "gabarito": "E",
+    "comentario": "Errado. A carga completa é mais simples, mas reprocessa tudo a cada vez, o que se torna caro e lento com grandes volumes. A incremental processa só o que mudou, ao custo de controlar o que já foi carregado.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.3.3-03",
+    "topicoId": "3.3.3.3",
+    "enunciado": "Cargas incrementais costumam usar marcas d'água, como a data da última atualização ou um identificador sequencial, para selecionar apenas os registros novos ou alterados.",
+    "gabarito": "C",
+    "comentario": "Certo. A cada execução, guarda-se o maior valor processado e, na próxima, busca-se o que vem depois. Exclusões na origem exigem tratamento à parte (exclusão lógica ou captura de mudanças, CDC).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.3.4-01",
+    "topicoId": "3.3.3.4",
+    "enunciado": "O Parquet é um formato colunar, comprimido e com esquema, eficiente para consultas analíticas que leem apenas algumas colunas de grandes volumes de dados.",
+    "gabarito": "C",
+    "comentario": "Certo. Armazenando por coluna, a consulta lê só as colunas usadas, e valores semelhantes comprimem melhor. CSV e JSON são orientados a linha e não guardam tipos de forma rigorosa.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.3.4-02",
+    "topicoId": "3.3.3.4",
+    "enunciado": "O formato CSV inclui, por padrão, a definição dos tipos de dados de cada coluna, o que elimina ambiguidades sobre datas, números decimais e codificação de caracteres.",
+    "gabarito": "E",
+    "comentario": "Errado. O CSV é texto puro, sem tipos. Separador (vírgula ou ponto e vírgula), separador decimal, formato de data e codificação (UTF-8 ou Latin-1) precisam ser documentados à parte. São fontes frequentes de erro na integração.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.3.4-03",
+    "topicoId": "3.3.3.4",
+    "enunciado": "Um contrato de dados define, entre produtor e consumidor, o esquema, a semântica dos campos e as regras de qualidade, ajudando a detectar mudanças que quebrariam os consumidores.",
+    "gabarito": "C",
+    "comentario": "Certo. Com o contrato explícito, uma alteração no produtor (renomear coluna, mudar tipo) pode ser barrada por validação automática antes de chegar aos consumidores.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.3.5-01",
+    "topicoId": "3.3.3.5",
+    "enunciado": "Conciliar totais entre a origem e o destino, como a quantidade de registros e a soma de valores, é uma forma de verificar se a carga foi completa e correta.",
+    "gabarito": "C",
+    "comentario": "Certo. Se a origem tem 10.000 pagamentos que somam R$ 5 milhões e o destino tem 9.980 registros, algo se perdeu. Controles de conciliação detectam perdas e duplicações.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.3.5-02",
+    "topicoId": "3.3.3.5",
+    "enunciado": "Se um pipeline falhar no meio da execução, a forma segura de retomá-lo é sempre reprocessar tudo, pois cargas repetidas nunca geram duplicidade.",
+    "gabarito": "E",
+    "comentario": "Errado. Reprocessar só é seguro se a carga for idempotente (upsert, chaves únicas, substituição de partição). Caso contrário, os registros já gravados antes da falha são duplicados.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.3.5-03",
+    "topicoId": "3.3.3.5",
+    "enunciado": "A linhagem de dados (data lineage) registra a origem dos dados e as transformações pelas quais passaram, permitindo rastrear um valor de um relatório até a fonte.",
+    "gabarito": "C",
+    "comentario": "Certo. A linhagem responde de onde veio um número e o que foi feito com ele, o que é essencial para auditar indicadores e avaliar o impacto de mudanças nas fontes.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.3.6-01",
+    "topicoId": "3.3.3.6",
+    "enunciado": "No Spring Batch, um Job é composto por um ou mais Steps, e cada Step representa uma fase do processamento, como ler um arquivo e gravar os registros em banco.",
+    "gabarito": "C",
+    "comentario": "Certo. Os Steps são encadeados em sequência ou de forma condicional. Separar o processamento em Steps permite reiniciar a partir do Step que falhou.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.3.6-02",
+    "topicoId": "3.3.3.6",
+    "enunciado": "No Spring Batch, cada execução de um Job é representada por um Step, que pode conter vários Jobs.",
+    "gabarito": "E",
+    "comentario": "Errado. A hierarquia é inversa: o Job contém Steps. Cada execução de um Job é uma JobExecution, ligada a uma JobInstance (definida pelo Job e seus parâmetros identificadores).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.3.6-03",
+    "topicoId": "3.3.3.6",
+    "enunciado": "O JobRepository do Spring Batch armazena os metadados das execuções, como status, parâmetros e progresso de cada Job e Step.",
+    "gabarito": "C",
+    "comentario": "Certo. Esses metadados ficam em tabelas próprias (BATCH_JOB_INSTANCE, BATCH_JOB_EXECUTION, BATCH_STEP_EXECUTION etc.) e são a base para o reinício após falhas.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.3.7-01",
+    "topicoId": "3.3.3.7",
+    "enunciado": "No processamento orientado a chunks do Spring Batch, o ItemReader lê os itens um a um, o ItemProcessor os transforma ou filtra, e o ItemWriter grava os itens em blocos do tamanho definido para o chunk.",
+    "gabarito": "C",
+    "comentario": "Certo. Com chunk de 100, por exemplo, lê e processa 100 itens e grava os 100 de uma vez, numa transação. É o modelo leitura-processamento-escrita.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.3.7-02",
+    "topicoId": "3.3.3.7",
+    "enunciado": "No Spring Batch, quando o ItemProcessor retorna null para um item, a execução do Step é interrompida com erro.",
+    "gabarito": "E",
+    "comentario": "Errado. Retornar null no ItemProcessor significa filtrar o item: ele não é enviado ao ItemWriter, e o processamento continua normalmente. Os itens filtrados são contabilizados (filterCount).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.3.7-03",
+    "topicoId": "3.3.3.7",
+    "enunciado": "Para tarefas simples que não seguem o padrão leitura-processamento-escrita, como apagar arquivos temporários, o Spring Batch oferece Steps baseados em Tasklet.",
+    "gabarito": "C",
+    "comentario": "Certo. A Tasklet executa uma única ação (método execute) dentro de uma transação. Chunk é para processar coleções de itens; Tasklet, para tarefas pontuais.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.3.8-01",
+    "topicoId": "3.3.3.8",
+    "enunciado": "No processamento por chunks, cada chunk é confirmado em uma transação; se ocorrer falha, apenas o chunk em andamento é revertido, e os já confirmados permanecem gravados.",
+    "gabarito": "C",
+    "comentario": "Certo. Isso limita o retrabalho: num arquivo de 1 milhão de linhas, uma falha no fim não desfaz tudo. Por outro lado, o destino fica parcialmente carregado até o reinício.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.3.8-02",
+    "topicoId": "3.3.3.8",
+    "enunciado": "Um Job do Spring Batch que falhou pode ser reiniciado com os mesmos parâmetros e retomar a partir do ponto em que parou, com base no estado salvo no JobRepository.",
+    "gabarito": "C",
+    "comentario": "Certo. Leitores que mantêm estado (por exemplo, a linha atual de um arquivo) salvam-no no ExecutionContext a cada commit, o que permite continuar do último chunk confirmado.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.3.8-03",
+    "topicoId": "3.3.3.8",
+    "enunciado": "No Spring Batch, uma instância de Job concluída com sucesso pode ser executada novamente com exatamente os mesmos parâmetros identificadores, gerando nova instância sem qualquer restrição.",
+    "gabarito": "E",
+    "comentario": "Errado. Job + parâmetros identificadores definem uma JobInstance. Se ela já foi concluída com sucesso, nova execução com os mesmos parâmetros é recusada (JobInstanceAlreadyCompleteException). Para rodar de novo, mudam-se os parâmetros (por exemplo, a data de referência).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.3.9-01",
+    "topicoId": "3.3.3.9",
+    "enunciado": "Usar operações de upsert ou chaves naturais únicas na gravação torna a carga idempotente, de modo que reprocessar o mesmo arquivo não gera registros duplicados.",
+    "gabarito": "C",
+    "comentario": "Certo. Com upsert (inserir ou atualizar pela chave), reprocessar apenas regrava os mesmos valores. É o mesmo princípio usado no script deste projeto, que grava questões com id fixo.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.3.9-02",
+    "topicoId": "3.3.3.9",
+    "enunciado": "Configurar a política de skip para ignorar todas as exceções durante a carga é a forma recomendada de evitar perdas de dados.",
+    "gabarito": "E",
+    "comentario": "Errado. Ignorar todas as exceções faz registros sumirem silenciosamente, o que é exatamente a perda de dados. O skip deve ser restrito a exceções esperadas, com limite e registro dos itens pulados (SkipListener) para posterior tratamento.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.3.9-03",
+    "topicoId": "3.3.3.9",
+    "enunciado": "Registrar quais arquivos ou lotes já foram processados com sucesso permite evitar que o mesmo arquivo seja carregado duas vezes.",
+    "gabarito": "C",
+    "comentario": "Certo. Um controle simples (nome do arquivo, hash do conteúdo, data, situação) impede recargas acidentais e facilita a auditoria do que foi carregado.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.4.1-01",
+    "topicoId": "3.3.4.1",
+    "enunciado": "Pelo princípio da minimização, um sistema deve coletar e armazenar apenas os dados pessoais necessários à finalidade declarada, o que reduz o impacto de eventuais vazamentos.",
+    "gabarito": "C",
+    "comentario": "Certo. Dado que não foi coletado não pode vazar. Na LGPD, corresponde ao princípio da necessidade (art. 6º, III), combinado com o da finalidade (art. 6º, I).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.4.1-02",
+    "topicoId": "3.3.4.1",
+    "enunciado": "Desenvolvedores devem ter acesso irrestrito aos dados de produção, incluindo dados pessoais completos, para agilizar a correção de erros.",
+    "gabarito": "E",
+    "comentario": "Errado. O acesso a produção deve ser restrito, justificado, temporário e registrado. Para depurar, preferem-se logs sem dados sensíveis, dados mascarados e acessos pontuais aprovados.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.4.1-03",
+    "topicoId": "3.3.4.1",
+    "enunciado": "Utilizar em ambientes de desenvolvimento e teste dados mascarados ou sintéticos, em vez de cópias integrais da base de produção, é medida de segregação e de proteção de dados pessoais.",
+    "gabarito": "C",
+    "comentario": "Certo. Ambientes de teste costumam ter controles mais fracos e mais pessoas com acesso. Copiar a produção para lá multiplica o risco de vazamento.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.4.2-01",
+    "topicoId": "3.3.4.2",
+    "enunciado": "O protocolo TLS protege os dados em trânsito entre cliente e servidor, garantindo a confidencialidade e a integridade da comunicação, além da autenticação do servidor por meio de certificado.",
+    "gabarito": "C",
+    "comentario": "Certo. É o que está por trás do HTTPS. Versões antigas (SSL, TLS 1.0 e 1.1) são consideradas inseguras; usa-se TLS 1.2 ou 1.3.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.4.2-02",
+    "topicoId": "3.3.4.2",
+    "enunciado": "Senhas de usuários devem ser armazenadas com criptografia simétrica reversível, para que a aplicação possa recuperá-las e enviá-las ao usuário que as esquecer.",
+    "gabarito": "E",
+    "comentario": "Errado. Senhas devem ser armazenadas com funções de hash lentas e com sal, próprias para senhas (bcrypt, scrypt, Argon2, PBKDF2), que não são reversíveis. Quem esquece a senha recebe um meio de redefini-la, nunca a senha original.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.4.2-03",
+    "topicoId": "3.3.4.2",
+    "enunciado": "Na criptografia de dados em repouso, a proteção depende da gestão adequada das chaves: chaves guardadas junto aos dados criptografados reduzem significativamente a eficácia da medida.",
+    "gabarito": "C",
+    "comentario": "Certo. Quem obtém o disco ou o backup com a chave ao lado decifra tudo. Chaves ficam em cofres ou serviços de gestão de chaves (KMS/HSM), com acesso controlado e rotação.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.4.3-01",
+    "topicoId": "3.3.4.3",
+    "enunciado": "Segundo a LGPD, pseudonimização é o tratamento por meio do qual um dado perde a possibilidade de associação, direta ou indireta, a um indivíduo, senão pelo uso de informação adicional mantida separadamente pelo controlador em ambiente controlado e seguro.",
+    "gabarito": "C",
+    "comentario": "Certo. É a definição do art. 13, § 4º, da LGPD. A diferença para a anonimização é que a pseudonimização é reversível por quem tem a informação adicional (a tabela de correspondência ou a chave).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.4.3-02",
+    "topicoId": "3.3.4.3",
+    "enunciado": "Dados pseudonimizados deixam de ser dados pessoais, pois não contêm o nome nem o CPF do titular.",
+    "gabarito": "E",
+    "comentario": "Errado. Como a pseudonimização é reversível com a informação adicional, os dados continuam sendo pessoais e sujeitos à LGPD. A pseudonimização reduz riscos, mas não retira os dados do alcance da lei.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.4.3-03",
+    "topicoId": "3.3.4.3",
+    "enunciado": "Substituir o CPF por um código gerado com função de hash simples, sem segredo, pode permitir a reidentificação, pois é possível calcular o hash de todos os CPFs possíveis e comparar os resultados.",
+    "gabarito": "C",
+    "comentario": "Certo. O universo de CPFs é finito (cerca de 1 bilhão de combinações), e calcular o hash de todos é viável. Para pseudonimizar, usa-se hash com chave secreta (HMAC) ou tabela de correspondência protegida.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.4.4-01",
+    "topicoId": "3.3.4.4",
+    "enunciado": "Segundo a LGPD, os dados pessoais devem ser eliminados após o término do seu tratamento, autorizada a conservação em hipóteses como o cumprimento de obrigação legal ou regulatória pelo controlador.",
+    "gabarito": "C",
+    "comentario": "Certo. É o art. 16 da LGPD, que lista ainda outras hipóteses de conservação, como estudo por órgão de pesquisa (com anonimização, sempre que possível). Na administração pública, as tabelas de temporalidade de documentos também orientam os prazos.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.4.4-02",
+    "topicoId": "3.3.4.4",
+    "enunciado": "Ao excluir um registro de dados pessoais do banco principal, garante-se automaticamente a sua eliminação das cópias de segurança e dos logs da aplicação.",
+    "gabarito": "E",
+    "comentario": "Errado. Cópias de segurança, réplicas, logs, exportações e caches continuam com o dado até expirarem ou serem tratados. A política de retenção precisa cobrir todos esses lugares.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.4.4-03",
+    "topicoId": "3.3.4.4",
+    "enunciado": "Registros de acesso a dados pessoais (logs de auditoria) devem ser protegidos contra alteração e acesso indevido, pois também podem conter dados pessoais e servem como evidência.",
+    "gabarito": "C",
+    "comentario": "Certo. Se quem acessou indevidamente consegue apagar o próprio rastro, o log perde valor. Armazenamento separado, somente adição (append-only) e acesso restrito protegem a trilha de auditoria.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.4.5-01",
+    "topicoId": "3.3.4.5",
+    "enunciado": "Antes de publicar uma base como dados abertos, deve-se avaliar o risco de reidentificação, considerando inclusive o cruzamento com outras bases públicas.",
+    "gabarito": "C",
+    "comentario": "Certo. Uma base sem nomes pode ser cruzada com outra pública e revelar identidades. Técnicas como agregação, generalização (faixas de idade) e supressão de casos raros reduzem esse risco.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.4.5-02",
+    "topicoId": "3.3.4.5",
+    "enunciado": "Na administração pública, o compartilhamento de dados pessoais entre órgãos dispensa qualquer avaliação de finalidade, já que todos integram o mesmo Estado.",
+    "gabarito": "E",
+    "comentario": "Errado. Pelo art. 26 da LGPD, o uso compartilhado de dados pelo poder público deve atender a finalidades específicas de execução de políticas públicas e atribuição legal, respeitados os princípios da lei. Cada compartilhamento precisa de base e finalidade definidas.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.4.5-03",
+    "topicoId": "3.3.4.5",
+    "enunciado": "APIs de compartilhamento de dados devem retornar apenas os campos necessários a cada consumidor, em vez de expor o registro completo, em aplicação do princípio da necessidade.",
+    "gabarito": "C",
+    "comentario": "Certo. Um órgão que precisa só confirmar se a pessoa está viva não precisa receber endereço e renda. Expor o registro inteiro é uma das falhas mais comuns em APIs (exposição excessiva de dados).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.4.6-01",
+    "topicoId": "3.3.4.6",
+    "enunciado": "Privacidade desde a concepção (privacy by design) significa considerar a proteção de dados pessoais desde as primeiras decisões de projeto do sistema, e não como ajuste posterior.",
+    "gabarito": "C",
+    "comentario": "Certo. Decidir cedo quais dados coletar, por quanto tempo guardar e quem pode ver é muito mais barato e eficaz que remendar depois. A LGPD (art. 46, § 2º) prevê que as medidas de segurança sejam observadas desde a fase de concepção do produto ou serviço.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.4.6-02",
+    "topicoId": "3.3.4.6",
+    "enunciado": "A elaboração do relatório de impacto à proteção de dados pessoais deve ocorrer somente após o sistema entrar em produção, quando os riscos reais forem conhecidos.",
+    "gabarito": "E",
+    "comentario": "Errado. A avaliação de impacto é ferramenta de prevenção: deve ocorrer antes ou durante o desenho do tratamento, para que os riscos sejam mitigados no projeto. Ela pode ser revista depois, mas não deve começar só em produção.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.3.4.6-03",
+    "topicoId": "3.3.4.6",
+    "enunciado": "Configurações padrão que coletam o mínimo de dados e restringem a visibilidade das informações (privacy by default) são aplicação da proteção de dados desde a concepção.",
+    "gabarito": "C",
+    "comentario": "Certo. O usuário não deveria precisar mudar configurações para estar protegido: o padrão já deve ser o mais protetivo, cabendo ao usuário optar, se quiser, por compartilhar mais.",
+    "revisada": false,
+    "origem": "ia"
+  }
+]

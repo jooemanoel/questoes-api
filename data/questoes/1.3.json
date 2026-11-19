@@ -1,0 +1,245 @@
+[
+  {
+    "id": "1.3.1.1-01",
+    "topicoId": "1.3.1.1",
+    "enunciado": "A ética deontológica avalia a correção de uma ação pela sua conformidade a deveres e princípios, ao passo que a ética consequencialista avalia a ação pelos resultados que ela produz.",
+    "gabarito": "C",
+    "comentario": "Certo. Kant é a referência clássica da deontologia (agir por dever, tratar pessoas como fins); o utilitarismo é a principal vertente consequencialista (maior bem para o maior número). Na prática, o agente público combina deveres legais com atenção às consequências das decisões.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.3.1.1-02",
+    "topicoId": "1.3.1.1",
+    "enunciado": "Na ética das virtudes, de matriz aristotélica, a correção de uma decisão é determinada exclusivamente pelo cumprimento literal das normas escritas, independentemente do caráter do agente.",
+    "gabarito": "E",
+    "comentario": "Errado. A ética das virtudes concentra-se no caráter: o que faria uma pessoa prudente, justa e honesta nessa situação. Virtudes como prudência e integridade orientam o julgamento justamente onde as normas não dão resposta completa.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.3.1.1-03",
+    "topicoId": "1.3.1.1",
+    "enunciado": "Decisões públicas frequentemente envolvem conflitos entre valores igualmente relevantes, como eficiência e equidade ou transparência e privacidade, o que exige ponderação fundamentada, e não a aplicação mecânica de um único princípio.",
+    "gabarito": "C",
+    "comentario": "Certo. Dilemas éticos reais opõem bens legítimos entre si. A resposta adequada é explicitar os valores em jogo, ponderá-los à luz do caso e motivar a decisão, o que permite controle e contestação.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.3.1.1-04",
+    "topicoId": "1.3.1.1",
+    "enunciado": "O interesse público confunde-se com o interesse do governo em exercício ou da autoridade que toma a decisão.",
+    "gabarito": "E",
+    "comentario": "Errado. O interesse público refere-se ao interesse da coletividade, e não ao do governante ou da máquina estatal. A doutrina distingue o interesse público primário (da sociedade) do secundário (do Estado como pessoa jurídica, por exemplo, arrecadar mais), e este só é legítimo quando coincide com aquele.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.3.2.1-01",
+    "topicoId": "1.3.2.1",
+    "enunciado": "Nos termos da Lei nº 8.112/1990, é dever do servidor cumprir as ordens superiores, exceto quando manifestamente ilegais.",
+    "gabarito": "C",
+    "comentario": "Certo. É o art. 116, IV, da Lei nº 8.112/1990. A obediência hierárquica tem limite: ordem manifestamente ilegal não deve ser cumprida. O mesmo artigo impõe o dever de levar ao conhecimento da autoridade superior as irregularidades de que o servidor tiver ciência (inciso VI) e de representar contra ilegalidade, omissão ou abuso de poder (inciso XII).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.3.2.1-02",
+    "topicoId": "1.3.2.1",
+    "enunciado": "A autonomia técnica do servidor autoriza-o a descumprir qualquer orientação da chefia com a qual discorde tecnicamente, sem necessidade de registrar ou fundamentar a sua divergência.",
+    "gabarito": "E",
+    "comentario": "Errado. Autonomia técnica protege o juízo profissional contra pressões indevidas, mas vem acompanhada de responsabilidade: a divergência deve ser fundamentada e registrada pelos canais próprios. Discordância técnica não se confunde com ordem manifestamente ilegal.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.3.2.1-03",
+    "topicoId": "1.3.2.1",
+    "enunciado": "Valer-se do cargo para lograr proveito pessoal ou de outrem e utilizar pessoal ou recursos materiais da repartição em serviços ou atividades particulares são condutas proibidas ao servidor público federal.",
+    "gabarito": "C",
+    "comentario": "Certo. São proibições do art. 117 da Lei nº 8.112/1990 (incisos IX e XVI). Ambas podem levar à pena de demissão, conforme o art. 132, XIII, da mesma lei.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.3.2.2-01",
+    "topicoId": "1.3.2.2",
+    "enunciado": "Se um colega solicita acesso a informações sigilosas de uma auditoria sem necessidade relacionada ao seu trabalho, a conduta ética esperada do servidor da CGU é negar o acesso e, se for o caso, orientar o colega sobre as regras de sigilo.",
+    "gabarito": "C",
+    "comentario": "Certo. O acesso a informações sigilosas segue o princípio da necessidade de conhecer, independentemente de o solicitante ser servidor do mesmo órgão. Negar com respeito e orientar preserva o sigilo, as pessoas envolvidas e a relação de trabalho.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.3.2.2-02",
+    "topicoId": "1.3.2.2",
+    "enunciado": "O servidor que identifica falha relevante em relatório já entregue por sua equipe deve manter silêncio para preservar a imagem da instituição, uma vez que a correção pública de erros compromete a confiança no controle.",
+    "gabarito": "E",
+    "comentario": "Errado. Ocultar erros viola os deveres de honestidade e diligência e, quando descoberto, compromete muito mais a confiança. A conduta esperada é comunicar a falha pelos canais adequados para que seja corrigida, com transparência sobre a correção.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.3.2.2-03",
+    "topicoId": "1.3.2.2",
+    "enunciado": "Ao receber de gestor auditado convite para almoço custeado pela entidade durante os trabalhos de auditoria, o auditor deve recusá-lo, pois a situação pode comprometer a imparcialidade do trabalho ou a percepção de imparcialidade.",
+    "gabarito": "C",
+    "comentario": "Certo. Em controle, a aparência de independência importa tanto quanto a independência de fato: um benefício oferecido por quem será avaliado cria, no mínimo, risco reputacional e suspeita sobre as conclusões. A recusa educada é a conduta adequada.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.3.3.1-01",
+    "topicoId": "1.3.3.1",
+    "enunciado": "Nos termos da Lei nº 12.813/2013, a ocorrência de conflito de interesses independe da existência de lesão ao patrimônio público e do recebimento de qualquer vantagem ou ganho pelo agente público ou por terceiro.",
+    "gabarito": "C",
+    "comentario": "Certo. É o art. 4º, § 2º, da Lei nº 12.813/2013. O conflito de interesses é a situação de risco em si (art. 3º, I: confronto entre interesses públicos e privados que possa comprometer o interesse coletivo ou influenciar de maneira imprópria o desempenho da função), e não exige dano consumado.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.3.3.1-02",
+    "topicoId": "1.3.3.1",
+    "enunciado": "Segundo a Lei nº 12.813/2013, em caso de dúvida sobre como prevenir conflito de interesses, o agente público deve abster-se de consultar os órgãos competentes e decidir por conta própria, para não expor informações privilegiadas.",
+    "gabarito": "E",
+    "comentario": "Errado. O art. 4º, § 1º, determina que, havendo dúvida, o agente deve consultar a Comissão de Ética Pública ou a CGU, conforme o caso. A consulta é medida de prevenção prevista em lei e pode ser feita pelo Sistema Eletrônico de Prevenção de Conflito de Interesses (SeCI).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.3.3.1-03",
+    "topicoId": "1.3.3.1",
+    "enunciado": "Configura conflito de interesses no exercício do cargo praticar ato em benefício de interesse de pessoa jurídica de que participe o agente público, seu cônjuge, companheiro ou parentes, consanguíneos ou afins, em linha reta ou colateral, até o terceiro grau, e que possa ser por ele beneficiada ou influir em seus atos de gestão.",
+    "gabarito": "C",
+    "comentario": "Certo. É a hipótese do art. 5º, IV, da Lei nº 12.813/2013. Outras hipóteses do art. 5º incluem divulgar informação privilegiada, exercer atividade que implique prestação de serviços a quem tenha interesse em decisão do agente e receber presente de quem tenha interesse em sua decisão, fora dos limites regulamentares.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.3.3.1-04",
+    "topicoId": "1.3.3.1",
+    "enunciado": "De acordo com a Lei nº 12.813/2013, compete exclusivamente à Comissão de Ética Pública fiscalizar e avaliar conflitos de interesses de todos os agentes públicos do Poder Executivo federal.",
+    "gabarito": "E",
+    "comentario": "Errado. O art. 8º divide as competências: a Comissão de Ética Pública atua em relação aos ocupantes dos cargos de alta administração listados no art. 2º (ministros, cargos de natureza especial, dirigentes de autarquias e estatais e cargos em comissão de nível mais elevado), e a CGU em relação aos demais agentes. Pelo art. 10, os arts. 4º e 5º se estendem a todos os agentes públicos do Executivo federal.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.3.3.2-01",
+    "topicoId": "1.3.3.2",
+    "enunciado": "De acordo com a Lei nº 9.784/1999, a autoridade ou o servidor que incorrer em impedimento deve comunicar o fato à autoridade competente e abster-se de atuar, e a omissão do dever de comunicar o impedimento constitui falta grave para efeitos disciplinares.",
+    "gabarito": "C",
+    "comentario": "Certo. O art. 19 da Lei nº 9.784/1999 determina que a autoridade ou o servidor que incorrer em impedimento deve comunicar o fato à autoridade competente, abstendo-se de atuar. O parágrafo único completa: a omissão do dever de comunicar o impedimento constitui falta grave, para efeitos disciplinares.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.3.3.2-02",
+    "topicoId": "1.3.3.2",
+    "enunciado": "Conforme a Lei nº 9.784/1999, a amizade íntima ou a inimizade notória da autoridade com algum dos interessados é hipótese de impedimento, que deve ser obrigatoriamente declarada de ofício.",
+    "gabarito": "E",
+    "comentario": "Errado. Amizade íntima ou inimizade notória com interessados, cônjuges, companheiros, parentes e afins até o terceiro grau é hipótese de suspeição (art. 20), que “pode ser arguida”. O impedimento (art. 18) envolve situações objetivas: interesse direto ou indireto na matéria, participação como perito, testemunha ou representante, ou litígio com o interessado.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.3.3.2-03",
+    "topicoId": "1.3.3.2",
+    "enunciado": "É impedido de atuar em processo administrativo o servidor ou a autoridade que esteja litigando judicial ou administrativamente com o interessado ou com o respectivo cônjuge ou companheiro.",
+    "gabarito": "C",
+    "comentario": "Certo. É a hipótese do art. 18, III, da Lei nº 9.784/1999. Os demais incisos tratam de quem tenha interesse direto ou indireto na matéria (I) e de quem tenha participado ou venha a participar como perito, testemunha ou representante, ou se tais situações ocorrem quanto ao cônjuge, companheiro ou parente e afins até o terceiro grau (II).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.3.3.2-04",
+    "topicoId": "1.3.3.2",
+    "enunciado": "Segundo a Lei nº 9.784/1999, o indeferimento de alegação de suspeição não pode ser objeto de recurso.",
+    "gabarito": "E",
+    "comentario": "Errado. O art. 21 da Lei nº 9.784/1999 prevê que o indeferimento de alegação de suspeição poderá ser objeto de recurso, sem efeito suspensivo. Atenção ao detalhe “sem efeito suspensivo”, que costuma ser cobrado.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.3.4.1-01",
+    "topicoId": "1.3.4.1",
+    "enunciado": "O assédio moral no trabalho caracteriza-se, em regra, por condutas abusivas reiteradas, como humilhações, isolamento e desqualificação, que atentam contra a dignidade do trabalhador e degradam o ambiente de trabalho.",
+    "gabarito": "C",
+    "comentario": "Certo. A reiteração é traço frequente do assédio moral, embora orientações mais recentes admitam que um ato isolado de especial gravidade também possa configurar violência no trabalho. O foco é o dano à dignidade e ao ambiente, e não a intenção declarada do agressor.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.3.4.1-02",
+    "topicoId": "1.3.4.1",
+    "enunciado": "Só há assédio moral quando a conduta parte de superior hierárquico em relação a subordinado, não se configurando quando praticada entre colegas de mesmo nível ou por subordinados contra a chefia.",
+    "gabarito": "E",
+    "comentario": "Errado. O assédio moral pode ser vertical descendente (chefia contra subordinado), horizontal (entre colegas) ou vertical ascendente (subordinados contra chefia). A relação de poder relevante nem sempre é a hierárquica formal.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.3.4.1-03",
+    "topicoId": "1.3.4.1",
+    "enunciado": "Garantir que quem relata assédio ou discriminação não sofra retaliação é condição para que os canais de denúncia sejam utilizados e para que os casos cheguem ao conhecimento da instituição.",
+    "gabarito": "C",
+    "comentario": "Certo. Se relatar gera represália, as pessoas se calam e o problema fica invisível (subnotificação). Proteção da identidade, medidas protetivas e responsabilização por retaliação são parte essencial de qualquer política de enfrentamento.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.3.4.2-01",
+    "topicoId": "1.3.4.2",
+    "enunciado": "Acolher uma pessoa que relata assédio, verificar os fatos relatados e atribuir responsabilidade a alguém são atividades distintas, cada uma com finalidades e garantias próprias.",
+    "gabarito": "C",
+    "comentario": "Certo. Acolher é escutar, orientar e proteger quem relata. Verificar fatos é apurar, com método e imparcialidade. Atribuir responsabilidade exige processo com contraditório e ampla defesa. Misturar as etapas prejudica a vítima (revitimização) ou o acusado (punição sem processo).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.3.4.2-02",
+    "topicoId": "1.3.4.2",
+    "enunciado": "No acolhimento de pessoa que relata assédio, o servidor deve questioná-la sobre a veracidade do relato e exigir provas antes de oferecer escuta e orientação.",
+    "gabarito": "E",
+    "comentario": "Errado. O acolhimento não é o momento de julgar a veracidade: exigir provas ou duvidar do relato causa revitimização e desestimula denúncias. A verificação dos fatos cabe à etapa de apuração, conduzida por quem tem competência para isso.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.3.4.2-03",
+    "topicoId": "1.3.4.2",
+    "enunciado": "O acolhimento da pessoa que relata assédio implica reconhecer, desde logo, a culpa do agente apontado, que pode ser punido com base apenas no relato recebido.",
+    "gabarito": "E",
+    "comentario": "Errado. Acolher a vítima não equivale a condenar o acusado. A responsabilização exige apuração e processo com contraditório e ampla defesa. Medidas de proteção (como afastamento ou mudança de lotação) podem ser adotadas antes, mas têm natureza protetiva, e não punitiva.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.3.5.1-01",
+    "topicoId": "1.3.5.1",
+    "enunciado": "Quando as regras de integridade são formalmente adotadas, mas a liderança tolera ou pratica condutas contrárias a elas, a tendência é que os servidores sigam o exemplo observado, e não a norma escrita.",
+    "gabarito": "C",
+    "comentario": "Certo. O “tom que vem do topo” (tone at the top) é o principal sinal sobre o que é realmente aceito na organização. A incoerência entre regra e prática esvazia o programa de integridade e gera cinismo.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.3.5.1-02",
+    "topicoId": "1.3.5.1",
+    "enunciado": "A integridade organizacional é responsabilidade exclusiva de cada servidor individualmente e não depende de incentivos, do ambiente organizacional nem das práticas da instituição.",
+    "gabarito": "E",
+    "comentario": "Errado. A conduta individual importa, mas é fortemente influenciada pelo contexto: metas que incentivam atalhos, ausência de canais, tolerância a desvios e falta de exemplo. Por isso a integridade é tratada como responsabilidade institucional, com programas, gestão de riscos e liderança.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.3.5.1-03",
+    "topicoId": "1.3.5.1",
+    "enunciado": "Canais de orientação permitem que servidores esclareçam dúvidas éticas antes de agir, enquanto canais de relato permitem comunicar irregularidades; ambos contribuem para a integridade institucional.",
+    "gabarito": "C",
+    "comentario": "Certo. A orientação é preventiva (evita o desvio por desconhecimento) e o relato é detectivo (traz à tona o que já ocorreu). Programas de integridade maduros oferecem os dois, com confidencialidade e proteção contra retaliação.",
+    "revisada": false,
+    "origem": "ia"
+  }
+]

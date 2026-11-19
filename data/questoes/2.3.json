@@ -1,0 +1,326 @@
+[
+  {
+    "id": "2.3.1.1-01",
+    "topicoId": "2.3.1.1",
+    "enunciado": "Segundo a LINDB, nas esferas administrativa, controladora e judicial, não se decidirá com base em valores jurídicos abstratos sem que sejam consideradas as consequências práticas da decisão.",
+    "gabarito": "C",
+    "comentario": "Certo. É o art. 20 do Decreto-Lei nº 4.657/1942 (LINDB), incluído pela Lei nº 13.655/2018. O parágrafo único exige que a motivação demonstre a necessidade e a adequação da medida, inclusive em face das possíveis alternativas.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.3.1.1-02",
+    "topicoId": "2.3.1.1",
+    "enunciado": "A motivação dos atos administrativos é dispensável quando o ato for discricionário, pois, nesse caso, a decisão depende apenas da conveniência e da oportunidade do administrador.",
+    "gabarito": "E",
+    "comentario": "Errado. A discricionariedade não dispensa motivação: ela permite escolher entre alternativas legítimas, mas a escolha precisa ser justificada para ser controlável. O art. 50 da Lei nº 9.784/1999 lista casos em que a motivação é obrigatória, como os atos que neguem ou limitem direitos e os que imponham sanções.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.3.1.1-03",
+    "topicoId": "2.3.1.1",
+    "enunciado": "Na interpretação de normas sobre gestão pública, devem ser considerados os obstáculos e as dificuldades reais do gestor e as exigências das políticas públicas a seu cargo, sem prejuízo dos direitos dos administrados.",
+    "gabarito": "C",
+    "comentario": "Certo. É o art. 22 da LINDB. O controle deve considerar as condições concretas em que a decisão foi tomada (prazo, recursos, informação disponível), e não um cenário ideal.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.3.1.2-01",
+    "topicoId": "2.3.1.2",
+    "enunciado": "Nos termos da Lei nº 9.784/1999, a motivação deve ser explícita, clara e congruente, podendo consistir em declaração de concordância com fundamentos de anteriores pareceres, informações, decisões ou propostas, que, nesse caso, serão parte integrante do ato.",
+    "gabarito": "C",
+    "comentario": "Certo. É o art. 50, § 1º, da Lei nº 9.784/1999. É a chamada motivação aliunde (por remissão), comum quando a autoridade acolhe parecer técnico.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.3.1.2-02",
+    "topicoId": "2.3.1.2",
+    "enunciado": "O direito da administração de anular os atos administrativos de que decorram efeitos favoráveis para os destinatários não está sujeito a prazo, podendo ser exercido a qualquer tempo, ainda que comprovada a boa-fé.",
+    "gabarito": "E",
+    "comentario": "Errado. Pelo art. 54 da Lei nº 9.784/1999, esse direito decai em cinco anos, contados da data em que os atos foram praticados, salvo comprovada má-fé. É limite em nome da segurança jurídica.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.3.1.2-03",
+    "topicoId": "2.3.1.2",
+    "enunciado": "A administração deve anular seus próprios atos quando eivados de vício de legalidade e pode revogá-los por motivo de conveniência ou oportunidade, respeitados os direitos adquiridos.",
+    "gabarito": "C",
+    "comentario": "Certo. É o art. 53 da Lei nº 9.784/1999, em linha com a Súmula 473 do STF (autotutela). Anulação: vício de legalidade, dever. Revogação: mérito, faculdade, apenas para atos válidos.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.3.2.1-01",
+    "topicoId": "2.3.2.1",
+    "enunciado": "Nos termos da Lei nº 9.784/1999, nos processos administrativos de que possam resultar sanções, devem ser garantidos os direitos à comunicação, à apresentação de alegações finais, à produção de provas e à interposição de recursos.",
+    "gabarito": "C",
+    "comentario": "Certo. É o art. 2º, parágrafo único, X, da Lei nº 9.784/1999, que concretiza o contraditório e a ampla defesa no processo administrativo.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.3.2.1-02",
+    "topicoId": "2.3.2.1",
+    "enunciado": "No processo administrativo, a imparcialidade da autoridade julgadora fica assegurada pelo simples fato de ela pertencer ao mesmo órgão do interessado.",
+    "gabarito": "E",
+    "comentario": "Errado. Pertencer ao mesmo órgão não garante nem compromete, por si só, a imparcialidade. Ela é protegida pelas regras de impedimento e suspeição (arts. 18 a 21 da Lei nº 9.784/1999) e pela motivação das decisões.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.3.2.1-03",
+    "topicoId": "2.3.2.1",
+    "enunciado": "A instrução do processo administrativo tem por finalidade averiguar e comprovar os dados necessários à tomada de decisão, que deve fundamentar-se nos elementos efetivamente produzidos nos autos.",
+    "gabarito": "C",
+    "comentario": "Certo. Art. 29 da Lei nº 9.784/1999. O art. 30 acrescenta que são inadmissíveis no processo administrativo as provas obtidas por meios ilícitos.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.3.2.2-01",
+    "topicoId": "2.3.2.2",
+    "enunciado": "Procedimentos investigativos de natureza preparatória, como a sindicância investigativa, destinam-se a reunir informações sobre fatos e autoria e não resultam diretamente em sanção, razão pela qual não exigem contraditório pleno.",
+    "gabarito": "C",
+    "comentario": "Certo. Procedimentos investigativos (inquisitoriais) servem para esclarecer se há base para um processo acusatório. Como não aplicam pena, o contraditório pleno é exigido depois, no processo sancionador.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.3.2.2-02",
+    "topicoId": "2.3.2.2",
+    "enunciado": "Nos termos da Lei nº 8.112/1990, a pena de demissão pode ser aplicada ao final de sindicância, dispensando-se a instauração de processo administrativo disciplinar.",
+    "gabarito": "E",
+    "comentario": "Errado. Pelo art. 146 da Lei nº 8.112/1990, sempre que o ilícito ensejar suspensão por mais de 30 dias, demissão, cassação de aposentadoria ou disponibilidade, ou destituição de cargo em comissão, é obrigatória a instauração de processo disciplinar.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.3.2.2-03",
+    "topicoId": "2.3.2.2",
+    "enunciado": "Da sindicância prevista na Lei nº 8.112/1990 poderá resultar o arquivamento do processo, a aplicação de penalidade de advertência ou de suspensão de até 30 dias ou a instauração de processo disciplinar.",
+    "gabarito": "C",
+    "comentario": "Certo. É o art. 145 da Lei nº 8.112/1990. Essa sindicância, por poder resultar em penalidade, é acusatória (punitiva) e exige contraditório, diferentemente da sindicância meramente investigativa.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.3.3.1-01",
+    "topicoId": "2.3.3.1",
+    "enunciado": "Nos termos da Constituição Federal, os Poderes Legislativo, Executivo e Judiciário manterão, de forma integrada, sistema de controle interno, que tem entre suas finalidades apoiar o controle externo no exercício de sua missão institucional.",
+    "gabarito": "C",
+    "comentario": "Certo. É o art. 74, caput e inciso IV, da CF. Controle interno e controle externo são complementares.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.3.3.1-02",
+    "topicoId": "2.3.3.1",
+    "enunciado": "O controle social restringe-se à participação dos cidadãos em eleições periódicas, não abrangendo a apresentação de denúncias de irregularidades aos órgãos de controle.",
+    "gabarito": "E",
+    "comentario": "Errado. O art. 74, § 2º, da CF dispõe que qualquer cidadão, partido político, associação ou sindicato é parte legítima para denunciar irregularidades ou ilegalidades perante o TCU. O controle social inclui ainda conselhos, ouvidorias, pedidos de informação e acompanhamento de gastos.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.3.3.1-03",
+    "topicoId": "2.3.3.1",
+    "enunciado": "A CGU exerce, no âmbito do Poder Executivo federal, a função de órgão central do Sistema de Controle Interno, além de atuar nas áreas de correição, ouvidoria, transparência e prevenção da corrupção.",
+    "gabarito": "C",
+    "comentario": "Certo. A CGU é órgão central dos sistemas de controle interno, de correição e de ouvidoria do Executivo federal e atua na promoção da transparência e da integridade. Essa atuação integrada é cobrada no edital.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.3.3.2-01",
+    "topicoId": "2.3.3.2",
+    "enunciado": "Entre as finalidades do sistema de controle interno previstas na Constituição Federal estão avaliar o cumprimento das metas do plano plurianual, a execução dos programas de governo e dos orçamentos, bem como avaliar os resultados quanto à eficácia e à eficiência da gestão orçamentária, financeira e patrimonial.",
+    "gabarito": "C",
+    "comentario": "Certo. É o art. 74, I e II, da CF. Note que o texto constitucional já fala em avaliar resultados, e não apenas em conferir a legalidade.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.3.3.2-02",
+    "topicoId": "2.3.3.2",
+    "enunciado": "A atuação do controle interno limita-se à detecção de irregularidades após sua ocorrência, não lhe cabendo atuar preventivamente nem apoiar o aprimoramento da gestão.",
+    "gabarito": "E",
+    "comentario": "Errado. O controle interno atua na prevenção, na detecção e na correção, e uma de suas funções centrais é apoiar o aprimoramento da gestão, da governança e dos controles, por exemplo por meio de consultoria e avaliação de políticas.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.3.3.2-03",
+    "topicoId": "2.3.3.2",
+    "enunciado": "A avaliação de políticas públicas pelo controle interno pode subsidiar decisões sobre a continuidade, o redesenho ou a ampliação de programas governamentais.",
+    "gabarito": "C",
+    "comentario": "Certo. Avaliações sobre desenho, implementação e resultados geram evidências úteis para a alocação de recursos e para o aperfeiçoamento das políticas, em apoio à tomada de decisão dos gestores.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.3.3.3-01",
+    "topicoId": "2.3.3.3",
+    "enunciado": "Compete ao Tribunal de Contas da União julgar as contas dos administradores e demais responsáveis por dinheiros, bens e valores públicos da administração direta e indireta.",
+    "gabarito": "C",
+    "comentario": "Certo. É o art. 71, II, da CF. Atenção: as contas anuais do Presidente da República não são julgadas pelo TCU, que emite parecer prévio; o julgamento é do Congresso Nacional (art. 71, I, e art. 49, IX).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.3.3.3-02",
+    "topicoId": "2.3.3.3",
+    "enunciado": "Ao constatar irregularidade, o controle interno pode decidir pelo gestor e executar diretamente as medidas corretivas na unidade auditada, substituindo-o.",
+    "gabarito": "E",
+    "comentario": "Errado. O controle recomenda e acompanha; a decisão e a execução continuam sendo responsabilidade do gestor. Substituí-lo comprometeria a independência do controle e a responsabilização da gestão.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.3.3.3-03",
+    "topicoId": "2.3.3.3",
+    "enunciado": "Os responsáveis pelo controle interno, ao tomarem conhecimento de qualquer irregularidade ou ilegalidade, dela darão ciência ao Tribunal de Contas da União, sob pena de responsabilidade solidária.",
+    "gabarito": "C",
+    "comentario": "Certo. É o art. 74, § 1º, da CF. É um ponto de ligação obrigatória entre controle interno e externo.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.3.3.3-04",
+    "topicoId": "2.3.3.3",
+    "enunciado": "O controle interno do Poder Executivo federal está subordinado hierarquicamente ao Tribunal de Contas da União.",
+    "gabarito": "E",
+    "comentario": "Errado. O controle interno integra a estrutura do próprio Poder Executivo; o TCU é órgão auxiliar do Congresso Nacional no controle externo. Há cooperação e dever de apoio (art. 74, IV), mas não subordinação.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.3.3.4-01",
+    "topicoId": "2.3.3.4",
+    "enunciado": "Avaliar a gestão, apurar fatos e aplicar sanções são atividades distintas: a avaliação examina desempenho e controles, a apuração esclarece a ocorrência de irregularidades e a sanção depende de processo próprio, com garantias de defesa.",
+    "gabarito": "C",
+    "comentario": "Certo. Cada atividade tem finalidade, método e garantias próprios. Um achado de auditoria pode fundamentar uma apuração, mas não substitui o processo sancionador.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.3.3.4-02",
+    "topicoId": "2.3.3.4",
+    "enunciado": "Um relatório de auditoria que aponta irregularidade equivale à aplicação de sanção ao gestor responsável, dispensando processo posterior.",
+    "gabarito": "E",
+    "comentario": "Errado. O relatório comunica achados e recomendações. Sanção exige processo próprio (disciplinar, de contas, de responsabilização) com contraditório e ampla defesa.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.3.3.4-03",
+    "topicoId": "2.3.3.4",
+    "enunciado": "O compartilhamento de informações entre órgãos de controle deve observar os requisitos legais, inclusive quanto a dados protegidos por sigilo, e pode evitar duplicidade de esforços.",
+    "gabarito": "C",
+    "comentario": "Certo. Cooperação entre instâncias (CGU, TCU, Polícia Federal, Ministério Público) amplia a efetividade, desde que respeitados os limites legais do sigilo e as finalidades de cada órgão.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.3.4.1-01",
+    "topicoId": "2.3.4.1",
+    "enunciado": "Indício é um sinal que sugere a possível ocorrência de irregularidade, mas que ainda precisa ser confirmado ou afastado por meio de evidências adicionais.",
+    "gabarito": "C",
+    "comentario": "Certo. Um pagamento atípico ou um vínculo entre fornecedores é indício. Só a apuração dirá se há irregularidade, falha de gestão ou explicação legítima.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.3.4.1-02",
+    "topicoId": "2.3.4.1",
+    "enunciado": "Toda irregularidade identificada em auditoria implica, necessariamente, a responsabilização pessoal do gestor, independentemente de dolo, culpa ou das circunstâncias do caso.",
+    "gabarito": "E",
+    "comentario": "Errado. Irregularidade (fato em desacordo com o critério) é diferente de responsabilidade (imputação a alguém). Pelo art. 28 da LINDB, o agente responde pessoalmente por suas decisões ou opiniões técnicas apenas em caso de dolo ou erro grosseiro.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.3.4.1-03",
+    "topicoId": "2.3.4.1",
+    "enunciado": "Uma falha de gestão pode decorrer de deficiências de processos, sistemas ou capacitação, sem que haja irregularidade dolosa ou responsabilidade pessoal a apurar.",
+    "gabarito": "C",
+    "comentario": "Certo. Nesses casos, a resposta adequada é a correção (recomendação de melhoria), e não a punição. Distinguir falha de gestão de irregularidade evita tanto a impunidade quanto a punição injusta.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.3.4.2-01",
+    "topicoId": "2.3.4.2",
+    "enunciado": "A Lei nº 12.846/2013 prevê a responsabilização objetiva, nos âmbitos administrativo e civil, de pessoas jurídicas pela prática de atos contra a administração pública, nacional ou estrangeira.",
+    "gabarito": "C",
+    "comentario": "Certo. É o art. 1º da Lei Anticorrupção, e o art. 2º reforça que a pessoa jurídica responde objetivamente pelos atos lesivos praticados em seu interesse ou benefício, exclusivo ou não. Não é preciso provar culpa ou dolo da empresa.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.3.4.2-02",
+    "topicoId": "2.3.4.2",
+    "enunciado": "A celebração de acordo de leniência exime a pessoa jurídica da obrigação de reparar integralmente o dano causado.",
+    "gabarito": "E",
+    "comentario": "Errado. Pelo art. 16, § 3º, da Lei nº 12.846/2013, o acordo de leniência não exime a pessoa jurídica da obrigação de reparar integralmente o dano. O acordo pode reduzir em até 2/3 o valor da multa e isentar de algumas sanções (§ 2º).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.3.4.2-03",
+    "topicoId": "2.3.4.2",
+    "enunciado": "No âmbito do Poder Executivo federal, a CGU é o órgão competente para celebrar os acordos de leniência previstos na Lei nº 12.846/2013, bem como no caso de atos lesivos praticados contra a administração pública estrangeira.",
+    "gabarito": "C",
+    "comentario": "Certo. É o art. 16, § 10, da Lei nº 12.846/2013. Na prática, a CGU atua em conjunto com a AGU na negociação desses acordos.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.3.4.2-04",
+    "topicoId": "2.3.4.2",
+    "enunciado": "A responsabilização disciplinar de servidores públicos federais, assim como a de pessoas jurídicas pela Lei Anticorrupção, é objetiva, dispensando a demonstração de culpa ou dolo.",
+    "gabarito": "E",
+    "comentario": "Errado. A responsabilidade objetiva vale para a pessoa jurídica na Lei nº 12.846/2013. A responsabilidade disciplinar do servidor é subjetiva: exige demonstrar autoria, materialidade e elemento subjetivo (dolo ou culpa, conforme a infração).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.3.5.1-01",
+    "topicoId": "2.3.5.1",
+    "enunciado": "Diante de relato de assédio, medidas de proteção, como a alteração temporária de lotação, podem ser adotadas antes da conclusão da apuração, sem que isso represente juízo antecipado de culpa.",
+    "gabarito": "C",
+    "comentario": "Certo. Medidas protetivas têm finalidade de proteger pessoas e preservar a apuração, e não de punir. Por isso podem preceder a conclusão do processo, desde que fundamentadas e proporcionais.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.3.5.1-02",
+    "topicoId": "2.3.5.1",
+    "enunciado": "A adoção de medida protetiva em favor da pessoa que relata assédio deve aguardar a conclusão do processo disciplinar, para não violar a presunção de inocência do acusado.",
+    "gabarito": "E",
+    "comentario": "Errado. Esperar o fim do processo pode deixar a vítima exposta por meses. A presunção de inocência impede a punição antecipada, mas não impede medidas de proteção fundamentadas, que não têm caráter sancionador.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.3.5.1-03",
+    "topicoId": "2.3.5.1",
+    "enunciado": "A conclusão sancionadora sobre assédio exige processo com contraditório e ampla defesa, ainda que o relato da vítima tenha sido acolhido e considerado consistente.",
+    "gabarito": "C",
+    "comentario": "Certo. Acolher e proteger não equivale a condenar. A sanção depende de processo regular com garantias, em que o relato da vítima é elemento de prova relevante, analisado com o conjunto das demais provas.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.3.5.1-04",
+    "topicoId": "2.3.5.1",
+    "enunciado": "No tratamento de denúncia de assédio, é recomendável promover, como primeira medida, a acareação imediata entre a vítima e o acusado, para esclarecer rapidamente os fatos.",
+    "gabarito": "E",
+    "comentario": "Errado. Colocar a vítima frente a frente com o acusado logo no início pode causar revitimização e intimidação. As orientações recomendam acolhimento, escuta qualificada e cautela na instrução, evitando exposição desnecessária.",
+    "revisada": false,
+    "origem": "ia"
+  }
+]

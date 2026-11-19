@@ -1,0 +1,461 @@
+[
+  {
+    "id": "2.2.1.1-01",
+    "topicoId": "2.2.1.1",
+    "enunciado": "Nos termos da Lei de Acesso à Informação, a observância da publicidade como preceito geral e do sigilo como exceção é uma das diretrizes que orientam o direito fundamental de acesso à informação.",
+    "gabarito": "C",
+    "comentario": "Certo. É o art. 3º, I, da Lei nº 12.527/2011. As demais diretrizes incluem a divulgação de informações de interesse público independentemente de solicitação, o uso de tecnologias de informação, o fomento à cultura de transparência e o desenvolvimento do controle social.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.2.1.1-02",
+    "topicoId": "2.2.1.1",
+    "enunciado": "A transparência ativa ocorre quando o órgão fornece a informação em resposta a pedido apresentado pelo cidadão.",
+    "gabarito": "E",
+    "comentario": "Errado. Isso é transparência passiva. Transparência ativa é a divulgação por iniciativa do próprio órgão, independentemente de pedido, como prevê o art. 8º da LAI (estrutura, despesas, licitações, contratos, programas etc.).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.2.1.1-03",
+    "topicoId": "2.2.1.1",
+    "enunciado": "Não sendo possível conceder o acesso imediato à informação solicitada, o órgão deverá atender ao pedido em prazo não superior a 20 dias, prorrogável por mais 10 dias mediante justificativa expressa, da qual será cientificado o requerente.",
+    "gabarito": "C",
+    "comentario": "Certo. Art. 11, §§ 1º e 2º, da Lei nº 12.527/2011. A regra é o acesso imediato à informação disponível; o prazo de 20 + 10 dias aplica-se quando isso não é possível.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.2.1.1-04",
+    "topicoId": "2.2.1.1",
+    "enunciado": "Nos termos da Lei de Acesso à Informação, o requerente deve apresentar os motivos determinantes da solicitação de informações de interesse público, para que o órgão avalie a pertinência do pedido.",
+    "gabarito": "E",
+    "comentario": "Errado. O art. 10, § 3º, da Lei nº 12.527/2011 veda quaisquer exigências relativas aos motivos determinantes da solicitação de informações de interesse público. A publicidade é a regra; quem precisa motivar é a decisão que restringe o acesso.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.2.1.2-01",
+    "topicoId": "2.2.1.2",
+    "enunciado": "Segundo a Lei nº 12.527/2011, as informações classificadas nos graus ultrassecreto, secreto e reservado têm prazos máximos de restrição de acesso de 25, 15 e 5 anos, respectivamente.",
+    "gabarito": "C",
+    "comentario": "Certo. Art. 24, § 1º, da LAI. Apenas o prazo da informação ultrassecreta pode ser prorrogado, uma única vez, por igual período (art. 35, § 1º, III). Para memorizar: 25-15-5.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.2.1.2-02",
+    "topicoId": "2.2.1.2",
+    "enunciado": "As informações pessoais relativas à intimidade, à vida privada, à honra e à imagem precisam ser classificadas no grau secreto para que tenham o seu acesso restringido.",
+    "gabarito": "E",
+    "comentario": "Errado. Informação pessoal não é objeto de classificação. Pelo art. 31, § 1º, I, da LAI, ela tem acesso restrito independentemente de classificação de sigilo, pelo prazo máximo de 100 anos, a agentes públicos legalmente autorizados e à própria pessoa.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.2.1.2-03",
+    "topicoId": "2.2.1.2",
+    "enunciado": "Quando não for autorizado o acesso integral à informação por ser ela parcialmente sigilosa, é assegurado o acesso à parte não sigilosa por meio de certidão, extrato ou cópia com ocultação da parte sob sigilo.",
+    "gabarito": "C",
+    "comentario": "Certo. É o art. 7º, § 2º, da LAI (acesso parcial). A existência de um trecho sigiloso não justifica negar o documento inteiro.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.2.1.2-04",
+    "topicoId": "2.2.1.2",
+    "enunciado": "Documentos preparatórios utilizados como fundamento de decisão administrativa permanecem com acesso restrito por tempo indeterminado, mesmo após a edição do ato decisório.",
+    "gabarito": "E",
+    "comentario": "Errado. Pelo art. 7º, § 3º, da LAI, o direito de acesso aos documentos utilizados como fundamento da tomada de decisão e do ato administrativo será assegurado com a edição do ato decisório respectivo. A restrição ao documento preparatório é temporária.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.2.2.1-01",
+    "topicoId": "2.2.2.1",
+    "enunciado": "A LAI e a LGPD são compatíveis: a proteção de dados pessoais não afasta o dever de transparência, devendo-se divulgar as informações de interesse público com as salvaguardas necessárias aos dados pessoais.",
+    "gabarito": "C",
+    "comentario": "Certo. As duas leis convivem: a LGPD não é fundamento para negar informação pública, e a LAI já protegia informações pessoais (art. 31). A solução costuma estar em divulgar o que é de interesse público e proteger o que é excessivo.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.2.2.1-02",
+    "topicoId": "2.2.2.1",
+    "enunciado": "Por envolver dados pessoais, a remuneração individualizada dos servidores públicos, vinculada aos respectivos nomes, não pode ser divulgada pela administração pública.",
+    "gabarito": "E",
+    "comentario": "Errado. O STF fixou, no Tema 483 de repercussão geral (ARE 652.777), que é legítima a publicação, inclusive em sítio eletrônico mantido pela administração, dos nomes dos servidores e do valor dos correspondentes vencimentos e vantagens pecuniárias.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.2.2.1-03",
+    "topicoId": "2.2.2.1",
+    "enunciado": "O princípio da necessidade, previsto na LGPD, limita o tratamento de dados pessoais ao mínimo necessário para a realização de suas finalidades, abrangendo dados pertinentes, proporcionais e não excessivos.",
+    "gabarito": "C",
+    "comentario": "Certo. É o art. 6º, III, da Lei nº 13.709/2018. Ele se combina com os princípios da finalidade (propósitos legítimos e informados) e da adequação (compatibilidade com a finalidade).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.2.2.2-01",
+    "topicoId": "2.2.2.2",
+    "enunciado": "Para a LGPD, dados referentes à saúde, à origem racial ou étnica, à convicção religiosa e à filiação a sindicato são considerados dados pessoais sensíveis.",
+    "gabarito": "C",
+    "comentario": "Certo. O art. 5º, II, da LGPD lista como sensíveis: origem racial ou étnica, convicção religiosa, opinião política, filiação a sindicato ou a organização de caráter religioso, filosófico ou político, dado referente à saúde ou à vida sexual e dado genético ou biométrico.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.2.2.2-02",
+    "topicoId": "2.2.2.2",
+    "enunciado": "Segundo a LGPD, o endereço residencial e o número de CPF de uma pessoa são dados pessoais sensíveis.",
+    "gabarito": "E",
+    "comentario": "Errado. São dados pessoais (relacionados a pessoa identificada ou identificável), mas não estão no rol de sensíveis do art. 5º, II. Isso não significa que possam ser divulgados livremente: continuam protegidos pelos princípios da LGPD.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.2.2.2-03",
+    "topicoId": "2.2.2.2",
+    "enunciado": "Dados anonimizados não são considerados dados pessoais para os fins da LGPD, salvo quando o processo de anonimização ao qual foram submetidos puder ser revertido com esforços razoáveis.",
+    "gabarito": "C",
+    "comentario": "Certo. É o art. 12 da LGPD. A anonimização verdadeira impede a identificação considerando meios técnicos razoáveis; se for reversível, os dados continuam sendo pessoais.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.2.2.2-04",
+    "topicoId": "2.2.2.2",
+    "enunciado": "A simples retirada do nome e do CPF de uma base de dados é sempre suficiente para torná-la anonimizada, pois os demais atributos não permitem identificar pessoas.",
+    "gabarito": "E",
+    "comentario": "Errado. Combinações de atributos como data de nascimento, sexo, município e cargo podem identificar uma pessoa, especialmente em grupos pequenos (risco de reidentificação). O tarjamento e a anonimização devem considerar essas combinações.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.2.3.1-01",
+    "topicoId": "2.2.3.1",
+    "enunciado": "Nos termos da Lei nº 13.460/2017, manifestações são reclamações, denúncias, sugestões, elogios e demais pronunciamentos de usuários que tenham como objeto a prestação de serviços públicos e a conduta de agentes públicos na prestação e fiscalização desses serviços.",
+    "gabarito": "C",
+    "comentario": "Certo. É a definição do art. 2º, V, da Lei nº 13.460/2017 (Código de Defesa do Usuário do Serviço Público). No Executivo federal, a regulamentação inclui também a solicitação de providências.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.2.3.1-02",
+    "topicoId": "2.2.3.1",
+    "enunciado": "Conforme a Lei nº 13.460/2017, a ouvidoria pode exigir do usuário a exposição dos motivos determinantes da apresentação de sua manifestação.",
+    "gabarito": "E",
+    "comentario": "Errado. O art. 10, § 2º, da Lei nº 13.460/2017 veda quaisquer exigências relativas aos motivos determinantes da apresentação de manifestações perante a ouvidoria. A mesma lógica vale para os pedidos de acesso à informação na LAI.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.2.3.1-03",
+    "topicoId": "2.2.3.1",
+    "enunciado": "Segundo a Lei nº 13.460/2017, a ouvidoria deverá elaborar e apresentar resposta conclusiva à manifestação do usuário no prazo de 30 dias, prorrogável de forma justificada uma única vez, por igual período.",
+    "gabarito": "C",
+    "comentario": "Certo. É o art. 16 da Lei nº 13.460/2017. Não confundir com a LAI, cujo prazo é de 20 dias prorrogáveis por mais 10.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.2.3.2-01",
+    "topicoId": "2.2.3.2",
+    "enunciado": "Nos termos da Lei nº 13.460/2017, a identificação do requerente é informação pessoal protegida com restrição de acesso, nos termos da Lei de Acesso à Informação.",
+    "gabarito": "C",
+    "comentario": "Certo. É o art. 10, § 7º, da Lei nº 13.460/2017. A proteção da identidade é condição para que as pessoas se sintam seguras para se manifestar.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.2.3.2-02",
+    "topicoId": "2.2.3.2",
+    "enunciado": "A proteção da identidade do denunciante impede que a administração apure os fatos relatados, razão pela qual denúncias com pedido de sigilo devem ser arquivadas.",
+    "gabarito": "E",
+    "comentario": "Errado. A apuração recai sobre os fatos, e não sobre quem os relatou. A identidade fica protegida (por exemplo, por pseudonimização) e a apuração segue normalmente, desde que haja elementos mínimos.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.2.3.2-03",
+    "topicoId": "2.2.3.2",
+    "enunciado": "Nos termos da Lei nº 13.608/2018, o informante terá direito à preservação de sua identidade, que apenas será revelada em caso de relevante interesse público ou interesse concreto para a apuração dos fatos.",
+    "gabarito": "C",
+    "comentario": "Certo. É o art. 4º-B da Lei nº 13.608/2018, incluído pela Lei nº 13.964/2019. A mesma lei assegura proteção contra ações ou omissões retaliatórias ao informante (art. 4º-C).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.2.3.3-01",
+    "topicoId": "2.2.3.3",
+    "enunciado": "Receber um relato, apurar os fatos e decidir sobre responsabilidade são etapas distintas: a ouvidoria acolhe e encaminha a manifestação, enquanto a apuração e a eventual responsabilização cabem às instâncias competentes.",
+    "gabarito": "C",
+    "comentario": "Certo. A ouvidoria não julga: ela recebe, analisa a admissibilidade, protege a identidade e encaminha. A apuração cabe às áreas competentes (auditoria, correição), e a responsabilização exige processo com contraditório.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.2.3.3-02",
+    "topicoId": "2.2.3.3",
+    "enunciado": "Ao receber denúncia contra servidor, a ouvidoria deve aplicar-lhe diretamente a penalidade cabível, uma vez que concentra as informações do caso.",
+    "gabarito": "E",
+    "comentario": "Errado. A ouvidoria não tem competência sancionadora. A penalidade depende de apuração pela unidade correcional e de processo com contraditório e ampla defesa.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.2.3.3-03",
+    "topicoId": "2.2.3.3",
+    "enunciado": "Toda denúncia recebida pela ouvidoria deve gerar, automaticamente, a instauração de processo disciplinar contra o servidor citado, independentemente da existência de elementos mínimos de autoria e materialidade.",
+    "gabarito": "E",
+    "comentario": "Errado. Há uma etapa de análise (juízo de admissibilidade) que verifica se o relato traz elementos mínimos. Instaurar processo sem base expõe o servidor indevidamente e desperdiça recursos; denúncias sem elementos podem ser arquivadas fundamentadamente ou complementadas.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.2.4.1-01",
+    "topicoId": "2.2.4.1",
+    "enunciado": "Conselhos de políticas públicas, conferências, audiências públicas e consultas públicas são instâncias e mecanismos de participação social que permitem à sociedade influenciar a formulação e o acompanhamento de políticas.",
+    "gabarito": "C",
+    "comentario": "Certo. Esses mecanismos ampliam o controle social e trazem ao processo decisório informações que a administração não teria sozinha, como a experiência de quem usa o serviço.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.2.4.1-02",
+    "topicoId": "2.2.4.1",
+    "enunciado": "A simples existência de um conselho de políticas públicas garante a representatividade dos diferentes segmentos afetados pela política.",
+    "gabarito": "E",
+    "comentario": "Errado. A representatividade depende de como os membros são escolhidos, de quem consegue participar e de se o conselho tem informação e poder real. Conselhos podem ser dominados por grupos mais organizados.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.2.4.1-03",
+    "topicoId": "2.2.4.1",
+    "enunciado": "Horários de reunião incompatíveis com a jornada de trabalho, linguagem técnica excessiva e falta de acessibilidade são exemplos de barreiras à participação social.",
+    "gabarito": "C",
+    "comentario": "Certo. Essas barreiras fazem com que participem mais os que já têm tempo, informação e recursos, reproduzindo desigualdades. Reduzi-las amplia a representatividade.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.2.4.2-01",
+    "topicoId": "2.2.4.2",
+    "enunciado": "A concentração de reclamações sobre uma mesma etapa de um serviço, ao longo do tempo, pode sinalizar problema estrutural no processo, e não apenas falhas pontuais de atendimento.",
+    "gabarito": "C",
+    "comentario": "Certo. Uma reclamação isolada pode ser caso individual; um padrão recorrente indica causa sistêmica (regra mal desenhada, sistema instável, falta de pessoal). É o uso das manifestações como insumo de gestão.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.2.4.2-02",
+    "topicoId": "2.2.4.2",
+    "enunciado": "Como cada manifestação de ouvidoria é individual, a análise agregada das manifestações não tem utilidade para a gestão.",
+    "gabarito": "E",
+    "comentario": "Errado. A análise agregada revela padrões, tendências e pontos críticos que nenhum caso individual mostra. A Lei nº 13.460/2017 prevê relatórios de gestão das ouvidorias com indicação das falhas e proposição de melhorias (art. 14 e 15).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.2.4.2-03",
+    "topicoId": "2.2.4.2",
+    "enunciado": "Ao analisar recorrências em manifestações, é importante considerar que um aumento das reclamações pode decorrer de maior divulgação do canal, e não necessariamente da piora do serviço.",
+    "gabarito": "C",
+    "comentario": "Certo. O volume de manifestações depende da qualidade do serviço e também do acesso ao canal. Antes de concluir, é preciso considerar mudanças na divulgação, no público atendido e na forma de registro.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.2.4.3-01",
+    "topicoId": "2.2.4.3",
+    "enunciado": "Subnotificação ocorre quando parte dos eventos ou problemas existentes não chega a ser registrada nos canais oficiais, o que faz com que os registros subestimem a ocorrência real.",
+    "gabarito": "C",
+    "comentario": "Certo. Os registros mostram o que foi relatado, não o que ocorreu. Por isso, dados de denúncias e manifestações devem ser lidos como piso, e não como medida completa do problema.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.2.4.3-02",
+    "topicoId": "2.2.4.3",
+    "enunciado": "Grupos mais vulneráveis tendem a registrar mais manifestações que os demais, de modo que os dados de ouvidoria superestimam os problemas que os afetam.",
+    "gabarito": "E",
+    "comentario": "Errado. Em geral ocorre o contrário: grupos vulneráveis enfrentam mais barreiras para se manifestar (acesso, linguagem, medo, descrença), o que leva à subnotificação justamente dos problemas que mais os afetam.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.2.4.3-03",
+    "topicoId": "2.2.4.3",
+    "enunciado": "O medo de retaliação, a descrença na resolução e o desconhecimento dos canais são fatores que contribuem para a subnotificação de problemas em serviços públicos.",
+    "gabarito": "C",
+    "comentario": "Certo. Combater a subnotificação envolve proteger quem relata, dar devolutiva sobre o que foi feito e divulgar os canais de forma acessível.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.2.4.4-01",
+    "topicoId": "2.2.4.4",
+    "enunciado": "O Portal da Transparência do Governo Federal, mantido pela CGU, divulga informações sobre a aplicação de recursos públicos federais, como despesas, transferências, contratos, sanções e dados de servidores.",
+    "gabarito": "C",
+    "comentario": "Certo. O portal reúne dados de diversas fontes do governo federal e é instrumento de transparência ativa e de controle social, inclusive com consultas e downloads de dados abertos.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.2.4.4-02",
+    "topicoId": "2.2.4.4",
+    "enunciado": "Dados abertos são aqueles publicados exclusivamente em formato PDF, para garantir que não sejam alterados pelos usuários.",
+    "gabarito": "E",
+    "comentario": "Errado. Dados abertos devem estar em formato aberto e legível por máquina (como CSV ou JSON), sem restrições de licença, para permitir reutilização e cruzamento. PDF de tabela dificulta o reúso. A LAI (art. 8º, § 3º, II e III) exige formatos que possibilitem análise e acesso automatizado.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.2.4.4-03",
+    "topicoId": "2.2.4.4",
+    "enunciado": "Informações de transparência podem apresentar limitações de cobertura, atualização e qualidade, o que deve ser considerado ao utilizá-las como base para conclusões de controle social.",
+    "gabarito": "C",
+    "comentario": "Certo. Uma base pode não incluir todos os órgãos, estar defasada ou conter erros de registro. Conclusões a partir dela devem considerar essas limitações.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.2.4.5-01",
+    "topicoId": "2.2.4.5",
+    "enunciado": "Nos termos da LAI, cabe a órgão do Poder Executivo federal designado, função atribuída à CGU, promover campanha de fomento à cultura da transparência, treinar agentes públicos e monitorar a aplicação da lei no âmbito da administração pública federal.",
+    "gabarito": "C",
+    "comentario": "Certo. É o art. 41 da Lei nº 12.527/2011, que inclui ainda o encaminhamento de relatório anual ao Congresso Nacional. A designação da CGU consta do regulamento da LAI (Decreto nº 7.724/2012).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.2.4.5-02",
+    "topicoId": "2.2.4.5",
+    "enunciado": "Ao monitorar a transparência dos órgãos, a CGU substitui os gestores na decisão de cada pedido de acesso à informação apresentado em primeira instância.",
+    "gabarito": "E",
+    "comentario": "Errado. A primeira decisão cabe ao próprio órgão que detém a informação. A CGU orienta, monitora e atua como instância recursal, mas não substitui os órgãos na resposta inicial.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.2.4.5-03",
+    "topicoId": "2.2.4.5",
+    "enunciado": "No Poder Executivo federal, a CGU atua como instância recursal em pedidos de acesso à informação negados, após a manifestação da autoridade hierarquicamente superior à que exarou a decisão impugnada.",
+    "gabarito": "C",
+    "comentario": "Certo. Art. 15 e art. 16 da LAI: primeiro recurso à autoridade hierarquicamente superior; depois, recurso à CGU. Em seguida, pode caber recurso à Comissão Mista de Reavaliação de Informações nos casos previstos.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.2.5.1-01",
+    "topicoId": "2.2.5.1",
+    "enunciado": "Distinguir fato, alegação e interpretação é essencial na análise de informações: um fato é verificável; uma alegação é uma afirmação que ainda precisa ser verificada; e uma interpretação atribui sentido aos fatos.",
+    "gabarito": "C",
+    "comentario": "Certo. Tratar alegação como fato leva a conclusões sem base; tratar interpretação como fato esconde juízos de valor. A distinção é básica em ouvidoria, auditoria e comunicação pública.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.2.5.1-02",
+    "topicoId": "2.2.5.1",
+    "enunciado": "Uma informação repetida por várias fontes deve ser considerada confirmada, ainda que todas a tenham obtido de uma mesma origem.",
+    "gabarito": "E",
+    "comentario": "Errado. Repetição não é confirmação. Se todas as fontes vêm da mesma origem, há uma única fonte, replicada. Confirmação exige fontes independentes.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.2.5.1-03",
+    "topicoId": "2.2.5.1",
+    "enunciado": "Avaliar a confiabilidade de uma fonte envolve considerar sua origem, seus possíveis interesses, a data e o contexto em que a informação foi produzida.",
+    "gabarito": "C",
+    "comentario": "Certo. Uma informação verdadeira em 2015 pode estar desatualizada; um dado correto pode ser apresentado fora de contexto. Saber quem produziu e por quê ajuda a avaliar possíveis vieses.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.2.5.2-01",
+    "topicoId": "2.2.5.2",
+    "enunciado": "Campanhas de desinformação sobre vacinas podem reduzir a cobertura vacinal e comprometer a efetividade de uma política de saúde pública.",
+    "gabarito": "C",
+    "comentario": "Certo. A desinformação afeta o comportamento dos cidadãos e, com isso, os resultados das políticas. Respostas incluem comunicação clara e oportuna, fontes confiáveis e transparência sobre dados.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.2.5.2-02",
+    "topicoId": "2.2.5.2",
+    "enunciado": "Ao comunicar resultados com incerteza relevante, o órgão público deve omiti-la, para evitar que o público duvide das conclusões.",
+    "gabarito": "E",
+    "comentario": "Errado. Omitir incertezas compromete a credibilidade quando os resultados mudam. A boa prática é comunicar o que se sabe, o que não se sabe e o que pode mudar, em linguagem acessível.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.2.5.2-03",
+    "topicoId": "2.2.5.2",
+    "enunciado": "Corrigir publicamente um erro divulgado anteriormente, de forma clara e visível, tende a preservar a credibilidade institucional no médio prazo.",
+    "gabarito": "C",
+    "comentario": "Certo. Instituições que reconhecem e corrigem erros com transparência são percebidas como mais confiáveis do que as que os escondem e são descobertas depois.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.2.5.3-01",
+    "topicoId": "2.2.5.3",
+    "enunciado": "A Constituição Federal assegura a livre manifestação do pensamento, sendo vedado o anonimato.",
+    "gabarito": "C",
+    "comentario": "Certo. É o art. 5º, IV, da CF. A vedação do anonimato permite a responsabilização por abusos. Não confundir com a denúncia anônima a órgãos de controle, que pode desencadear apuração preliminar.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.2.5.3-02",
+    "topicoId": "2.2.5.3",
+    "enunciado": "O pluralismo político, fundamento da República, implica que o Estado deve promover uma única versão oficial dos fatos, para evitar divergências na sociedade.",
+    "gabarito": "E",
+    "comentario": "Errado. Pluralismo é justamente a convivência de diferentes ideias, opiniões e versões, inclusive críticas ao governo. Ao Estado cabe garantir informação de qualidade, e não impor uma narrativa única.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.2.5.3-03",
+    "topicoId": "2.2.5.3",
+    "enunciado": "A liberdade de expressão não é absoluta: abusos como a calúnia, a difamação e a injúria podem ser responsabilizados posteriormente, assegurado o direito de resposta proporcional ao agravo.",
+    "gabarito": "C",
+    "comentario": "Certo. A CF assegura o direito de resposta proporcional ao agravo, além da indenização por dano material, moral ou à imagem (art. 5º, V). A regra é a responsabilização posterior, e não a censura prévia.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.2.5.4-01",
+    "topicoId": "2.2.5.4",
+    "enunciado": "A crítica a políticas públicas, ainda que contundente, é manifestação legítima no debate democrático e não se confunde com desinformação.",
+    "gabarito": "C",
+    "comentario": "Certo. Discordar, avaliar negativamente e cobrar resultados são formas legítimas de participação. A desinformação se caracteriza pelo conteúdo falso ou enganoso, e não pelo tom crítico.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.2.5.4-02",
+    "topicoId": "2.2.5.4",
+    "enunciado": "Toda informação que contrarie a posição oficial do governo deve ser classificada como desinformação.",
+    "gabarito": "E",
+    "comentario": "Errado. Discordar da posição oficial não torna uma informação falsa. Rotular críticas como desinformação ameaça a liberdade de expressão e o pluralismo.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.2.5.4-03",
+    "topicoId": "2.2.5.4",
+    "enunciado": "Desinformação pode ser caracterizada como conteúdo falso ou enganoso, frequentemente disseminado de forma deliberada e capaz de causar dano, ao passo que a crítica legítima expressa avaliação ou opinião sobre fatos.",
+    "gabarito": "C",
+    "comentario": "Certo. Os critérios usuais são a falsidade ou o caráter enganoso (inclusive fatos verdadeiros fora de contexto) e o potencial de dano. Opiniões não são verdadeiras nem falsas; fatos sim.",
+    "revisada": false,
+    "origem": "ia"
+  }
+]

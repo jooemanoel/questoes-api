@@ -1,0 +1,335 @@
+[
+  {
+    "id": "2.4.1.1-01",
+    "topicoId": "2.4.1.1",
+    "enunciado": "Uma pergunta de avaliação ou de auditoria bem formulada orienta quais informações devem ser coletadas e quais fontes são adequadas, evitando a coleta de dados sem propósito definido.",
+    "gabarito": "C",
+    "comentario": "Certo. O caminho é problema → pergunta → informação necessária → fonte. Sem pergunta clara, coleta-se muito dado e pouca evidência útil.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.4.1.1-02",
+    "topicoId": "2.4.1.1",
+    "enunciado": "Dados administrativos, por serem produzidos pelo próprio governo, são isentos de erros e dispensam verificação de qualidade antes de serem utilizados em análises.",
+    "gabarito": "E",
+    "comentario": "Errado. Registros administrativos são produzidos para operar processos, não para pesquisa: podem ter erros de digitação, campos vazios, mudanças de conceito ao longo do tempo e cobertura incompleta. Verificar a qualidade é etapa obrigatória.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.4.1.1-03",
+    "topicoId": "2.4.1.1",
+    "enunciado": "Fontes documentais, registros administrativos, estatísticas oficiais e manifestações de participação social podem ser combinadas para responder a uma mesma pergunta, compensando as limitações de cada uma.",
+    "gabarito": "C",
+    "comentario": "Certo. É a ideia de triangulação: registros administrativos mostram o que foi feito, estatísticas mostram o contexto, manifestações mostram a experiência do usuário. Juntas, dão um quadro mais confiável.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.4.1.2-01",
+    "topicoId": "2.4.1.2",
+    "enunciado": "Dado é o registro bruto; evidência é o dado ou a informação que, relacionado a uma pergunta ou critério, sustenta ou refuta uma afirmação; e interpretação é o sentido atribuído à evidência.",
+    "gabarito": "C",
+    "comentario": "Certo. O mesmo dado (por exemplo, a data de um pagamento) só vira evidência quando conectado a uma pergunta (o pagamento ocorreu antes da entrega?). A interpretação vem depois e deve ser distinguida da evidência.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.4.1.2-02",
+    "topicoId": "2.4.1.2",
+    "enunciado": "Afirmar que um programa social é “injusto” é uma constatação factual, verificável da mesma forma que o número de beneficiários atendidos.",
+    "gabarito": "E",
+    "comentario": "Errado. “Injusto” é juízo de valor, que depende de critérios normativos. Já o número de beneficiários é fato verificável. Um bom relatório separa os fatos dos juízos e explicita os critérios usados para estes.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.4.1.2-03",
+    "topicoId": "2.4.1.2",
+    "enunciado": "Confrontar informações de fontes independentes é uma forma de verificar sua consistência, como comparar a nota fiscal de uma compra com o registro de entrada do bem no almoxarifado.",
+    "gabarito": "C",
+    "comentario": "Certo. Fontes independentes que concordam reforçam a confiabilidade; divergências apontam onde aprofundar. É o princípio de muitos testes de auditoria.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.4.2.1-01",
+    "topicoId": "2.4.2.1",
+    "enunciado": "Se o município A registrou 200 casos de uma doença e o município B registrou 100 casos no mesmo período, conclui-se que o risco de adoecer é maior em A.",
+    "gabarito": "E",
+    "comentario": "Errado. Falta o denominador. Se A tem 200 mil habitantes e B tem 20 mil, as taxas são 1 e 5 por mil: o risco é maior em B. Comparações entre populações de tamanhos diferentes exigem taxas.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.4.2.1-02",
+    "topicoId": "2.4.2.1",
+    "enunciado": "Em distribuições com valores extremos, como a de salários, a mediana tende a representar melhor o valor típico do que a média, que é mais sensível aos valores muito altos.",
+    "gabarito": "C",
+    "comentario": "Certo. Poucos salários muito altos puxam a média para cima, enquanto a mediana (valor do meio) não se altera tanto. Em distribuições assimétricas, apresentar as duas medidas é boa prática.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.4.2.1-03",
+    "topicoId": "2.4.2.1",
+    "enunciado": "Se a taxa de evasão de um programa passou de 10% para 15%, houve aumento de 5% na evasão.",
+    "gabarito": "E",
+    "comentario": "Errado. O aumento foi de 5 pontos percentuais (p.p.), o que corresponde a um aumento relativo de 50% (15 ÷ 10 = 1,5). Confundir pontos percentuais com variação percentual é erro frequente.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.4.2.1-04",
+    "topicoId": "2.4.2.1",
+    "enunciado": "Para comparar indicadores entre períodos ou localidades, é necessário verificar se eles foram calculados com os mesmos conceitos, fontes e metodologias.",
+    "gabarito": "C",
+    "comentario": "Certo. Mudança de metodologia ou de conceito pode gerar uma variação que não existe na realidade. É a questão da comparabilidade.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.4.2.2-01",
+    "topicoId": "2.4.2.2",
+    "enunciado": "Indicadores de percepção da corrupção medem a opinião de especialistas ou da população sobre o fenômeno, e não a quantidade de atos corruptos efetivamente ocorridos.",
+    "gabarito": "C",
+    "comentario": "Certo. Percepção é influenciada por escândalos recentes, cobertura da imprensa e expectativas. É informação útil, mas não equivale à medida da ocorrência real.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.4.2.2-02",
+    "topicoId": "2.4.2.2",
+    "enunciado": "O número de servidores punidos por corrupção em um órgão é medida direta e completa da ocorrência de corrupção nesse órgão.",
+    "gabarito": "E",
+    "comentario": "Errado. Punições medem o que foi detectado, apurado e sancionado, o que depende da capacidade de controle e correição. A ocorrência real é maior e desconhecida (subnotificação), e mais punições podem indicar controle mais eficaz.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.4.2.2-03",
+    "topicoId": "2.4.2.2",
+    "enunciado": "Pesquisas de experiência, que perguntam se a pessoa foi solicitada a pagar propina ao usar um serviço, captam aspecto diferente dos indicadores de percepção e das estatísticas de denúncias.",
+    "gabarito": "C",
+    "comentario": "Certo. Cada tipo de indicador capta uma faceta: percepção (opinião), experiência (vivência direta), denúncias (relatos), detecção (controle) e sanções (resultado do processo). Nenhum, sozinho, mede a corrupção.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.4.3.1-01",
+    "topicoId": "2.4.3.1",
+    "enunciado": "A identificação de forte correlação estatística entre duas variáveis em dados administrativos é suficiente para concluir que uma delas é causa da outra.",
+    "gabarito": "E",
+    "comentario": "Errado. Associação não implica causalidade. A correlação pode decorrer de uma terceira variável (confundimento), de causalidade reversa, de viés de seleção ou do acaso. Concluir por causalidade exige desenho adequado, como experimentos ou quase experimentos com contrafactual crível.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.4.3.1-02",
+    "topicoId": "2.4.3.1",
+    "enunciado": "Uma pesquisa de satisfação respondida apenas pelos usuários que acessaram voluntariamente o sítio eletrônico do órgão pode não ser representativa de todos os usuários do serviço, em razão de viés de seleção.",
+    "gabarito": "C",
+    "comentario": "Certo. Quem responde voluntariamente tende a ter perfil diferente (mais satisfeitos ou mais insatisfeitos, mais conectados). Generalizar para todos os usuários exige amostra representativa.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.4.3.1-03",
+    "topicoId": "2.4.3.1",
+    "enunciado": "Antes de atribuir a melhora de um indicador a um programa, é preciso considerar explicações alternativas, como mudanças econômicas ou outras políticas implementadas no mesmo período.",
+    "gabarito": "C",
+    "comentario": "Certo. A pergunta-chave é o contrafactual: o que teria acontecido sem o programa? Ignorar explicações alternativas leva a atribuir ao programa efeitos que ele não causou.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.4.3.2-01",
+    "topicoId": "2.4.3.2",
+    "enunciado": "Comete-se falácia ecológica ao inferir características de indivíduos a partir de dados agregados de grupos, como concluir que todo morador de um município de renda média alta tem renda elevada.",
+    "gabarito": "C",
+    "comentario": "Certo. Dados agregados descrevem o grupo, não cada indivíduo. Um município rico pode ter grande parte da população pobre.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.4.3.2-02",
+    "topicoId": "2.4.3.2",
+    "enunciado": "O viés de confirmação consiste na tendência de buscar especialmente evidências que contrariem as hipóteses iniciais do analista.",
+    "gabarito": "E",
+    "comentario": "Errado. É o contrário: tendência de buscar, valorizar e lembrar evidências que confirmam o que já se acredita, desprezando as que contrariam. Buscar ativamente evidências contrárias é justamente a forma de combatê-lo.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.4.3.2-03",
+    "topicoId": "2.4.3.2",
+    "enunciado": "Em uma triagem automatizada de fraudes em que as fraudes são raras, mesmo um modelo com alta taxa de acerto pode gerar mais falsos positivos que verdadeiros positivos entre os casos sinalizados.",
+    "gabarito": "C",
+    "comentario": "Certo. Exemplo: 1% de fraude em 10 mil casos (100 fraudes); modelo que detecta 90% das fraudes e erra 5% dos casos legítimos sinaliza 90 fraudes e 495 casos legítimos. A maioria dos sinalizados é falso positivo, o que exige verificação humana antes de qualquer conclusão.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.4.4.1-01",
+    "topicoId": "2.4.4.1",
+    "enunciado": "A rastreabilidade das evidências permite que um terceiro reconstitua o caminho entre os dados originais e as conclusões, o que confere verificabilidade ao trabalho.",
+    "gabarito": "C",
+    "comentario": "Certo. Documentar fontes, filtros, cálculos e decisões permite revisão, contestação e reprodução. Em auditoria, os papéis de trabalho cumprem essa função.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.4.4.1-02",
+    "topicoId": "2.4.4.1",
+    "enunciado": "Ao comunicar resultados, o analista deve apresentar suas conclusões com o maior grau de certeza possível, omitindo limitações para não enfraquecer a mensagem.",
+    "gabarito": "E",
+    "comentario": "Errado. Omitir limitações induz o leitor a confiar mais do que as evidências permitem. Declarar limitações (amostra, qualidade dos dados, escopo) é requisito de integridade da evidência.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.4.4.1-03",
+    "topicoId": "2.4.4.1",
+    "enunciado": "Comunicar resultados de forma proporcional significa que a força da afirmação deve corresponder à força das evidências que a sustentam.",
+    "gabarito": "C",
+    "comentario": "Certo. Evidência forte permite afirmar (“constatou-se”); evidência parcial pede cautela (“há indícios”, “a amostra sugere”). É a proporcionalidade da afirmação.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.4.4.2-01",
+    "topicoId": "2.4.4.2",
+    "enunciado": "Em entrevistas, perguntas abertas e neutras reduzem o risco de induzir respostas, ao contrário de perguntas que já sugerem a resposta esperada.",
+    "gabarito": "C",
+    "comentario": "Certo. “O senhor percebeu algum problema no recebimento?” é mais neutra que “O recebimento foi irregular, não foi?”. Perguntas indutivas contaminam a evidência.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.4.4.2-02",
+    "topicoId": "2.4.4.2",
+    "enunciado": "Retirar apenas o nome do entrevistado de um relatório garante sua confidencialidade, ainda que o relatório informe seu cargo, setor e o período em que ocupou a função em uma unidade pequena.",
+    "gabarito": "E",
+    "comentario": "Errado. Em unidades pequenas, cargo, setor e período podem identificar a pessoa indiretamente. A confidencialidade exige avaliar a combinação de informações divulgadas.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.4.4.2-03",
+    "topicoId": "2.4.4.2",
+    "enunciado": "A promessa de confidencialidade feita a um entrevistado deve ser compatível com as obrigações legais do entrevistador, sendo inadequado prometer sigilo absoluto que não poderá ser cumprido.",
+    "gabarito": "C",
+    "comentario": "Certo. Se o entrevistado relatar um crime, por exemplo, o servidor pode ter o dever de comunicar. Prometer o que não se pode cumprir quebra a confiança e pode expor a pessoa.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.4.4.3-01",
+    "topicoId": "2.4.4.3",
+    "enunciado": "Atividades de auditoria governamental não se confundem com pesquisa científica envolvendo seres humanos e, em regra, não se submetem ao sistema de comitês de ética em pesquisa (CEP/Conep).",
+    "gabarito": "C",
+    "comentario": "Certo. A auditoria decorre de competência legal de controle e tem finalidade institucional; a pesquisa científica busca produzir conhecimento generalizável e segue as regras do CNS (Resoluções nº 466/2012 e nº 510/2016). Os entrevistados em auditoria têm salvaguardas próprias, mas não o mesmo regime.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.4.4.3-02",
+    "topicoId": "2.4.4.3",
+    "enunciado": "Os regimes de proteção de entrevistados em auditoria, de participantes de pesquisa e de denunciantes são idênticos, pois todos se baseiam no consentimento livre e esclarecido.",
+    "gabarito": "E",
+    "comentario": "Errado. Participantes de pesquisa têm o consentimento livre e esclarecido como base. Entrevistados em auditoria podem ter dever de colaborar com o controle. Denunciantes têm proteção legal específica da identidade e contra retaliação. São regimes distintos.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.4.4.3-03",
+    "topicoId": "2.4.4.3",
+    "enunciado": "O denunciante conta com regime legal específico de proteção da identidade e contra retaliações, distinto das salvaguardas aplicáveis a quem é entrevistado no curso de uma auditoria.",
+    "gabarito": "C",
+    "comentario": "Certo. A Lei nº 13.608/2018 (arts. 4º-A a 4º-C) assegura ao informante a preservação da identidade e a proteção contra retaliação. O entrevistado em auditoria conta com confidencialidade e uso proporcional da informação, mas em outro contexto.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.4.5.1-01",
+    "topicoId": "2.4.5.1",
+    "enunciado": "Ferramentas de inteligência artificial podem apoiar a classificação de grandes volumes de manifestações de ouvidoria, mas a definição das categorias e a verificação de amostras dos resultados devem envolver revisão humana.",
+    "gabarito": "C",
+    "comentario": "Certo. A IA ganha escala, mas erra. Revisar amostras permite medir a taxa de erro e ajustar o uso. As categorias devem refletir as necessidades da gestão, e não apenas o que o modelo consegue separar.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.4.5.1-02",
+    "topicoId": "2.4.5.1",
+    "enunciado": "Sempre que houver dados disponíveis, a adoção de um modelo de inteligência artificial é preferível a soluções simples, como regras de negócio ou consultas em banco de dados.",
+    "gabarito": "E",
+    "comentario": "Errado. Se uma regra simples resolve (por exemplo, pagamento acima do limite legal), ela é mais barata, transparente e auditável que um modelo. A IA se justifica quando o problema não é bem resolvido por regras explícitas.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.4.5.1-03",
+    "topicoId": "2.4.5.1",
+    "enunciado": "Para uma tarefa que exige precisão total e envolve poucos casos, como verificar um conjunto reduzido de contratos, a revisão humana direta pode ser mais adequada que o uso de inteligência artificial.",
+    "gabarito": "C",
+    "comentario": "Certo. Com poucos casos, a vantagem de escala da IA desaparece e o risco de erro não compensa. A escolha da ferramenta depende do volume, da tolerância a erro e do custo de verificação.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.4.5.2-01",
+    "topicoId": "2.4.5.2",
+    "enunciado": "Modelos de linguagem podem produzir conteúdo não sustentado, conhecido como alucinação, como citações de normas ou de fontes inexistentes, apresentadas com aparente segurança.",
+    "gabarito": "C",
+    "comentario": "Certo. Modelos de linguagem geram texto plausível, não necessariamente verdadeiro. Toda citação de norma, número ou fonte produzida por IA precisa ser conferida na origem.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.4.5.2-02",
+    "topicoId": "2.4.5.2",
+    "enunciado": "Um modelo treinado com dados históricos está livre de vieses, pois apenas reproduz o que ocorreu no passado.",
+    "gabarito": "E",
+    "comentario": "Errado. Justamente por reproduzir o passado, o modelo pode perpetuar discriminações históricas (quem foi mais fiscalizado no passado aparece mais nos dados de irregularidade, por exemplo). É preciso avaliar o desempenho por grupos.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.4.5.2-03",
+    "topicoId": "2.4.5.2",
+    "enunciado": "Inserir informações sigilosas ou dados pessoais em ferramentas de inteligência artificial externas, sem as devidas salvaguardas, pode gerar exposição indevida dessas informações.",
+    "gabarito": "C",
+    "comentario": "Certo. Dependendo dos termos de uso, o conteúdo pode ser armazenado ou usado pelo fornecedor. O uso institucional exige ferramentas aprovadas, contratos adequados e respeito à LGPD e às regras de sigilo.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.4.5.3-01",
+    "topicoId": "2.4.5.3",
+    "enunciado": "A LGPD assegura ao titular o direito de solicitar a revisão de decisões tomadas unicamente com base em tratamento automatizado de dados pessoais que afetem seus interesses.",
+    "gabarito": "C",
+    "comentario": "Certo. É o art. 20 da LGPD. O titular também pode solicitar informações claras sobre os critérios e procedimentos utilizados na decisão automatizada, observados os segredos comercial e industrial (§ 1º).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.4.5.3-02",
+    "topicoId": "2.4.5.3",
+    "enunciado": "Resumos produzidos por inteligência artificial podem ser incorporados a relatórios oficiais sem verificação das fontes originais, desde que a ferramenta seja amplamente utilizada.",
+    "gabarito": "E",
+    "comentario": "Errado. Popularidade não garante exatidão. Em documento oficial, quem assina responde pelo conteúdo e deve verificar as afirmações nas fontes originais.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.4.5.3-03",
+    "topicoId": "2.4.5.3",
+    "enunciado": "Quanto maior o impacto de uma decisão sobre direitos, maior deve ser o grau de supervisão humana e de possibilidade de contestação na utilização de sistemas automatizados.",
+    "gabarito": "C",
+    "comentario": "Certo. É uma abordagem baseada em risco: automatizar a triagem de documentos é diferente de automatizar o corte de um benefício. Decisões de alto impacto exigem revisão humana, explicação e canal de recurso.",
+    "revisada": false,
+    "origem": "ia"
+  }
+]

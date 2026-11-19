@@ -1,0 +1,218 @@
+[
+  {
+    "id": "1.4.1.1-01",
+    "topicoId": "1.4.1.1",
+    "enunciado": "Desconcentração é a distribuição interna de competências entre órgãos de uma mesma pessoa jurídica, ao passo que descentralização é a transferência de atividades para outra pessoa, física ou jurídica, como autarquias e empresas estatais.",
+    "gabarito": "C",
+    "comentario": "Certo. Na desconcentração, cria-se órgão (sem personalidade jurídica) dentro da mesma pessoa, com hierarquia. Na descentralização, a atividade passa a outra pessoa, criada pelo Estado (por outorga, como autarquias) ou particular (por delegação, como concessionárias), sem hierarquia.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.4.1.1-02",
+    "topicoId": "1.4.1.1",
+    "enunciado": "A administração pública indireta compreende os ministérios e as secretarias, que atuam de forma subordinada à Presidência da República.",
+    "gabarito": "E",
+    "comentario": "Errado. Ministérios e secretarias são órgãos da administração direta. Pelo art. 4º do Decreto-Lei nº 200/1967, a administração indireta compreende entidades com personalidade jurídica própria: autarquias, empresas públicas, sociedades de economia mista e fundações públicas.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.4.1.1-03",
+    "topicoId": "1.4.1.1",
+    "enunciado": "As entidades da administração indireta vinculam-se aos órgãos da administração direta por meio de supervisão ministerial, também chamada de tutela, e não por subordinação hierárquica.",
+    "gabarito": "C",
+    "comentario": "Certo. Como têm personalidade jurídica própria e autonomia, as entidades da administração indireta não estão subordinadas hierarquicamente ao ministério. Sujeitam-se ao controle finalístico (supervisão ministerial), que verifica se cumprem as finalidades previstas em lei.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.4.1.1-04",
+    "topicoId": "1.4.1.1",
+    "enunciado": "Agente público é apenas o servidor ocupante de cargo efetivo, aprovado em concurso público, não abrangendo ocupantes de cargos em comissão, empregados públicos nem agentes políticos.",
+    "gabarito": "E",
+    "comentario": "Errado. Agente público é o gênero que abrange todos que exercem função pública, ainda que transitoriamente ou sem remuneração: agentes políticos, servidores estatutários, empregados públicos, ocupantes de cargos em comissão, temporários e particulares em colaboração. A Lei de Improbidade (Lei nº 8.429/1992, art. 2º) adota conceito amplo nesse sentido.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.4.1.1-05",
+    "topicoId": "1.4.1.1",
+    "enunciado": "Termos de colaboração e de fomento, previstos no Marco Regulatório das Organizações da Sociedade Civil (Lei nº 13.019/2014), são instrumentos de parceria entre a administração pública e entidades sem fins lucrativos para a consecução de finalidades de interesse público.",
+    "gabarito": "C",
+    "comentario": "Certo. O termo de colaboração é proposto pela administração; o termo de fomento, pela organização da sociedade civil; ambos envolvem transferência de recursos. O acordo de cooperação é o instrumento sem transferência de recursos financeiros.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.4.2.1-01",
+    "topicoId": "1.4.2.1",
+    "enunciado": "O modelo patrimonialista de administração caracteriza-se pela confusão entre o patrimônio público e o privado do governante, com cargos tratados como prebendas e ampla prática de nepotismo.",
+    "gabarito": "C",
+    "comentario": "Certo. No patrimonialismo, o aparelho do Estado funciona como extensão do poder do soberano, e a corrupção e o nepotismo são inerentes ao modelo. A administração burocrática surge como reação a ele.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.4.2.1-02",
+    "topicoId": "1.4.2.1",
+    "enunciado": "A administração burocrática, de inspiração weberiana, foi concebida para dar flexibilidade ao gestor e enfatiza o controle de resultados a posteriori, em vez do controle de procedimentos.",
+    "gabarito": "E",
+    "comentario": "Errado. Essas são características da administração gerencial. A burocracia enfatiza impessoalidade, hierarquia, profissionalização, formalismo e controle a priori dos procedimentos, para evitar o patrimonialismo. No Brasil, o marco é a criação do DASP (1938).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.4.2.1-03",
+    "topicoId": "1.4.2.1",
+    "enunciado": "A Emenda Constitucional nº 19/1998, associada à reforma gerencial do Estado, incluiu a eficiência entre os princípios expressos da administração pública no art. 37 da Constituição Federal.",
+    "gabarito": "C",
+    "comentario": "Certo. A EC nº 19/1998 decorreu do Plano Diretor da Reforma do Aparelho do Estado (1995) e trouxe, entre outras mudanças, o princípio da eficiência e a possibilidade de contrato de gestão para ampliar a autonomia de órgãos e entidades (art. 37, § 8º).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.4.2.1-04",
+    "topicoId": "1.4.2.1",
+    "enunciado": "A adoção do modelo gerencial no Brasil eliminou completamente as características burocráticas da administração pública, como o concurso público e a estabilidade.",
+    "gabarito": "E",
+    "comentario": "Errado. Os modelos se sobrepõem: a administração gerencial preservou fundamentos burocráticos como concurso, carreiras e estabilidade (flexibilizada, mas não extinta). Traços patrimonialistas também persistem. Modelos posteriores, como a governança pública, acrescentam participação e coordenação em rede.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.4.3.1-01",
+    "topicoId": "1.4.3.1",
+    "enunciado": "No modelo de múltiplos fluxos de John Kingdon, uma questão entra na agenda decisória quando convergem os fluxos de problemas, de soluções e da política, abrindo uma janela de oportunidade.",
+    "gabarito": "C",
+    "comentario": "Certo. Os três fluxos correm de forma relativamente independente: problemas que ganham atenção, soluções desenvolvidas por especialistas e a dinâmica política (eleições, humor nacional). Empreendedores de políticas aproveitam a janela para acoplar os fluxos.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.4.3.1-02",
+    "topicoId": "1.4.3.1",
+    "enunciado": "Na perspectiva top-down de implementação, o sucesso da política depende principalmente das adaptações feitas pelos implementadores locais às realidades de cada território, sendo o desenho central pouco relevante.",
+    "gabarito": "E",
+    "comentario": "Errado. Essa é a perspectiva bottom-up. A abordagem top-down parte das decisões centrais e explica falhas de implementação pelo desvio em relação ao desenho (objetivos claros, recursos, controle). A bottom-up valoriza a atuação dos implementadores na linha de frente.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.4.3.1-03",
+    "topicoId": "1.4.3.1",
+    "enunciado": "A avaliação ex ante é realizada antes da implementação de uma política e busca analisar, entre outros aspectos, o diagnóstico do problema, o desenho, a viabilidade e os custos esperados da intervenção.",
+    "gabarito": "C",
+    "comentario": "Certo. A avaliação ex ante apoia a decisão de implementar ou não e de como desenhar a política. A avaliação ex post ocorre durante ou após a implementação e examina implementação, resultados, impactos e eficiência.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.4.3.1-04",
+    "topicoId": "1.4.3.1",
+    "enunciado": "Monitoramento e avaliação são termos sinônimos que designam a verificação, realizada apenas ao final da política, de que os objetivos foram atingidos.",
+    "gabarito": "E",
+    "comentario": "Errado. Monitoramento é o acompanhamento contínuo, durante a execução, de indicadores de insumos, atividades e produtos, para corrigir rumos. Avaliação é uma análise mais aprofundada e pontual, que pode ocorrer antes, durante ou depois, e investiga se e por que a política produz resultados.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.4.3.1-05",
+    "topicoId": "1.4.3.1",
+    "enunciado": "Políticas intersetoriais, como as de enfrentamento da pobreza, exigem a articulação entre áreas como assistência social, saúde e educação, porque problemas públicos complexos não respeitam as fronteiras setoriais da administração.",
+    "gabarito": "C",
+    "comentario": "Certo. Problemas multidimensionais exigem coordenação de diferentes órgãos e níveis de governo, além de atores sociais. Programas de transferência de renda com condicionalidades em saúde e educação são exemplo típico.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.4.4.1-01",
+    "topicoId": "1.4.4.1",
+    "enunciado": "O plano plurianual tem vigência de quatro anos, iniciando-se no segundo ano do mandato presidencial e encerrando-se no primeiro ano do mandato subsequente.",
+    "gabarito": "C",
+    "comentario": "Certo. A defasagem garante continuidade: o novo governo executa, no primeiro ano, o último ano do PPA anterior enquanto elabora o seu. O prazo de vigência decorre do art. 35, § 2º, I, do ADCT.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.4.4.1-02",
+    "topicoId": "1.4.4.1",
+    "enunciado": "A lei orçamentária anual estabelece as metas e prioridades da administração pública federal e orienta a elaboração da lei de diretrizes orçamentárias.",
+    "gabarito": "E",
+    "comentario": "Errado. Os papéis estão invertidos. É a LDO que compreende as metas e prioridades e orienta a elaboração da LOA (art. 165, § 2º, da CF). A sequência lógica é PPA (planejamento de médio prazo), LDO (ponte com prioridades anuais) e LOA (orçamento do exercício).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.4.4.1-03",
+    "topicoId": "1.4.4.1",
+    "enunciado": "A lei orçamentária anual compreende o orçamento fiscal, o orçamento de investimento das empresas em que a União, direta ou indiretamente, detenha a maioria do capital social com direito a voto e o orçamento da seguridade social.",
+    "gabarito": "C",
+    "comentario": "Certo. É o art. 165, § 5º, da CF. As estatais dependentes do Tesouro entram no orçamento fiscal e da seguridade; o orçamento de investimento abrange apenas os investimentos das demais empresas controladas.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.4.4.1-04",
+    "topicoId": "1.4.4.1",
+    "enunciado": "As despesas com a construção de uma escola e com o pagamento dos professores que nela trabalharão são classificadas como despesas de capital.",
+    "gabarito": "E",
+    "comentario": "Errado. A construção da escola é despesa de capital (investimento), pois forma patrimônio. O pagamento de professores é despesa corrente (pessoal e encargos), pois mantém serviços já existentes. Investimentos geram despesas correntes futuras, o que deve ser considerado no planejamento.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.4.4.1-05",
+    "topicoId": "1.4.4.1",
+    "enunciado": "Em contexto de restrição fiscal, a ampliação de uma despesa obrigatória tende a reduzir o espaço disponível para despesas discricionárias, como os investimentos.",
+    "gabarito": "C",
+    "comentario": "Certo. Com receita ou limites de despesa restritos, despesas obrigatórias (pessoal, benefícios previdenciários, mínimos constitucionais) têm prioridade de execução. O ajuste recai sobre as discricionárias, especialmente investimentos, o que gera um dilema alocativo.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.4.5.1-01",
+    "topicoId": "1.4.5.1",
+    "enunciado": "Nos termos da Lei nº 13.460/2017, que dispõe sobre a participação, a proteção e a defesa dos direitos do usuário dos serviços públicos, a presunção de boa-fé do usuário é uma das diretrizes a serem observadas pelos agentes públicos e prestadores de serviços.",
+    "gabarito": "C",
+    "comentario": "Certo. Está no art. 5º, II, da Lei nº 13.460/2017. A presunção de boa-fé fundamenta medidas de simplificação, como dispensar reconhecimento de firma e autenticação de cópias em muitos casos.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.4.5.1-02",
+    "topicoId": "1.4.5.1",
+    "enunciado": "Transformar digitalmente um serviço público consiste essencialmente em disponibilizar na internet os mesmos formulários exigidos no atendimento presencial, sem necessidade de rever etapas ou exigências.",
+    "gabarito": "E",
+    "comentario": "Errado. Transformação digital implica redesenhar o serviço a partir da necessidade do usuário: eliminar etapas e exigências desnecessárias, reaproveitar dados que o governo já tem e garantir acessibilidade. Apenas colocar o formulário em PDF na internet mantém a burocracia.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.4.5.1-03",
+    "topicoId": "1.4.5.1",
+    "enunciado": "Deixar de exigir do cidadão documentos ou informações que já constam de bases de dados do poder público é medida de simplificação que depende da interoperabilidade entre os sistemas dos órgãos.",
+    "gabarito": "C",
+    "comentario": "Certo. Se os órgãos não trocam dados, o próprio cidadão vira o “carteiro” entre eles, levando certidões de um balcão a outro. A interoperabilidade, com o devido respeito à proteção de dados pessoais, é o que viabiliza o princípio de pedir a informação uma única vez.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.4.5.1-04",
+    "topicoId": "1.4.5.1",
+    "enunciado": "O uso de sistemas de inteligência artificial para decisões que afetam direitos dos cidadãos, como a concessão de benefícios, dispensa supervisão humana e possibilidade de contestação, desde que o modelo apresente alta acurácia média.",
+    "gabarito": "E",
+    "comentario": "Errado. Alta acurácia média pode esconder erros concentrados em determinados grupos e não elimina erros individuais graves. Decisões automatizadas que afetam direitos exigem transparência, supervisão humana e possibilidade de revisão. A LGPD (art. 20) assegura ao titular o direito de solicitar revisão de decisões tomadas unicamente com base em tratamento automatizado.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.4.5.1-05",
+    "topicoId": "1.4.5.1",
+    "enunciado": "A automação de etapas repetitivas do atendimento pode liberar servidores para casos complexos, mas também pode criar barreiras para pessoas com baixo letramento digital, caso não haja canais alternativos.",
+    "gabarito": "C",
+    "comentario": "Certo. A automação traz ganhos de eficiência, mas o serviço deve ser desenhado para todos os usuários. Manter canais de atendimento humano e testar com públicos diversos evita que a eficiência para a maioria se converta em exclusão de uma minoria.",
+    "revisada": false,
+    "origem": "ia"
+  }
+]

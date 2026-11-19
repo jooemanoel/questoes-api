@@ -1,0 +1,776 @@
+[
+  {
+    "id": "3.4.1.1-01",
+    "topicoId": "3.4.1.1",
+    "enunciado": "A injeção de SQL ocorre quando dados fornecidos pelo usuário são concatenados diretamente em comandos SQL, permitindo alterar a lógica da consulta, e o uso de consultas parametrizadas é a principal forma de prevenção.",
+    "gabarito": "C",
+    "comentario": "Certo. Com consulta parametrizada (PreparedStatement, parâmetros nomeados no JPA), o valor é tratado sempre como dado, nunca como parte do comando. Injeção figura há anos entre os principais riscos do OWASP Top 10.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.1.1-02",
+    "topicoId": "3.4.1.1",
+    "enunciado": "O cross-site scripting (XSS) é um ataque que explora falhas no servidor de banco de dados para extrair tabelas inteiras.",
+    "gabarito": "E",
+    "comentario": "Errado. No XSS, o atacante faz a aplicação entregar um script malicioso que é executado no navegador de outro usuário, podendo roubar sessão ou agir em nome da vítima. A prevenção é codificar a saída conforme o contexto (HTML, atributo, JavaScript) e usar Content Security Policy.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.1.1-03",
+    "topicoId": "3.4.1.1",
+    "enunciado": "A modelagem de ameaças deve ser realizada apenas após a implantação do sistema, quando é possível observar ataques reais.",
+    "gabarito": "E",
+    "comentario": "Errado. A modelagem de ameaças (por exemplo, com a abordagem STRIDE) é feita no desenho da solução, para identificar ameaças e definir controles antes de construir. Corrigir falhas de arquitetura depois de implantado é muito mais caro.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.1.2-01",
+    "topicoId": "3.4.1.2",
+    "enunciado": "Validações feitas apenas no navegador, com JavaScript, não são suficientes para a segurança, pois podem ser contornadas, devendo ser repetidas no servidor.",
+    "gabarito": "C",
+    "comentario": "Certo. Qualquer pessoa pode enviar requisições diretamente à API, sem passar pela interface. A validação no navegador melhora a experiência; a do servidor garante a segurança.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.1.2-02",
+    "topicoId": "3.4.1.2",
+    "enunciado": "Na validação de entradas, a abordagem por lista de bloqueio (denylist), que rejeita apenas os caracteres sabidamente perigosos, é considerada mais segura do que a validação por lista de permissão (allowlist).",
+    "gabarito": "E",
+    "comentario": "Errado. A lista de bloqueio sempre esquece alguma variação ou codificação. A lista de permissão define o que é válido (por exemplo, CPF com 11 dígitos numéricos) e rejeita todo o resto, sendo a abordagem recomendada.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.1.2-03",
+    "topicoId": "3.4.1.2",
+    "enunciado": "Negar o acesso por padrão (deny by default) e liberar explicitamente apenas o que cada perfil precisa é prática recomendada de controle de acesso.",
+    "gabarito": "C",
+    "comentario": "Certo. Se uma rota nova for esquecida na configuração, ela fica bloqueada, e não aberta. Falhas de controle de acesso lideram o OWASP Top 10 de 2021 (Broken Access Control).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.1.3-01",
+    "topicoId": "3.4.1.3",
+    "enunciado": "Credenciais publicadas acidentalmente em um repositório de código devem ser revogadas e substituídas, pois removê-las em um novo commit não as elimina do histórico.",
+    "gabarito": "C",
+    "comentario": "Certo. O histórico do Git guarda todas as versões, e repositórios públicos são varridos por robôs em busca de chaves em minutos. A única medida segura é considerar a credencial comprometida e trocá-la.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.1.3-02",
+    "topicoId": "3.4.1.3",
+    "enunciado": "Bibliotecas de código aberto amplamente utilizadas dispensam o acompanhamento de vulnerabilidades, pois a comunidade garante que elas estejam sempre seguras.",
+    "gabarito": "E",
+    "comentario": "Errado. O caso Log4Shell (2021), na biblioteca Log4j, mostrou que componentes muito usados também têm falhas graves. É preciso inventariar dependências, monitorar alertas e atualizar com agilidade.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.1.3-03",
+    "topicoId": "3.4.1.3",
+    "enunciado": "Variáveis de ambiente e cofres de segredos são menos seguros do que gravar as senhas diretamente no código-fonte compilado, que não pode ser lido por terceiros.",
+    "gabarito": "E",
+    "comentario": "Errado. Código compilado pode ser descompilado, e o código-fonte circula por repositórios, máquinas e pipelines. Segredos devem ficar fora do código, em cofres (vaults) ou variáveis de ambiente protegidas, com rotação.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.1.4-01",
+    "topicoId": "3.4.1.4",
+    "enunciado": "Testes de penetração em sistemas de produção devem ser formalmente autorizados, com escopo, período e regras de engajamento definidos, para não configurar acesso indevido nem causar indisponibilidade.",
+    "gabarito": "C",
+    "comentario": "Certo. Sem autorização formal, o teste pode configurar invasão de dispositivo informático (art. 154-A do Código Penal). As regras de engajamento definem o que pode ser testado, quando e como comunicar achados críticos.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.1.4-02",
+    "topicoId": "3.4.1.4",
+    "enunciado": "O SAST analisa a aplicação em execução, enviando requisições maliciosas, ao passo que o DAST examina o código-fonte sem executá-lo.",
+    "gabarito": "E",
+    "comentario": "Errado. Os papéis estão invertidos. SAST (Static) analisa o código sem executá-lo; DAST (Dynamic) testa a aplicação em execução, de fora, como faria um atacante. As técnicas são complementares.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.1.4-03",
+    "topicoId": "3.4.1.4",
+    "enunciado": "Ferramentas de análise de composição de software (SCA) identificam dependências de terceiros com vulnerabilidades conhecidas e problemas de licença.",
+    "gabarito": "C",
+    "comentario": "Certo. A SCA compara as bibliotecas usadas (inclusive dependências transitivas) com bases de vulnerabilidades (CVE). Como a maior parte do código de uma aplicação moderna vem de terceiros, é verificação essencial no pipeline.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.1.5-01",
+    "topicoId": "3.4.1.5",
+    "enunciado": "Mensagens de erro exibidas ao usuário devem ser genéricas, sem revelar detalhes internos como rastreamento de pilha (stack trace), consultas SQL ou versões de componentes.",
+    "gabarito": "C",
+    "comentario": "Certo. Esses detalhes ajudam o atacante a mapear o sistema. O detalhe técnico vai para o log interno, e o usuário recebe mensagem clara, com um código de referência para o suporte.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.1.5-02",
+    "topicoId": "3.4.1.5",
+    "enunciado": "Respostas de API que retornam o objeto completo da entidade, inclusive campos internos como o hash da senha, representam risco apenas quando a interface exibe esses campos na tela.",
+    "gabarito": "E",
+    "comentario": "Errado. Tudo o que a API retorna pode ser lido por qualquer um que inspecione a resposta, independentemente do que a tela mostra. A boa prática é retornar DTOs apenas com os campos necessários.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.1.5-03",
+    "topicoId": "3.4.1.5",
+    "enunciado": "Em telas de login, mensagens que distinguem “usuário inexistente” de “senha incorreta” facilitam a enumeração de usuários válidos por um atacante.",
+    "gabarito": "C",
+    "comentario": "Certo. Com mensagens diferentes, o atacante descobre quais contas existem e concentra ataques nelas. A mensagem deve ser única, como “usuário ou senha inválidos”.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.1.6-01",
+    "topicoId": "3.4.1.6",
+    "enunciado": "Registrar eventos de segurança, como tentativas de login malsucedidas, alterações de permissão e acessos negados, com data, hora e identificação do usuário, permite detectar ataques e apoiar a investigação de incidentes.",
+    "gabarito": "C",
+    "comentario": "Certo. Falhas de registro e monitoramento estão no OWASP Top 10: sem logs adequados, ataques passam despercebidos e não há como reconstituir o que ocorreu.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.1.6-02",
+    "topicoId": "3.4.1.6",
+    "enunciado": "Diante de suspeita de invasão, a primeira medida recomendada é reinstalar imediatamente o servidor afetado, ainda que isso apague os registros e as evidências do incidente.",
+    "gabarito": "E",
+    "comentario": "Errado. A resposta a incidentes prioriza conter o dano (isolar o servidor da rede, revogar credenciais) e preservar evidências (cópias de disco, memória e logs) antes de erradicar e recuperar. Reinstalar logo apaga a chance de entender como o ataque ocorreu.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.1.6-03",
+    "topicoId": "3.4.1.6",
+    "enunciado": "Em aplicações que integram modelos de linguagem, as respostas do modelo podem ser inseridas diretamente em comandos SQL ou exibidas como HTML sem tratamento, pois são geradas por sistema confiável.",
+    "gabarito": "E",
+    "comentario": "Errado. A saída do modelo deve ser tratada como entrada não confiável, já que pode ser manipulada por injeção de prompt. Usá-la sem validação ou codificação pode levar a injeção de SQL, XSS ou execução indevida de ações.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.2.1-01",
+    "topicoId": "3.4.2.1",
+    "enunciado": "Testes unitários verificam pequenas partes do código de forma isolada, enquanto testes de integração verificam a interação entre componentes, como a aplicação e o banco de dados.",
+    "gabarito": "C",
+    "comentario": "Certo. Unitários são rápidos e apontam exatamente onde está o erro; de integração pegam problemas de configuração, mapeamento e comunicação que os unitários não veem.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.2.1-02",
+    "topicoId": "3.4.2.1",
+    "enunciado": "Na pirâmide de testes, recomenda-se que a maior parte dos testes automatizados seja de testes de ponta a ponta pela interface, por serem os mais rápidos e estáveis.",
+    "gabarito": "E",
+    "comentario": "Errado. Testes de ponta a ponta são os mais lentos, caros e instáveis. A pirâmide recomenda base larga de testes unitários, camada intermediária de integração e poucos testes de ponta a ponta no topo.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.2.1-03",
+    "topicoId": "3.4.2.1",
+    "enunciado": "Testes de contrato verificam se o provedor e o consumidor de uma API continuam compatíveis com o contrato acordado, detectando quebras antes da implantação.",
+    "gabarito": "C",
+    "comentario": "Certo. Em vez de subir todos os serviços para testar a integração, cada lado é verificado contra o contrato (por exemplo, com Pact ou Spring Cloud Contract). Uma mudança que quebre consumidores falha no pipeline do provedor.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.2.1-04",
+    "topicoId": "3.4.2.1",
+    "enunciado": "Testes de aceitação são escritos exclusivamente pelos desenvolvedores, sem participação dos usuários ou do dono do produto, pois verificam detalhes internos de implementação.",
+    "gabarito": "E",
+    "comentario": "Errado. Testes de aceitação verificam se o sistema atende aos critérios de aceitação do ponto de vista do negócio e do usuário. Por isso envolvem o dono do produto e, idealmente, usuários; não tratam de detalhes internos.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.2.2-01",
+    "topicoId": "3.4.2.2",
+    "enunciado": "Ferramentas de análise estática examinam o código sem executá-lo e podem identificar padrões de defeitos, vulnerabilidades e violações de padrões de codificação.",
+    "gabarito": "C",
+    "comentario": "Certo. Ferramentas como SonarQube, SpotBugs ou ESLint apontam, por exemplo, possíveis NullPointerException, código duplicado e uso inseguro de APIs. Geram falsos positivos, por isso os achados precisam de triagem.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.2.2-02",
+    "topicoId": "3.4.2.2",
+    "enunciado": "Uma cobertura de testes de 100% das linhas de código garante que o software não contém defeitos.",
+    "gabarito": "E",
+    "comentario": "Errado. Cobertura mede quais linhas foram executadas, não se os resultados foram verificados nem se todas as combinações de entrada foram testadas. Um teste sem asserções gera cobertura sem testar nada.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.2.2-03",
+    "topicoId": "3.4.2.2",
+    "enunciado": "A revisão de código por pares contribui para detectar defeitos, disseminar conhecimento na equipe e manter a consistência do código.",
+    "gabarito": "C",
+    "comentario": "Certo. Além de achar erros, a revisão espalha o conhecimento do sistema (reduz dependência de uma única pessoa) e é também um controle de segregação de funções: ninguém aprova o próprio código.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.2.3-01",
+    "topicoId": "3.4.2.3",
+    "enunciado": "Testes automatizados devem ser determinísticos e independentes entre si: o resultado de um teste não deve depender da ordem de execução nem de dados deixados por outro teste.",
+    "gabarito": "C",
+    "comentario": "Certo. Testes que falham de vez em quando (flaky) minam a confiança no pipeline, e a equipe passa a ignorar falhas reais. Cada teste prepara e limpa os próprios dados.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.2.3-02",
+    "topicoId": "3.4.2.3",
+    "enunciado": "Utilizar cópias integrais da base de produção, com dados pessoais reais, é a forma recomendada de obter dados de teste realistas.",
+    "gabarito": "E",
+    "comentario": "Errado. Isso expõe dados pessoais em ambientes menos protegidos e viola a minimização. Usam-se dados sintéticos, mascarados ou anonimizados que preservem as características relevantes para o teste.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.2.3-03",
+    "topicoId": "3.4.2.3",
+    "enunciado": "Dublês de teste, como mocks e stubs, devem ser evitados em testes unitários, pois toda dependência externa precisa ser chamada de verdade para que o teste seja válido.",
+    "gabarito": "E",
+    "comentario": "Errado. Nos testes unitários, dublês isolam a unidade testada de bancos, APIs e relógio do sistema, tornando o teste rápido e determinístico. As dependências reais são exercitadas nos testes de integração.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.2.4-01",
+    "topicoId": "3.4.2.4",
+    "enunciado": "Quando uma métrica de qualidade se torna meta, como a exigência de cobertura mínima de testes, a equipe pode passar a otimizar o número em vez da qualidade, escrevendo, por exemplo, testes sem verificações relevantes.",
+    "gabarito": "C",
+    "comentario": "Certo. É a lei de Goodhart: quando uma medida vira meta, ela deixa de ser boa medida. Métricas são indicadores para orientar conversas, não substitutos do julgamento sobre qualidade.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.2.4-02",
+    "topicoId": "3.4.2.4",
+    "enunciado": "O número de linhas de código produzidas por desenvolvedor é indicador confiável de produtividade e de qualidade do software.",
+    "gabarito": "E",
+    "comentario": "Errado. Mais linhas pode significar código duplicado e mais difícil de manter; uma boa refatoração muitas vezes reduz linhas. Linhas de código não medem valor entregue nem qualidade.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.2.4-03",
+    "topicoId": "3.4.2.4",
+    "enunciado": "A ausência de defeitos registrados em produção comprova a alta qualidade do software, independentemente de quanto ele é usado e de como os defeitos são reportados.",
+    "gabarito": "E",
+    "comentario": "Errado. Pode haver pouco uso, canal de suporte ruim ou usuários que desistem em vez de reclamar. É a mesma lógica de baixa ocorrência × baixa detecção cobrada nas disciplinas de controle.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.2.5-01",
+    "topicoId": "3.4.2.5",
+    "enunciado": "Testes de carga verificam o comportamento do sistema sob o volume esperado de uso, ao passo que testes de estresse o submetem a cargas acima do esperado para identificar seus limites e o modo como ele falha.",
+    "gabarito": "C",
+    "comentario": "Certo. O de carga confirma que o sistema aguenta o previsto (por exemplo, pico de inscrições); o de estresse mostra onde quebra e se degrada de forma controlada ou desaba.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.2.5-02",
+    "topicoId": "3.4.2.5",
+    "enunciado": "Ferramentas automáticas de verificação de acessibilidade detectam todos os problemas de acessibilidade de uma interface, dispensando testes manuais e com usuários.",
+    "gabarito": "E",
+    "comentario": "Errado. Ferramentas automáticas detectam apenas parte dos problemas (por exemplo, falta de alt ou contraste insuficiente). Não avaliam se o texto alternativo faz sentido nem se o fluxo funciona com leitor de tela. Testes manuais e com pessoas com deficiência são necessários.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.2.5-03",
+    "topicoId": "3.4.2.5",
+    "enunciado": "Requisitos não funcionais, como desempenho e segurança, também devem ter critérios verificáveis e ser testados, e não apenas os requisitos funcionais.",
+    "gabarito": "C",
+    "comentario": "Certo. “Responder em até 2 segundos para 95% das requisições com 500 usuários simultâneos” pode ser verificado em teste de carga. Sem critério verificável, o requisito não pode ser aceito nem recusado.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.3.1-01",
+    "topicoId": "3.4.3.1",
+    "enunciado": "Na integração contínua, os desenvolvedores integram suas alterações ao ramo principal com frequência, e cada integração dispara build e testes automatizados para detectar problemas cedo.",
+    "gabarito": "C",
+    "comentario": "Certo. Integrações pequenas e frequentes geram conflitos pequenos e fáceis de resolver. Se o build quebra, corrigi-lo vira prioridade da equipe.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.3.1-02",
+    "topicoId": "3.4.3.1",
+    "enunciado": "Entrega contínua (continuous delivery) e implantação contínua (continuous deployment) são sinônimos: em ambas, toda alteração aprovada nos testes vai automaticamente para produção, sem decisão humana.",
+    "gabarito": "E",
+    "comentario": "Errado. Na entrega contínua, toda alteração fica pronta para ir a produção, mas a liberação depende de decisão (por exemplo, aprovação). Na implantação contínua, a ida para produção é automática após os testes.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.3.1-03",
+    "topicoId": "3.4.3.1",
+    "enunciado": "Ramos de funcionalidade de longa duração, mantidos isolados por meses, reduzem os conflitos de integração e são a prática recomendada na integração contínua.",
+    "gabarito": "E",
+    "comentario": "Errado. Ramos longos acumulam divergência e geram integrações difíceis (merge hell). A integração contínua pede ramos curtos ou desenvolvimento baseado no tronco (trunk-based), com feature flags para esconder o que não está pronto.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.3.2-01",
+    "topicoId": "3.4.3.2",
+    "enunciado": "No DevSecOps, a segurança é incorporada ao longo de todo o ciclo de desenvolvimento e entrega, com verificações automatizadas no pipeline, em vez de ser tratada apenas em uma etapa final.",
+    "gabarito": "C",
+    "comentario": "Certo. É a ideia de “deslocar para a esquerda” (shift left): SAST, SCA, varredura de segredos e de imagens de contêiner rodam a cada alteração, e a segurança passa a ser responsabilidade compartilhada.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.3.2-02",
+    "topicoId": "3.4.3.2",
+    "enunciado": "Uma lista de materiais de software (SBOM) inventaria os componentes e as dependências de uma aplicação, facilitando identificar rapidamente quais sistemas são afetados quando surge uma vulnerabilidade em uma biblioteca.",
+    "gabarito": "C",
+    "comentario": "Certo. No caso Log4Shell, organizações com SBOM sabiam em minutos onde a biblioteca estava; as demais levaram dias. Formatos comuns são SPDX e CycloneDX.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.3.2-03",
+    "topicoId": "3.4.3.2",
+    "enunciado": "Atualizar automaticamente todas as dependências para a versão mais recente, sem revisão nem testes, elimina os riscos da cadeia de suprimentos de software.",
+    "gabarito": "E",
+    "comentario": "Errado. Versões novas podem trazer quebras ou até código malicioso (pacotes comprometidos). Recomenda-se fixar versões (lock files), atualizar de forma controlada, com testes, e verificar a procedência dos pacotes.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.3.3-01",
+    "topicoId": "3.4.3.3",
+    "enunciado": "Construir o artefato uma única vez no pipeline e promover o mesmo artefato entre os ambientes de homologação e produção reduz o risco de diferenças entre o que foi testado e o que foi implantado.",
+    "gabarito": "C",
+    "comentario": "Certo. Recompilar para cada ambiente pode gerar artefatos diferentes (outra versão de dependência, outro compilador). O mesmo binário ou imagem passa por todos os ambientes, mudando apenas a configuração.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.3.3-02",
+    "topicoId": "3.4.3.3",
+    "enunciado": "Implantações manuais, executadas a partir da máquina de um desenvolvedor, são mais confiáveis e rastreáveis que pipelines automatizados.",
+    "gabarito": "E",
+    "comentario": "Errado. Processos manuais variam a cada execução, dependem de quem os faz e deixam pouco registro. Pipelines automatizados são repetíveis, registram quem implantou o quê e quando, e permitem aplicar controles.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.3.3-03",
+    "topicoId": "3.4.3.3",
+    "enunciado": "Quando um teste automatizado falha no pipeline, a prática recomendada é desabilitá-lo para não atrasar a entrega e investigar o problema somente se ele voltar a ocorrer em produção.",
+    "gabarito": "E",
+    "comentario": "Errado. A falha do teste é exatamente o aviso que o pipeline deveria dar. Desabilitar testes que falham anula o controle. Se o teste é instável, deve ser corrigido; se detectou defeito, o código é que deve ser corrigido.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.3.4-01",
+    "topicoId": "3.4.3.4",
+    "enunciado": "Separar a configuração do código, de modo que o mesmo artefato seja implantado em diferentes ambientes apenas com configurações distintas, é prática recomendada, como prevê, por exemplo, o modelo twelve-factor app.",
+    "gabarito": "C",
+    "comentario": "Certo. URLs, credenciais e parâmetros ficam em variáveis de ambiente ou serviços de configuração, e não no código. Assim, o artefato testado em homologação é o mesmo que vai para produção.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.3.4-02",
+    "topicoId": "3.4.3.4",
+    "enunciado": "Os ambientes de desenvolvimento, homologação e produção podem compartilhar o mesmo banco de dados, desde que os desenvolvedores tenham cuidado ao executar os testes.",
+    "gabarito": "E",
+    "comentario": "Errado. Compartilhar o banco expõe dados reais e permite que um teste altere ou apague dados de produção. A segregação de ambientes não pode depender de cuidado individual.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.3.4-03",
+    "topicoId": "3.4.3.4",
+    "enunciado": "Restringir quem pode implantar em produção e exigir aprovação para as mudanças nesse ambiente são controles de segregação de funções aplicados à entrega de software.",
+    "gabarito": "C",
+    "comentario": "Certo. Quem escreve o código não deveria, sozinho, colocá-lo em produção sem revisão. Pipelines com aprovação e proteção de ramos implementam esse controle de forma rastreável.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.3.5-01",
+    "topicoId": "3.4.3.5",
+    "enunciado": "Feature flags permitem implantar o código de uma funcionalidade desativado e ativá-lo depois, de forma gradual, bem como desativá-lo rapidamente em caso de problema, sem nova implantação.",
+    "gabarito": "C",
+    "comentario": "Certo. Separam implantação (código em produção) de liberação (funcionalidade disponível). Flags antigas devem ser removidas, para não virarem débito técnico.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.3.5-02",
+    "topicoId": "3.4.3.5",
+    "enunciado": "Na implantação blue-green, a nova versão substitui gradualmente a antiga em parte dos servidores, sem que exista um ambiente idêntico preparado para receber todo o tráfego.",
+    "gabarito": "E",
+    "comentario": "Errado. Isso descreve a implantação gradual (rolling). No blue-green há dois ambientes completos: a nova versão sobe no ambiente ocioso e o tráfego é chaveado de uma vez; a reversão é chavear de volta.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.3.5-03",
+    "topicoId": "3.4.3.5",
+    "enunciado": "Após uma implantação, acompanhar métricas como a taxa de erros e a latência permite detectar rapidamente regressões e decidir pela reversão.",
+    "gabarito": "C",
+    "comentario": "Certo. Sem observabilidade, a equipe só descobre o problema quando os usuários reclamam. Com métricas comparadas antes e depois, a reversão pode ser decidida, ou até automatizada, em minutos.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.3.6-01",
+    "topicoId": "3.4.3.6",
+    "enunciado": "Implantações sem indisponibilidade exigem que a nova versão seja compatível com a anterior durante a transição, inclusive quanto ao esquema do banco de dados.",
+    "gabarito": "C",
+    "comentario": "Certo. Por algum tempo, as duas versões rodam juntas e usam o mesmo banco. Mudanças de esquema devem ser feitas em etapas compatíveis (expandir e contrair).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.3.6-02",
+    "topicoId": "3.4.3.6",
+    "enunciado": "Durante um incidente em produção, a prioridade é identificar o responsável pela falha, antes mesmo de restabelecer o serviço aos usuários.",
+    "gabarito": "E",
+    "comentario": "Errado. A prioridade é restabelecer o serviço (mitigar, reverter, contornar). A análise de causas vem depois, focada no sistema e não em culpados.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.3.6-03",
+    "topicoId": "3.4.3.6",
+    "enunciado": "A análise pós-incidente sem atribuição de culpa (blameless) concentra-se nas causas sistêmicas e nas melhorias de processo, o que favorece o relato honesto dos fatos.",
+    "gabarito": "C",
+    "comentario": "Certo. Se o relato honesto gera punição, as pessoas escondem informações e a organização não aprende. Isso não impede a responsabilização em casos de má-fé, que seguem por outros canais.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.4.1-01",
+    "topicoId": "3.4.4.1",
+    "enunciado": "A descoberta de produto busca entender o problema e validar se uma solução é desejável, viável e factível antes de investir na sua construção completa.",
+    "gabarito": "C",
+    "comentario": "Certo. Desejável (as pessoas querem e conseguem usar?), viável (faz sentido para a organização, inclusive em custo e normas?) e factível (é tecnicamente possível?). Entrevistas e protótipos testam hipóteses com baixo custo.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.4.1-02",
+    "topicoId": "3.4.4.1",
+    "enunciado": "Um produto digital pode ser considerado concluído no momento de sua primeira entrega, dispensando-se o acompanhamento de uso e a evolução posteriores.",
+    "gabarito": "E",
+    "comentario": "Errado. A primeira entrega é o início do ciclo de vida do produto. Acompanhar uso, coletar feedback, corrigir e evoluir, e um dia descontinuar, também fazem parte da gestão do produto.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.4.1-03",
+    "topicoId": "3.4.4.1",
+    "enunciado": "Um produto mínimo viável (MVP) permite testar hipóteses com usuários reais com o menor esforço possível, gerando aprendizado para orientar as próximas entregas.",
+    "gabarito": "C",
+    "comentario": "Certo. O MVP não é uma versão malfeita do produto, e sim o mínimo necessário para aprender algo relevante. Se a hipótese falhar, perde-se pouco.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.4.2-01",
+    "topicoId": "3.4.4.2",
+    "enunciado": "Segundo o Guia do Scrum, o Scrum Team é composto pelo Product Owner, pelo Scrum Master e pelos Developers.",
+    "gabarito": "C",
+    "comentario": "Certo. Na versão de 2020 do Guia do Scrum, essas são as três responsabilidades (accountabilities). Não há hierarquias nem subequipes dentro do Scrum Team.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.4.2-02",
+    "topicoId": "3.4.4.2",
+    "enunciado": "No Scrum, o Product Owner é responsável por definir como os Developers irão implementar cada item técnico do Sprint.",
+    "gabarito": "E",
+    "comentario": "Errado. O Product Owner maximiza o valor do produto e gerencia o Product Backlog (o quê e por quê). Os Developers são autogerenciáveis e decidem como transformar os itens em incremento.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.4.2-03",
+    "topicoId": "3.4.4.2",
+    "enunciado": "O Kanban prescreve iterações de duração fixa, chamadas sprints, e papéis obrigatórios, como o de Scrum Master.",
+    "gabarito": "E",
+    "comentario": "Errado. Sprints e Scrum Master são do Scrum. O Kanban trabalha com fluxo contínuo, visualização do trabalho, limites de WIP e gestão do fluxo, sem iterações fixas nem papéis obrigatórios.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.4.2-04",
+    "topicoId": "3.4.4.2",
+    "enunciado": "No Kanban, limitar o trabalho em progresso (WIP) em cada etapa do fluxo ajuda a reduzir o tempo de ciclo e a evidenciar gargalos.",
+    "gabarito": "C",
+    "comentario": "Certo. Com muitos itens em andamento, tudo demora (lei de Little: tempo de ciclo = WIP ÷ vazão). O limite força terminar antes de começar e mostra onde o trabalho se acumula.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.4.3-01",
+    "topicoId": "3.4.4.3",
+    "enunciado": "Na técnica de priorização MoSCoW, os itens são classificados como Must have, Should have, Could have e Won't have (this time).",
+    "gabarito": "C",
+    "comentario": "Certo. A categoria Won't have deixa explícito o que fica fora desta entrega, o que ajuda a gerenciar expectativas. Outras técnicas incluem custo do atraso e RICE.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.4.3-02",
+    "topicoId": "3.4.4.3",
+    "enunciado": "Indicadores de resultado, como a redução do tempo para o cidadão obter um serviço, e indicadores de produção, como o número de funcionalidades entregues, medem a mesma coisa.",
+    "gabarito": "E",
+    "comentario": "Errado. Funcionalidades entregues são produto (output); menos tempo para obter o serviço é resultado (outcome). É possível entregar muitas funcionalidades sem melhorar nada para o cidadão.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.4.3-03",
+    "topicoId": "3.4.4.3",
+    "enunciado": "A Definição de Pronto (Definition of Done) estabelece critérios de qualidade comuns a todos os itens, como código revisado e testado, enquanto os critérios de aceitação são específicos de cada item.",
+    "gabarito": "C",
+    "comentario": "Certo. Um item só está pronto quando atende à Definição de Pronto (vale para todos) e aos seus próprios critérios de aceitação (específicos daquela história).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.4.4-01",
+    "topicoId": "3.4.4.4",
+    "enunciado": "O Plano Diretor de Tecnologia da Informação e Comunicação (PDTIC) é instrumento de diagnóstico, planejamento e gestão dos recursos e processos de TIC de um órgão, alinhado aos seus objetivos estratégicos.",
+    "gabarito": "C",
+    "comentario": "Certo. O PDTIC orienta quais soluções de TIC o órgão vai desenvolver ou contratar no período, e as contratações de TIC devem estar alinhadas a ele.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.4.4-02",
+    "topicoId": "3.4.4.4",
+    "enunciado": "O Plano de Dados Abertos (PDA) é documento facultativo e sem relação com o desenvolvimento de sistemas, pois trata apenas da publicação de relatórios em PDF.",
+    "gabarito": "E",
+    "comentario": "Errado. No Executivo federal, a Política de Dados Abertos (Decreto nº 8.777/2016) prevê o PDA, que planeja a abertura de bases em formato aberto e legível por máquina. Sistemas novos devem ser projetados para permitir essa disponibilização.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.4.4-03",
+    "topicoId": "3.4.4.4",
+    "enunciado": "Ao planejar um novo produto digital, é pertinente verificar o seu alinhamento ao PDTIC e ao plano de transformação digital do órgão, bem como prever a disponibilização dos dados como dados abertos, quando cabível.",
+    "gabarito": "C",
+    "comentario": "Certo. Os três planos dão coerência às iniciativas: o PDTIC organiza os recursos de TIC, o plano de transformação digital prioriza serviços ao cidadão e o PDA orienta a abertura de dados.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.4.5-01",
+    "topicoId": "3.4.4.5",
+    "enunciado": "Matrizes de responsabilidade, como a RACI, explicitam, em cada atividade, quem é responsável por executar, quem responde pelo resultado, quem deve ser consultado e quem deve ser informado.",
+    "gabarito": "C",
+    "comentario": "Certo. R (Responsible): executa; A (Accountable): responde pelo resultado, só um por atividade; C (Consulted): é ouvido; I (Informed): é comunicado. Evita lacunas e sobreposições.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.4.5-02",
+    "topicoId": "3.4.4.5",
+    "enunciado": "A existência de uma política de segurança aprovada é evidência suficiente de que os controles de segurança da aplicação estão funcionando.",
+    "gabarito": "E",
+    "comentario": "Errado. A política mostra intenção (desenho). Evidências de efetividade vêm da operação: relatórios de varredura, registros de revisão de acessos, testes de restauração, resultados de testes de segurança.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.4.5-03",
+    "topicoId": "3.4.4.5",
+    "enunciado": "Os riscos identificados em um projeto de software devem ser registrados apenas no início, não sendo necessário revisá-los durante a execução.",
+    "gabarito": "E",
+    "comentario": "Errado. Riscos mudam: alguns se materializam, outros desaparecem e novos surgem. A gestão de riscos é contínua, com revisão periódica, responsáveis e respostas atualizadas.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.5.1-01",
+    "topicoId": "3.4.5.1",
+    "enunciado": "Na Lei nº 14.133/2021, o estudo técnico preliminar é documento constitutivo da primeira etapa do planejamento de uma contratação, que caracteriza o interesse público envolvido e a sua melhor solução.",
+    "gabarito": "C",
+    "comentario": "Certo. É a definição do art. 6º, XX, da Lei nº 14.133/2021. O ETP dá base ao anteprojeto, ao termo de referência ou ao projeto básico, caso se conclua pela viabilidade da contratação.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.5.1-02",
+    "topicoId": "3.4.5.1",
+    "enunciado": "O termo de referência é elaborado após a assinatura do contrato, para registrar como os serviços foram efetivamente executados.",
+    "gabarito": "E",
+    "comentario": "Errado. O termo de referência é documento de planejamento, elaborado antes da licitação, que define o objeto, os requisitos, o modelo de execução e de gestão, os critérios de medição e pagamento, entre outros elementos (art. 6º, XXIII, da Lei nº 14.133/2021).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.5.1-03",
+    "topicoId": "3.4.5.1",
+    "enunciado": "O estudo técnico preliminar deve analisar as alternativas possíveis para atender à necessidade, inclusive soluções já disponíveis no mercado ou na própria administração, antes de definir o que será contratado.",
+    "gabarito": "C",
+    "comentario": "Certo. O ETP parte da necessidade, e não da solução pré-escolhida. Levantar alternativas, inclusive não contratar, evita direcionamento e contratações desnecessárias.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.5.2-01",
+    "topicoId": "3.4.5.2",
+    "enunciado": "Ao comparar desenvolvimento próprio, contratação e reuso de soluções compartilhadas, devem ser considerados fatores como a capacidade da equipe interna, os custos de sustentação, o prazo e a dependência de fornecedores.",
+    "gabarito": "C",
+    "comentario": "Certo. Não existe opção sempre melhor: cada uma tem riscos e custos diferentes ao longo do tempo. A decisão deve ser registrada e justificada no planejamento.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.5.2-02",
+    "topicoId": "3.4.5.2",
+    "enunciado": "O desenvolvimento interno é sempre a opção de menor custo para a administração, pois não envolve pagamento a fornecedores.",
+    "gabarito": "E",
+    "comentario": "Errado. Há custo de pessoal, infraestrutura, sustentação por anos e custo de oportunidade (o que a equipe deixa de fazer). Uma análise de custo total pode mostrar que outra opção é mais econômica.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.5.2-03",
+    "topicoId": "3.4.5.2",
+    "enunciado": "O reuso de soluções já desenvolvidas por outros órgãos públicos, como softwares disponibilizados para compartilhamento, pode reduzir os custos e os prazos de atendimento a uma nova necessidade.",
+    "gabarito": "C",
+    "comentario": "Certo. Antes de desenvolver ou contratar, vale verificar se outro órgão já resolveu o mesmo problema. É preciso avaliar a aderência à necessidade, a qualidade e quem fará a sustentação.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.5.3-01",
+    "topicoId": "3.4.5.3",
+    "enunciado": "O custo total de propriedade (TCO) considera não apenas o preço de aquisição, mas também os custos de implantação, operação, manutenção, treinamento e descontinuação ao longo da vida útil da solução.",
+    "gabarito": "C",
+    "comentario": "Certo. A solução mais barata na compra pode ser a mais cara em cinco anos, por licenças anuais, sustentação ou migração. A Lei nº 14.133/2021 também valoriza o ciclo de vida do objeto na busca da proposta mais vantajosa (art. 11, I).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.5.3-02",
+    "topicoId": "3.4.5.3",
+    "enunciado": "Na pesquisa de preços para contratação pública, basta consultar um único fornecedor, desde que ele seja de grande porte.",
+    "gabarito": "E",
+    "comentario": "Errado. A Lei nº 14.133/2021 (art. 23) prevê que o valor estimado seja compatível com os valores praticados pelo mercado, a partir de parâmetros como o painel de preços, contratações similares de outros entes, mídia especializada e pesquisa com fornecedores. Um único orçamento não forma preço de referência confiável.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.5.3-03",
+    "topicoId": "3.4.5.3",
+    "enunciado": "O dimensionamento de uma contratação de serviços de TI pode ser feito sem qualquer base em dados históricos ou estimativas de demanda, pois o fornecedor ajustará as quantidades durante a execução.",
+    "gabarito": "E",
+    "comentario": "Errado. Quantidades sem base levam a superdimensionamento (pagar pelo que não se usa) ou subdimensionamento (aditivos e descontinuidade). O dimensionamento deve ser justificado com dados históricos e estimativas documentadas.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.5.4-01",
+    "topicoId": "3.4.5.4",
+    "enunciado": "Acordos de níveis de serviço (SLA) definem metas mensuráveis, como disponibilidade e prazo de atendimento, e podem prever redução do pagamento quando as metas não são atingidas.",
+    "gabarito": "C",
+    "comentario": "Certo. O pagamento vinculado ao nível de serviço alinha incentivos: o fornecedor recebe pelo resultado entregue. Para funcionar, as metas precisam ser medidas de forma confiável, preferencialmente por ferramenta da própria administração.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.5.4-02",
+    "topicoId": "3.4.5.4",
+    "enunciado": "Remunerar serviços de desenvolvimento apenas pela quantidade de horas trabalhadas, sem vincular o pagamento a entregas verificáveis, é o modelo mais adequado ao controle de resultados.",
+    "gabarito": "E",
+    "comentario": "Errado. O pagamento por hora trabalhada, sem entrega verificável, remunera o esforço e não o resultado, e cria incentivo a ineficiência. Prefere-se vincular o pagamento a produtos ou resultados mensuráveis.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.5.4-03",
+    "topicoId": "3.4.5.4",
+    "enunciado": "Critérios de aceitação objetivos, definidos no termo de referência, permitem verificar se a entrega atende aos requisitos de qualidade antes do pagamento.",
+    "gabarito": "C",
+    "comentario": "Certo. Sem critérios objetivos, o recebimento vira opinião e abre espaço a conflitos ou a pagamentos indevidos. Critérios claros protegem a administração e o fornecedor.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.5.5-01",
+    "topicoId": "3.4.5.5",
+    "enunciado": "Na Lei nº 14.133/2021, a execução do contrato deve ser acompanhada e fiscalizada por um ou mais fiscais do contrato, representantes da administração especialmente designados.",
+    "gabarito": "C",
+    "comentario": "Certo. É o art. 117 da Lei nº 14.133/2021. O fiscal anota as ocorrências e determina a regularização de falhas, e a lei admite contratar terceiros para assistir e subsidiar o fiscal.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.5.5-02",
+    "topicoId": "3.4.5.5",
+    "enunciado": "O fiscal do contrato pode atestar o recebimento de uma entrega sem verificá-la, desde que o fornecedor declare que ela atende aos requisitos.",
+    "gabarito": "E",
+    "comentario": "Errado. Atestar sem verificar é falha grave: o atesto é a declaração da administração de que recebeu o que contratou. Atestos indevidos podem gerar responsabilização do fiscal e são achado recorrente de auditoria.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.5.5-03",
+    "topicoId": "3.4.5.5",
+    "enunciado": "Como regra, o pagamento por um serviço de TI pode ser realizado antes da verificação da entrega, para não atrasar o cronograma do fornecedor.",
+    "gabarito": "E",
+    "comentario": "Errado. A regra é pagar após a liquidação da despesa, que verifica o direito do credor com base na entrega efetiva (art. 63 da Lei nº 4.320/1964). Pagamento antecipado é excepcional e exige justificativa e garantias (art. 145 da Lei nº 14.133/2021).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.5.6-01",
+    "topicoId": "3.4.5.6",
+    "enunciado": "Prever em contrato a cessão dos direitos patrimoniais sobre o software desenvolvido sob encomenda, bem como a entrega do código-fonte e da documentação, reduz a dependência da administração em relação ao fornecedor.",
+    "gabarito": "C",
+    "comentario": "Certo. Sem código-fonte e direitos, a administração fica presa ao fornecedor para qualquer manutenção. A Lei nº 14.133/2021 (art. 93) trata da cessão dos direitos patrimoniais nas contratações de projetos e softwares desenvolvidos sob encomenda.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.5.6-02",
+    "topicoId": "3.4.5.6",
+    "enunciado": "A dependência tecnológica de um único fornecedor (lock-in) é irrelevante na contratação de serviços em nuvem, pois os dados podem sempre ser migrados sem custo para outro provedor.",
+    "gabarito": "E",
+    "comentario": "Errado. Serviços proprietários, formatos específicos e custos de transferência de dados (egress) podem tornar a migração cara e demorada. O risco deve ser avaliado no planejamento, com exigências de portabilidade e formatos abertos.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "3.4.5.6-03",
+    "topicoId": "3.4.5.6",
+    "enunciado": "O plano de saída define como a administração recuperará seus dados e fará a transição para outra solução ou fornecedor ao término do contrato, assegurando a continuidade do serviço.",
+    "gabarito": "C",
+    "comentario": "Certo. Deve prever formato e prazo de devolução dos dados, apoio à transição, eliminação segura dos dados pelo fornecedor e transferência de conhecimento. Planejar a saída na contratação é muito mais fácil do que negociá-la no fim.",
+    "revisada": false,
+    "origem": "ia"
+  }
+]

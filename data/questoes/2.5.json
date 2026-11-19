@@ -1,0 +1,362 @@
+[
+  {
+    "id": "2.5.1.1-01",
+    "topicoId": "2.5.1.1",
+    "enunciado": "A auditoria interna governamental é uma atividade independente e objetiva de avaliação e de consultoria, desenhada para adicionar valor e melhorar as operações de uma organização.",
+    "gabarito": "C",
+    "comentario": "Certo. É a definição do Referencial Técnico da Atividade de Auditoria Interna Governamental do Poder Executivo Federal (IN SFC nº 3/2017), alinhada ao conceito internacional do IIA. A auditoria ajuda a organização a alcançar seus objetivos por meio de abordagem sistemática para avaliar e melhorar governança, riscos e controles.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.5.1.1-02",
+    "topicoId": "2.5.1.1",
+    "enunciado": "A contribuição da auditoria interna restringe-se à verificação da conformidade legal dos atos, não alcançando a governança, a gestão de riscos nem os resultados da organização.",
+    "gabarito": "E",
+    "comentario": "Errado. A conformidade é uma das dimensões, mas o foco moderno da auditoria interna inclui governança, gestão de riscos, controles e resultados (desempenho), com o objetivo de agregar valor.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.5.1.1-03",
+    "topicoId": "2.5.1.1",
+    "enunciado": "Ao avaliar se os controles de uma organização tratam adequadamente os riscos aos seus objetivos, a auditoria interna contribui para o aprimoramento da gestão de riscos e da governança.",
+    "gabarito": "C",
+    "comentario": "Certo. A auditoria baseada em riscos parte dos objetivos da organização, identifica os riscos e testa se os controles os mitigam. Os resultados orientam a gestão sobre onde reforçar ou simplificar controles.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.5.1.2-01",
+    "topicoId": "2.5.1.2",
+    "enunciado": "Avaliação e consultoria são os serviços típicos da auditoria interna governamental: a avaliação fornece análise objetiva de evidências, e a consultoria presta assessoramento, aconselhamento e serviços relacionados, com escopo acordado com a gestão.",
+    "gabarito": "C",
+    "comentario": "Certo. Na avaliação, a auditoria define escopo e emite opinião independente. Na consultoria, a natureza e o escopo são acordados com a gestão, e o objetivo é agregar valor sem que a auditoria assuma responsabilidades gerenciais.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.5.1.2-02",
+    "topicoId": "2.5.1.2",
+    "enunciado": "Nos serviços de consultoria, o auditor interno assume a responsabilidade pelas decisões gerenciais decorrentes de suas recomendações.",
+    "gabarito": "E",
+    "comentario": "Errado. Na consultoria, o auditor aconselha, mas as decisões e sua implementação continuam sendo da gestão. Assumir responsabilidades gerenciais comprometeria a objetividade em trabalhos futuros sobre o mesmo tema.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.5.1.2-03",
+    "topicoId": "2.5.1.2",
+    "enunciado": "A apuração de atos ou fatos com indícios de ilegalidade ou irregularidade na utilização de recursos públicos federais é competência do sistema de controle interno distinta dos serviços de avaliação e de consultoria.",
+    "gabarito": "C",
+    "comentario": "Certo. A apuração tem finalidade própria: esclarecer fatos com indícios de irregularidade, com diligências e preservação de evidências, e comunicar às instâncias competentes. Não se confunde com a avaliação de governança e controles.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.5.1.3-01",
+    "topicoId": "2.5.1.3",
+    "enunciado": "As três formas de atuação da SFC — avaliação, consultoria e apuração — possuem finalidades distintas, o que exige definir, no início de cada trabalho, qual delas é adequada ao problema.",
+    "gabarito": "C",
+    "comentario": "Certo. Um problema de desenho de processo pede consultoria; dúvida sobre desempenho e controles pede avaliação; indício de desvio pede apuração. A escolha errada compromete o resultado do trabalho.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.5.1.3-02",
+    "topicoId": "2.5.1.3",
+    "enunciado": "Os resultados das auditorias da SFC não podem ser compartilhados com as áreas de correição da CGU, pois isso violaria a independência da auditoria.",
+    "gabarito": "E",
+    "comentario": "Errado. A atuação integrada da CGU prevê que achados de auditoria subsidiem a correição e a responsabilização, observados o compartilhamento lícito e as garantias de cada função. Independência não significa isolamento.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.5.1.3-03",
+    "topicoId": "2.5.1.3",
+    "enunciado": "Achados de auditoria podem subsidiar a avaliação de políticas públicas e a atuação correcional, respeitadas as finalidades e as garantias de cada função.",
+    "gabarito": "C",
+    "comentario": "Certo. O mesmo achado pode alimentar a melhoria da política (gestão), a avaliação de resultados e, quando há indícios de ilícito, a admissibilidade correcional. Cada uso segue regras próprias.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.5.1.4-01",
+    "topicoId": "2.5.1.4",
+    "enunciado": "No Modelo das Três Linhas do IIA, a gestão é responsável pelas funções de primeira e de segunda linha, ao passo que a auditoria interna, na terceira linha, presta avaliação e assessoria independentes e objetivas.",
+    "gabarito": "C",
+    "comentario": "Certo. Primeira linha: quem executa e gerencia os riscos no dia a dia. Segunda linha: apoio especializado em riscos, conformidade e controles (ainda da gestão). Terceira linha: auditoria interna, independente da gestão, que se reporta ao órgão de governança.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.5.1.4-02",
+    "topicoId": "2.5.1.4",
+    "enunciado": "Independência e objetividade são sinônimos, e ambas se referem exclusivamente à posição da auditoria no organograma.",
+    "gabarito": "E",
+    "comentario": "Errado. Independência é organizacional: a auditoria está livre de condições que ameacem sua imparcialidade (posição, reporte, acesso). Objetividade é individual: atitude mental imparcial do auditor, sem conflitos de interesse.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.5.1.4-03",
+    "topicoId": "2.5.1.4",
+    "enunciado": "O ceticismo profissional implica manter atitude questionadora e avaliar criticamente as evidências, sem presumir nem a desonestidade nem a honestidade absoluta da gestão.",
+    "gabarito": "C",
+    "comentario": "Certo. Ceticismo não é desconfiança generalizada: é exigir evidência suficiente antes de concluir, ficar atento a inconsistências e não aceitar explicações sem verificação.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.5.1.4-04",
+    "topicoId": "2.5.1.4",
+    "enunciado": "Para preservar sua objetividade, o auditor interno pode avaliar atividades pelas quais tenha sido responsável no ano anterior, desde que declare não ter conflito de interesses.",
+    "gabarito": "E",
+    "comentario": "Errado. As normas internacionais de auditoria interna presumem prejuízo à objetividade quando o auditor avalia atividade pela qual foi responsável no ano anterior; a mera declaração não afasta a ameaça. Ele não deve participar desse trabalho de avaliação.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.5.2.1-01",
+    "topicoId": "2.5.2.1",
+    "enunciado": "O ciclo de um trabalho de auditoria compreende o planejamento, a execução, a comunicação dos resultados e o monitoramento das recomendações.",
+    "gabarito": "C",
+    "comentario": "Certo. O monitoramento fecha o ciclo: sem ele, recomendações ficam no papel. Os resultados do monitoramento também alimentam o planejamento de trabalhos futuros.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.5.2.1-02",
+    "topicoId": "2.5.2.1",
+    "enunciado": "Os critérios de auditoria devem ser definidos somente após a coleta das evidências, de modo a se ajustarem à situação encontrada.",
+    "gabarito": "E",
+    "comentario": "Errado. Os critérios (o que deveria ser) são definidos no planejamento, para que a comparação com a condição encontrada seja objetiva. Escolher o critério depois de ver os dados enviesa a conclusão.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.5.2.1-03",
+    "topicoId": "2.5.2.1",
+    "enunciado": "As questões de auditoria orientam a definição dos procedimentos e das evidências necessárias e devem estar alinhadas ao objetivo e ao escopo do trabalho.",
+    "gabarito": "C",
+    "comentario": "Certo. Na matriz de planejamento, cada questão se desdobra em informações requeridas, fontes, procedimentos e limitações. Questões vagas geram trabalho disperso.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.5.2.2-01",
+    "topicoId": "2.5.2.2",
+    "enunciado": "No planejamento baseado em riscos, a seleção dos trabalhos considera fatores como materialidade, relevância e criticidade, de modo a priorizar as áreas em que a auditoria pode agregar mais valor.",
+    "gabarito": "C",
+    "comentario": "Certo. Materialidade (volume de recursos), relevância (importância social, política, estratégica) e criticidade (riscos e fragilidades conhecidas) orientam onde concentrar a capacidade limitada da auditoria.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.5.2.2-02",
+    "topicoId": "2.5.2.2",
+    "enunciado": "Materialidade refere-se exclusivamente ao valor financeiro envolvido, de modo que temas de baixo valor monetário nunca devem ser priorizados, ainda que afetem direitos fundamentais de muitas pessoas.",
+    "gabarito": "E",
+    "comentario": "Errado. A materialidade financeira é um critério, mas não o único: a relevância social pode justificar priorizar temas de baixo valor e alto impacto sobre direitos (por exemplo, acesso a um benefício para populações vulneráveis).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.5.2.2-03",
+    "topicoId": "2.5.2.2",
+    "enunciado": "Diante de denúncia com indícios consistentes de desvio de recursos, a forma de atuação mais adequada tende a ser a apuração, e não a consultoria.",
+    "gabarito": "C",
+    "comentario": "Certo. A consultoria pressupõe cooperação com a gestão para melhorar algo; diante de indícios de desvio, é preciso esclarecer fatos, preservar evidências e comunicar às instâncias competentes, que é a finalidade da apuração.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.5.2.3-01",
+    "topicoId": "2.5.2.3",
+    "enunciado": "Ao apoiar a melhoria da gestão, a auditoria deve preservar a autonomia técnica dos gestores, que permanecem responsáveis pelas decisões e pela execução das medidas.",
+    "gabarito": "C",
+    "comentario": "Certo. A auditoria recomenda; o gestor decide como implementar, podendo inclusive propor alternativas que tratem a mesma causa. Isso preserva a responsabilização da gestão e a independência da auditoria.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.5.2.3-02",
+    "topicoId": "2.5.2.3",
+    "enunciado": "Para garantir a implementação de suas recomendações, a auditoria deve assumir a execução direta das rotinas da unidade auditada até que os problemas sejam resolvidos.",
+    "gabarito": "E",
+    "comentario": "Errado. Executar rotinas da gestão compromete a independência e a objetividade da auditoria e confunde responsabilidades. O caminho é recomendar, pactuar plano de ação e monitorar.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.5.2.3-03",
+    "topicoId": "2.5.2.3",
+    "enunciado": "Recomendações elaboradas em diálogo com a gestão tendem a ser mais exequíveis, sem que isso comprometa a independência das conclusões da auditoria.",
+    "gabarito": "C",
+    "comentario": "Certo. Ouvir a gestão (por exemplo, na discussão de achados e na manifestação sobre o relatório preliminar) melhora a qualidade das recomendações. As conclusões, porém, continuam sendo da auditoria, baseadas em evidências.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.5.3.1-01",
+    "topicoId": "2.5.3.1",
+    "enunciado": "Em auditoria, a suficiência refere-se à quantidade de evidências, e a adequação, à sua qualidade, abrangendo relevância e confiabilidade.",
+    "gabarito": "C",
+    "comentario": "Certo. Muitas evidências fracas não compensam a falta de evidências relevantes e confiáveis. As duas dimensões são avaliadas em conjunto.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.5.3.1-02",
+    "topicoId": "2.5.3.1",
+    "enunciado": "Evidências obtidas diretamente pelo auditor, por inspeção ou observação, são em geral menos confiáveis do que declarações verbais fornecidas pelo auditado.",
+    "gabarito": "E",
+    "comentario": "Errado. Em geral, evidências obtidas diretamente pelo auditor e as de fontes externas independentes são mais confiáveis do que declarações do próprio auditado. Declarações verbais costumam precisar de corroboração.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.5.3.1-03",
+    "topicoId": "2.5.3.1",
+    "enunciado": "Um achado de auditoria resulta da comparação entre a situação encontrada (condição) e o critério, sendo usualmente estruturado com a indicação de causas e efeitos.",
+    "gabarito": "C",
+    "comentario": "Certo. Os atributos do achado são critério (o que deveria ser), condição (o que é), causa (por que ocorreu) e efeito (consequência). A causa orienta a recomendação; o efeito indica a relevância.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.5.3.2-01",
+    "topicoId": "2.5.3.2",
+    "enunciado": "Um sinal de risco, como um pagamento atípico identificado por cruzamento de dados, indica necessidade de aprofundamento, mas não constitui, por si só, conclusão de irregularidade.",
+    "gabarito": "C",
+    "comentario": "Certo. Sinal de risco orienta onde olhar; evidência sustenta o que se afirma; conclusão exige evidência suficiente e adequada. Pular etapas gera acusações sem base.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.5.3.2-02",
+    "topicoId": "2.5.3.2",
+    "enunciado": "Constatada falha em uma amostra dirigida aos casos de maior risco, é legítimo concluir que a mesma taxa de falha ocorre em toda a população.",
+    "gabarito": "E",
+    "comentario": "Errado. Amostra dirigida por risco não é representativa: tende a superestimar a taxa de falha. Ela serve para encontrar problemas, mas não para projetar resultados para a população. Para isso, usa-se amostragem estatística.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.5.3.2-03",
+    "topicoId": "2.5.3.2",
+    "enunciado": "Quando as evidências obtidas são limitadas, o auditor deve reduzir o alcance de sua afirmação ou declarar a limitação, em vez de apresentar conclusão categórica.",
+    "gabarito": "C",
+    "comentario": "Certo. É a proporcionalidade da afirmação. Limitações de escopo ou de acesso a informações devem constar do relatório, para que o leitor saiba o grau de segurança da conclusão.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.5.4.1-01",
+    "topicoId": "2.5.4.1",
+    "enunciado": "Relatórios de auditoria devem ser claros, objetivos e contextualizados, de modo que seus destinatários compreendam os achados e possam utilizá-los na tomada de decisão.",
+    "gabarito": "C",
+    "comentario": "Certo. Um relatório tecnicamente correto, mas incompreensível, não gera mudança. Clareza, concisão, contexto e foco no que importa ao destinatário aumentam a utilidade.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.5.4.1-02",
+    "topicoId": "2.5.4.1",
+    "enunciado": "Em nome da transparência, os relatórios de auditoria devem ser publicados integralmente, inclusive com dados pessoais de denunciantes e informações protegidas por sigilo legal.",
+    "gabarito": "E",
+    "comentario": "Errado. A publicidade é a regra, mas convive com a proteção de dados pessoais, da identidade de denunciantes e de informações sigilosas. A solução é publicar com tarjamento das partes protegidas.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.5.4.1-03",
+    "topicoId": "2.5.4.1",
+    "enunciado": "A publicidade dos relatórios de auditoria é a regra, mas deve ser compatibilizada com a proteção de dados pessoais e de informações sigilosas, por exemplo, mediante tarjamento.",
+    "gabarito": "C",
+    "comentario": "Certo. A CGU publica seus relatórios de auditoria, aplicando tarjas às informações protegidas. Isso reforça o controle social sem expor pessoas indevidamente.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.5.4.2-01",
+    "topicoId": "2.5.4.2",
+    "enunciado": "Recomendações de auditoria devem atacar as causas dos problemas identificados, e não apenas seus sintomas, para reduzir a probabilidade de recorrência.",
+    "gabarito": "C",
+    "comentario": "Certo. Recomendar “regularizar o pagamento indevido” corrige o caso; recomendar “implantar conferência do atesto antes do pagamento” trata a causa. As duas podem coexistir, mas só a segunda evita novos casos.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.5.4.2-02",
+    "topicoId": "2.5.4.2",
+    "enunciado": "A elaboração de um plano de ação pelo gestor comprova que a recomendação foi implementada e que os benefícios esperados foram alcançados.",
+    "gabarito": "E",
+    "comentario": "Errado. Plano de ação é compromisso, não implementação. A implementação exige evidência de que as medidas foram executadas, e o benefício exige evidência de que o problema diminuiu.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.5.4.2-03",
+    "topicoId": "2.5.4.2",
+    "enunciado": "Plano de ação, implementação, resultado e benefício são etapas distintas no acompanhamento de recomendações, e cada uma delas exige evidência própria.",
+    "gabarito": "C",
+    "comentario": "Certo. Plano: o que se pretende fazer. Implementação: o que foi feito. Resultado: o que mudou. Benefício: o valor gerado (financeiro ou não). O monitoramento deve verificar cada etapa com a evidência adequada.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.5.5.1-01",
+    "topicoId": "2.5.5.1",
+    "enunciado": "Denúncias recebidas pela ouvidoria e dados de transparência podem ser utilizados como insumos para identificar riscos e orientar o planejamento de auditorias.",
+    "gabarito": "C",
+    "comentario": "Certo. Manifestações recorrentes e dados públicos sinalizam onde há problemas, ajudando a priorizar trabalhos. A identidade dos denunciantes deve continuar protegida nesse uso.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.5.5.1-02",
+    "topicoId": "2.5.5.1",
+    "enunciado": "Achados de auditoria que indiquem responsabilidade de empresa por ato lesivo contra a administração autorizam a aplicação imediata de sanção, dispensando o processo administrativo de responsabilização.",
+    "gabarito": "E",
+    "comentario": "Errado. A sanção à pessoa jurídica pela Lei nº 12.846/2013 depende de processo administrativo de responsabilização (PAR), com contraditório e ampla defesa. O achado é insumo para a admissibilidade, não decisão sancionadora.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.5.5.1-03",
+    "topicoId": "2.5.5.1",
+    "enunciado": "Achados de auditoria podem subsidiar o juízo de admissibilidade correcional, que avalia se há elementos suficientes para instaurar procedimento disciplinar ou de responsabilização.",
+    "gabarito": "C",
+    "comentario": "Certo. Na admissibilidade, a unidade correcional analisa se há indícios de autoria e materialidade que justifiquem instaurar procedimento, arquivar fundamentadamente ou aprofundar a investigação.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.5.5.2-01",
+    "topicoId": "2.5.5.2",
+    "enunciado": "Resultados de auditoria podem retroalimentar programas de integridade e a melhoria de serviços, por exemplo, ao revelar riscos recorrentes em determinados processos.",
+    "gabarito": "C",
+    "comentario": "Certo. Fragilidades que se repetem em vários órgãos indicam riscos para a integridade e oportunidades de orientação, normatização ou redesenho de serviços.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.5.5.2-02",
+    "topicoId": "2.5.5.2",
+    "enunciado": "Devolutivas às unidades e aos cidadãos sobre o tratamento dado às informações recebidas são dispensáveis, pois podem comprometer a independência da auditoria.",
+    "gabarito": "E",
+    "comentario": "Errado. Devolutivas, respeitados o sigilo e a proteção de pessoas, aumentam a confiança nos canais e estimulam novos relatos. Sem retorno, os cidadãos deixam de contribuir (subnotificação).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.5.5.2-03",
+    "topicoId": "2.5.5.2",
+    "enunciado": "O compartilhamento de informações entre as áreas da CGU deve ser lícito e observar a proteção da identidade de denunciantes e de dados pessoais.",
+    "gabarito": "C",
+    "comentario": "Certo. A integração entre auditoria, ouvidoria, correição e integridade é valiosa, mas cada dado compartilhado deve ter finalidade legítima e acesso restrito a quem precisa conhecê-lo.",
+    "revisada": false,
+    "origem": "ia"
+  }
+]

@@ -1,0 +1,488 @@
+[
+  {
+    "id": "1.1.1.1-01",
+    "topicoId": "1.1.1.1",
+    "enunciado": "Na tipologia weberiana de dominação legítima, a dominação racional-legal baseia-se na crença na legalidade de regras estatuídas e no direito de mando daqueles que, em virtude dessas regras, são nomeados para exercer a autoridade, sendo a burocracia sua forma mais pura.",
+    "gabarito": "C",
+    "comentario": "Certo. Weber distingue três tipos puros de dominação legítima: tradicional (crença na santidade das tradições), carismática (devoção às qualidades excepcionais de um líder) e racional-legal (crença na legalidade das normas impessoais). A burocracia é o tipo mais puro de dominação racional-legal.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.1.1-02",
+    "topicoId": "1.1.1.1",
+    "enunciado": "Estado, governo e administração pública são expressões sinônimas, pois todas designam o conjunto de órgãos e agentes que executam as políticas públicas no dia a dia.",
+    "gabarito": "E",
+    "comentario": "Errado. Estado é a organização política permanente, dotada de povo, território e soberania. Governo é a condução política, transitória, que define diretrizes. Administração pública é o aparelho (órgãos, entidades e agentes) que executa essas diretrizes de forma contínua.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.1.1-03",
+    "topicoId": "1.1.1.1",
+    "enunciado": "Poder e autoridade não se confundem: a autoridade corresponde ao poder reconhecido como legítimo por aqueles que a ele se submetem, ao passo que o poder pode ser exercido também por coerção, sem esse reconhecimento.",
+    "gabarito": "C",
+    "comentario": "Certo. Poder é a capacidade de impor a própria vontade, mesmo contra resistência. Quando esse poder é aceito como legítimo pelos subordinados, fala-se em autoridade (ou dominação legítima, em Weber). A legitimidade reduz a necessidade de coerção.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.1.1-04",
+    "topicoId": "1.1.1.1",
+    "enunciado": "Em uma sociedade pluralista, a existência de conflitos distributivos entre grupos indica falha do Estado, cuja função é eliminar a divergência de interesses em nome de um interesse público único e previamente conhecido.",
+    "gabarito": "E",
+    "comentario": "Errado. O pluralismo reconhece como legítima a coexistência de interesses divergentes. Os conflitos distributivos (quem ganha e quem paga) são inerentes à vida democrática. Cabe ao Estado mediá-los por procedimentos legítimos, e o interesse público é construído nesse processo, não dado de antemão.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.2.1-01",
+    "topicoId": "1.1.2.1",
+    "enunciado": "Na concepção de poliarquia de Robert Dahl, duas dimensões são centrais para caracterizar os regimes democráticos: a contestação pública, ou competição, e o direito de participação, ou inclusão.",
+    "gabarito": "C",
+    "comentario": "Certo. Para Dahl, as democracias reais são poliarquias: regimes com alto grau de liberalização (possibilidade de oposição e competição) e de inclusividade (amplo direito de participar). Regimes podem variar em cada dimensão de forma independente.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.2.1-02",
+    "topicoId": "1.1.2.1",
+    "enunciado": "A Constituição Federal de 1988 adotou exclusivamente a democracia representativa, não prevendo instrumentos de participação direta dos cidadãos no exercício do poder.",
+    "gabarito": "E",
+    "comentario": "Errado. O art. 1º, parágrafo único, dispõe que o poder é exercido por meio de representantes eleitos ou diretamente. O art. 14 prevê plebiscito, referendo e iniciativa popular, o que caracteriza uma democracia semidireta (ou participativa).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.2.1-03",
+    "topicoId": "1.1.2.1",
+    "enunciado": "A accountability horizontal refere-se ao controle exercido por agências estatais sobre outras agências estatais, como o controle do Executivo pelo Legislativo, pelos tribunais de contas e pelo Judiciário, ao passo que a accountability vertical envolve o controle dos governantes pelos cidadãos, especialmente por meio das eleições.",
+    "gabarito": "C",
+    "comentario": "Certo. A distinção é de Guillermo O'Donnell. A literatura acrescenta ainda a accountability social, exercida por imprensa, organizações da sociedade civil e movimentos sociais, que expõem falhas e ativam os controles formais.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.2.1-04",
+    "topicoId": "1.1.2.1",
+    "enunciado": "A expressão “presidencialismo de coalizão”, cunhada por Sérgio Abranches, designa o arranjo em que o presidente, diante de um sistema multipartidário, forma coalizões parlamentares, inclusive com a distribuição de ministérios, para obter apoio às suas iniciativas e assegurar a governabilidade.",
+    "gabarito": "C",
+    "comentario": "Certo. Abranches (1988) observou que o Brasil combina presidencialismo, multipartidarismo e representação proporcional, o que torna raro o partido do presidente ter maioria sozinho. A governabilidade depende então de coalizões, sustentadas pela partilha de cargos e de agenda.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.3.1-01",
+    "topicoId": "1.1.3.1",
+    "enunciado": "Nos termos da Constituição Federal, a organização político-administrativa da República Federativa do Brasil compreende a União, os estados, o Distrito Federal e os municípios, todos autônomos.",
+    "gabarito": "C",
+    "comentario": "Certo. É o texto do art. 18, caput, da CF. Os municípios integram a federação como entes autônomos, o que é uma particularidade do federalismo brasileiro. Autonomia (auto-organização, autogoverno, autoadministração) não se confunde com soberania, que é da República.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.3.1-02",
+    "topicoId": "1.1.3.1",
+    "enunciado": "No federalismo brasileiro, a autonomia dos entes federativos impede a existência de competências administrativas comuns, de modo que cada política pública, como saúde ou educação, é atribuída exclusivamente a um único nível de governo.",
+    "gabarito": "E",
+    "comentario": "Errado. O art. 23 da CF lista competências comuns da União, dos estados, do DF e dos municípios, como cuidar da saúde e proporcionar meios de acesso à educação. Daí o federalismo cooperativo, com sistemas nacionais (como o SUS) e coordenação entre os entes.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.3.1-03",
+    "topicoId": "1.1.3.1",
+    "enunciado": "Capacidades estatais podem ser analisadas em uma dimensão técnico-administrativa, relacionada a burocracias profissionais, recursos e instrumentos de gestão, e em uma dimensão político-relacional, relacionada à habilidade de articular atores, negociar e construir legitimidade para as políticas.",
+    "gabarito": "C",
+    "comentario": "Certo. Essa distinção aparece em estudos brasileiros sobre capacidades estatais (por exemplo, Pires e Gomide). Uma política pode fracassar tanto por falta de quadros e sistemas quanto por falta de coordenação e apoio político.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.3.1-04",
+    "topicoId": "1.1.3.1",
+    "enunciado": "Segundo a literatura sobre burocracia de nível de rua, iniciada por Michael Lipsky, a discricionariedade dos agentes que atendem diretamente a população é irrelevante para os resultados das políticas, pois esses agentes apenas executam mecanicamente as normas definidas pelos formuladores.",
+    "gabarito": "E",
+    "comentario": "Errado. Lipsky mostrou o oposto: professores, policiais, assistentes sociais e atendentes exercem discricionariedade relevante ao interpretar normas, priorizar casos e lidar com recursos escassos. Na prática, eles “fazem” a política que chega ao cidadão, o que afeta a implementação de direitos.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.4.1-01",
+    "topicoId": "1.1.4.1",
+    "enunciado": "São fundamentos da República Federativa do Brasil, entre outros, a soberania, a cidadania, a dignidade da pessoa humana, os valores sociais do trabalho e da livre-iniciativa e o pluralismo político.",
+    "gabarito": "C",
+    "comentario": "Certo. São exatamente os cinco fundamentos do art. 1º da CF. Para memorizar: SO-CI-DI-VA-PLU.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.4.1-02",
+    "topicoId": "1.1.4.1",
+    "enunciado": "Erradicar a pobreza e a marginalização e reduzir as desigualdades sociais e regionais são fundamentos da República Federativa do Brasil, conforme o art. 1º da Constituição Federal.",
+    "gabarito": "E",
+    "comentario": "Errado. Trata-se de objetivo fundamental, previsto no art. 3º, III, da CF, e não de fundamento (art. 1º). Os objetivos são construídos com verbos: construir, garantir, erradicar e reduzir, promover. A troca entre fundamentos e objetivos é uma armadilha clássica de prova.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.4.1-03",
+    "topicoId": "1.1.4.1",
+    "enunciado": "A Constituição Federal estabelece que a administração pública direta e indireta de qualquer dos Poderes da União, dos estados, do Distrito Federal e dos municípios obedecerá aos princípios de legalidade, impessoalidade, moralidade, publicidade e eficiência.",
+    "gabarito": "C",
+    "comentario": "Certo. É o art. 37, caput, da CF (LIMPE). A eficiência foi incluída pela Emenda Constitucional nº 19/1998.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.4.1-04",
+    "topicoId": "1.1.4.1",
+    "enunciado": "Os direitos fundamentais previstos na Constituição Federal são absolutos, não admitindo qualquer restrição, ainda que para compatibilizá-los com outros direitos fundamentais.",
+    "gabarito": "E",
+    "comentario": "Errado. Os direitos fundamentais são relativos: podem sofrer restrições previstas na própria Constituição ou em lei e, em caso de colisão, são harmonizados por ponderação e pelo princípio da proporcionalidade (por exemplo, liberdade de expressão e direito à honra).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.4.1-05",
+    "topicoId": "1.1.4.1",
+    "enunciado": "De acordo com a Constituição Federal, aos litigantes em processo judicial ou administrativo e aos acusados em geral são assegurados o contraditório e a ampla defesa, com os meios e recursos a ela inerentes.",
+    "gabarito": "C",
+    "comentario": "Certo. É o art. 5º, LV, da CF. A garantia vale expressamente também para o processo administrativo, o que é central na atuação de controle e correição: conclusões que afetam direitos exigem oportunidade de manifestação do interessado.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.5.1-01",
+    "topicoId": "1.1.5.1",
+    "enunciado": "Na formulação de Mark Moore, a criação de valor público exige alinhar três elementos: o valor substantivo a ser gerado para a sociedade, a legitimidade e o apoio político (ambiente autorizador) e a capacidade operacional para entregá-lo.",
+    "gabarito": "C",
+    "comentario": "Certo. É o “triângulo estratégico” de Moore (1995). Uma iniciativa valiosa sem apoio político não se sustenta, e uma iniciativa apoiada sem capacidade operacional não entrega resultados.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.5.1-02",
+    "topicoId": "1.1.5.1",
+    "enunciado": "Valor público equivale ao volume de produtos entregues por um órgão, de modo que o aumento do número de atendimentos realizados comprova, por si só, a geração de valor para a sociedade.",
+    "gabarito": "E",
+    "comentario": "Errado. Volume de produtos (outputs) não equivale a resultado (outcome). Valor público envolve resultados socialmente relevantes, confiança, equidade e respeito a direitos. Mais atendimentos podem até indicar que o problema piorou ou que o serviço resolve mal na primeira vez.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.5.1-03",
+    "topicoId": "1.1.5.1",
+    "enunciado": "Nos termos da Constituição Federal, o controle externo da União é exercido pelo Congresso Nacional com o auxílio do Tribunal de Contas da União, e cada Poder deve manter sistema de controle interno.",
+    "gabarito": "C",
+    "comentario": "Certo. Arts. 70 e 71 da CF (controle externo pelo Congresso, com auxílio do TCU) e art. 74 (os Poderes Legislativo, Executivo e Judiciário manterão, de forma integrada, sistema de controle interno). A CGU é o órgão central do sistema de controle interno do Executivo federal.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.5.1-04",
+    "topicoId": "1.1.5.1",
+    "enunciado": "Mais controle sempre produz melhores resultados públicos, pois a multiplicação de etapas de verificação reduz riscos sem gerar custos nem efeitos negativos sobre a eficiência e o acesso a direitos.",
+    "gabarito": "E",
+    "comentario": "Errado. Controles têm custos: tempo, recursos, burocracia para o cidadão e paralisia decisória. Controles devem ser proporcionais ao risco. Há uma tensão real entre eficiência, equidade e garantias, que deve ser ponderada, e não resolvida pelo excesso de verificação.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.6.1-01",
+    "topicoId": "1.1.6.1",
+    "enunciado": "A definição de corrupção adotada pela Transparência Internacional, segundo a qual corrupção é o abuso do poder confiado para ganhos privados, abrange tanto agentes públicos quanto relações no setor privado.",
+    "gabarito": "C",
+    "comentario": "Certo. A expressão “poder confiado” (entrusted power) não se limita ao poder estatal: inclui, por exemplo, o administrador de uma empresa que desvia recursos dos acionistas. A corrupção pode ser política, administrativa ou público-privada.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.6.1-02",
+    "topicoId": "1.1.6.1",
+    "enunciado": "A corrupção política, por envolver decisões de alto escalão, distingue-se da corrupção administrativa por não ter impacto sobre a alocação de recursos nem sobre a qualidade dos serviços públicos.",
+    "gabarito": "E",
+    "comentario": "Errado. A corrupção política (na formulação de leis, orçamentos e grandes decisões) costuma ter impacto ainda maior sobre a alocação de recursos, porque distorce as próprias regras e prioridades. A corrupção administrativa ocorre na execução cotidiana (licenças, fiscalização, compras), e ambas degradam serviços.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.6.1-03",
+    "topicoId": "1.1.6.1",
+    "enunciado": "A apropriação privada de decisões públicas pode ocorrer sem transferência direta de dinheiro, como quando uma norma é redigida para favorecer interesses de um grupo específico em troca de apoio futuro.",
+    "gabarito": "C",
+    "comentario": "Certo. A vantagem indevida não precisa ser imediata nem em dinheiro: pode envolver apoio político, financiamento de campanha, cargos futuros (porta giratória) ou favores. O núcleo é o desvio da decisão pública para atender a interesse particular.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.6.2-01",
+    "topicoId": "1.1.6.2",
+    "enunciado": "Toda falha de gestão que cause prejuízo ao erário configura corrupção, já que o resultado danoso ao interesse público é o mesmo.",
+    "gabarito": "E",
+    "comentario": "Errado. Corrupção pressupõe desvio intencional da função pública em benefício particular. Uma falha de gestão pode decorrer de erro, imperícia, falta de capacidade ou controles frágeis, sem intenção de favorecimento. Confundir as duas leva a respostas inadequadas: punir quando o caso pedia correção de processos.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.6.2-02",
+    "topicoId": "1.1.6.2",
+    "enunciado": "A nomeação de cônjuge, companheiro ou parente da autoridade nomeante, até o terceiro grau, para cargo em comissão ou função de confiança viola a Constituição Federal, conforme a Súmula Vinculante nº 13 do STF.",
+    "gabarito": "C",
+    "comentario": "Certo. A Súmula Vinculante nº 13 veda o nepotismo, inclusive o nepotismo cruzado (ajuste mediante designações recíprocas). O STF tem entendimento de que a vedação, em regra, não alcança cargos de natureza política, como o de ministro ou secretário, salvo fraude ou falta de qualificação.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.6.2-03",
+    "topicoId": "1.1.6.2",
+    "enunciado": "Clientelismo designa uma relação de troca entre atores com poder desigual, em que bens, serviços ou empregos públicos são concedidos de forma personalizada em troca de apoio político, ao passo que patronagem se refere especificamente ao uso de nomeações para cargos públicos como recurso político.",
+    "gabarito": "C",
+    "comentario": "Certo. No clientelismo, o acesso a benefícios deixa de ser direito universal e passa a depender da lealdade ao “patrão” político. A patronagem é o uso de cargos como moeda política. Nem toda nomeação política é ilegal, mas ambas as práticas enfraquecem critérios impessoais.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.7.1-01",
+    "topicoId": "1.1.7.1",
+    "enunciado": "Na relação principal-agente aplicada à administração pública, a assimetria de informações entre os cidadãos (principal) e os agentes públicos (agente) cria oportunidades para que o agente persiga interesses próprios, o que justifica mecanismos de transparência, monitoramento e incentivos.",
+    "gabarito": "C",
+    "comentario": "Certo. O agente sabe mais sobre suas ações do que o principal consegue observar. Transparência reduz a assimetria, monitoramento aumenta a chance de detecção e incentivos alinham interesses. A cadeia é longa: cidadãos, eleitos, dirigentes e servidores.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.7.1-02",
+    "topicoId": "1.1.7.1",
+    "enunciado": "Segundo a lógica da ação coletiva descrita por Mancur Olson, grupos grandes e difusos, como os contribuintes em geral, tendem a se organizar com mais facilidade que grupos pequenos e concentrados, por terem mais membros interessados.",
+    "gabarito": "E",
+    "comentario": "Errado. Olson mostrou o inverso: em grupos grandes, o benefício individual da ação é pequeno e cada membro tende a “pegar carona” (free rider). Grupos pequenos com ganhos concentrados se organizam melhor, o que ajuda a explicar por que interesses específicos capturam decisões em prejuízo de interesses difusos.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.7.1-03",
+    "topicoId": "1.1.7.1",
+    "enunciado": "Quando práticas irregulares são amplamente toleradas em uma organização, a corrupção pode tornar-se a norma social esperada, o que enfraquece o efeito dissuasório das regras formais e reforça redes de favorecimento.",
+    "gabarito": "C",
+    "comentario": "Certo. A corrupção também é um problema de ação coletiva: se todos esperam que os outros sejam corruptos, agir com integridade parece ingênuo ou custoso. Por isso as respostas eficazes atuam também sobre normas sociais e cultura organizacional, e não só sobre regras.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.7.2-01",
+    "topicoId": "1.1.7.2",
+    "enunciado": "Na teoria da captura regulatória, associada a George Stigler, a regulação tende a ser adquirida e moldada pelo setor regulado em seu próprio benefício, em vez de servir ao interesse público.",
+    "gabarito": "C",
+    "comentario": "Certo. O setor regulado tem interesse concentrado, informação técnica e recursos para influenciar o regulador; o público tem interesse difuso. Mecanismos como mandatos fixos, quarentena, transparência e participação social buscam reduzir esse risco.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.7.2-02",
+    "topicoId": "1.1.7.2",
+    "enunciado": "Toda atuação de grupos de interesse junto a formuladores de políticas configura captura e deve ser proibida, pois a representação de interesses é incompatível com a democracia.",
+    "gabarito": "E",
+    "comentario": "Errado. A representação de interesses é legítima e faz parte da democracia pluralista: setores afetados podem levar informações e argumentos ao poder público. O problema é a influência indevida, opaca ou desigual. A resposta é transparência e igualdade de acesso, não a proibição.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.7.2-03",
+    "topicoId": "1.1.7.2",
+    "enunciado": "A divulgação das agendas de autoridades, o registro de reuniões com representantes de interesses privados e as regras de quarentena após a saída do cargo são medidas que reduzem riscos de influência indevida sobre decisões públicas.",
+    "gabarito": "C",
+    "comentario": "Certo. A transparência das agendas permite saber quem influencia as decisões. A quarentena (prevista, por exemplo, na Lei nº 12.813/2013) reduz o risco da “porta giratória”, em que o agente favorece quem poderá contratá-lo depois.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.8.1-01",
+    "topicoId": "1.1.8.1",
+    "enunciado": "A corrupção pode distorcer a alocação de recursos públicos, favorecendo projetos que oferecem mais oportunidades de desvio, como grandes obras, em detrimento de gastos com maior retorno social.",
+    "gabarito": "C",
+    "comentario": "Certo. Projetos grandes, complexos e de difícil medição facilitam sobrepreço e propina. A corrupção altera não só quanto se gasta, mas no que se gasta, o que reduz a qualidade e a efetividade do gasto público.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.8.1-02",
+    "topicoId": "1.1.8.1",
+    "enunciado": "Os custos da corrupção restringem-se ao valor desviado, razão pela qual seus efeitos sobre a concorrência e a confiança nas instituições são economicamente desprezíveis.",
+    "gabarito": "E",
+    "comentario": "Errado. Além do valor desviado, a corrupção afasta concorrentes honestos, eleva preços, reduz investimentos, distorce prioridades e corrói a confiança nas instituições, o que diminui a disposição de cumprir regras e pagar tributos. Esses efeitos indiretos costumam superar o valor desviado.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.8.1-03",
+    "topicoId": "1.1.8.1",
+    "enunciado": "Os efeitos da corrupção tendem a ser regressivos, pois a população mais pobre depende mais dos serviços públicos e dispõe de menos recursos para buscar alternativas privadas quando esses serviços são degradados.",
+    "gabarito": "C",
+    "comentario": "Certo. Quem pode pagar recorre a escola, saúde e segurança privadas; quem não pode arca com a piora do serviço. Pequenas propinas para acessar serviços também pesam proporcionalmente mais na renda dos mais pobres. Assim, a corrupção aprofunda desigualdades e viola direitos.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.8.2-01",
+    "topicoId": "1.1.8.2",
+    "enunciado": "Prevenção, detecção, responsabilização e reparação são respostas complementares à corrupção: a prevenção reduz oportunidades, a detecção aumenta a probabilidade de descoberta, a responsabilização gera dissuasão e a reparação recompõe o dano.",
+    "gabarito": "C",
+    "comentario": "Certo. Nenhuma das respostas basta sozinha. Sem detecção, a punição é rara e não dissuade; sem prevenção, o sistema apenas reage aos casos; sem reparação, o dano permanece. A atuação integrada da CGU (auditoria, ouvidoria, correição, integridade) reflete essa lógica.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.8.2-02",
+    "topicoId": "1.1.8.2",
+    "enunciado": "O aumento do número de casos de corrupção detectados em determinado período é prova de que a corrupção aumentou nesse período.",
+    "gabarito": "E",
+    "comentario": "Errado. Casos detectados medem a atividade de detecção, não a ocorrência real. O aumento pode refletir controles mais eficazes, mais denúncias ou mais transparência. A ocorrência real é subnotificada e difícil de medir. É a distinção entre baixa ocorrência e baixa detecção.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.8.2-03",
+    "topicoId": "1.1.8.2",
+    "enunciado": "Imprensa livre, participação social e transparência são considerados controles democráticos que complementam os controles institucionais no enfrentamento da corrupção.",
+    "gabarito": "C",
+    "comentario": "Certo. Esses mecanismos ampliam a accountability social: expõem irregularidades, geram denúncias e pressionam os controles formais a agir. A transparência ativa e os dados abertos são insumos para jornalistas, pesquisadores e conselhos de políticas.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.8.3-01",
+    "topicoId": "1.1.8.3",
+    "enunciado": "Respostas anticorrupção mal calibradas podem gerar efeitos não pretendidos, como o chamado “apagão das canetas”, em que gestores evitam decidir por receio de responsabilização, prejudicando a execução de políticas públicas.",
+    "gabarito": "C",
+    "comentario": "Certo. O medo de punição por erros de boa-fé leva gestores a não decidir, o que atrasa obras, compras e entregas. Reconhecendo esse risco, a LINDB (Decreto-Lei nº 4.657/1942, art. 28, incluído pela Lei nº 13.655/2018) limita a responsabilização pessoal do agente aos casos de dolo ou erro grosseiro.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.8.3-02",
+    "topicoId": "1.1.8.3",
+    "enunciado": "Diante de indícios de irregularidade em contrato de serviço essencial, como o fornecimento de medicamentos, a medida adequada é sempre a suspensão imediata do contrato, independentemente dos efeitos sobre a continuidade do atendimento à população.",
+    "gabarito": "E",
+    "comentario": "Errado. A resposta deve ser proporcional e considerar as consequências práticas, inclusive a continuidade de serviços essenciais (art. 20 da LINDB). Alternativas incluem apurar sem interromper, reforçar a fiscalização, glosar pagamentos ou preparar nova contratação antes de suspender.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.8.3-03",
+    "topicoId": "1.1.8.3",
+    "enunciado": "A gravidade da corrupção justifica a flexibilização do devido processo legal, admitindo-se a aplicação de sanções antes do exercício do contraditório quando houver forte clamor público.",
+    "gabarito": "E",
+    "comentario": "Errado. Contraditório e ampla defesa são garantias constitucionais (art. 5º, LV, da CF) e não cedem ao clamor público. Medidas cautelares podem ser adotadas com fundamentação, mas a sanção exige processo regular. Respostas que violam garantias tendem a ser anuladas e minam a legitimidade do combate à corrupção.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.9.1-01",
+    "topicoId": "1.1.9.1",
+    "enunciado": "Na concepção de Peter Evans, o Estado desenvolvimentista combina burocracia meritocrática e coesa com vínculos densos com o setor privado, configurando a chamada “autonomia inserida” (embedded autonomy).",
+    "gabarito": "C",
+    "comentario": "Certo. Para Evans, a autonomia (burocracia profissional, resistente à captura) permite perseguir objetivos coletivos, e a inserção (canais de diálogo com empresas) fornece informação e coordenação. Uma sem a outra falha: só autonomia gera isolamento; só inserção gera captura.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.9.1-02",
+    "topicoId": "1.1.9.1",
+    "enunciado": "Os modelos de desenvolvimento econômico podem ser classificados em apenas dois tipos puros e excludentes: o de livre mercado sem qualquer regulação e o de planejamento central integral, sem espaço para arranjos intermediários.",
+    "gabarito": "E",
+    "comentario": "Errado. Os países combinam, em graus variados, mercado, planejamento, regulação, provisão pública e empresas estatais. A literatura de economia política comparada estuda justamente essa diversidade de arranjos (por exemplo, as “variedades de capitalismo”).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.9.1-03",
+    "topicoId": "1.1.9.1",
+    "enunciado": "Políticas industriais e de inovação podem empregar instrumentos como crédito direcionado, compras públicas, incentivos fiscais e financiamento à pesquisa para induzir a transformação da estrutura produtiva.",
+    "gabarito": "C",
+    "comentario": "Certo. São instrumentos usuais de política industrial. A avaliação desses instrumentos considera custo fiscal, contrapartidas, metas de desempenho e risco de captura, para que não se tornem benefícios permanentes sem resultado.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.9.2-01",
+    "topicoId": "1.1.9.2",
+    "enunciado": "Empresas estatais podem ser utilizadas para viabilizar investimentos de longo prazo e de alto risco em setores como infraestrutura e energia, nos quais o capital privado pode não atuar na escala desejada.",
+    "gabarito": "C",
+    "comentario": "Certo. Projetos com longo prazo de maturação, grandes custos iniciais ou externalidades positivas podem não atrair o setor privado sozinho. Estatais e bancos públicos podem preencher essa lacuna, desde que com governança, transparência e avaliação de resultados.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.9.2-02",
+    "topicoId": "1.1.9.2",
+    "enunciado": "Bancos públicos de desenvolvimento devem atuar exclusivamente em condições idênticas às dos bancos privados, sendo vedado o financiamento de projetos de longo prazo cujo retorno social supere o retorno financeiro.",
+    "gabarito": "E",
+    "comentario": "Errado. A razão de existir dos bancos de desenvolvimento é justamente financiar projetos de longo prazo e com retorno social relevante, que o mercado privado não financia nas mesmas condições. O ponto de controle é que os custos dessa atuação sejam transparentes e avaliados.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.9.2-03",
+    "topicoId": "1.1.9.2",
+    "enunciado": "A Lei nº 13.303/2016 (Lei das Estatais) estabelece regras de governança, transparência e gestão de riscos aplicáveis às empresas públicas e às sociedades de economia mista.",
+    "gabarito": "C",
+    "comentario": "Certo. A Lei nº 13.303/2016 trata do estatuto jurídico das estatais: requisitos para dirigentes e conselheiros, áreas de conformidade e gestão de riscos, auditoria interna, comitê de auditoria, carta anual de políticas públicas e regras próprias de licitações e contratos.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.9.3-01",
+    "topicoId": "1.1.9.3",
+    "enunciado": "A universalização de um serviço público pode exigir subsídios cruzados ou aportes públicos, uma vez que o atendimento a regiões de baixa renda ou de baixa densidade populacional pode não ser financeiramente atrativo.",
+    "gabarito": "C",
+    "comentario": "Certo. Levar água, energia ou internet a áreas remotas ou pobres costuma custar mais do que a receita obtida. A universalização depende de subsídios, tarifas sociais ou recursos orçamentários, e esses custos devem ser explícitos.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.9.3-02",
+    "topicoId": "1.1.9.3",
+    "enunciado": "A sustentabilidade fiscal e os objetivos de política pública são sempre incompatíveis, razão pela qual as empresas estatais devem escolher entre cumprir sua finalidade pública e manter o equilíbrio econômico-financeiro.",
+    "gabarito": "E",
+    "comentario": "Errado. Há tensão, mas não incompatibilidade. A Lei nº 13.303/2016 (art. 8º) exige que a estatal explicite, na carta anual, os compromissos de políticas públicas, com os respectivos custos e fontes de recursos, para que finalidade pública e sustentabilidade sejam conciliadas com transparência.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.9.3-03",
+    "topicoId": "1.1.9.3",
+    "enunciado": "Ao avaliar uma intervenção estatal na economia, é pertinente analisar seus efeitos distributivos, isto é, quais grupos sociais e regiões se beneficiam e quais arcam com os custos.",
+    "gabarito": "C",
+    "comentario": "Certo. Uma política pode gerar ganho agregado e, ainda assim, concentrar benefícios em poucos e espalhar custos por muitos (ou o contrário). A análise distributiva é essencial para avaliar equidade e riscos de captura.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.9.4-01",
+    "topicoId": "1.1.9.4",
+    "enunciado": "Ressalvados os casos previstos na Constituição Federal, a exploração direta de atividade econômica pelo Estado só será permitida quando necessária aos imperativos da segurança nacional ou a relevante interesse coletivo, conforme definidos em lei.",
+    "gabarito": "C",
+    "comentario": "Certo. É o art. 173, caput, da CF. A atuação empresarial do Estado é excepcional e precisa de justificativa legal. As estatais que exploram atividade econômica sujeitam-se, em regra, ao regime próprio das empresas privadas (art. 173, § 1º, II).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.9.4-02",
+    "topicoId": "1.1.9.4",
+    "enunciado": "Como agente normativo e regulador da atividade econômica, o Estado exerce funções de fiscalização, incentivo e planejamento, sendo este determinante tanto para o setor público quanto para o setor privado.",
+    "gabarito": "E",
+    "comentario": "Errado. Pelo art. 174 da CF, o planejamento é determinante para o setor público e indicativo para o setor privado. O Estado orienta a iniciativa privada, mas não lhe impõe o plano.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.9.4-03",
+    "topicoId": "1.1.9.4",
+    "enunciado": "Incumbe ao poder público, na forma da lei, diretamente ou sob regime de concessão ou permissão, sempre por meio de licitação, a prestação de serviços públicos.",
+    "gabarito": "C",
+    "comentario": "Certo. É o art. 175, caput, da CF. A prestação pode ser direta ou delegada, mas a delegação por concessão ou permissão exige licitação.",
+    "revisada": false,
+    "origem": "ia"
+  }
+]

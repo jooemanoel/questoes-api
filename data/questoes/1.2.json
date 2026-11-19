@@ -1,0 +1,191 @@
+[
+  {
+    "id": "1.2.1.1-01",
+    "topicoId": "1.2.1.1",
+    "enunciado": "Socialização é o processo pelo qual os indivíduos internalizam normas, valores e papéis sociais, e ocorre não apenas na família, mas também na escola, no trabalho, nos grupos de pares e por meio dos meios de comunicação.",
+    "gabarito": "C",
+    "comentario": "Certo. Distingue-se a socialização primária (família, primeira infância) da secundária (escola, trabalho, instituições), que continua ao longo da vida. As instituições, inclusive o serviço público, também socializam seus membros em determinadas práticas.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.2.1.1-02",
+    "topicoId": "1.2.1.1",
+    "enunciado": "Mobilidade social intergeracional refere-se às mudanças de posição social de um mesmo indivíduo ao longo de sua carreira profissional.",
+    "gabarito": "E",
+    "comentario": "Errado. Isso é mobilidade intrageracional. A intergeracional compara a posição dos filhos com a dos pais. Baixa mobilidade intergeracional indica que a origem social determina fortemente o destino, o que é sinal de reprodução de desigualdades.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.2.1.1-03",
+    "topicoId": "1.2.1.1",
+    "enunciado": "Para Pierre Bourdieu, o capital cultural, formado por conhecimentos, gostos e credenciais socialmente valorizados, é transmitido sobretudo pela família e convertido em vantagem escolar, contribuindo para a reprodução das desigualdades.",
+    "gabarito": "C",
+    "comentario": "Certo. A escola valoriza códigos culturais que as famílias de classes altas já transmitem aos filhos. O sucesso escolar parece mérito individual, mas reflete em parte a herança cultural. Bourdieu fala também em capital econômico e social.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.2.1.1-04",
+    "topicoId": "1.2.1.1",
+    "enunciado": "O racismo institucional manifesta-se quando práticas, normas e rotinas de instituições produzem resultados desiguais entre grupos raciais, mesmo sem intenção discriminatória explícita de indivíduos.",
+    "gabarito": "C",
+    "comentario": "Certo. O foco está nos efeitos, e não na intenção individual: critérios aparentemente neutros (exigências documentais, abordagens policiais, triagens) podem gerar desvantagens sistemáticas. Por isso se monitoram resultados desagregados por raça/cor.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.2.2.1-01",
+    "topicoId": "1.2.2.1",
+    "enunciado": "Na análise de José Murilo de Carvalho, a construção da cidadania no Brasil seguiu sequência diferente da descrita por T. H. Marshall para a Inglaterra, com a precedência dos direitos sociais, ampliados em período de restrição dos direitos políticos e civis.",
+    "gabarito": "C",
+    "comentario": "Certo. Na Inglaterra, segundo Marshall, vieram primeiro os direitos civis, depois os políticos e, por último, os sociais. No Brasil, os direitos sociais avançaram sobretudo na Era Vargas, inclusive durante o Estado Novo, quando direitos políticos e civis estavam restringidos. Carvalho fala em uma “pirâmide invertida”.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.2.2.1-02",
+    "topicoId": "1.2.2.1",
+    "enunciado": "A abolição da escravidão, em 1888, foi acompanhada de políticas estatais de integração da população liberta, como acesso à terra, à educação e ao trabalho assalariado, o que eliminou as desigualdades raciais herdadas do período escravista.",
+    "gabarito": "E",
+    "comentario": "Errado. A Lei Áurea não foi acompanhada de políticas de integração: não houve reforma agrária, acesso à educação nem inserção planejada no trabalho livre, que privilegiou em várias regiões a mão de obra imigrante. As desigualdades raciais persistem e fundamentam ações afirmativas atuais.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.2.2.1-03",
+    "topicoId": "1.2.2.1",
+    "enunciado": "O conceito de “cidadania regulada”, de Wanderley Guilherme dos Santos, refere-se ao período em que o acesso a direitos sociais dependia da inserção do trabalhador em ocupação reconhecida e regulamentada por lei.",
+    "gabarito": "C",
+    "comentario": "Certo. A partir dos anos 1930, ter carteira de trabalho em profissão regulamentada era o que dava acesso à previdência e a direitos trabalhistas. Trabalhadores rurais, domésticos e informais ficavam excluídos, o que mostra a cidadania como privilégio ocupacional, e não como direito universal.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.2.2.1-04",
+    "topicoId": "1.2.2.1",
+    "enunciado": "Mecanismos de exclusão institucional ocorrem apenas quando há normas que proíbem expressamente o acesso de determinados grupos a direitos.",
+    "gabarito": "E",
+    "comentario": "Errado. A exclusão ocorre também por barreiras indiretas: exigências documentais difíceis de cumprir, horários de atendimento incompatíveis, linguagem inacessível, distância dos postos, canais exclusivamente digitais. A regra é igual para todos, mas o acesso efetivo é desigual.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.2.3.1-01",
+    "topicoId": "1.2.3.1",
+    "enunciado": "O bônus demográfico corresponde ao período em que a proporção da população em idade ativa é elevada em relação à população dependente, formada por crianças e idosos, o que cria condições favoráveis ao crescimento econômico.",
+    "gabarito": "C",
+    "comentario": "Certo. Com a queda da fecundidade, a razão de dependência cai temporariamente. Essa janela só vira ganho efetivo se houver emprego e produtividade para essa população ativa. Com o envelhecimento, a razão de dependência volta a subir.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.2.3.1-02",
+    "topicoId": "1.2.3.1",
+    "enunciado": "O envelhecimento populacional brasileiro reduz a demanda por políticas de cuidado, pois o aumento da expectativa de vida diminui a proporção de pessoas dependentes.",
+    "gabarito": "E",
+    "comentario": "Errado. O envelhecimento aumenta a proporção de idosos e, com ela, a demanda por saúde, previdência e cuidado de longa duração. Como o cuidado é feito majoritariamente por mulheres, de forma não remunerada, o tema conecta demografia, gênero e políticas públicas.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.2.3.1-03",
+    "topicoId": "1.2.3.1",
+    "enunciado": "A elevada informalidade no mercado de trabalho brasileiro limita o acesso de parte dos trabalhadores à proteção previdenciária e trabalhista, além de reduzir a base de financiamento da seguridade social.",
+    "gabarito": "C",
+    "comentario": "Certo. Trabalhadores informais em geral não contribuem para a previdência nem têm férias, FGTS ou seguro-desemprego. Isso os deixa desprotegidos em doença e velhice e reduz a arrecadação que financia a seguridade.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.2.3.1-04",
+    "topicoId": "1.2.3.1",
+    "enunciado": "As desigualdades regionais no Brasil restringem-se à renda, não havendo diferenças significativas entre as regiões no acesso a serviços como saneamento, saúde e educação.",
+    "gabarito": "E",
+    "comentario": "Errado. As desigualdades regionais aparecem também em cobertura de saneamento, oferta de serviços de saúde, indicadores educacionais e infraestrutura. Também há desigualdades dentro das regiões, entre áreas urbanas e rurais e entre centro e periferia das cidades.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.2.4.1-01",
+    "topicoId": "1.2.4.1",
+    "enunciado": "Interseccionalidade, conceito associado a Kimberlé Crenshaw, refere-se à forma como diferentes marcadores sociais, como raça, gênero e classe, se combinam e produzem experiências específicas de discriminação, que não se reduzem à soma de cada um isoladamente.",
+    "gabarito": "C",
+    "comentario": "Certo. Uma mulher negra pode enfrentar discriminações que não aparecem nem na análise só de gênero nem na análise só de raça. Para as políticas públicas, isso implica olhar dados desagregados por mais de um marcador ao mesmo tempo.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.2.4.1-02",
+    "topicoId": "1.2.4.1",
+    "enunciado": "Segundo a Lei Brasileira de Inclusão, a deficiência é definida exclusivamente pelo diagnóstico médico do impedimento, independentemente das barreiras encontradas pela pessoa na interação com o meio.",
+    "gabarito": "E",
+    "comentario": "Errado. O art. 2º da Lei nº 13.146/2015 adota o modelo social: deficiência é o impedimento de longo prazo que, em interação com uma ou mais barreiras, pode obstruir a participação plena e efetiva na sociedade em igualdade de condições. A avaliação, quando necessária, é biopsicossocial, e não apenas médica.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.2.4.1-03",
+    "topicoId": "1.2.4.1",
+    "enunciado": "Conforme a Convenção nº 169 da OIT, a consciência da própria identidade indígena ou tribal deve ser considerada critério fundamental para determinar os grupos aos quais se aplicam as suas disposições.",
+    "gabarito": "C",
+    "comentario": "Certo. É o art. 1º, item 2, da Convenção nº 169 da OIT: a autoidentificação é critério fundamental. Por isso a identidade indígena não depende de morar em terra indígena nem de traços físicos.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.2.4.1-04",
+    "topicoId": "1.2.4.1",
+    "enunciado": "A oferta de serviços públicos exclusivamente em canais digitais garante igualdade de acesso, já que elimina a necessidade de deslocamento até os postos de atendimento.",
+    "gabarito": "E",
+    "comentario": "Errado. A digitalização exclusiva cria barreiras para quem não tem conexão ou aparelho adequado, tem baixo letramento digital, é idoso ou tem deficiência sem tecnologia assistiva. Canais digitais devem ser acessíveis e conviver com alternativas presenciais ou telefônicas.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.2.5.1-01",
+    "topicoId": "1.2.5.1",
+    "enunciado": "O índice de Gini mede a desigualdade na distribuição de uma variável, como a renda, e varia de 0, que representa igualdade perfeita, a 1, que representa desigualdade máxima.",
+    "gabarito": "C",
+    "comentario": "Certo. Gini igual a 0 significa que todos têm a mesma renda; igual a 1, que uma pessoa concentra toda a renda. O Brasil historicamente apresenta Gini elevado na comparação internacional.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.2.5.1-02",
+    "topicoId": "1.2.5.1",
+    "enunciado": "Se a renda média de um país aumenta, conclui-se necessariamente que a pobreza e a desigualdade diminuíram.",
+    "gabarito": "E",
+    "comentario": "Errado. A média pode subir porque os mais ricos ganharam mais, enquanto a renda dos mais pobres ficou estável ou caiu. Para avaliar pobreza e desigualdade, olham-se a distribuição (Gini, razões entre décimos) e a proporção de pessoas abaixo da linha de pobreza.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.2.5.1-03",
+    "topicoId": "1.2.5.1",
+    "enunciado": "O novo marco legal do saneamento básico (Lei nº 14.026/2020) estabeleceu metas de universalização que garantam o atendimento de 99% da população com água potável e de 90% da população com coleta e tratamento de esgotos até 31 de dezembro de 2033.",
+    "gabarito": "C",
+    "comentario": "Certo. As metas constam do art. 11-B da Lei nº 11.445/2007, incluído pela Lei nº 14.026/2020. O saneamento é um caso típico de problema público com fortes efeitos sobre saúde e desigualdades regionais.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.2.5.1-04",
+    "topicoId": "1.2.5.1",
+    "enunciado": "Indicadores de cobertura, como o percentual de domicílios ligados à rede de abastecimento de água, permitem concluir, isoladamente, sobre a qualidade e a regularidade do serviço prestado.",
+    "gabarito": "E",
+    "comentario": "Errado. Estar ligado à rede não garante água em quantidade, com qualidade ou sem interrupções. A leitura contextual de indicadores exige combinar cobertura com qualidade, regularidade, acesso efetivo e desigualdades entre territórios.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.2.5.1-05",
+    "topicoId": "1.2.5.1",
+    "enunciado": "A vulnerabilidade a eventos climáticos extremos, como enchentes e secas, tende a ser maior entre populações de baixa renda, que frequentemente ocupam áreas de risco e dispõem de menos recursos para recuperação.",
+    "gabarito": "C",
+    "comentario": "Certo. A exposição ao risco e a capacidade de resposta são desiguais. Por isso adaptação climática também é política social: habitação, drenagem, alertas e proteção de renda após desastres.",
+    "revisada": false,
+    "origem": "ia"
+  }
+]

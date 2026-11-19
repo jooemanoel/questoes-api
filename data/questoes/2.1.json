@@ -1,0 +1,290 @@
+[
+  {
+    "id": "2.1.1.1-01",
+    "topicoId": "2.1.1.1",
+    "enunciado": "Na perspectiva da governança pública, cabe às instâncias de governança avaliar, direcionar e monitorar a atuação da gestão, à qual cabe planejar, executar e controlar as atividades para alcançar os objetivos definidos.",
+    "gabarito": "C",
+    "comentario": "Certo. É a distinção adotada no Referencial Básico de Governança do TCU: a governança (avaliar, direcionar, monitorar) estabelece o rumo e supervisiona; a gestão (planejar, executar, controlar) opera para alcançar os objetivos.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.1.1.1-02",
+    "topicoId": "2.1.1.1",
+    "enunciado": "Governança e gestão são termos sinônimos, pois ambos designam a execução operacional das atividades da organização.",
+    "gabarito": "E",
+    "comentario": "Errado. Gestão é a execução (fazer as coisas); governança é a direção e a supervisão (garantir que se façam as coisas certas, no interesse das partes interessadas, com prestação de contas).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.1.1.1-03",
+    "topicoId": "2.1.1.1",
+    "enunciado": "A prestação de contas (accountability) envolve não apenas informar o que foi feito, mas também justificar as decisões tomadas e sujeitar-se a consequências, como correções e responsabilização.",
+    "gabarito": "C",
+    "comentario": "Certo. A literatura costuma apontar três dimensões: informação (transparência), justificação (dar razões) e sanção ou consequência (enforcement). Sem a última, a prestação de contas fica incompleta.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.1.1.1-04",
+    "topicoId": "2.1.1.1",
+    "enunciado": "A existência de órgãos de controle exime os dirigentes de responsabilidade pela adequação dos controles internos de sua organização, já que a verificação desses controles cabe à auditoria.",
+    "gabarito": "E",
+    "comentario": "Errado. A gestão é dona dos controles internos (primeira linha) e responde por eles. A auditoria avalia esses controles de forma independente, mas não assume a responsabilidade por desenhá-los ou operá-los.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.1.2.1-01",
+    "topicoId": "2.1.2.1",
+    "enunciado": "Em gestão de riscos, risco pode ser descrito como a possibilidade de ocorrência de um evento que afete o alcance de objetivos, sendo usualmente avaliado em termos de probabilidade e impacto.",
+    "gabarito": "C",
+    "comentario": "Certo. A combinação de probabilidade e impacto define o nível de risco e orienta a priorização. Descrever bem o risco envolve indicar sua causa (fonte), o evento e a consequência sobre o objetivo.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.1.2.1-02",
+    "topicoId": "2.1.2.1",
+    "enunciado": "Risco residual é o risco existente antes da adoção de qualquer controle pela gestão.",
+    "gabarito": "E",
+    "comentario": "Errado. Esse é o risco inerente. Risco residual é o que permanece após a resposta da gestão (controles e demais medidas). A gestão compara o residual com o apetite a risco para decidir se precisa agir mais.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.1.2.1-03",
+    "topicoId": "2.1.2.1",
+    "enunciado": "A segregação de funções consiste em atribuir a pessoas diferentes as etapas críticas de um processo, como autorizar, executar, registrar e conferir uma operação, de modo a reduzir o risco de erros e fraudes não detectados.",
+    "gabarito": "C",
+    "comentario": "Certo. Quando uma só pessoa controla todo o ciclo, ela pode errar ou fraudar sem que ninguém perceba. A segregação faz com que uma etapa confira a outra. É controle preventivo clássico.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.1.2.1-04",
+    "topicoId": "2.1.2.1",
+    "enunciado": "Os controles internos devem ser sempre maximizados, independentemente de seu custo, pois o objetivo da gestão de riscos é eliminar todos os riscos da organização.",
+    "gabarito": "E",
+    "comentario": "Errado. Os controles devem ser proporcionais ao risco: o custo do controle não deve superar o benefício esperado. A gestão de riscos busca manter os riscos dentro do apetite definido, e não eliminá-los, o que seria impossível e paralisaria a organização.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.1.2.2-01",
+    "topicoId": "2.1.2.2",
+    "enunciado": "Em um setor em que o mesmo servidor cadastra fornecedores, atesta o recebimento de mercadorias e autoriza pagamentos, há vulnerabilidade relevante, e a segregação dessas funções entre pessoas distintas é um controle compatível com o risco.",
+    "gabarito": "C",
+    "comentario": "Certo. A concentração permite, por exemplo, cadastrar um fornecedor fictício, atestar uma entrega inexistente e pagá-la. Separar as funções e exigir conferência independente reduz esse risco.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.1.2.2-02",
+    "topicoId": "2.1.2.2",
+    "enunciado": "Em um almoxarifado em que se identificam divergências recorrentes entre o estoque físico e o estoque registrado, a medida de controle mais adequada é reduzir a frequência dos inventários, para não sobrecarregar a equipe.",
+    "gabarito": "E",
+    "comentario": "Errado. Divergências recorrentes indicam fragilidade; a resposta proporcional é reforçar o controle (inventários periódicos ou rotativos, conciliação, restrição de acesso físico, investigação das causas), e não reduzi-lo.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.1.2.2-03",
+    "topicoId": "2.1.2.2",
+    "enunciado": "Para um processo de concessão de diárias com alto volume e baixo valor unitário, controles automatizados de validação e verificações por amostragem podem ser mais proporcionais do que a conferência manual integral de cada pedido.",
+    "gabarito": "C",
+    "comentario": "Certo. A conferência manual de tudo teria custo alto e pouco ganho. Validações automáticas (limites, datas, duplicidades) combinadas com amostragem focada em riscos equilibram custo e efetividade.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.1.3.1-01",
+    "topicoId": "2.1.3.1",
+    "enunciado": "Programas de integridade pública reúnem medidas para prevenir, detectar e remediar práticas de corrupção, fraudes, irregularidades e desvios éticos, envolvendo, entre outros elementos, o compromisso da alta administração, a gestão de riscos para a integridade e canais de denúncia.",
+    "gabarito": "C",
+    "comentario": "Certo. Os programas articulam funções de integridade (ética, conflito de interesses, correição, ouvidoria, controles) sob o compromisso da liderança, com base em riscos identificados e com monitoramento contínuo.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.1.3.1-02",
+    "topicoId": "2.1.3.1",
+    "enunciado": "A aprovação formal de um plano de integridade é suficiente para demonstrar que a organização gerencia adequadamente seus riscos para a integridade.",
+    "gabarito": "E",
+    "comentario": "Errado. O plano é ponto de partida. É preciso verificar se as medidas foram implementadas e se são efetivas, isto é, se os riscos foram de fato tratados e monitorados.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.1.3.1-03",
+    "topicoId": "2.1.3.1",
+    "enunciado": "O comprometimento e o apoio da alta administração são considerados elementos essenciais de um programa de integridade, pois sinalizam a prioridade do tema e asseguram recursos e exemplo.",
+    "gabarito": "C",
+    "comentario": "Certo. Sem apoio da liderança, o programa não tem recursos nem credibilidade. O exemplo da cúpula (tone at the top) influencia o comportamento de toda a organização.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.1.3.2-01",
+    "topicoId": "2.1.3.2",
+    "enunciado": "Ambientes de trabalho seguros contra assédio e discriminação fazem parte da integridade pública, pois condutas abusivas toleradas afetam pessoas, desempenho institucional e confiança nos canais de relato.",
+    "gabarito": "C",
+    "comentario": "Certo. Integridade não se limita a temas financeiros. Organizações que toleram abuso também tendem a silenciar relatos de outras irregularidades, porque as pessoas aprendem que falar não é seguro.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.1.3.2-02",
+    "topicoId": "2.1.3.2",
+    "enunciado": "Medidas de prevenção ao favorecimento, como critérios objetivos para seleção de beneficiários e registro das decisões, são desnecessárias quando os gestores são servidores de carreira.",
+    "gabarito": "E",
+    "comentario": "Errado. O vínculo de carreira não elimina riscos de favorecimento. Critérios objetivos e registro das decisões protegem o interesse público e o próprio gestor, permitindo demonstrar a impessoalidade.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.1.3.2-03",
+    "topicoId": "2.1.3.2",
+    "enunciado": "Proteger o denunciante contra retaliação é medida acessória, que pode ser dispensada quando a denúncia se revelar improcedente após a apuração.",
+    "gabarito": "E",
+    "comentario": "Errado. Quem relata de boa-fé deve ser protegido mesmo que a apuração não confirme os fatos. Caso contrário, ninguém relataria por receio de errar. A proteção não alcança a denúncia sabidamente falsa, que pode configurar ilícito.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.1.4.1-01",
+    "topicoId": "2.1.4.1",
+    "enunciado": "Nos termos da Lei nº 12.846/2013, a existência de mecanismos e procedimentos internos de integridade, auditoria e incentivo à denúncia de irregularidades, bem como a aplicação efetiva de códigos de ética e de conduta no âmbito da pessoa jurídica, será levada em consideração na aplicação das sanções.",
+    "gabarito": "C",
+    "comentario": "Certo. É o art. 7º, VIII, da Lei nº 12.846/2013 (Lei Anticorrupção). O programa de integridade funciona como atenuante na dosimetria. Os parâmetros de avaliação estão no regulamento da lei (Decreto nº 11.129/2022).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.1.4.1-02",
+    "topicoId": "2.1.4.1",
+    "enunciado": "Possuir programa de integridade isenta a pessoa jurídica de responsabilização pelos atos lesivos praticados contra a administração pública em seu interesse ou benefício.",
+    "gabarito": "E",
+    "comentario": "Errado. A responsabilidade da pessoa jurídica pela Lei nº 12.846/2013 é objetiva. Um programa de integridade efetivo apenas atenua as sanções (art. 7º, VIII), sem afastar a responsabilização nem a reparação do dano.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.1.4.1-03",
+    "topicoId": "2.1.4.1",
+    "enunciado": "A diligência sobre terceiros, como fornecedores e intermediários, deve ser proporcional ao risco que eles representam, sendo mais aprofundada, por exemplo, para agentes que interagem com o poder público em nome da empresa.",
+    "gabarito": "C",
+    "comentario": "Certo. Intermediários (despachantes, consultores, representantes) são fonte frequente de pagamentos indevidos. A diligência proporcional concentra esforço onde o risco é maior, sem exigir o mesmo nível para todo fornecedor.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.1.4.2-01",
+    "topicoId": "2.1.4.2",
+    "enunciado": "Um programa de integridade pode existir formalmente, com código de conduta publicado, sem estar implementado na prática, e pode estar implementado sem ser efetivo, isto é, sem prevenir ou detectar desvios.",
+    "gabarito": "C",
+    "comentario": "Certo. São três níveis distintos: existência (documentos), implementação (as medidas funcionam no dia a dia) e efetividade (as medidas produzem o resultado esperado). Programas apenas “de papel” são conhecidos como programas de fachada.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.1.4.2-02",
+    "topicoId": "2.1.4.2",
+    "enunciado": "A quantidade de treinamentos realizados é evidência suficiente da efetividade de um programa de integridade.",
+    "gabarito": "E",
+    "comentario": "Errado. Número de treinamentos mede atividade (produto), e não efetividade. Evidências de efetividade incluem mudança de comportamento, tratamento de relatos, detecção e correção de desvios e redução de riscos.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.1.4.2-03",
+    "topicoId": "2.1.4.2",
+    "enunciado": "Para avaliar a efetividade de um canal de denúncias, é pertinente examinar se os relatos recebidos são tratados, se geram apurações e medidas corretivas e se os denunciantes ficam protegidos contra retaliação.",
+    "gabarito": "C",
+    "comentario": "Certo. Um canal que existe, mas não trata os relatos ou expõe quem denuncia, é ineficaz. Avaliar o fluxo completo (recebimento, tratamento, resultado, proteção) revela se o mecanismo funciona.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.1.5.1-01",
+    "topicoId": "2.1.5.1",
+    "enunciado": "Medidas de integridade devem ser proporcionais à capacidade e aos riscos de cada organização, pois exigir de um pequeno município os mesmos mecanismos de um grande ministério pode resultar apenas em conformidade formal.",
+    "gabarito": "C",
+    "comentario": "Certo. Organizações com poucos servidores e recursos precisam de medidas simples e priorizadas pelos riscos mais relevantes. Exigências desproporcionais geram documentos sem prática correspondente.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.1.5.1-02",
+    "topicoId": "2.1.5.1",
+    "enunciado": "Metas de desempenho agressivas, associadas a fortes punições pelo não cumprimento, tendem a reduzir o risco de manipulação de dados e de atalhos antiéticos.",
+    "gabarito": "E",
+    "comentario": "Errado. Incentivos desse tipo costumam aumentar a pressão por manipular indicadores ou contornar regras para bater a meta. O desenho de incentivos é parte da gestão de riscos para a integridade.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.1.5.1-03",
+    "topicoId": "2.1.5.1",
+    "enunciado": "A confiança dos servidores na instituição favorece o relato de problemas e o reconhecimento de erros, contribuindo para a melhoria contínua.",
+    "gabarito": "C",
+    "comentario": "Certo. Em culturas em que o erro é punido de forma desproporcional, os problemas são escondidos. A confiança permite que falhas venham à tona cedo, quando corrigi-las é mais barato.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.1.5.2-01",
+    "topicoId": "2.1.5.2",
+    "enunciado": "Denúncias recorrentes sobre o mesmo processo de trabalho podem indicar fragilidade de controles e servir de insumo para a revisão do processo, além de eventual apuração de responsabilidades individuais.",
+    "gabarito": "C",
+    "comentario": "Certo. Cada denúncia pode exigir apuração própria, mas o padrão entre elas aponta para causas sistêmicas. Tratar só os casos individuais deixa a vulnerabilidade no lugar.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.1.5.2-02",
+    "topicoId": "2.1.5.2",
+    "enunciado": "Resultados de auditoria devem ser tratados exclusivamente como base para punição, não cabendo utilizá-los para aprimorar processos e controles.",
+    "gabarito": "E",
+    "comentario": "Errado. A finalidade principal da auditoria interna é agregar valor e melhorar a gestão. Os resultados devem gerar correções de processos e controles; a responsabilização, quando cabível, é tratada pelas instâncias próprias.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.1.5.2-03",
+    "topicoId": "2.1.5.2",
+    "enunciado": "Analisar as causas dos problemas apontados por controles e denúncias, e não apenas corrigir cada caso isoladamente, aumenta a chance de evitar a recorrência.",
+    "gabarito": "C",
+    "comentario": "Certo. Corrigir o sintoma resolve o caso; tratar a causa (processo mal desenhado, falta de capacitação, sistema falho, incentivo inadequado) evita novos casos.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.1.5.3-01",
+    "topicoId": "2.1.5.3",
+    "enunciado": "Um órgão que registra poucas denúncias não pode, apenas com base nesse dado, ser considerado de baixo risco, pois o baixo número pode refletir desconhecimento ou desconfiança em relação aos canais.",
+    "gabarito": "C",
+    "comentario": "Certo. Baixa detecção não é o mesmo que baixa ocorrência. Poucas denúncias podem significar canal desconhecido, medo de retaliação ou descrença no tratamento, isto é, subnotificação.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.1.5.3-02",
+    "topicoId": "2.1.5.3",
+    "enunciado": "Se, após a implantação de um canal de denúncias, o número de relatos aumentar, conclui-se que as irregularidades no órgão aumentaram em razão da medida.",
+    "gabarito": "E",
+    "comentario": "Errado. O aumento provavelmente reflete maior capacidade de detecção: problemas que já existiam passaram a ser relatados. Esse é, muitas vezes, um sinal de que o canal está funcionando.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.1.5.3-03",
+    "topicoId": "2.1.5.3",
+    "enunciado": "Para avaliar se uma medida de integridade funcionou, é útil comparar a situação antes e depois de sua adoção e considerar explicações alternativas para eventuais mudanças nos indicadores.",
+    "gabarito": "C",
+    "comentario": "Certo. Comparações antes e depois são um ponto de partida, mas outras mudanças simultâneas (nova chefia, outro sistema, sazonalidade) podem explicar a variação. Leitura cuidadosa de evidências evita conclusões precipitadas.",
+    "revisada": false,
+    "origem": "ia"
+  }
+]
