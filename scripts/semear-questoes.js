@@ -5,6 +5,9 @@
 //   node scripts/semear-questoes.js --validar        só valida e mostra a cobertura
 //   node scripts/semear-questoes.js                  valida e envia para http://localhost:3000
 //   node scripts/semear-questoes.js --api=https://...  envia para outra URL
+//
+// O envio precisa do ADMIN_TOKEN (o mesmo configurado na API), lido do .env:
+//   npm run semear -- --api=https://questoes-rapidas-api.vercel.app
 import { readFileSync, readdirSync } from "node:fs";
 import { join } from "node:path";
 
@@ -66,11 +69,16 @@ console.log(semQuestao.length
 if (soValidar) process.exit(0);
 
 // ---------- Envio ----------
+const token = process.env.ADMIN_TOKEN;
+if (!token) {
+  console.error("Defina ADMIN_TOKEN no .env (o mesmo valor configurado na API) para enviar.");
+  process.exit(1);
+}
 let criadas = 0, atualizadas = 0;
 for (const { id, arquivo, ...dados } of questoes) {
   const resposta = await fetch(`${apiUrl}/questoes/${encodeURIComponent(id)}`, {
     method: "PUT",
-    headers: { "Content-Type": "application/json" },
+    headers: { "Content-Type": "application/json", Authorization: `Bearer ${token}` },
     body: JSON.stringify(dados),
   });
   if (resposta.status === 201) criadas++;

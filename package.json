@@ -1,16 +1,21 @@
 {
   "name": "questoes-rapidas-api",
   "version": "1.0.0",
-  "description": "API simples com Express + Firebase (Firestore)",
+  "description": "API simples com Express + Firestore (firebase-admin)",
   "type": "module",
   "main": "src/index.js",
   "scripts": {
     "start": "node --env-file=.env src/index.js",
-    "dev": "node --env-file=.env --watch src/index.js"
+    "dev": "node --env-file=.env --watch src/index.js",
+    "semear": "node --env-file=.env scripts/semear-questoes.js",
+    "segredo": "node -e \"console.log(require('node:crypto').randomBytes(48).toString('base64url'))\""
   },
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.21.2",
-    "firebase": "^11.0.0"
+    "firebase-admin": "^14.5.1"
+  },
+  "engines": {
+    "node": ">=20"
   }
 }
