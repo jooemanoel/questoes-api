@@ -1,5 +1,5 @@
 {
-  "name": "questoes-rapidas-api",
+  "name": "questoes-api",
   "version": "1.0.0",
   "description": "API simples com Express + Firestore (firebase-admin)",
   "type": "module",

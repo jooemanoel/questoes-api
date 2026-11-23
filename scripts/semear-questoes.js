@@ -7,7 +7,7 @@
 //   node scripts/semear-questoes.js --api=https://...  envia para outra URL
 //
 // O envio precisa do ADMIN_TOKEN (o mesmo configurado na API), lido do .env:
-//   npm run semear -- --api=https://questoes-rapidas-api.vercel.app
+//   npm run semear -- --api=https://questoes-api.vercel.app
 import { readFileSync, readdirSync } from "node:fs";
 import { join } from "node:path";
 

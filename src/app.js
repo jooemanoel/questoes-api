@@ -10,7 +10,7 @@ app.use(cors());
 app.use(express.json({ limit: "100kb" }));
 
 app.get("/", (req, res) => {
-  res.json({ status: "ok", mensagem: "API Questões Rápidas no ar" });
+  res.json({ status: "ok", mensagem: "API Questões no ar" });
 });
 
 app.use("/questoes", questoesRouter);
