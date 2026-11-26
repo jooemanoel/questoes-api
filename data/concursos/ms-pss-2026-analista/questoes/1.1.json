@@ -17,6 +17,57 @@
     "origem": "ia"
   },
   {
+    "id": "1.1.1-02",
+    "topicoId": "1.1.1",
+    "textoBase": "Durante décadas, o atendimento em saúde foi pensado quase exclusivamente a partir do encontro presencial entre profissional e paciente. Essa lógica, embora ainda indispensável em muitos casos, mostrou-se insuficiente para regiões remotas, onde a espera por um especialista podia durar meses. A telessaúde surgiu, portanto, como alternativa capaz de encurtar distâncias. Não se trata, contudo, de substituir o cuidado presencial, mas de complementá-lo: o paciente continua tendo o direito de recusar a teleconsulta e de ser atendido pessoalmente sempre que o solicitar.",
+    "enunciado": "Depreende-se do texto que a telessaúde",
+    "alternativas": [
+      "deve complementar o atendimento presencial, e não eliminá-lo.",
+      "é obrigatória para os pacientes que residem em regiões remotas do País.",
+      "tornou dispensável o encontro presencial entre profissional e paciente.",
+      "impede o paciente de recusar a teleconsulta quando ela estiver disponível.",
+      "foi criada para substituir o especialista nas regiões em que ele não atua."
+    ],
+    "gabarito": "A",
+    "comentario": "Gabarito: A. O último período afirma que não se trata de substituir o cuidado presencial, mas de complementá-lo, e que o paciente pode recusar a teleconsulta e ser atendido pessoalmente. 'Depreender' significa 'concluir a partir de algo': a resposta deve estar apoiada no texto.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.1-03",
+    "topicoId": "1.1.1",
+    "textoBase": "Durante décadas, o atendimento em saúde foi pensado quase exclusivamente a partir do encontro presencial entre profissional e paciente. Essa lógica, embora ainda indispensável em muitos casos, mostrou-se insuficiente para regiões remotas, onde a espera por um especialista podia durar meses. A telessaúde surgiu, portanto, como alternativa capaz de encurtar distâncias. Não se trata, contudo, de substituir o cuidado presencial, mas de complementá-lo: o paciente continua tendo o direito de recusar a teleconsulta e de ser atendido pessoalmente sempre que o solicitar.",
+    "enunciado": "Segundo o texto, a insuficiência do modelo de atendimento exclusivamente presencial manifestou-se sobretudo",
+    "alternativas": [
+      "nos grandes centros urbanos, em razão do excesso de especialistas disponíveis.",
+      "nas consultas de rotina, que passaram a ser feitas apenas a distância.",
+      "nos casos graves, para os quais o encontro presencial é sempre dispensável.",
+      "nas regiões remotas, onde a espera por especialista podia durar meses.",
+      "na relação com os pacientes que recusavam o atendimento presencial."
+    ],
+    "gabarito": "D",
+    "comentario": "Gabarito: D. O segundo período diz que a lógica presencial, embora ainda indispensável em muitos casos, mostrou-se insuficiente para regiões remotas, onde a espera por especialista podia durar meses. O texto não menciona excesso de especialistas nem casos graves.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.1-04",
+    "topicoId": "1.1.1",
+    "textoBase": "Nunca se produziu tanta informação sobre saúde quanto hoje. Paradoxalmente, nunca foi tão difícil distinguir o dado confiável do boato. Quando qualquer conteúdo circula com a mesma velocidade, o critério de verdade deixa de ser a fonte e passa a ser o número de compartilhamentos, e é justamente aí que mora o perigo.",
+    "enunciado": "O 'perigo' mencionado no final do texto consiste em",
+    "alternativas": [
+      "produzir pouca informação sobre saúde, o que favorece os boatos.",
+      "tomar a popularidade de um conteúdo como prova de sua veracidade.",
+      "reduzir a velocidade com que os conteúdos circulam nas redes.",
+      "verificar a fonte de cada informação antes de compartilhá-la.",
+      "restringir a circulação de conteúdos às fontes oficiais de saúde."
+    ],
+    "gabarito": "B",
+    "comentario": "Gabarito: B. O texto afirma que o critério de verdade deixa de ser a fonte e passa a ser o número de compartilhamentos, 'e é justamente aí que mora o perigo'. O perigo, portanto, é confundir popularidade com veracidade. O texto diz que nunca se produziu tanta informação, e não pouca.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
     "id": "1.1.2-01",
     "topicoId": "1.1.2",
     "textoBase": "Antes de aplicar o colírio, lave bem as mãos. Incline a cabeça para trás, puxe levemente a pálpebra inferior e pingue uma gota em cada olho. Não encoste a ponta do frasco nos olhos e mantenha-o bem fechado após o uso.",
@@ -30,6 +81,39 @@
     ],
     "gabarito": "D",
     "comentario": "Gabarito: D. O texto é instrucional: os verbos no imperativo ('lave', 'incline', 'puxe', 'pingue', 'não encoste', 'mantenha') orientam o leitor a executar um procedimento, o que caracteriza a tipologia injuntiva, típica de bulas, manuais e receitas. Não há relato de fatos, caracterização de seres nem defesa de tese.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.2-02",
+    "topicoId": "1.1.2",
+    "textoBase": "Nunca se produziu tanta informação sobre saúde quanto hoje. Paradoxalmente, nunca foi tão difícil distinguir o dado confiável do boato. Quando qualquer conteúdo circula com a mesma velocidade, o critério de verdade deixa de ser a fonte e passa a ser o número de compartilhamentos, e é justamente aí que mora o perigo.",
+    "enunciado": "Quanto à tipologia, predomina no texto o tipo",
+    "alternativas": [
+      "descritivo, pois o texto caracteriza, por meio de adjetivos, um ambiente específico.",
+      "injuntivo, pois o texto orienta o leitor a executar um procedimento passo a passo.",
+      "dissertativo-argumentativo, pois o autor defende um ponto de vista sobre a informação.",
+      "narrativo, pois o texto relata fatos vividos por personagens em sequência temporal.",
+      "expositivo, pois o texto apresenta dados técnicos sem qualquer posicionamento do autor."
+    ],
+    "gabarito": "C",
+    "comentario": "Gabarito: C. O texto apresenta uma tese (a abundância de informação dificultou distinguir o confiável do boato) e a sustenta com argumentos, concluindo com um juízo de valor ('é justamente aí que mora o perigo'). É, portanto, dissertativo-argumentativo.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.2-03",
+    "topicoId": "1.1.2",
+    "enunciado": "O gênero textual que relata, com objetividade, um fato recente de interesse público, geralmente com título e um primeiro parágrafo (lide) que responde a o quê, quem, quando, onde, como e por quê, é a",
+    "alternativas": [
+      "resenha crítica.",
+      "fábula.",
+      "crônica.",
+      "carta pessoal.",
+      "notícia."
+    ],
+    "gabarito": "E",
+    "comentario": "Gabarito: E. A notícia é gênero jornalístico de base narrativa e expositiva, que relata fato recente com objetividade; o lide concentra as informações essenciais. A crônica é texto breve e pessoal sobre o cotidiano; a resenha avalia uma obra; a fábula é narrativa ficcional com moral.",
     "revisada": false,
     "origem": "ia"
   },
@@ -50,6 +134,38 @@
     "origem": "ia"
   },
   {
+    "id": "1.1.3-02",
+    "topicoId": "1.1.3",
+    "enunciado": "Na frase 'Já expliquei mil vezes que a consulta é às oito horas', ocorre a figura de linguagem denominada",
+    "alternativas": [
+      "hipérbole.",
+      "eufemismo.",
+      "ironia.",
+      "antítese.",
+      "metonímia."
+    ],
+    "gabarito": "A",
+    "comentario": "Gabarito: A. A hipérbole é o exagero intencional para enfatizar uma ideia: ninguém explicou literalmente mil vezes. O eufemismo suaviza; a antítese opõe ideias; a metonímia troca um termo por outro com o qual mantém relação de proximidade; a ironia diz o contrário do que se pensa.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.3-03",
+    "topicoId": "1.1.3",
+    "enunciado": "Na frase 'O paciente nos deixou ontem à noite', empregada para informar o falecimento, ocorre",
+    "alternativas": [
+      "pleonasmo.",
+      "hipérbole.",
+      "eufemismo.",
+      "onomatopeia.",
+      "metáfora."
+    ],
+    "gabarito": "C",
+    "comentario": "Gabarito: C. O eufemismo atenua uma ideia desagradável ou dolorosa, como a morte ('nos deixou', 'partiu'). É o oposto da hipérbole, que exagera. Pleonasmo é a repetição de ideia; onomatopeia imita sons.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
     "id": "1.1.4-01",
     "topicoId": "1.1.4",
     "enunciado": "Na frase 'Após a análise dos recursos, a banca ratificou o resultado preliminar', o verbo 'ratificou' tem o sentido de",
@@ -62,6 +178,86 @@
     ],
     "gabarito": "D",
     "comentario": "Gabarito: D. Ratificar é confirmar, validar. Não confunda com retificar, que significa corrigir: se a banca tivesse alterado o resultado depois dos recursos, o verbo adequado seria 'retificou'. Os dois são parônimos, palavras parecidas na forma e diferentes no sentido.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.4-02",
+    "topicoId": "1.1.4",
+    "enunciado": "Na frase 'O objetivo precípuo do programa é reduzir o tempo de espera por consultas', a palavra 'precípuo' significa",
+    "alternativas": [
+      "oculto.",
+      "principal.",
+      "provisório.",
+      "secundário.",
+      "eventual."
+    ],
+    "gabarito": "B",
+    "comentario": "Gabarito: B. Precípuo é o que é principal, essencial. A palavra é frequente em textos jurídicos e em provas: 'atribuições precípuas', 'finalidade precípua'. 'Precipuamente' significa 'principalmente'.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.4-03",
+    "topicoId": "1.1.4",
+    "enunciado": "Na frase 'A secretaria antecipou as compras para obviar o desabastecimento de medicamentos', o verbo 'obviar' tem o sentido de",
+    "alternativas": [
+      "agravar.",
+      "justificar.",
+      "constatar.",
+      "evitar.",
+      "anunciar."
+    ],
+    "gabarito": "D",
+    "comentario": "Gabarito: D. Obviar significa evitar, prevenir, atalhar um mal: antecipar as compras evita o desabastecimento. Não confunda com 'óbvio', que significa evidente. O substantivo correspondente é 'obviação'.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.4-04",
+    "topicoId": "1.1.4",
+    "enunciado": "Na frase 'A defesa conseguiu ilidir as acusações apresentadas no processo', o verbo 'ilidir' significa",
+    "alternativas": [
+      "agravar.",
+      "confirmar.",
+      "repetir.",
+      "registrar.",
+      "refutar."
+    ],
+    "gabarito": "E",
+    "comentario": "Gabarito: E. Ilidir é refutar, rebater, destruir com argumentos: 'ilidir a presunção', 'ilidir a acusação'. Não confunda com o parônimo 'elidir', que significa eliminar, suprimir (de onde vem 'elisão').",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.4-05",
+    "topicoId": "1.1.4",
+    "enunciado": "Na frase 'O contrato foi firmado ao arrepio da lei', a expressão 'ao arrepio da' equivale a",
+    "alternativas": [
+      "em desacordo com a.",
+      "por delegação da.",
+      "em conformidade com a.",
+      "em complemento à.",
+      "com fundamento na."
+    ],
+    "gabarito": "A",
+    "comentario": "Gabarito: A. 'Ao arrepio de' significa em sentido contrário, em desacordo com: um contrato firmado ao arrepio da lei contraria a lei. É expressão comum em textos jurídicos e em questões de significação.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.4-06",
+    "topicoId": "1.1.4",
+    "enunciado": "Na frase 'É defeso ao servidor receber presentes em razão de suas atribuições', a palavra 'defeso' significa",
+    "alternativas": [
+      "facultado.",
+      "exigido.",
+      "permitido.",
+      "recomendado.",
+      "proibido."
+    ],
+    "gabarito": "E",
+    "comentario": "Gabarito: E. Defeso significa proibido, vedado. A palavra aparece em leis e provas ('é defeso ao juiz...'). Também designa o período em que a pesca é proibida para preservar a reprodução das espécies.",
     "revisada": false,
     "origem": "ia"
   },
@@ -82,6 +278,54 @@
     "origem": "ia"
   },
   {
+    "id": "1.1.5-02",
+    "topicoId": "1.1.5",
+    "enunciado": "O antônimo de 'prolixo', em 'O relatório era prolixo e cansativo', é",
+    "alternativas": [
+      "redundante.",
+      "extenso.",
+      "conciso.",
+      "minucioso.",
+      "verborrágico."
+    ],
+    "gabarito": "C",
+    "comentario": "Gabarito: C. Prolixo é o texto longo demais, que se alonga em pormenores desnecessários. Seu antônimo é conciso (breve, preciso). Verborrágico, extenso e redundante são aproximadamente sinônimos de prolixo.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.5-03",
+    "topicoId": "1.1.5",
+    "enunciado": "Na frase 'A greve exauriu os estoques de insumos do hospital', o verbo 'exauriu' pode ser substituído, sem alteração do sentido, por",
+    "alternativas": [
+      "ampliou.",
+      "controlou.",
+      "organizou.",
+      "esgotou.",
+      "renovou."
+    ],
+    "gabarito": "D",
+    "comentario": "Gabarito: D. Exaurir significa esgotar, consumir até o fim. Renovar e ampliar indicam o contrário. O adjetivo 'exausto' tem a mesma origem: esgotado de forças.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.5-04",
+    "topicoId": "1.1.5",
+    "enunciado": "É antônimo de 'profícuo', em 'A reunião foi profícua para a equipe', a palavra",
+    "alternativas": [
+      "fecundo.",
+      "infrutífero.",
+      "proveitoso.",
+      "útil.",
+      "produtivo."
+    ],
+    "gabarito": "B",
+    "comentario": "Gabarito: B. Profícuo significa proveitoso, útil, produtivo. Seu antônimo é infrutífero (sem resultado). As demais alternativas são sinônimos de profícuo, o que torna a questão uma armadilha para quem lê rápido.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
     "id": "1.1.6-01",
     "topicoId": "1.1.6",
     "enunciado": "Está correta quanto à ortografia a frase:",
@@ -94,6 +338,38 @@
     ],
     "gabarito": "D",
     "comentario": "Gabarito: D. Escreve-se 'exceção', com xc e ç. As demais frases têm um erro cada: o correto é 'paralisação' (de 'paralisar', com s), 'beneficente' (sem i depois do c), 'privilégios' (com i na primeira sílaba) e 'análise' (com s).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.6-02",
+    "topicoId": "1.1.6",
+    "enunciado": "Está correta quanto ao emprego de 'porque', 'por que', 'porquê' e 'mal/mau' a frase:",
+    "alternativas": [
+      "Não sei por que o exame atrasou.",
+      "O médico explicou o por que da demora.",
+      "O atendimento foi mau feito pela equipe.",
+      "Ele está mal-humorado porquê não dormiu.",
+      "Porque você faltou à consulta de ontem?"
+    ],
+    "gabarito": "A",
+    "comentario": "Gabarito: A. Usa-se 'por que' separado em perguntas diretas e indiretas ('não sei por que'). Substantivado, escreve-se 'o porquê'. Na pergunta direta, 'Por que você faltou?'. 'Mal' (advérbio) se opõe a 'bem': 'mal feito'. 'Porque', junto e sem acento, é conjunção explicativa ou causal.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.6-03",
+    "topicoId": "1.1.6",
+    "enunciado": "Todas as palavras estão grafadas corretamente em:",
+    "alternativas": [
+      "acensão, pretensão, exceção.",
+      "ascensão, pretensão, exceção.",
+      "ascensão, pretenção, excessão.",
+      "ascensão, pretensão, excessão.",
+      "ascenção, pretensão, exceção."
+    ],
+    "gabarito": "B",
+    "comentario": "Gabarito: B. Escreve-se 'ascensão' (com sc e s), 'pretensão' (com s, de 'pretender') e 'exceção' (com xc e ç). Os erros comuns são 'acensão', 'ascenção', 'pretenção' e 'excessão'.",
     "revisada": false,
     "origem": "ia"
   },
@@ -114,6 +390,38 @@
     "origem": "ia"
   },
   {
+    "id": "1.1.7-02",
+    "topicoId": "1.1.7",
+    "enunciado": "É acentuada pela mesma regra que justifica o acento de 'saúde' a palavra",
+    "alternativas": [
+      "também.",
+      "café.",
+      "pública.",
+      "baú.",
+      "fácil."
+    ],
+    "gabarito": "D",
+    "comentario": "Gabarito: D. 'Saúde' e 'baú' recebem acento pela regra do i e do u tônicos que formam hiato com a vogal anterior (sa-ú-de, ba-ú). 'Pública' é proparoxítona; 'também', oxítona terminada em -em; 'fácil', paroxítona terminada em l; 'café', oxítona terminada em e.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.7-03",
+    "topicoId": "1.1.7",
+    "enunciado": "Está correta quanto à acentuação a frase:",
+    "alternativas": [
+      "Os médicos vem ao plantão e crêem que o paciente vai melhorar.",
+      "Os usuários têm direito à informação, e o paciente têm direito ao sigilo.",
+      "Os enfermeiros vêem os pacientes e lêem os prontuários com atenção.",
+      "Os usuários tem direito à informação, e o paciente têm direito ao sigilo.",
+      "Os usuários têm direito à informação, e o paciente tem direito ao sigilo."
+    ],
+    "gabarito": "E",
+    "comentario": "Gabarito: E. No plural, os verbos 'ter' e 'vir' levam acento circunflexo ('eles têm', 'eles vêm'); no singular, não ('ele tem'). Pelo Acordo Ortográfico, formas como 'creem', 'veem' e 'leem' perderam o acento.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
     "id": "1.1.8-01",
     "topicoId": "1.1.8",
     "enunciado": "O acento grave indicativo de crase está corretamente empregado em:",
@@ -126,6 +434,54 @@
     ],
     "gabarito": "E",
     "comentario": "Gabarito: E. 'Entregar' exige a preposição a, e 'diretora' admite o artigo a: a + a = à. Não há crase antes de verbo ('a trabalhar'), de pronome demonstrativo como 'este' ('a este'), de nome de cidade que não admite artigo ('vou a Brasília', pois 'venho de Brasília') nem na expressão 'de... a...' ('de segunda a sexta').",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.8-02",
+    "topicoId": "1.1.8",
+    "enunciado": "O acento grave indicativo de crase está corretamente empregado em:",
+    "alternativas": [
+      "Fez uma pergunta à uma enfermeira.",
+      "O curso começa à partir de segunda.",
+      "Refiro-me àquela proposta de reforma.",
+      "Entregou o documento à ele ontem.",
+      "Chegou à tempo para a consulta."
+    ],
+    "gabarito": "C",
+    "comentario": "Gabarito: C. Há crase em 'àquela', fusão da preposição exigida por 'referir-se a' com o pronome 'aquela'. Não há crase antes de pronome pessoal ('a ele'), de palavra masculina ('a tempo'), de verbo ('a partir') nem de artigo indefinido ('a uma').",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.8-03",
+    "topicoId": "1.1.8",
+    "enunciado": "O acento grave é de uso facultativo em:",
+    "alternativas": [
+      "Entreguei o laudo à sua médica.",
+      "Vou à farmácia mais tarde.",
+      "Ele começou a chorar na sala.",
+      "Fui a Roma para um congresso.",
+      "Assisti à palestra sobre vacinas."
+    ],
+    "gabarito": "A",
+    "comentario": "Gabarito: A. Antes de pronome possessivo feminino singular, o artigo é facultativo, e por isso a crase também ('a sua médica' ou 'à sua médica'). Em 'à farmácia' e 'à palestra', a crase é obrigatória; antes de verbo ('a chorar') e de cidade sem artigo ('a Roma'), é proibida.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.8-04",
+    "topicoId": "1.1.8",
+    "enunciado": "Está correto o emprego do acento grave em:",
+    "alternativas": [
+      "Estava disposto à colaborar com a investigação.",
+      "Ele se dirigiu à todos os presentes na reunião.",
+      "O medicamento deve ser tomado gota à gota.",
+      "O plantão terminou às sete horas da manhã.",
+      "Ficou frente à frente com o diretor do hospital."
+    ],
+    "gabarito": "D",
+    "comentario": "Gabarito: D. Há crase na indicação de horas determinadas ('às sete horas'). Não há crase em expressões com palavras repetidas ('frente a frente', 'gota a gota'), antes de pronome indefinido ('a todos') nem antes de verbo ('a colaborar').",
     "revisada": false,
     "origem": "ia"
   },
@@ -146,6 +502,22 @@
     "origem": "ia"
   },
   {
+    "id": "1.1.9-02",
+    "topicoId": "1.1.9",
+    "enunciado": "A palavra 'hospital' apresenta",
+    "alternativas": [
+      "8 letras e 6 fonemas.",
+      "8 letras e 7 fonemas.",
+      "8 letras e 8 fonemas.",
+      "9 letras e 7 fonemas.",
+      "7 letras e 7 fonemas."
+    ],
+    "gabarito": "B",
+    "comentario": "Gabarito: B. 'Hospital' tem 8 letras (h-o-s-p-i-t-a-l), mas o h inicial não representa som algum. Restam 7 fonemas. Letra é representação gráfica; fonema é unidade sonora.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
     "id": "1.1.10-01",
     "topicoId": "1.1.10",
     "enunciado": "Na frase 'A enfermeira chegou meio cansada ao fim do plantão', a palavra 'meio' classifica-se como",
@@ -158,6 +530,54 @@
     ],
     "gabarito": "D",
     "comentario": "Gabarito: D. Na frase, 'meio' significa 'um pouco' e modifica o adjetivo 'cansada': é advérbio de intensidade e, como advérbio, não varia. Por isso, a forma 'meia cansada' está errada. 'Meio' só concorda quando é numeral ou adjetivo, com o sentido de 'metade', como em 'meia hora'.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.10-02",
+    "topicoId": "1.1.10",
+    "enunciado": "Na frase 'Os pacientes chegaram cedo à unidade', a palavra 'cedo' classifica-se como",
+    "alternativas": [
+      "preposição.",
+      "adjetivo.",
+      "advérbio de tempo.",
+      "substantivo.",
+      "conjunção temporal."
+    ],
+    "gabarito": "C",
+    "comentario": "Gabarito: C. 'Cedo' modifica o verbo 'chegaram', indicando circunstância de tempo: é advérbio de tempo, palavra invariável. Conjunções ligam orações; preposições ligam termos; adjetivos modificam substantivos.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.10-03",
+    "topicoId": "1.1.10",
+    "enunciado": "Na frase 'Havia bastantes leitos vagos no hospital', a palavra 'bastantes' está",
+    "alternativas": [
+      "errada, pois 'bastante' é sempre advérbio e não admite plural.",
+      "correta, pois funciona como advérbio de intensidade e varia.",
+      "errada, pois o correto seria 'bastante leitos vagos'.",
+      "errada, pois deveria concordar com 'hospital', no singular.",
+      "correta, pois se refere ao substantivo 'leitos' e por isso varia."
+    ],
+    "gabarito": "E",
+    "comentario": "Gabarito: E. 'Bastante' varia quando se refere a substantivo, com sentido de 'muitos' ('bastantes leitos'), e fica invariável quando é advérbio, modificando verbo, adjetivo ou advérbio ('estudou bastante', 'bastante cansados').",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.10-04",
+    "topicoId": "1.1.10",
+    "enunciado": "Está de acordo com a norma-padrão a frase:",
+    "alternativas": [
+      "Hoje há menas filas e menos pessoas esperando.",
+      "Hoje há menos pessoas na fila de espera.",
+      "Hoje haviam menos pessoas na fila de espera.",
+      "Hoje há menas pessoas na fila de espera.",
+      "Hoje existe menos pessoas na fila de espera."
+    ],
+    "gabarito": "B",
+    "comentario": "Gabarito: B. 'Menos' é palavra invariável: não existe a forma 'menas'. 'Haver' no sentido de existir é impessoal ('há'), e 'existir' concorda com o sujeito ('existem menos pessoas').",
     "revisada": false,
     "origem": "ia"
   },
@@ -178,6 +598,22 @@
     "origem": "ia"
   },
   {
+    "id": "1.1.11-02",
+    "topicoId": "1.1.11",
+    "enunciado": "Na frase 'Os resultados dos exames vão ser divulgados amanhã', o verbo principal da locução verbal é",
+    "alternativas": [
+      "divulgar, no particípio.",
+      "examinar, no infinitivo.",
+      "resultar, no presente.",
+      "ser, no infinitivo.",
+      "ir, no presente."
+    ],
+    "gabarito": "A",
+    "comentario": "Gabarito: A. Na locução 'vão ser divulgados', 'ir' e 'ser' são auxiliares e 'divulgados' (particípio de 'divulgar') é o verbo principal, que carrega o sentido. A construção está na voz passiva analítica.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
     "id": "1.1.12-01",
     "topicoId": "1.1.12",
     "enunciado": "Na frase 'Precisa-se de técnicos de enfermagem para o turno da noite', a palavra 'se' funciona como",
@@ -190,6 +626,54 @@
     ],
     "gabarito": "A",
     "comentario": "Gabarito: A. 'Precisar' é verbo transitivo indireto ('precisar de'). Com verbo que não é transitivo direto, o 'se' indetermina o sujeito, e o verbo fica no singular ('Precisa-se de técnicos'). Seria partícula apassivadora com verbo transitivo direto, que concorda com o sujeito paciente: 'Contratam-se técnicos'.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.12-02",
+    "topicoId": "1.1.12",
+    "enunciado": "Na frase 'Vendem-se equipamentos hospitalares usados', a palavra 'se' é",
+    "alternativas": [
+      "pronome reflexivo.",
+      "partícula apassivadora.",
+      "conjunção integrante.",
+      "índice de indeterminação do sujeito.",
+      "conjunção condicional."
+    ],
+    "gabarito": "B",
+    "comentario": "Gabarito: B. Com verbo transitivo direto ('vender'), o 'se' forma a voz passiva sintética: 'equipamentos são vendidos'. O sujeito é 'equipamentos hospitalares usados', e o verbo concorda com ele no plural ('vendem-se').",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.12-03",
+    "topicoId": "1.1.12",
+    "enunciado": "Na frase 'O exame que fiz ontem já ficou pronto', a palavra 'que' é",
+    "alternativas": [
+      "conjunção integrante.",
+      "preposição acidental.",
+      "pronome relativo.",
+      "conjunção consecutiva.",
+      "advérbio de intensidade."
+    ],
+    "gabarito": "C",
+    "comentario": "Gabarito: C. O 'que' retoma o antecedente 'exame' e introduz oração adjetiva ('que fiz ontem'): é pronome relativo, substituível por 'o qual'. A conjunção integrante introduz oração substantiva ('Sei que o exame ficou pronto').",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.12-04",
+    "topicoId": "1.1.12",
+    "enunciado": "Na frase 'Se houver vagas, o paciente será internado hoje', a palavra 'se' é",
+    "alternativas": [
+      "índice de indeterminação do sujeito.",
+      "pronome reflexivo.",
+      "conjunção integrante.",
+      "partícula apassivadora.",
+      "conjunção subordinativa condicional."
+    ],
+    "gabarito": "E",
+    "comentario": "Gabarito: E. O 'se' introduz uma condição para a internação: é conjunção subordinativa condicional, substituível por 'caso' ('Caso haja vagas'). Seria conjunção integrante em 'Não sei se há vagas'.",
     "revisada": false,
     "origem": "ia"
   },
@@ -210,6 +694,22 @@
     "origem": "ia"
   },
   {
+    "id": "1.1.13-02",
+    "topicoId": "1.1.13",
+    "enunciado": "Formou-se por derivação regressiva a palavra destacada em:",
+    "alternativas": [
+      "O debate sobre o orçamento durou horas.",
+      "O jogador deu um pontapé na bola.",
+      "Felizmente, o exame foi normal.",
+      "O paciente estava infeliz com a demora.",
+      "Ele disse um sim tímido ao convite."
+    ],
+    "gabarito": "A",
+    "comentario": "Gabarito: A. 'Debate' formou-se a partir do verbo 'debater', pela supressão da terminação verbal: é derivação regressiva (deverbal), como em 'ataque' (atacar) e 'perda' (perder). 'Infeliz' é prefixal; 'felizmente', sufixal; 'pontapé', composição; e 'o sim', derivação imprópria.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
     "id": "1.1.14-01",
     "topicoId": "1.1.14",
     "enunciado": "No início de uma ligação telefônica, o atendente pergunta: 'Alô? Está me ouvindo bem?'. Nessa fala, a mensagem está centrada no(a)",
@@ -222,6 +722,22 @@
     ],
     "gabarito": "B",
     "comentario": "Gabarito: B. A fala serve para testar o contato entre os interlocutores, e não para informar algo: o foco está no canal de comunicação, o que caracteriza a função fática. A função emotiva centra-se no emissor; a metalinguística, no código (a língua explicando a própria língua); a referencial, no referente; e a poética, na elaboração da mensagem.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.14-02",
+    "topicoId": "1.1.14",
+    "enunciado": "Em uma campanha com o slogan 'Vacine-se! Proteja quem você ama.', predomina a função da linguagem",
+    "alternativas": [
+      "metalinguística, centrada no código.",
+      "emotiva, centrada no emissor.",
+      "referencial, centrada no referente.",
+      "conativa, centrada no receptor.",
+      "fática, centrada no canal."
+    ],
+    "gabarito": "D",
+    "comentario": "Gabarito: D. A função conativa (ou apelativa) busca influenciar o receptor, com verbos no imperativo e vocativos, como na publicidade e nas campanhas. A emotiva expressa sentimentos do emissor; a referencial informa; a metalinguística explica o código; a fática testa o canal.",
     "revisada": false,
     "origem": "ia"
   },
@@ -242,6 +758,54 @@
     "origem": "ia"
   },
   {
+    "id": "1.1.15-02",
+    "topicoId": "1.1.15",
+    "enunciado": "No período 'Embora estivesse exausto, o médico concluiu o plantão', a oração destacada expressa",
+    "alternativas": [
+      "consequência.",
+      "causa.",
+      "finalidade.",
+      "condição.",
+      "concessão."
+    ],
+    "gabarito": "E",
+    "comentario": "Gabarito: E. A oração introduzida por 'embora' admite um fato que poderia impedir o outro, mas não impede: é concessiva. Equivalem a 'embora' as conjunções 'conquanto', 'ainda que' e 'posto que'.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.15-03",
+    "topicoId": "1.1.15",
+    "enunciado": "No período 'A equipe estudou tanto que todos foram aprovados', a oração iniciada por 'que' expressa",
+    "alternativas": [
+      "concessão.",
+      "causa.",
+      "consequência.",
+      "proporção.",
+      "comparação."
+    ],
+    "gabarito": "C",
+    "comentario": "Gabarito: C. A estrutura 'tanto... que' introduz oração adverbial consecutiva: a aprovação é consequência do muito estudo. Seria causal em 'Todos foram aprovados porque estudaram'.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.15-04",
+    "topicoId": "1.1.15",
+    "enunciado": "No período 'É preciso investir na atenção primária para que as filas diminuam', a oração destacada expressa",
+    "alternativas": [
+      "finalidade.",
+      "conformidade.",
+      "causa.",
+      "concessão.",
+      "condição."
+    ],
+    "gabarito": "A",
+    "comentario": "Gabarito: A. 'Para que' introduz oração adverbial final: a diminuição das filas é o objetivo do investimento. Equivale a 'a fim de que'.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
     "id": "1.1.16-01",
     "topicoId": "1.1.16",
     "enunciado": "Está de acordo com a norma-padrão quanto à concordância a frase:",
@@ -254,6 +818,38 @@
     ],
     "gabarito": "A",
     "comentario": "Gabarito: A. 'Anexo' é adjetivo e concorda com o substantivo: 'anexas as cópias'. 'Fazer' indicando tempo decorrido e 'haver' no sentido de existir são impessoais e ficam no singular ('Faz dois anos', 'Havia muitos pacientes'). Com artigo, 'proibido' concorda: 'É proibida a entrada'. Com 'mais de um', o verbo fica, em regra, no singular.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.16-02",
+    "topicoId": "1.1.16",
+    "enunciado": "Está de acordo com a norma-padrão quanto à concordância a frase:",
+    "alternativas": [
+      "Faltou dois médicos no plantão de ontem.",
+      "Fomos nós que organizamos a escala.",
+      "Existe muitas dúvidas sobre o tratamento.",
+      "Devem haver vagas no plantão noturno.",
+      "Fomos nós que organizou a escala."
+    ],
+    "gabarito": "B",
+    "comentario": "Gabarito: B. Com o pronome relativo 'que', o verbo concorda com o antecedente ('nós organizamos'). 'Existir' e 'faltar' concordam com o sujeito ('existem dúvidas', 'faltaram dois médicos'). 'Haver' impessoal transmite a impessoalidade ao auxiliar ('deve haver vagas').",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.16-03",
+    "topicoId": "1.1.16",
+    "enunciado": "Está de acordo com a norma-padrão a frase:",
+    "alternativas": [
+      "Vossas Excelência deve assinar os seus despachos hoje.",
+      "Vossa Excelência deveis assinar o seu despacho hoje.",
+      "Vossa Excelência deve assinar o vosso despacho hoje.",
+      "Vossa Excelência deve assinar o seu despacho hoje.",
+      "Vossa Excelência deveis assinar o vosso despacho hoje."
+    ],
+    "gabarito": "D",
+    "comentario": "Gabarito: D. Os pronomes de tratamento, embora se refiram à segunda pessoa do discurso, levam o verbo e os possessivos para a terceira pessoa: 'Vossa Excelência deve assinar o seu despacho'. 'Deveis' e 'vosso' são formas de segunda pessoa do plural.",
     "revisada": false,
     "origem": "ia"
   },
@@ -274,6 +870,54 @@
     "origem": "ia"
   },
   {
+    "id": "1.1.17-02",
+    "topicoId": "1.1.17",
+    "enunciado": "Está de acordo com a norma-padrão quanto à regência a frase:",
+    "alternativas": [
+      "A servidora aspira ao cargo de coordenadora.",
+      "O servidor visou o cargo de chefia da unidade.",
+      "A mudança implicou em atraso no atendimento.",
+      "Os pacientes preferem mais o presencial do que o remoto.",
+      "A enfermeira namora com o médico do plantão."
+    ],
+    "gabarito": "A",
+    "comentario": "Gabarito: A. 'Aspirar', no sentido de desejar, é transitivo indireto ('aspira ao cargo'). Também pede preposição 'visar' no sentido de almejar ('visou ao cargo'). 'Implicar' (acarretar) é transitivo direto ('implicou atraso'), 'preferir' pede 'a' sem 'mais' nem 'do que', e 'namorar' é transitivo direto.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.17-03",
+    "topicoId": "1.1.17",
+    "enunciado": "Está de acordo com a norma-padrão quanto à regência nominal a frase:",
+    "alternativas": [
+      "O diretor é favorável com a proposta da equipe.",
+      "A população é ansiosa com que o resultado seja divulgado logo.",
+      "O diretor é favorável à proposta da equipe.",
+      "O conselho é contrário com a mudança do horário.",
+      "O paciente tem preferência por consulta presencial do que remota."
+    ],
+    "gabarito": "C",
+    "comentario": "Gabarito: C. 'Favorável' e 'contrário' regem a preposição 'a' ('favorável à proposta', 'contrário à mudança'). 'Preferência' pede 'por... a', e não 'do que'. A última alternativa constrói mal a regência de 'ansiosa', que pede 'por' ou 'para'.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.17-04",
+    "topicoId": "1.1.17",
+    "enunciado": "Está de acordo com a norma-padrão quanto à regência verbal a frase:",
+    "alternativas": [
+      "A equipe obedeceu o protocolo de segurança.",
+      "Os conselheiros simpatizaram com a proposta.",
+      "Os conselheiros se simpatizaram com a proposta.",
+      "O paciente lembrou do horário da consulta.",
+      "Os técnicos procederam o exame com atenção."
+    ],
+    "gabarito": "B",
+    "comentario": "Gabarito: B. 'Simpatizar' não é pronominal: 'simpatizaram com'. 'Proceder', no sentido de realizar, pede 'a' ('procederam ao exame'); 'lembrar' sem pronome é transitivo direto ('lembrou o horário') ou, pronominal, pede 'de' ('lembrou-se do horário'); 'obedecer' pede 'a' ('obedeceu ao protocolo').",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
     "id": "1.1.18-01",
     "topicoId": "1.1.18",
     "enunciado": "Está de acordo com a norma-padrão quanto à colocação pronominal a frase:",
@@ -290,6 +934,22 @@
     "origem": "ia"
   },
   {
+    "id": "1.1.18-02",
+    "topicoId": "1.1.18",
+    "enunciado": "Está de acordo com a norma-padrão quanto à colocação pronominal a frase:",
+    "alternativas": [
+      "Não avisaram-me da reunião.",
+      "Me avisaram da reunião ontem.",
+      "Quando avisou-me, já era tarde.",
+      "Ninguém me avisou da reunião.",
+      "Aqui trabalha-se em equipe."
+    ],
+    "gabarito": "D",
+    "comentario": "Gabarito: D. Pronomes indefinidos de sentido negativo ('ninguém'), advérbios ('não', 'aqui') e conjunções subordinativas ('quando') atraem o pronome átono, exigindo próclise. A norma-padrão também não admite iniciar o período com pronome átono ('Avisaram-me').",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
     "id": "1.1.19-01",
     "topicoId": "1.1.19",
     "enunciado": "O emprego da vírgula está de acordo com a norma-padrão em:",
@@ -302,6 +962,54 @@
     ],
     "gabarito": "A",
     "comentario": "Gabarito: A. As vírgulas isolam o aposto explicativo 'Carlos Mendes', que identifica o diretor. Nas demais frases, a vírgula separa indevidamente o sujeito do verbo ('Os servidores do setor, receberam'; 'A reunião que estava marcada para hoje, foi adiada'; 'o paciente, recebeu') ou o verbo de seu complemento ('precisa de, médicos').",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.19-02",
+    "topicoId": "1.1.19",
+    "enunciado": "Considere: 'Os pacientes, que estavam em jejum, fizeram o exame'. A retirada das vírgulas altera o sentido da frase, pois a oração adjetiva passa a",
+    "alternativas": [
+      "funcionar como aposto, sem qualquer alteração no sentido do período.",
+      "explicar que todos os pacientes estavam em jejum e fizeram o exame.",
+      "expressar a condição para que todos os pacientes pudessem estar em jejum.",
+      "indicar a causa pela qual os pacientes estavam em jejum antes do exame.",
+      "restringir o grupo, indicando que só fizeram o exame os pacientes em jejum."
+    ],
+    "gabarito": "E",
+    "comentario": "Gabarito: E. Entre vírgulas, a oração adjetiva é explicativa: todos os pacientes estavam em jejum. Sem vírgulas, é restritiva: delimita, entre os pacientes, apenas os que estavam em jejum. A pontuação muda o sentido.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.19-03",
+    "topicoId": "1.1.19",
+    "enunciado": "O emprego da vírgula está correto em:",
+    "alternativas": [
+      "O paciente, do leito dois acordou, doutor.",
+      "Doutor, o paciente do leito dois acordou.",
+      "Doutor o paciente, do leito dois acordou.",
+      "Doutor o paciente do leito, dois acordou.",
+      "O paciente do leito dois, acordou doutor."
+    ],
+    "gabarito": "B",
+    "comentario": "Gabarito: B. O vocativo ('Doutor') deve ser isolado por vírgula. Nas demais alternativas, a vírgula separa o sujeito do verbo ou divide indevidamente o adjunto ('do leito dois'), além de deixar de isolar o vocativo.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.19-04",
+    "topicoId": "1.1.19",
+    "enunciado": "Está correta a pontuação em:",
+    "alternativas": [
+      "O conselho municipal de saúde aprovou o plano e, a programação.",
+      "Na semana passada o conselho aprovou o plano, de saúde.",
+      "Na semana passada, o conselho aprovou o plano de saúde.",
+      "O conselho aprovou, o plano de saúde na semana passada.",
+      "O conselho, aprovou o plano de saúde na semana passada."
+    ],
+    "gabarito": "C",
+    "comentario": "Gabarito: C. O adjunto adverbial deslocado para o início ('Na semana passada') pode ser separado por vírgula. É erro separar o sujeito do verbo ('O conselho, aprovou'), o verbo do complemento ('aprovou, o plano') ou o núcleo de seu adjunto ('plano, de saúde').",
     "revisada": false,
     "origem": "ia"
   },
@@ -323,6 +1031,40 @@
     "origem": "ia"
   },
   {
+    "id": "1.1.20-02",
+    "topicoId": "1.1.20",
+    "textoBase": "Durante décadas, o atendimento em saúde foi pensado quase exclusivamente a partir do encontro presencial entre profissional e paciente. Essa lógica, embora ainda indispensável em muitos casos, mostrou-se insuficiente para regiões remotas, onde a espera por um especialista podia durar meses. A telessaúde surgiu, portanto, como alternativa capaz de encurtar distâncias. Não se trata, contudo, de substituir o cuidado presencial, mas de complementá-lo: o paciente continua tendo o direito de recusar a teleconsulta e de ser atendido pessoalmente sempre que o solicitar.",
+    "enunciado": "No segundo período do texto, a expressão 'Essa lógica' retoma",
+    "alternativas": [
+      "a figura do especialista, cuja ausência motivou as longas esperas.",
+      "o direito do paciente de recusar a teleconsulta quando quiser.",
+      "a telessaúde, mencionada como alternativa capaz de encurtar distâncias.",
+      "a ideia de um atendimento pensado a partir do encontro presencial.",
+      "as regiões remotas, onde a espera por especialista podia durar meses."
+    ],
+    "gabarito": "D",
+    "comentario": "Gabarito: D. 'Essa lógica' é uma retomada por encapsulamento: resume toda a ideia do primeiro período, de que o atendimento era pensado quase exclusivamente a partir do encontro presencial. A telessaúde só aparece no terceiro período.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.20-03",
+    "topicoId": "1.1.20",
+    "textoBase": "Durante décadas, o atendimento em saúde foi pensado quase exclusivamente a partir do encontro presencial entre profissional e paciente. Essa lógica, embora ainda indispensável em muitos casos, mostrou-se insuficiente para regiões remotas, onde a espera por um especialista podia durar meses. A telessaúde surgiu, portanto, como alternativa capaz de encurtar distâncias. Não se trata, contudo, de substituir o cuidado presencial, mas de complementá-lo: o paciente continua tendo o direito de recusar a teleconsulta e de ser atendido pessoalmente sempre que o solicitar.",
+    "enunciado": "No último período do texto, o pronome oblíquo em 'sempre que o solicitar' refere-se",
+    "alternativas": [
+      "ao paciente.",
+      "ao direito de recusa.",
+      "à teleconsulta.",
+      "ao especialista.",
+      "ao atendimento presencial."
+    ],
+    "gabarito": "E",
+    "comentario": "Gabarito: E. O paciente pode ser atendido pessoalmente 'sempre que o solicitar': o pronome 'o' retoma a ideia de ser atendido pessoalmente, isto é, o atendimento presencial. Se retomasse a teleconsulta (feminino), a forma seria 'a'.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
     "id": "1.1.21-01",
     "topicoId": "1.1.21",
     "textoBase": "A ampliação do acesso a serviços de saúde não depende apenas da construção de novas unidades. Em muitas regiões, o principal obstáculo é a distância entre o lugar onde o cidadão vive e o local em que o atendimento especializado está disponível. Por isso, estratégias como a regionalização e a telessaúde ganharam espaço nas políticas públicas: elas aproximam o serviço do usuário sem exigir que cada município mantenha, sozinho, toda a estrutura necessária. Essas soluções, contudo, só funcionam quando há planejamento conjunto entre os entes federativos e investimento contínuo em conectividade e em profissionais capacitados.",
@@ -340,6 +1082,57 @@
     "origem": "ia"
   },
   {
+    "id": "1.1.21-02",
+    "topicoId": "1.1.21",
+    "textoBase": "Durante décadas, o atendimento em saúde foi pensado quase exclusivamente a partir do encontro presencial entre profissional e paciente. Essa lógica, embora ainda indispensável em muitos casos, mostrou-se insuficiente para regiões remotas, onde a espera por um especialista podia durar meses. A telessaúde surgiu, portanto, como alternativa capaz de encurtar distâncias. Não se trata, contudo, de substituir o cuidado presencial, mas de complementá-lo: o paciente continua tendo o direito de recusar a teleconsulta e de ser atendido pessoalmente sempre que o solicitar.",
+    "enunciado": "No terceiro período do texto, o vocábulo 'portanto' introduz uma ideia de",
+    "alternativas": [
+      "conclusão.",
+      "comparação.",
+      "concessão.",
+      "condição.",
+      "oposição."
+    ],
+    "gabarito": "A",
+    "comentario": "Gabarito: A. 'Portanto' é conjunção conclusiva: a telessaúde surge como consequência lógica da insuficiência do modelo presencial nas regiões remotas, exposta antes. Equivale a 'logo', 'por isso', 'por conseguinte'.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.21-03",
+    "topicoId": "1.1.21",
+    "textoBase": "Durante décadas, o atendimento em saúde foi pensado quase exclusivamente a partir do encontro presencial entre profissional e paciente. Essa lógica, embora ainda indispensável em muitos casos, mostrou-se insuficiente para regiões remotas, onde a espera por um especialista podia durar meses. A telessaúde surgiu, portanto, como alternativa capaz de encurtar distâncias. Não se trata, contudo, de substituir o cuidado presencial, mas de complementá-lo: o paciente continua tendo o direito de recusar a teleconsulta e de ser atendido pessoalmente sempre que o solicitar.",
+    "enunciado": "No segundo período do texto, a conjunção 'embora' poderia ser substituída, sem alteração do sentido, por",
+    "alternativas": [
+      "porquanto.",
+      "uma vez que.",
+      "contanto que.",
+      "conquanto.",
+      "à medida que."
+    ],
+    "gabarito": "D",
+    "comentario": "Gabarito: D. 'Embora' é concessiva e equivale a 'conquanto' ou 'ainda que'. Cuidado com o parônimo 'porquanto', que é causal ('porque'). 'Contanto que' indica condição; 'à medida que', proporção; 'uma vez que', causa.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.21-04",
+    "topicoId": "1.1.21",
+    "textoBase": "Nunca se produziu tanta informação sobre saúde quanto hoje. Paradoxalmente, nunca foi tão difícil distinguir o dado confiável do boato. Quando qualquer conteúdo circula com a mesma velocidade, o critério de verdade deixa de ser a fonte e passa a ser o número de compartilhamentos, e é justamente aí que mora o perigo.",
+    "enunciado": "No segundo período do texto, o vocábulo 'Paradoxalmente' indica que a afirmação que ele introduz",
+    "alternativas": [
+      "apresenta um exemplo concreto da afirmação feita antes dela.",
+      "introduz uma condição para que a afirmação anterior seja verdadeira.",
+      "contraria o que se esperaria a partir da afirmação anterior.",
+      "é consequência necessária e esperada da afirmação anterior.",
+      "repete, com outras palavras, o que foi dito na frase anterior."
+    ],
+    "gabarito": "C",
+    "comentario": "Gabarito: C. Paradoxo é a ideia que parece contraditória: com tanta informação disponível, esperar-se-ia mais facilidade, e não mais dificuldade, para distinguir o confiável do boato. O advérbio marca essa quebra de expectativa.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
     "id": "1.1.22-01",
     "topicoId": "1.1.22",
     "enunciado": "O uso das palavras 'mandioca', 'aipim' e 'macaxeira' para designar o mesmo alimento, conforme a região do Brasil, exemplifica a variação linguística",
@@ -352,6 +1145,22 @@
     ],
     "gabarito": "B",
     "comentario": "Gabarito: B. A variação geográfica (diatópica) aparece nas diferenças entre regiões, como no vocabulário ('mandioca', 'aipim', 'macaxeira') e no sotaque. A histórica muda com o tempo; a social, com grupos como classe, idade e escolaridade; a situacional, com o grau de formalidade da situação; e a diamésica, entre as modalidades oral e escrita.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.22-02",
+    "topicoId": "1.1.22",
+    "enunciado": "O uso, entre profissionais de saúde, de expressões como 'o paciente evoluiu bem' e 'fazer a anamnese' exemplifica a variação linguística",
+    "alternativas": [
+      "situacional (diafásica), de registro sempre informal.",
+      "social (diastrática), na forma de jargão profissional.",
+      "entre fala e escrita (diamésica), restrita aos textos escritos.",
+      "histórica (diacrônica), por serem expressões em desuso.",
+      "geográfica (diatópica), própria de uma região do País."
+    ],
+    "gabarito": "B",
+    "comentario": "Gabarito: B. O jargão profissional é variação social (diastrática): marca o modo de falar de um grupo, no caso os profissionais de saúde. Não se trata de variação regional nem histórica, e o jargão pode aparecer tanto em situações formais quanto informais.",
     "revisada": false,
     "origem": "ia"
   }

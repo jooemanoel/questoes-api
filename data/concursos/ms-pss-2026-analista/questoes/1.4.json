@@ -16,6 +16,134 @@
     "origem": "ia"
   },
   {
+    "id": "1.4.1-02",
+    "topicoId": "1.4.1",
+    "enunciado": "Segundo a Constituição Federal, todo o poder emana do povo, que o exerce",
+    "alternativas": [
+      "exclusivamente por meio de representantes eleitos pelo voto direto e secreto.",
+      "por meio dos partidos políticos, únicos legitimados a representar a vontade popular.",
+      "por meio dos três Poderes, cujos membros são todos escolhidos pelo voto popular.",
+      "diretamente, por plebiscito e referendo, vedada a representação por mandatários eleitos.",
+      "por meio de representantes eleitos ou diretamente, nos termos da Constituição."
+    ],
+    "gabarito": "E",
+    "comentario": "Gabarito: E. É o parágrafo único do art. 1º da CF: todo o poder emana do povo, que o exerce por meio de representantes eleitos ou diretamente, nos termos da Constituição. A democracia brasileira é semidireta: combina representação com instrumentos como plebiscito, referendo e iniciativa popular (art. 14).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.4.1-03",
+    "topicoId": "1.4.1",
+    "enunciado": "Conforme a Constituição Federal, são Poderes da União",
+    "alternativas": [
+      "o Legislativo, o Executivo e o Judiciário, independentes e harmônicos entre si.",
+      "o Executivo e o Legislativo, cabendo ao Judiciário apenas função auxiliar e consultiva.",
+      "o Legislativo, o Executivo e o Judiciário, hierarquicamente subordinados ao Congresso Nacional.",
+      "o Legislativo, o Executivo e o Judiciário, vedada qualquer forma de controle recíproco entre eles.",
+      "o Legislativo, o Executivo, o Judiciário e o Ministério Público, subordinados ao Executivo."
+    ],
+    "gabarito": "A",
+    "comentario": "Gabarito: A. O art. 2º da CF estabelece que são Poderes da União, independentes e harmônicos entre si, o Legislativo, o Executivo e o Judiciário. A harmonia pressupõe controles recíprocos (freios e contrapesos). O Ministério Público é função essencial à Justiça, e não um Poder.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.4.1-04",
+    "topicoId": "1.4.1",
+    "enunciado": "Constitui fundamento da República Federativa do Brasil, segundo o art. 1º da Constituição Federal:",
+    "alternativas": [
+      "a defesa da paz nas relações internacionais.",
+      "garantir o desenvolvimento nacional.",
+      "construir uma sociedade livre, justa e solidária.",
+      "os valores sociais do trabalho e da livre iniciativa.",
+      "a não intervenção nos assuntos internos de outros Estados."
+    ],
+    "gabarito": "D",
+    "comentario": "Gabarito: D. São fundamentos (art. 1º): soberania, cidadania, dignidade da pessoa humana, valores sociais do trabalho e da livre iniciativa e pluralismo político. Garantir o desenvolvimento nacional e construir uma sociedade livre, justa e solidária são objetivos (art. 3º); não intervenção e defesa da paz, princípios das relações internacionais (art. 4º).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.4.1-05",
+    "topicoId": "1.4.1",
+    "enunciado": "São, respectivamente, fundamento, objetivo fundamental e princípio das relações internacionais da República Federativa do Brasil:",
+    "alternativas": [
+      "construir uma sociedade solidária; a soberania; o repúdio ao terrorismo e ao racismo.",
+      "a cidadania; erradicar a pobreza; a concessão de asilo político.",
+      "o pluralismo político; a autodeterminação dos povos; a dignidade da pessoa humana.",
+      "a prevalência dos direitos humanos; a cidadania; reduzir as desigualdades regionais.",
+      "a soberania; a defesa da paz; garantir o desenvolvimento nacional."
+    ],
+    "gabarito": "B",
+    "comentario": "Gabarito: B. A cidadania é fundamento (art. 1º, II); erradicar a pobreza e a marginalização é objetivo fundamental (art. 3º, III); a concessão de asilo político é princípio das relações internacionais (art. 4º, X). Dica: os objetivos do art. 3º começam por verbos (construir, garantir, erradicar, promover).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.4.1-06",
+    "topicoId": "1.4.1",
+    "enunciado": "NÃO constitui princípio que rege a República Federativa do Brasil em suas relações internacionais:",
+    "alternativas": [
+      "igualdade entre os Estados.",
+      "garantir o desenvolvimento nacional.",
+      "repúdio ao terrorismo e ao racismo.",
+      "solução pacífica dos conflitos.",
+      "concessão de asilo político."
+    ],
+    "gabarito": "B",
+    "comentario": "Gabarito: B. O art. 4º lista independência nacional, prevalência dos direitos humanos, autodeterminação dos povos, não intervenção, igualdade entre os Estados, defesa da paz, solução pacífica dos conflitos, repúdio ao terrorismo e ao racismo, cooperação entre os povos e concessão de asilo político. Garantir o desenvolvimento nacional é objetivo fundamental (art. 3º, II).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.4.1-07",
+    "topicoId": "1.4.1",
+    "enunciado": "Segundo o parágrafo único do art. 4º da Constituição Federal, a República Federativa do Brasil buscará",
+    "alternativas": [
+      "a integração exclusivamente econômica dos povos da América do Sul, vedada a integração política e cultural.",
+      "a formação de uma federação latino-americana, com cessão de parcela da soberania nacional aos países vizinhos.",
+      "a unificação monetária com os países do Mercosul, por meio de emenda constitucional aprovada em plebiscito.",
+      "a adesão automática a todos os tratados de livre comércio firmados pelos países do continente americano.",
+      "a integração econômica, política, social e cultural dos povos da América Latina."
+    ],
+    "gabarito": "E",
+    "comentario": "Gabarito: E. É o parágrafo único do art. 4º: o Brasil buscará a integração econômica, política, social e cultural dos povos da América Latina, visando à formação de uma comunidade latino-americana de nações. A norma não prevê cessão de soberania, unificação monetária nem adesão automática a tratados.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.4.1-08",
+    "topicoId": "1.4.1",
+    "enunciado": "Um movimento político propõe que determinado estado se separe do Brasil, mediante plebiscito realizado apenas entre seus eleitores. À luz da Constituição Federal, a proposta",
+    "alternativas": [
+      "é incompatível com a Constituição, pois a Federação é formada pela união indissolúvel de estados, municípios e DF.",
+      "depende apenas de autorização do Senado Federal, por resolução aprovada pela maioria de seus membros.",
+      "é válida, se aprovada pela maioria absoluta da população do estado em plebiscito convocado pela Assembleia.",
+      "é válida, se aprovada por lei complementar federal e por dois terços dos membros da Assembleia Legislativa.",
+      "é válida, desde que o estado assuma a parcela da dívida pública federal correspondente à sua população."
+    ],
+    "gabarito": "A",
+    "comentario": "Gabarito: A. O caput do art. 1º da CF define a República como formada pela união indissolúvel dos estados, dos municípios e do DF. Não há direito de secessão. A forma federativa é, ainda, cláusula pétrea (art. 60, § 4º, I).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.4.1-09",
+    "topicoId": "1.4.1",
+    "enunciado": "Uma norma municipal passou a negar o acesso a determinado programa público a pessoas com mais de 60 anos, sem qualquer justificativa técnica. Essa norma contraria diretamente o objetivo fundamental da República de",
+    "alternativas": [
+      "garantir o pluralismo político e a liberdade de associação partidária de todos os cidadãos brasileiros.",
+      "assegurar a prevalência dos direitos humanos nas relações internacionais e a cooperação entre os povos.",
+      "assegurar a soberania nacional e a independência e a harmonia entre os Poderes da União.",
+      "promover o bem de todos, sem preconceitos de origem, raça, sexo, cor, idade e outras formas de discriminação.",
+      "promover a integração econômica, política, social e cultural dos povos da América Latina."
+    ],
+    "gabarito": "D",
+    "comentario": "Gabarito: D. O art. 3º, IV, da CF estabelece como objetivo fundamental promover o bem de todos, sem preconceitos de origem, raça, sexo, cor, idade e quaisquer outras formas de discriminação. A idade é expressamente mencionada. As demais alternativas trazem princípios internacionais (art. 4º) e fundamentos (art. 1º).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
     "id": "1.4.2-01",
     "topicoId": "1.4.2",
     "enunciado": "Para assegurar o conhecimento de informações relativas à pessoa do impetrante, constantes de registros ou bancos de dados de entidades governamentais ou de caráter público, a Constituição Federal prevê o",
@@ -48,6 +176,198 @@
     "origem": "ia"
   },
   {
+    "id": "1.4.2-03",
+    "topicoId": "1.4.2",
+    "enunciado": "Uma associação de usuários do SUS planeja manifestação pacífica, sem armas, em praça pública. Segundo a Constituição Federal, essa reunião",
+    "alternativas": [
+      "depende de autorização prévia do prefeito, que pode negá-la por simples conveniência administrativa.",
+      "independe de autorização, exigidos o prévio aviso à autoridade e o respeito a reunião anteriormente convocada.",
+      "depende de autorização judicial, por envolver a ocupação de espaço público por tempo prolongado.",
+      "é vedada em praças próximas a unidades de saúde, para preservar o atendimento aos pacientes.",
+      "é livre, dispensado qualquer aviso, ainda que outra reunião já esteja convocada para o mesmo local."
+    ],
+    "gabarito": "B",
+    "comentario": "Gabarito: B. O art. 5º, XVI, assegura a reunião pacífica, sem armas, em locais abertos ao público, independentemente de autorização, desde que não frustre outra reunião anteriormente convocada para o mesmo local, sendo apenas exigido prévio aviso à autoridade competente.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.4.2-04",
+    "topicoId": "1.4.2",
+    "enunciado": "Segundo a Constituição Federal, o direito de receber dos órgãos públicos informações de interesse particular, coletivo ou geral",
+    "alternativas": [
+      "depende da demonstração de interesse jurídico do requerente, comprovado em ação judicial.",
+      "só pode ser exercido por meio de habeas data impetrado perante o Poder Judiciário.",
+      "é absoluto, vedado ao poder público manter em sigilo qualquer informação de interesse coletivo.",
+      "ressalva as informações cujo sigilo seja imprescindível à segurança da sociedade e do Estado.",
+      "restringe-se às informações de interesse particular, excluídas as de interesse coletivo ou geral."
+    ],
+    "gabarito": "D",
+    "comentario": "Gabarito: D. O art. 5º, XXXIII, assegura a todos o direito de receber dos órgãos públicos informações de seu interesse particular, coletivo ou geral, prestadas no prazo da lei, sob pena de responsabilidade, ressalvadas aquelas cujo sigilo seja imprescindível à segurança da sociedade e do Estado. A Lei nº 12.527/2011 regulamenta o dispositivo.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.4.2-05",
+    "topicoId": "1.4.2",
+    "enunciado": "Um candidato aprovado dentro das vagas teve negada sua nomeação por ato ilegal de autoridade pública, e dispõe de prova documental pré-constituída do seu direito. Não se trata de liberdade de locomoção nem de informações pessoais. O remédio constitucional adequado é o",
+    "alternativas": [
+      "habeas data.",
+      "ação popular.",
+      "mandado de injunção.",
+      "habeas corpus.",
+      "mandado de segurança."
+    ],
+    "gabarito": "E",
+    "comentario": "Gabarito: E. O mandado de segurança protege direito líquido e certo, não amparado por habeas corpus ou habeas data, quando o responsável pela ilegalidade ou abuso de poder for autoridade pública ou agente de pessoa jurídica no exercício de atribuições do Poder Público (art. 5º, LXIX). Direito líquido e certo é o comprovado de plano, por documentos.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.4.2-06",
+    "topicoId": "1.4.2",
+    "enunciado": "Um servidor não consegue exercer um direito assegurado na Constituição porque, passados muitos anos, ainda não foi editada a norma regulamentadora necessária. O remédio constitucional cabível é o",
+    "alternativas": [
+      "mandado de injunção.",
+      "habeas data.",
+      "habeas corpus.",
+      "ação popular.",
+      "mandado de segurança."
+    ],
+    "gabarito": "A",
+    "comentario": "Gabarito: A. Conceder-se-á mandado de injunção sempre que a falta de norma regulamentadora torne inviável o exercício dos direitos e liberdades constitucionais e das prerrogativas inerentes à nacionalidade, à soberania e à cidadania (art. 5º, LXXI). O mandado de segurança pressupõe ato ilegal, e não omissão normativa.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.4.2-07",
+    "topicoId": "1.4.2",
+    "enunciado": "Um cidadão constatou que o município firmou contrato lesivo ao patrimônio público e à moralidade administrativa e pretende anulá-lo. Segundo a Constituição Federal, ele poderá",
+    "alternativas": [
+      "propor ação popular, arcando com custas e honorários se perder, independentemente de má-fé.",
+      "propor ação civil pública, que pode ser ajuizada por qualquer pessoa física, sem advogado.",
+      "apenas representar ao Ministério Público, pois o cidadão não tem legitimidade para agir em juízo.",
+      "impetrar mandado de injunção, por se tratar de omissão do poder público municipal.",
+      "propor ação popular, isento de custas e do ônus da sucumbência, salvo comprovada má-fé."
+    ],
+    "gabarito": "E",
+    "comentario": "Gabarito: E. O art. 5º, LXXIII, legitima qualquer cidadão a propor ação popular para anular ato lesivo ao patrimônio público ou de entidade de que o Estado participe, à moralidade administrativa, ao meio ambiente e ao patrimônio histórico e cultural, ficando o autor, salvo comprovada má-fé, isento de custas judiciais e do ônus da sucumbência.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.4.2-08",
+    "topicoId": "1.4.2",
+    "enunciado": "Segundo a Constituição Federal, os tratados e as convenções internacionais sobre direitos humanos serão equivalentes às emendas constitucionais quando aprovados",
+    "alternativas": [
+      "em cada Casa do Congresso Nacional, em dois turnos, por três quintos dos votos dos respectivos membros.",
+      "em cada Casa do Congresso Nacional, em turno único, por dois terços dos votos dos membros.",
+      "pela Câmara dos Deputados, em dois turnos, por maioria absoluta, dispensada a votação no Senado.",
+      "em sessão conjunta do Congresso Nacional, em turno único, por maioria absoluta dos votos.",
+      "pelo Senado Federal, em turno único, pela maioria simples dos votos dos senadores presentes."
+    ],
+    "gabarito": "A",
+    "comentario": "Gabarito: A. É o § 3º do art. 5º da CF: tratados e convenções sobre direitos humanos aprovados, em cada Casa do Congresso Nacional, em dois turnos, por três quintos dos votos dos respectivos membros, equivalem às emendas constitucionais. É o mesmo quórum exigido para aprovar emendas (art. 60, § 2º).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.4.2-09",
+    "topicoId": "1.4.2",
+    "enunciado": "Segundo a Constituição Federal, as normas definidoras dos direitos e garantias fundamentais",
+    "alternativas": [
+      "só produzem efeitos após cinco anos.",
+      "têm aplicação imediata.",
+      "dependem sempre de lei complementar.",
+      "dependem de referendo popular para valer.",
+      "aplicam-se apenas aos brasileiros natos."
+    ],
+    "gabarito": "B",
+    "comentario": "Gabarito: B. O § 1º do art. 5º da CF dispõe que as normas definidoras dos direitos e garantias fundamentais têm aplicação imediata. Os direitos do art. 5º se estendem a brasileiros e estrangeiros residentes no País (caput), e a jurisprudência os aplica também aos estrangeiros em trânsito.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.4.2-10",
+    "topicoId": "1.4.2",
+    "enunciado": "Constituem direitos sociais expressamente previstos no art. 6º da Constituição Federal:",
+    "alternativas": [
+      "a educação, a herança, a segurança e o trabalho.",
+      "o trabalho, o voto, a alimentação e a assistência aos desamparados.",
+      "a saúde, a propriedade, o lazer e a moradia.",
+      "a saúde, a alimentação, o transporte e o lazer.",
+      "a moradia, a nacionalidade, a previdência social e o lazer."
+    ],
+    "gabarito": "D",
+    "comentario": "Gabarito: D. O art. 6º lista educação, saúde, alimentação, trabalho, moradia, transporte, lazer, segurança, previdência social, proteção à maternidade e à infância e assistência aos desamparados. Propriedade e herança são direitos individuais (art. 5º), a nacionalidade tem capítulo próprio, e o voto é direito político.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.4.2-11",
+    "topicoId": "1.4.2",
+    "enunciado": "Segundo a Constituição Federal, o sigilo das comunicações telefônicas pode ser afastado",
+    "alternativas": [
+      "por ordem judicial, para instruir qualquer processo civil, trabalhista ou administrativo em curso.",
+      "por ordem judicial, na forma da lei, para fins de investigação criminal ou instrução processual penal.",
+      "por determinação do Ministério Público, em processos civis e administrativos de qualquer natureza.",
+      "por requisição da autoridade policial, para fins de investigação de qualquer infração administrativa.",
+      "por decisão de comissão parlamentar de inquérito, para fins de investigação criminal ou civil."
+    ],
+    "gabarito": "B",
+    "comentario": "Gabarito: B. O art. 5º, XII, admite a quebra do sigilo das comunicações telefônicas por ordem judicial, nas hipóteses e na forma que a lei estabelecer, para fins de investigação criminal ou instrução processual penal. A interceptação é reservada à jurisdição e à esfera penal.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.4.2-12",
+    "topicoId": "1.4.2",
+    "enunciado": "Segundo a Constituição Federal, ninguém será considerado culpado",
+    "alternativas": [
+      "após a confirmação da condenação em segunda instância.",
+      "até o recebimento da denúncia pelo juiz criminal competente.",
+      "até a conclusão do inquérito policial, salvo prisão preventiva.",
+      "depois da prisão em flagrante, se houver confissão.",
+      "até o trânsito em julgado de sentença penal condenatória."
+    ],
+    "gabarito": "E",
+    "comentario": "Gabarito: E. É o princípio da presunção de inocência (ou de não culpabilidade), do art. 5º, LVII: ninguém será considerado culpado até o trânsito em julgado de sentença penal condenatória. A prisão cautelar continua possível, mas não equivale a culpa formada.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.4.2-13",
+    "topicoId": "1.4.2",
+    "enunciado": "Uma criança nasceu em São Paulo, filha de pais argentinos que estavam no Brasil a turismo, sem qualquer serviço a seu país. Segundo a Constituição Federal, essa criança é",
+    "alternativas": [
+      "brasileira naturalizada, desde que resida no País até a maioridade.",
+      "brasileira nata apenas se registrada em repartição consular.",
+      "estrangeira, por ser filha de pais estrangeiros.",
+      "brasileira nata.",
+      "apátrida até optar por uma das nacionalidades aos 18 anos."
+    ],
+    "gabarito": "D",
+    "comentario": "Gabarito: D. São brasileiros natos os nascidos no Brasil, ainda que de pais estrangeiros, desde que estes não estejam a serviço de seu país (art. 12, I, 'a'). Como os pais estavam a turismo, prevalece o critério do território (ius soli).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.4.2-14",
+    "topicoId": "1.4.2",
+    "enunciado": "Uma jovem de 17 anos, alfabetizada, pretende votar nas próximas eleições. Segundo a Constituição Federal, para ela, o alistamento eleitoral e o voto são",
+    "alternativas": [
+      "facultativos.",
+      "obrigatórios.",
+      "obrigatórios, se trabalhar.",
+      "vedados até os 18 anos.",
+      "permitidos só com autorização dos pais."
+    ],
+    "gabarito": "A",
+    "comentario": "Gabarito: A. O § 1º do art. 14 torna o alistamento e o voto obrigatórios para os maiores de 18 anos e facultativos para os analfabetos, os maiores de 70 anos e os maiores de 16 e menores de 18 anos. Aos 17 anos, a jovem pode votar se quiser.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
     "id": "1.4.3-01",
     "topicoId": "1.4.3",
     "enunciado": "De acordo com a Constituição Federal, cuidar da saúde e da assistência pública é competência",
@@ -76,6 +396,166 @@
     ],
     "gabarito": "E",
     "comentario": "Gabarito: E. O direito do trabalho está entre as matérias de competência legislativa privativa da União (art. 22, I, da CF), ao lado do direito civil, comercial, penal, processual e eleitoral, entre outros. As demais são de competência concorrente da União, dos estados e do DF (art. 24): direito tributário e financeiro (I), orçamento (II), educação, cultura e ensino (IX) e proteção e defesa da saúde (XII).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.4.3-03",
+    "topicoId": "1.4.3",
+    "enunciado": "Segundo a Constituição Federal, a organização político-administrativa da República Federativa do Brasil compreende",
+    "alternativas": [
+      "a União, os estados, o Distrito Federal e os municípios, todos autônomos.",
+      "a União, os estados e os Territórios Federais, cabendo aos municípios autonomia limitada.",
+      "a União, soberana, e os demais entes, subordinados hierarquicamente a ela.",
+      "a União, os estados, o DF, os municípios e os Territórios, todos com autonomia política.",
+      "a União e os estados, sendo os municípios meras divisões administrativas dos estados."
+    ],
+    "gabarito": "A",
+    "comentario": "Gabarito: A. O art. 18 da CF inclui na organização político-administrativa a União, os estados, o DF e os municípios, todos autônomos. Os Territórios Federais integram a União e não são entes autônomos (art. 18, § 2º). A soberania é da República, não da União.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.4.3-04",
+    "topicoId": "1.4.3",
+    "enunciado": "Um distrito pretende emancipar-se e tornar-se município. Segundo a Constituição Federal, a criação de municípios",
+    "alternativas": [
+      "far-se-á por decreto do governador, após parecer favorável da Assembleia Legislativa e do Tribunal de Contas.",
+      "far-se-á por lei estadual, após plebiscito e Estudos de Viabilidade Municipal, no período da lei complementar.",
+      "far-se-á por lei federal, após aprovação da maioria absoluta dos moradores do distrito em plebiscito.",
+      "depende apenas de lei municipal do município de origem, dispensada a consulta à população envolvida.",
+      "depende apenas de plebiscito entre os moradores do distrito, dispensados os estudos de viabilidade."
+    ],
+    "gabarito": "B",
+    "comentario": "Gabarito: B. O § 4º do art. 18 exige lei estadual, dentro do período determinado por lei complementar federal, consulta prévia, mediante plebiscito, às populações dos municípios envolvidos, e divulgação dos Estudos de Viabilidade Municipal. O plebiscito alcança todos os municípios envolvidos, e não só o distrito.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.4.3-05",
+    "topicoId": "1.4.3",
+    "enunciado": "Um município recusou-se a aceitar certidão de nascimento emitida por cartório de outro estado, exigindo nova certidão local. À luz da Constituição Federal, essa recusa",
+    "alternativas": [
+      "é válida, se o município cobrar taxa reduzida pela emissão da nova certidão.",
+      "é válida, desde que prevista na lei orgânica do município que a exige.",
+      "é vedada apenas para documentos federais, sendo livre quanto aos estaduais.",
+      "é válida, pois cada ente só reconhece os documentos emitidos em seu território.",
+      "é vedada, pois os entes não podem recusar fé aos documentos públicos."
+    ],
+    "gabarito": "E",
+    "comentario": "Gabarito: E. O art. 19, II, da CF veda à União, aos estados, ao DF e aos municípios recusar fé aos documentos públicos. O mesmo artigo proíbe criar distinções entre brasileiros ou preferências entre si (III) e estabelecer cultos religiosos ou subvencioná-los (I).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.4.3-06",
+    "topicoId": "1.4.3",
+    "enunciado": "Na falta de lei federal sobre normas gerais de proteção e defesa da saúde, um estado editou lei exercendo competência legislativa plena. Anos depois, sobreveio lei federal de normas gerais contrária a parte da lei estadual. Segundo a Constituição Federal,",
+    "alternativas": [
+      "a lei estadual prevalece, por ter sido editada antes da lei federal sobre o tema.",
+      "a lei estadual é nula desde a origem, pois o estado não podia legislar sobre saúde.",
+      "as duas leis permanecem válidas e eficazes, cabendo ao juiz escolher qual aplicar.",
+      "a lei federal suspende a eficácia da lei estadual no que lhe for contrário.",
+      "a lei federal revoga integralmente a lei estadual, inclusive nos pontos compatíveis."
+    ],
+    "gabarito": "D",
+    "comentario": "Gabarito: D. Na competência concorrente (art. 24), a União edita normas gerais e os estados suplementam (§§ 1º e 2º); inexistindo lei federal, os estados exercem competência plena (§ 3º); e a superveniência de lei federal sobre normas gerais suspende a eficácia da lei estadual no que lhe for contrário (§ 4º). Suspensão não é revogação.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.4.3-07",
+    "topicoId": "1.4.3",
+    "enunciado": "Segundo a Constituição Federal, compete aos municípios, em matéria de saúde,",
+    "alternativas": [
+      "prestar sozinhos todos os serviços de saúde, vedada a cooperação financeira da União e do estado.",
+      "editar normas gerais sobre vigilância sanitária de portos, aeroportos e fronteiras em seu território.",
+      "prestar, com a cooperação técnica e financeira da União e do estado, serviços de atendimento à saúde da população.",
+      "fixar o piso salarial nacional dos profissionais de enfermagem que atuam em seu território.",
+      "legislar privativamente sobre normas gerais de proteção e defesa da saúde, vinculando a União e o estado."
+    ],
+    "gabarito": "C",
+    "comentario": "Gabarito: C. O art. 30, VII, atribui aos municípios prestar, com a cooperação técnica e financeira da União e do estado, serviços de atendimento à saúde da população. Eles podem suplementar a legislação federal e a estadual no que couber (II), mas normas gerais de saúde são da União (art. 24, § 1º).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.4.3-08",
+    "topicoId": "1.4.3",
+    "enunciado": "Segundo a Constituição Federal, a União poderá intervir em um estado para assegurar a observância de princípios constitucionais sensíveis, entre os quais a",
+    "alternativas": [
+      "transferência de todos os hospitais estaduais para a gestão do Ministério da Saúde.",
+      "aplicação de recursos estaduais exclusivamente em hospitais de alta complexidade.",
+      "aplicação do mínimo exigido da receita de impostos estaduais na saúde.",
+      "contratação obrigatória de serviços privados de saúde pelo estado, sem licitação.",
+      "adoção, pelo estado, do mesmo plano de carreira dos servidores federais da área da saúde."
+    ],
+    "gabarito": "C",
+    "comentario": "Gabarito: C. O art. 34, VII, 'e', autoriza a intervenção federal para assegurar a aplicação do mínimo exigido da receita resultante de impostos estaduais, compreendida a proveniente de transferências, na manutenção e desenvolvimento do ensino e nas ações e serviços públicos de saúde. O mínimo da saúde é um princípio constitucional sensível.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.4.3-09",
+    "topicoId": "1.4.3",
+    "enunciado": "Segundo a Constituição Federal, o Distrito Federal",
+    "alternativas": [
+      "acumula apenas as competências legislativas municipais, cabendo à União as estaduais.",
+      "é Território Federal administrado pela União, sem autonomia política nem governador eleito.",
+      "rege-se por constituição estadual promulgada pela Câmara Legislativa em turno único.",
+      "não pode ser dividido em municípios e acumula as competências legislativas de estados e municípios.",
+      "divide-se em municípios autônomos, cada qual com sua própria câmara de vereadores eleita."
+    ],
+    "gabarito": "D",
+    "comentario": "Gabarito: D. O art. 32 da CF veda a divisão do DF em municípios e determina que se reja por lei orgânica, votada em dois turnos e aprovada por dois terços da Câmara Legislativa. O § 1º atribui ao DF as competências legislativas reservadas aos estados e aos municípios.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.4.3-10",
+    "topicoId": "1.4.3",
+    "enunciado": "Quanto às matérias de competência legislativa privativa da União, a Constituição Federal estabelece que",
+    "alternativas": [
+      "os municípios podem legislar sobre elas, desde que haja interesse local comprovado.",
+      "lei ordinária estadual pode autorizar o próprio estado a legislar sobre essas matérias.",
+      "a competência é indelegável, vedada qualquer autorização aos estados, em qualquer hipótese.",
+      "os estados podem legislar livremente sobre elas, sempre que a União permanecer omissa.",
+      "lei complementar poderá autorizar os estados a legislar sobre questões específicas dessas matérias."
+    ],
+    "gabarito": "E",
+    "comentario": "Gabarito: E. O parágrafo único do art. 22 da CF permite que lei complementar autorize os estados a legislar sobre questões específicas das matérias de competência privativa da União. Sem essa autorização, a omissão da União não abre espaço para os estados, diferentemente do que ocorre na competência concorrente (art. 24, § 3º).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.4.3-11",
+    "topicoId": "1.4.3",
+    "enunciado": "Segundo a Constituição Federal, incluem-se entre os bens da União",
+    "alternativas": [
+      "os recursos minerais, inclusive os do subsolo.",
+      "as terras devolutas não compreendidas entre as da União.",
+      "as áreas das ilhas oceânicas que estiverem sob domínio do estado.",
+      "as ilhas fluviais e lacustres não pertencentes à União.",
+      "as águas superficiais ou subterrâneas, fluentes e em depósito."
+    ],
+    "gabarito": "A",
+    "comentario": "Gabarito: A. Os recursos minerais, inclusive os do subsolo, são bens da União (art. 20, IX). As demais alternativas descrevem bens dos estados (art. 26): terras devolutas não compreendidas entre as da União, ilhas fluviais e lacustres não pertencentes à União, águas superficiais ou subterrâneas (ressalvadas as decorrentes de obras da União) e áreas de ilhas oceânicas em seu domínio.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.4.3-12",
+    "topicoId": "1.4.3",
+    "enunciado": "Conforme a Constituição Federal, os Territórios Federais",
+    "alternativas": [
+      "foram extintos pela Constituição de 1988, que proibiu a criação de novos territórios federais.",
+      "integram a União, e sua criação ou transformação em estado será regulada em lei complementar.",
+      "integram a União, e sua criação depende apenas de decreto do Presidente da República.",
+      "integram os estados de cuja área foram desmembrados, e sua criação depende de lei estadual.",
+      "são entes federativos autônomos, com governador eleito e assembleia legislativa própria."
+    ],
+    "gabarito": "B",
+    "comentario": "Gabarito: B. O § 2º do art. 18 da CF dispõe que os Territórios Federais integram a União e que sua criação, transformação em estado ou reintegração ao estado de origem serão reguladas em lei complementar. Hoje não há Territórios, mas a Constituição admite sua criação.",
     "revisada": false,
     "origem": "ia"
   },
@@ -128,6 +608,198 @@
     "origem": "ia"
   },
   {
+    "id": "1.4.4-04",
+    "topicoId": "1.4.4",
+    "enunciado": "NÃO constitui princípio expresso no caput do art. 37 da Constituição Federal:",
+    "alternativas": [
+      "impessoalidade.",
+      "eficiência.",
+      "publicidade.",
+      "legalidade.",
+      "razoabilidade."
+    ],
+    "gabarito": "E",
+    "comentario": "Gabarito: E. O caput do art. 37 enumera legalidade, impessoalidade, moralidade, publicidade e eficiência (LIMPE). Razoabilidade e proporcionalidade são princípios implícitos na CF, embora expressos em leis como a Lei nº 9.784/1999 e a Lei nº 14.133/2021.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.4.4-05",
+    "topicoId": "1.4.4",
+    "enunciado": "Segundo a Constituição Federal, os cargos, empregos e funções públicas",
+    "alternativas": [
+      "são acessíveis aos brasileiros que preencham os requisitos legais e aos estrangeiros, na forma da lei.",
+      "são acessíveis a brasileiros e estrangeiros, independentemente de requisitos previstos em lei.",
+      "são acessíveis apenas aos brasileiros natos, vedado o acesso a naturalizados e estrangeiros.",
+      "são acessíveis aos estrangeiros somente nos cargos em comissão de livre nomeação e exoneração.",
+      "são acessíveis aos estrangeiros apenas se residentes no País há mais de quinze anos ininterruptos."
+    ],
+    "gabarito": "A",
+    "comentario": "Gabarito: A. O art. 37, I, torna os cargos, empregos e funções públicas acessíveis aos brasileiros que preencham os requisitos legais e aos estrangeiros, na forma da lei. Alguns cargos, porém, são privativos de brasileiros natos (art. 12, § 3º).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.4.4-06",
+    "topicoId": "1.4.4",
+    "enunciado": "Segundo a Constituição Federal, a investidura em cargo ou emprego público depende de aprovação prévia em concurso público de provas ou de provas e títulos, ressalvadas",
+    "alternativas": [
+      "as admissões em empregos públicos de empresas estatais, sempre dispensadas de concurso.",
+      "as nomeações para cargos efetivos de nível médio, preenchidos por análise de currículo.",
+      "as nomeações para cargo em comissão declarado em lei de livre nomeação e exoneração.",
+      "as nomeações de parentes da autoridade nomeante, quando houver urgência na contratação.",
+      "as nomeações para cargos técnicos, quando houver notória especialização do candidato."
+    ],
+    "gabarito": "C",
+    "comentario": "Gabarito: C. O art. 37, II, exige concurso para cargo ou emprego público, ressalvadas as nomeações para cargo em comissão declarado em lei de livre nomeação e exoneração. Empregos em empresas estatais também exigem concurso, e o nepotismo é vedado (Súmula Vinculante nº 13 do STF).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.4.4-07",
+    "topicoId": "1.4.4",
+    "enunciado": "Um secretário municipal pretende designar, para uma função de confiança, pessoa sem qualquer vínculo com a administração. À luz da Constituição Federal, essa designação",
+    "alternativas": [
+      "é válida, se a pessoa tiver formação superior compatível com as atribuições da função de confiança.",
+      "é válida, desde que a função envolva atribuições técnicas, e não de direção, chefia ou assessoramento.",
+      "é vedada apenas nos municípios com menos de cinquenta mil habitantes, conforme a lei orgânica.",
+      "é vedada, pois as funções de confiança são exercidas exclusivamente por servidores ocupantes de cargo efetivo.",
+      "é válida, pois as funções de confiança são de livre provimento, inclusive por pessoas sem vínculo."
+    ],
+    "gabarito": "D",
+    "comentario": "Gabarito: D. O art. 37, V, reserva as funções de confiança exclusivamente a servidores ocupantes de cargo efetivo; os cargos em comissão são preenchidos por servidores de carreira nos casos e percentuais mínimos da lei. Ambos se destinam apenas a atribuições de direção, chefia e assessoramento.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.4.4-08",
+    "topicoId": "1.4.4",
+    "enunciado": "Segundo a Constituição Federal, quanto às pessoas com deficiência, a lei",
+    "alternativas": [
+      "dispensará essas pessoas do concurso público, com admissão direta em qualquer cargo público.",
+      "reservará percentual dos cargos e empregos públicos e definirá os critérios de sua admissão.",
+      "garantirá estabilidade imediata no cargo, dispensado o estágio probatório e a avaliação especial.",
+      "reservará todas as vagas de nível médio, vedada a participação delas nos concursos de nível superior.",
+      "assegurará apenas a gratuidade da inscrição, sem qualquer reserva de vagas nos concursos."
+    ],
+    "gabarito": "B",
+    "comentario": "Gabarito: B. O art. 37, VIII, determina que a lei reserve percentual dos cargos e empregos públicos para as pessoas com deficiência e defina os critérios de sua admissão. A reserva não dispensa o concurso nem o estágio probatório.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.4.4-09",
+    "topicoId": "1.4.4",
+    "enunciado": "Segundo a Constituição Federal, a remuneração dos servidores públicos municipais, incluídas as vantagens pessoais, não poderá exceder o",
+    "alternativas": [
+      "subsídio dos vereadores do município.",
+      "subsídio do Governador do estado.",
+      "subsídio do Prefeito.",
+      "subsídio dos deputados estaduais.",
+      "dobro do salário mínimo nacional."
+    ],
+    "gabarito": "C",
+    "comentario": "Gabarito: C. O art. 37, XI, fixa como teto geral o subsídio dos Ministros do STF e, nos municípios, o subsídio do Prefeito. Nos estados e no DF, há subtetos por Poder: Governador (Executivo), deputados estaduais e distritais (Legislativo) e desembargadores do Tribunal de Justiça (Judiciário).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.4.4-10",
+    "topicoId": "1.4.4",
+    "enunciado": "Uma prefeitura lançou campanha de vacinação com cartazes que exibem a foto e o nome do prefeito ao lado do slogan da gestão. À luz da Constituição Federal, essa publicidade",
+    "alternativas": [
+      "é válida, pois a campanha tem caráter educativo e a exibição do prefeito reforça a confiança da população.",
+      "é vedada apenas em ano eleitoral, sendo livre a promoção pessoal nos demais anos do mandato.",
+      "é válida, desde que custeada com recursos próprios do município, e não com transferências da União.",
+      "é vedada, pois a publicidade oficial não pode conter nomes, símbolos ou imagens que caracterizem promoção pessoal.",
+      "é válida, se aprovada previamente pela Câmara Municipal e pelo Conselho Municipal de Saúde."
+    ],
+    "gabarito": "D",
+    "comentario": "Gabarito: D. O § 1º do art. 37 exige que a publicidade dos atos, programas, obras, serviços e campanhas dos órgãos públicos tenha caráter educativo, informativo ou de orientação social, vedados nomes, símbolos ou imagens que caracterizem promoção pessoal de autoridades ou servidores. É aplicação direta da impessoalidade.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.4.4-11",
+    "topicoId": "1.4.4",
+    "enunciado": "Uma ambulância do serviço municipal de urgência colidiu com um veículo particular, causando danos ao motorista. Segundo a Constituição Federal,",
+    "alternativas": [
+      "o condutor da ambulância responde pessoalmente perante a vítima, sem qualquer responsabilidade do município.",
+      "não há responsabilidade do município, pois a ambulância prestava serviço essencial de urgência.",
+      "o município só responde se a vítima comprovar a culpa do condutor da ambulância no acidente.",
+      "o município responde, mas sem direito de regresso contra o condutor, ainda que haja dolo.",
+      "o município responde pelos danos, assegurado o direito de regresso contra o condutor em caso de dolo ou culpa."
+    ],
+    "gabarito": "E",
+    "comentario": "Gabarito: E. O § 6º do art. 37 consagra a responsabilidade objetiva: as pessoas jurídicas de direito público e as de direito privado prestadoras de serviço público respondem pelos danos que seus agentes, nessa qualidade, causarem a terceiros, assegurado o direito de regresso contra o responsável nos casos de dolo ou culpa. A vítima não precisa provar culpa.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.4.4-12",
+    "topicoId": "1.4.4",
+    "enunciado": "Segundo a Constituição Federal, os atos de improbidade administrativa importarão, na forma e na gradação previstas em lei, EXCETO:",
+    "alternativas": [
+      "a cassação dos direitos políticos.",
+      "a suspensão dos direitos políticos.",
+      "a perda da função pública.",
+      "a indisponibilidade dos bens.",
+      "o ressarcimento ao erário."
+    ],
+    "gabarito": "A",
+    "comentario": "Gabarito: A. O § 4º do art. 37 prevê suspensão dos direitos políticos, perda da função pública, indisponibilidade dos bens e ressarcimento ao erário, sem prejuízo da ação penal. A cassação de direitos políticos é vedada pela CF (art. 15); admite-se apenas perda ou suspensão.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.4.4-13",
+    "topicoId": "1.4.4",
+    "enunciado": "Um enfermeiro, servidor efetivo de autarquia municipal, foi eleito vereador e há compatibilidade de horários entre o mandato e o cargo. Segundo a Constituição Federal, ele",
+    "alternativas": [
+      "será afastado do cargo, recebendo apenas a remuneração do mandato.",
+      "perceberá as vantagens de seu cargo, sem prejuízo da remuneração do cargo eletivo.",
+      "deverá ser exonerado do cargo efetivo para tomar posse como vereador.",
+      "será afastado do cargo, podendo optar pela remuneração do cargo efetivo.",
+      "acumulará as duas funções, mas receberá só a maior das remunerações."
+    ],
+    "gabarito": "B",
+    "comentario": "Gabarito: B. O art. 38, III, prevê que o servidor investido no mandato de vereador, havendo compatibilidade de horários, perceberá as vantagens de seu cargo sem prejuízo da remuneração do cargo eletivo; sem compatibilidade, aplica-se a regra do prefeito: afastamento com opção pela remuneração (II).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.4.4-14",
+    "topicoId": "1.4.4",
+    "enunciado": "Segundo a Constituição Federal, o servidor público estável NÃO perderá o cargo em virtude de",
+    "alternativas": [
+      "avaliação periódica de desempenho, na forma de lei complementar, com ampla defesa.",
+      "excesso de despesa com pessoal, observados os requisitos do art. 169 da Constituição.",
+      "processo administrativo em que lhe seja assegurada ampla defesa.",
+      "decisão da chefia imediata, por conveniência administrativa, sem processo.",
+      "sentença judicial transitada em julgado."
+    ],
+    "gabarito": "D",
+    "comentario": "Gabarito: D. O § 1º do art. 41 prevê a perda do cargo do estável por sentença judicial transitada em julgado, processo administrativo com ampla defesa e avaliação periódica de desempenho na forma de lei complementar, com ampla defesa. O art. 169, § 4º, admite ainda a perda para adequar a despesa com pessoal. Decisão discricionária da chefia não basta.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.4.4-15",
+    "topicoId": "1.4.4",
+    "enunciado": "Uma lei extinguiu o cargo ocupado por um servidor estável. Segundo a Constituição Federal, esse servidor",
+    "alternativas": [
+      "será exonerado de ofício, com direito a indenização equivalente a um mês por ano de serviço.",
+      "será demitido, sem direito a qualquer remuneração após a extinção do cargo que ocupava.",
+      "ficará em disponibilidade, com remuneração proporcional ao tempo de serviço, até ser aproveitado.",
+      "será aposentado compulsoriamente, com proventos integrais, independentemente da idade.",
+      "ficará em disponibilidade, sem qualquer remuneração, até ser aproveitado em outro cargo."
+    ],
+    "gabarito": "C",
+    "comentario": "Gabarito: C. O § 3º do art. 41 dispõe que, extinto o cargo ou declarada a sua desnecessidade, o servidor estável ficará em disponibilidade, com remuneração proporcional ao tempo de serviço, até seu adequado aproveitamento em outro cargo. Demissão é penalidade e não se aplica a esse caso.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
     "id": "1.4.5-01",
     "topicoId": "1.4.5",
     "enunciado": "Segundo a Constituição Federal, as ações e os serviços públicos de saúde integram uma rede regionalizada e hierarquizada e constituem um sistema único, organizado de acordo com diretrizes que incluem:",
@@ -156,6 +828,134 @@
     ],
     "gabarito": "E",
     "comentario": "Gabarito: E. É o § 2º do art. 199 da CF. A assistência à saúde é livre à iniciativa privada (caput); as instituições privadas participam do SUS de forma complementar, com preferência para as filantrópicas e as sem fins lucrativos (§ 1º); a participação de empresas ou capitais estrangeiros é vedada, salvo nos casos previstos em lei (§ 3º); e é vedado todo tipo de comercialização de órgãos, tecidos e substâncias humanas (§ 4º).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.4.5-03",
+    "topicoId": "1.4.5",
+    "enunciado": "Segundo o art. 196 da Constituição Federal, a saúde é direito de todos e dever do Estado, garantido mediante",
+    "alternativas": [
+      "ações exclusivamente curativas, prestadas nos hospitais públicos de cada município do País.",
+      "contribuições específicas dos usuários, que lhes garantem prioridade no atendimento hospitalar.",
+      "seguro obrigatório de saúde, pago pelos empregadores e administrado pela previdência social.",
+      "planos privados de assistência custeados pelo Estado para os cidadãos que comprovem baixa renda.",
+      "políticas sociais e econômicas de redução do risco de doença e de acesso universal e igualitário."
+    ],
+    "gabarito": "E",
+    "comentario": "Gabarito: E. O art. 196 garante a saúde mediante políticas sociais e econômicas que visem à redução do risco de doença e de outros agravos e ao acesso universal e igualitário às ações e serviços para sua promoção, proteção e recuperação. Não há contrapartida do usuário nem limitação a ações curativas.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.4.5-04",
+    "topicoId": "1.4.5",
+    "enunciado": "Conforme a Constituição Federal, as ações e serviços de saúde são de relevância pública, e sua execução deve ser feita",
+    "alternativas": [
+      "diretamente ou através de terceiros e, também, por pessoa física ou jurídica de direito privado.",
+      "exclusivamente pelo poder público, vedada a participação de pessoas físicas ou jurídicas privadas.",
+      "exclusivamente por pessoas jurídicas de direito privado, cabendo ao Estado apenas fiscalizá-las.",
+      "diretamente pelo Ministério da Saúde, vedada a descentralização da execução aos estados.",
+      "apenas por entidades filantrópicas, vedada a execução direta pelo poder público em qualquer caso."
+    ],
+    "gabarito": "A",
+    "comentario": "Gabarito: A. O art. 197 declara de relevância pública as ações e serviços de saúde, cabendo ao poder público dispor sobre sua regulamentação, fiscalização e controle, devendo sua execução ser feita diretamente ou através de terceiros e, também, por pessoa física ou jurídica de direito privado.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.4.5-05",
+    "topicoId": "1.4.5",
+    "enunciado": "Segundo a Constituição Federal, o Sistema Único de Saúde será financiado",
+    "alternativas": [
+      "exclusivamente com recursos da União, por meio do Fundo Nacional de Saúde e de emendas parlamentares.",
+      "com recursos do orçamento da seguridade social dos quatro entes federativos, além de outras fontes.",
+      "com contribuições dos usuários, cobradas em proporção à renda declarada no momento do atendimento.",
+      "com recursos das operadoras de planos privados, vedada a utilização do orçamento da seguridade social.",
+      "exclusivamente com recursos dos municípios, que recebem dos estados apenas apoio técnico e operacional."
+    ],
+    "gabarito": "B",
+    "comentario": "Gabarito: B. O § 1º do art. 198 determina que o SUS seja financiado, nos termos do art. 195, com recursos do orçamento da seguridade social da União, dos estados, do DF e dos municípios, além de outras fontes. O financiamento é tripartite.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.4.5-06",
+    "topicoId": "1.4.5",
+    "enunciado": "Segundo a Constituição Federal, a União aplicará anualmente em ações e serviços públicos de saúde recursos mínimos não inferiores a",
+    "alternativas": [
+      "10% da receita corrente líquida.",
+      "12% da receita corrente líquida.",
+      "15% da receita corrente líquida.",
+      "18% da receita corrente líquida.",
+      "25% da receita corrente líquida."
+    ],
+    "gabarito": "C",
+    "comentario": "Gabarito: C. O § 2º, I, do art. 198 fixa para a União o mínimo de 15% da receita corrente líquida do respectivo exercício. Estados e DF aplicam no mínimo 12% e municípios, 15% da receita de impostos e transferências indicada nos incisos II e III, percentuais definidos pela LC nº 141/2012.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.4.5-07",
+    "topicoId": "1.4.5",
+    "enunciado": "Com a Emenda Constitucional nº 140/2026, o art. 198 da Constituição Federal passou a prever, como diretriz do SUS, a",
+    "alternativas": [
+      "contratação dos agentes comunitários de saúde exclusivamente por meio de cooperativas de trabalho.",
+      "extinção dos agentes de combate às endemias, cujas funções passaram aos agentes de vigilância sanitária.",
+      "atuação facultativa dos agentes comunitários, conforme a conveniência e a disponibilidade de cada município.",
+      "atuação obrigatória e permanente de agentes comunitários e de combate às endemias, exclusiva de Estado.",
+      "terceirização obrigatória dos agentes comunitários de saúde, por meio de organizações sociais."
+    ],
+    "gabarito": "D",
+    "comentario": "Gabarito: D. O inciso IV do art. 198, incluído pela EC nº 140/2026, prevê a atuação obrigatória e permanente de agentes comunitários de saúde e de agentes de combate às endemias, cuja atividade é essencial ao SUS e exclusiva de Estado. Os demais incisos tratam de descentralização, atendimento integral e participação da comunidade.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.4.5-08",
+    "topicoId": "1.4.5",
+    "enunciado": "Um município pretende contratar, por processo seletivo simplificado e com contrato temporário, agentes comunitários de saúde para atuação regular, fora de qualquer emergência em saúde pública. À luz da Constituição Federal, essa contratação",
+    "alternativas": [
+      "é válida, desde que o contrato não ultrapasse dois anos e haja dotação orçamentária específica.",
+      "é vedada apenas para agentes de combate às endemias, sendo livre para os agentes comunitários.",
+      "é vedada, pois a contratação temporária desses agentes só cabe em emergência em saúde pública.",
+      "é válida, pois a Lei nº 8.745/1993 autoriza qualquer contratação temporária para atividades de saúde.",
+      "é válida, se aprovada pelo Conselho Municipal de Saúde e homologada pelo prefeito municipal."
+    ],
+    "gabarito": "C",
+    "comentario": "Gabarito: C. O § 4º-A do art. 198 veda a contratação temporária ou terceirizada de agentes comunitários de saúde e de agentes de combate às endemias, salvo emergência em saúde pública, na forma da lei. A admissão regular se faz por processo seletivo público (§ 4º), e eles se submetem ao regime dos servidores efetivos (§ 4º-B).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.4.5-09",
+    "topicoId": "1.4.5",
+    "enunciado": "NÃO compete ao Sistema Único de Saúde, nos termos do art. 200 da Constituição Federal:",
+    "alternativas": [
+      "fiscalizar e inspecionar alimentos, bem como bebidas e águas para consumo humano.",
+      "administrar os benefícios do Regime Geral de Previdência Social.",
+      "colaborar na proteção do meio ambiente, nele compreendido o do trabalho.",
+      "participar da formulação da política e da execução das ações de saneamento básico.",
+      "ordenar a formação de recursos humanos na área de saúde."
+    ],
+    "gabarito": "B",
+    "comentario": "Gabarito: B. O art. 200 atribui ao SUS, entre outras, controlar procedimentos e produtos, executar vigilância sanitária, epidemiológica e de saúde do trabalhador, ordenar a formação de recursos humanos, participar do saneamento, incrementar a ciência e a inovação, fiscalizar alimentos, bebidas e águas, controlar substâncias tóxicas e colaborar na proteção do meio ambiente. A previdência é outra área da seguridade (art. 201).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.4.5-10",
+    "topicoId": "1.4.5",
+    "enunciado": "Segundo a Constituição Federal, com a redação da Emenda Constitucional nº 140/2026, os agentes comunitários de saúde e os agentes de combate às endemias",
+    "alternativas": [
+      "submetem-se ao regime celetista, por serem contratados por organizações sociais.",
+      "não têm vínculo com o poder público, atuando como voluntários remunerados.",
+      "são contratados exclusivamente por tempo determinado, renovável a cada ano.",
+      "submetem-se ao regime dos cargos em comissão, de livre nomeação e exoneração.",
+      "submetem-se ao regime jurídico dos servidores nomeados para cargo de provimento efetivo."
+    ],
+    "gabarito": "E",
+    "comentario": "Gabarito: E. O § 4º-B do art. 198 submete esses agentes ao regime jurídico dos servidores nomeados para cargo de provimento efetivo. Eles são admitidos por processo seletivo público (§ 4º), e lei federal dispõe sobre seu regime jurídico, piso salarial e planos de carreira (§ 5º).",
     "revisada": false,
     "origem": "ia"
   }

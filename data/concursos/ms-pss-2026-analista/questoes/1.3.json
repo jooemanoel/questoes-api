@@ -32,6 +32,262 @@
     "origem": "ia"
   },
   {
+    "id": "1.3.1-03",
+    "topicoId": "1.3.1",
+    "enunciado": "NÃO figura entre os princípios expressamente enumerados no art. 5º da Lei nº 14.133/2021:",
+    "alternativas": [
+      "competitividade.",
+      "adjudicação compulsória.",
+      "planejamento.",
+      "desenvolvimento nacional sustentável.",
+      "segregação de funções."
+    ],
+    "gabarito": "B",
+    "comentario": "Gabarito: B. O art. 5º lista, entre outros, legalidade, impessoalidade, moralidade, publicidade, eficiência, interesse público, probidade, igualdade, planejamento, transparência, eficácia, segregação de funções, motivação, vinculação ao edital, julgamento objetivo, segurança jurídica, razoabilidade, competitividade, proporcionalidade, celeridade, economicidade e desenvolvimento nacional sustentável. A adjudicação compulsória é construção doutrinária, não consta do rol.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.3.1-04",
+    "topicoId": "1.3.1",
+    "enunciado": "Um órgão federal designou como agente de contratação um ocupante de cargo em comissão sem vínculo efetivo com a administração. À luz da Lei nº 14.133/2021, essa designação",
+    "alternativas": [
+      "é regular, pois qualquer pessoa da confiança da autoridade competente pode conduzir a licitação.",
+      "é regular, se a designação for publicada no diário oficial com antecedência de trinta dias.",
+      "é irregular apenas se a licitação for na modalidade concorrência, sendo livre no pregão eletrônico.",
+      "é regular, desde que o comissionado tenha formação superior em direito ou em administração.",
+      "é irregular, pois o agente deve ser servidor efetivo ou empregado público dos quadros permanentes."
+    ],
+    "gabarito": "E",
+    "comentario": "Gabarito: E. O art. 8º da Lei nº 14.133/2021 exige que o agente de contratação seja designado pela autoridade competente entre servidores efetivos ou empregados públicos dos quadros permanentes da administração. Ele conduz o certame até a homologação, auxiliado por equipe de apoio.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.3.1-05",
+    "topicoId": "1.3.1",
+    "enunciado": "Segundo a Lei nº 14.133/2021, o agente de contratação, auxiliado por equipe de apoio,",
+    "alternativas": [
+      "responderá individualmente pelos atos que praticar, salvo quando induzido a erro pela equipe.",
+      "não responde pelos atos do certame, cuja responsabilidade é exclusiva da autoridade que o designou.",
+      "responderá apenas pelos atos praticados após a homologação, e não pelos anteriores a ela.",
+      "responderá solidariamente com toda a equipe por qualquer ato praticado no certame licitatório.",
+      "transfere à equipe de apoio a responsabilidade por todas as decisões tomadas na licitação."
+    ],
+    "gabarito": "A",
+    "comentario": "Gabarito: A. É o § 1º do art. 8º da Lei nº 14.133/2021: o agente de contratação será auxiliado por equipe de apoio e responderá individualmente pelos atos que praticar, salvo quando induzido a erro pela atuação da equipe.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.3.1-06",
+    "topicoId": "1.3.1",
+    "enunciado": "Conforme a Lei nº 14.133/2021, constitui objetivo do processo licitatório",
+    "alternativas": [
+      "dispensar o tratamento isonômico entre os licitantes quando houver urgência na contratação.",
+      "evitar contratações com sobrepreço ou com preços manifestamente inexequíveis e o superfaturamento.",
+      "assegurar a contratação do licitante com sede no ente contratante, em qualquer hipótese.",
+      "restringir a competição aos licitantes que já contrataram com o órgão em exercícios anteriores.",
+      "garantir a contratação pelo menor preço nominal, desconsiderado o ciclo de vida do objeto."
+    ],
+    "gabarito": "B",
+    "comentario": "Gabarito: B. O art. 11 lista como objetivos: selecionar a proposta mais vantajosa, inclusive quanto ao ciclo de vida do objeto (I); assegurar tratamento isonômico e justa competição (II); evitar sobrepreço, preços inexequíveis e superfaturamento (III); e incentivar a inovação e o desenvolvimento nacional sustentável (IV).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.3.1-07",
+    "topicoId": "1.3.1",
+    "enunciado": "Uma prefeitura pretende realizar licitação na forma presencial, embora disponha de sistema eletrônico. Segundo a Lei nº 14.133/2021, as licitações serão realizadas",
+    "alternativas": [
+      "obrigatoriamente na forma presencial, vedada a forma eletrônica nos municípios de pequeno porte.",
+      "exclusivamente na forma eletrônica, vedada a forma presencial em qualquer hipótese.",
+      "na forma escolhida livremente pelo agente de contratação, dispensada qualquer motivação.",
+      "preferencialmente na forma eletrônica, admitida a presencial motivada, com sessão registrada em ata e gravada.",
+      "na forma presencial sempre que o valor for inferior ao limite de dispensa, sem gravação."
+    ],
+    "gabarito": "D",
+    "comentario": "Gabarito: D. O § 2º do art. 17 da Lei nº 14.133/2021 determina que as licitações sejam realizadas preferencialmente sob a forma eletrônica, admitida a forma presencial desde que motivada, devendo a sessão pública ser registrada em ata e gravada em áudio e vídeo.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.3.1-08",
+    "topicoId": "1.3.1",
+    "enunciado": "NÃO constitui critério de julgamento das propostas previsto na Lei nº 14.133/2021:",
+    "alternativas": [
+      "melhor prazo de entrega.",
+      "melhor técnica ou conteúdo artístico.",
+      "maior desconto.",
+      "maior retorno econômico.",
+      "técnica e preço."
+    ],
+    "gabarito": "A",
+    "comentario": "Gabarito: A. O art. 33 prevê seis critérios: menor preço, maior desconto, melhor técnica ou conteúdo artístico, técnica e preço, maior lance (no leilão) e maior retorno econômico. O prazo de entrega pode ser condição do edital, mas não é critério de julgamento.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.3.1-09",
+    "topicoId": "1.3.1",
+    "enunciado": "Conforme a Lei nº 14.133/2021, o pregão é a modalidade de licitação",
+    "alternativas": [
+      "destinada à alienação de bens imóveis da administração a quem oferecer o maior lance.",
+      "destinada à escolha de trabalho técnico, científico ou artístico, mediante prêmio ao vencedor.",
+      "em que a administração dialoga com licitantes pré-selecionados para desenvolver soluções inovadoras.",
+      "facultativa para obras de engenharia de grande vulto, com julgamento por técnica e preço.",
+      "obrigatória para aquisição de bens e serviços comuns, com julgamento por menor preço ou maior desconto."
+    ],
+    "gabarito": "E",
+    "comentario": "Gabarito: E. O art. 6º, XLI, define o pregão como modalidade obrigatória para aquisição de bens e serviços comuns, com julgamento por menor preço ou maior desconto. As demais alternativas descrevem o leilão (XL), o concurso (XXXIX) e o diálogo competitivo (XLII).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.3.1-10",
+    "topicoId": "1.3.1",
+    "enunciado": "Um órgão federal pretende alienar veículos inservíveis de sua frota. Segundo a Lei nº 14.133/2021, a modalidade de licitação adequada é o(a)",
+    "alternativas": [
+      "pregão, pelo critério de menor preço.",
+      "concorrência, pelo critério de técnica e preço.",
+      "diálogo competitivo, com propostas finais.",
+      "concurso, com prêmio ao vencedor.",
+      "leilão, a quem oferecer o maior lance."
+    ],
+    "gabarito": "E",
+    "comentario": "Gabarito: E. O art. 6º, XL, define o leilão como modalidade para alienação de bens imóveis ou de bens móveis inservíveis ou legalmente apreendidos a quem oferecer o maior lance. O critério de julgamento correspondente é o maior lance (art. 33, V).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.3.1-11",
+    "topicoId": "1.3.1",
+    "enunciado": "Segundo a Lei nº 14.133/2021, a modalidade diálogo competitivo é restrita a contratações em que a administração vise a contratar objeto que envolva, entre outras condições,",
+    "alternativas": [
+      "inovação tecnológica ou técnica e impossibilidade de definir com precisão as especificações.",
+      "alienação de imóveis, com avaliação prévia e definição do lance mínimo pela comissão.",
+      "obras comuns de engenharia de pequeno valor, com projeto básico já aprovado pelo órgão.",
+      "bens comuns de pronta entrega, com especificações usuais de mercado e preço de referência conhecido.",
+      "serviços de manutenção predial rotineiros, com especificações padronizadas e preço tabelado."
+    ],
+    "gabarito": "A",
+    "comentario": "Gabarito: A. O art. 32, I, restringe o diálogo competitivo a objetos que envolvam inovação tecnológica ou técnica, impossibilidade de atender à necessidade sem adaptar soluções disponíveis no mercado e impossibilidade de definir as especificações com precisão. Bens e serviços comuns são objeto de pregão.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.3.1-12",
+    "topicoId": "1.3.1",
+    "enunciado": "Segundo a Lei nº 14.133/2021, ao final da fase preparatória, o processo licitatório seguirá para o órgão de assessoramento jurídico da administração, que realizará",
+    "alternativas": [
+      "a escolha da modalidade, cabendo ao agente de contratação apenas executá-la.",
+      "controle prévio de legalidade, mediante análise jurídica da contratação.",
+      "o julgamento das propostas e a habilitação do licitante vencedor do certame.",
+      "a fiscalização da execução do contrato, com aplicação das sanções cabíveis.",
+      "a homologação do resultado e a adjudicação do objeto ao licitante vencedor."
+    ],
+    "gabarito": "B",
+    "comentario": "Gabarito: B. O art. 53 da Lei nº 14.133/2021 determina que, ao final da fase preparatória, o processo siga ao órgão de assessoramento jurídico para controle prévio de legalidade, mediante análise jurídica da contratação. Julgamento, habilitação e homologação são fases posteriores do art. 17.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.3.1-13",
+    "topicoId": "1.3.1",
+    "enunciado": "Um hospital federal precisa adquirir um equipamento que só pode ser fornecido por um único representante comercial exclusivo no País. Nos termos da Lei nº 14.133/2021, trata-se de hipótese de",
+    "alternativas": [
+      "licitação obrigatória na modalidade pregão, pelo menor preço.",
+      "dispensa de licitação, por se tratar de compra de pequeno valor.",
+      "licitação obrigatória na modalidade concurso, com prêmio ao vencedor.",
+      "inexigibilidade de licitação, por inviabilidade de competição.",
+      "dispensa de licitação, por se tratar de situação de emergência."
+    ],
+    "gabarito": "D",
+    "comentario": "Gabarito: D. O art. 74 torna inexigível a licitação quando inviável a competição, em especial na aquisição de bens que só possam ser fornecidos por produtor, empresa ou representante comercial exclusivos (I). Na inexigibilidade, a competição é impossível; na dispensa (art. 75), ela é possível, mas a lei autoriza não licitar.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.3.1-14",
+    "topicoId": "1.3.1",
+    "enunciado": "Há oito meses, um órgão realizou licitação em que não surgiram interessados. Mantidas todas as condições do edital, pretende agora contratar diretamente. Segundo a Lei nº 14.133/2021, essa contratação",
+    "alternativas": [
+      "é hipótese de licitação inexigível.",
+      "é vedada, exigindo-se nova licitação.",
+      "só é possível na modalidade diálogo competitivo.",
+      "é hipótese de licitação dispensável.",
+      "depende de autorização do Tribunal de Contas."
+    ],
+    "gabarito": "D",
+    "comentario": "Gabarito: D. O art. 75, III, 'a', torna dispensável a licitação para contratação que mantenha todas as condições de edital de licitação realizada há menos de um ano, quando nela não surgiram licitantes interessados ou não foram apresentadas propostas válidas. É a chamada licitação deserta.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.3.1-15",
+    "topicoId": "1.3.1",
+    "enunciado": "Um órgão firmou contrato de serviço contínuo de limpeza com prazo inicial de 5 anos. Segundo a Lei nº 14.133/2021, esse contrato poderá ser prorrogado sucessivamente, desde que previsto em edital e atestada a vantajosidade, respeitada a vigência máxima de",
+    "alternativas": [
+      "5 anos.",
+      "6 anos.",
+      "8 anos.",
+      "10 anos.",
+      "15 anos."
+    ],
+    "gabarito": "D",
+    "comentario": "Gabarito: D. O art. 106 permite contratos de até 5 anos para serviços e fornecimentos contínuos, e o art. 107 admite prorrogações sucessivas, respeitada a vigência máxima decenal, desde que previstas no edital e atestado que as condições e os preços permanecem vantajosos.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.3.1-16",
+    "topicoId": "1.3.1",
+    "enunciado": "NÃO constitui sanção administrativa prevista na Lei nº 14.133/2021:",
+    "alternativas": [
+      "suspensão temporária de participação em licitação.",
+      "impedimento de licitar e contratar.",
+      "multa.",
+      "advertência.",
+      "declaração de inidoneidade para licitar ou contratar."
+    ],
+    "gabarito": "A",
+    "comentario": "Gabarito: A. O art. 156 prevê quatro sanções: advertência, multa, impedimento de licitar e contratar e declaração de inidoneidade. A 'suspensão temporária de participação em licitação' era sanção da Lei nº 8.666/1993 e foi substituída pelo impedimento de licitar e contratar.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.3.1-17",
+    "topicoId": "1.3.1",
+    "enunciado": "Segundo a Lei nº 14.133/2021, a multa aplicada ao responsável por infração administrativa, calculada na forma do edital ou do contrato, não poderá ser",
+    "alternativas": [
+      "inferior a 1% nem superior a 10% do valor do contrato.",
+      "inferior a 0,5% nem superior a 30% do valor do contrato.",
+      "superior a 2% do valor do contrato, sem limite mínimo.",
+      "inferior a 5% nem superior a 50% do valor do contrato.",
+      "inferior a 10% nem superior a 100% do valor do contrato."
+    ],
+    "gabarito": "B",
+    "comentario": "Gabarito: B. O § 3º do art. 156 da Lei nº 14.133/2021 fixa a multa entre 0,5% e 30% do valor do contrato licitado ou celebrado com contratação direta, aplicável a qualquer das infrações do art. 155.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.3.1-18",
+    "topicoId": "1.3.1",
+    "enunciado": "Uma empresa recebeu a sanção de impedimento de licitar e contratar, aplicada por um município. Nos termos da Lei nº 14.133/2021, essa sanção a impedirá de licitar ou contratar",
+    "alternativas": [
+      "apenas com o órgão que aplicou a sanção, pelo prazo de 1 ano.",
+      "com a União, os estados e os municípios, por prazo indeterminado.",
+      "com o município que a aplicou, por no mínimo 5 anos e no máximo 10.",
+      "com a administração de todos os entes federativos, por no mínimo 6 anos.",
+      "com a administração direta e indireta do município que a aplicou, por até 3 anos."
+    ],
+    "gabarito": "E",
+    "comentario": "Gabarito: E. Pelo § 4º do art. 156, o impedimento de licitar e contratar alcança a administração direta e indireta do ente federativo que aplicou a sanção, pelo prazo máximo de 3 anos. Já a declaração de inidoneidade alcança todos os entes federativos, pelo prazo de 3 a 6 anos (§ 5º).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
     "id": "1.3.2-01",
     "topicoId": "1.3.2",
     "enunciado": "Nos termos da Lei nº 13.460/2017, que dispõe sobre a defesa dos direitos dos usuários dos serviços públicos, a ouvidoria encaminhará a decisão administrativa final ao usuário no prazo de",
@@ -48,6 +304,134 @@
     "origem": "ia"
   },
   {
+    "id": "1.3.2-02",
+    "topicoId": "1.3.2",
+    "enunciado": "Para os fins da Lei nº 13.460/2017, consideram-se manifestações dos usuários de serviços públicos",
+    "alternativas": [
+      "reclamações, denúncias, sugestões, elogios e demais pronunciamentos dos usuários.",
+      "os recursos administrativos contra decisões finais, julgados pela ouvidoria em última instância.",
+      "apenas as reclamações formais, protocoladas por escrito e com firma reconhecida em cartório.",
+      "as petições judiciais contra o Estado, encaminhadas pela ouvidoria à advocacia pública do ente.",
+      "somente as denúncias de corrupção, vedado o registro de elogios e sugestões pelos usuários."
+    ],
+    "gabarito": "A",
+    "comentario": "Gabarito: A. O art. 2º, V, define manifestações como reclamações, denúncias, sugestões, elogios e demais pronunciamentos de usuários sobre a prestação de serviços públicos e a conduta dos agentes. Elas podem ser feitas por meio eletrônico, por correspondência ou verbalmente, reduzidas a termo (art. 10, § 4º).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.3.2-03",
+    "topicoId": "1.3.2",
+    "enunciado": "Um usuário entregou ao servidor do posto de atendimento a cópia de um documento, apresentando também o original. O servidor exigiu, ainda assim, cópia autenticada em cartório e reconhecimento de firma. À luz da Lei nº 13.460/2017, a exigência",
+    "alternativas": [
+      "é indevida, pois o próprio agente autentica a cópia à vista do original, vedado exigir firma salvo dúvida.",
+      "é indevida apenas quanto à firma, sendo sempre obrigatória a autenticação da cópia em cartório.",
+      "é devida, desde que o servidor justifique a exigência por escrito no próprio processo administrativo.",
+      "é devida, pois a autenticação em cartório é a regra para todos os documentos apresentados à administração.",
+      "é devida, pois a presunção de boa-fé não se aplica a documentos apresentados em cópia simples."
+    ],
+    "gabarito": "A",
+    "comentario": "Gabarito: A. O art. 5º, IX, da Lei nº 13.460/2017 manda que a autenticação seja feita pelo próprio agente público, à vista dos originais, vedada a exigência de reconhecimento de firma, salvo dúvida de autenticidade. A presunção de boa-fé do usuário também é diretriz expressa (art. 5º, II).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.3.2-04",
+    "topicoId": "1.3.2",
+    "enunciado": "Na recepção de uma unidade de atendimento, sem agendamento e sem casos de urgência, chegam, nesta ordem, um homem de 40 anos, uma lactante e uma pessoa com deficiência. Segundo a Lei nº 13.460/2017,",
+    "alternativas": [
+      "a prioridade depende de comprovação documental da condição, sem a qual vale a ordem de chegada.",
+      "a prioridade só se aplica a idosos com mais de 80 anos, e os demais seguem a ordem de chegada.",
+      "cabe ao servidor escolher livremente a ordem de atendimento, conforme a complexidade de cada caso.",
+      "o atendimento segue estritamente a ordem de chegada, sem qualquer prioridade, em respeito à igualdade.",
+      "segue-se a ordem de chegada, asseguradas as prioridades da lactante e da pessoa com deficiência."
+    ],
+    "gabarito": "E",
+    "comentario": "Gabarito: E. O art. 5º, III, prevê atendimento por ordem de chegada, ressalvados casos de urgência e de agendamento, asseguradas as prioridades legais às pessoas com deficiência, aos idosos, às gestantes, às lactantes e às pessoas acompanhadas por crianças de colo.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.3.2-05",
+    "topicoId": "1.3.2",
+    "enunciado": "Uma concessionária pretende suspender, por inadimplemento, o fornecimento de um serviço público a um usuário a partir de uma sexta-feira. Nos termos da Lei nº 13.460/2017, essa suspensão",
+    "alternativas": [
+      "é vedada, pois a suspensão por inadimplemento não pode começar em sexta, sábado, domingo, feriado ou véspera.",
+      "é permitida, desde que o usuário seja comunicado no mesmo dia, por qualquer meio de comunicação.",
+      "depende de autorização judicial prévia, por se tratar de serviço essencial prestado ao usuário.",
+      "é permitida em qualquer dia da semana, pois o inadimplemento autoriza a suspensão imediata do serviço.",
+      "é vedada apenas aos domingos e feriados nacionais, podendo ocorrer normalmente às sextas-feiras."
+    ],
+    "gabarito": "A",
+    "comentario": "Gabarito: A. O parágrafo único do art. 6º, incluído pela Lei nº 14.015/2020, veda a suspensão por inadimplemento que se inicie na sexta-feira, no sábado ou no domingo, em feriado ou no dia anterior a feriado. A lei também exige comunicação prévia do desligamento (art. 5º, XVI, e art. 6º, VII).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.3.2-06",
+    "topicoId": "1.3.2",
+    "enunciado": "Ao registrar uma reclamação na ouvidoria, um usuário foi questionado sobre os motivos que o levaram a apresentá-la e informado de que precisaria justificá-los para o registro ser aceito. Conforme a Lei nº 13.460/2017,",
+    "alternativas": [
+      "a ouvidoria pode exigir os motivos e, além disso, a autenticação dos documentos de identificação.",
+      "a exigência é válida, desde que prevista na Carta de Serviços ao Usuário do órgão ou da entidade.",
+      "a exigência é válida, pois cabe à ouvidoria filtrar as manifestações sem fundamento antes do registro.",
+      "a exigência é válida se o usuário não estiver identificado, como forma de evitar denúncias infundadas.",
+      "são vedadas exigências sobre os motivos da manifestação, e a identificação não pode inviabilizá-la."
+    ],
+    "gabarito": "E",
+    "comentario": "Gabarito: E. O art. 10 exige a identificação do requerente, mas o § 1º proíbe exigências que inviabilizem a manifestação, e o § 2º veda quaisquer exigências relativas aos motivos determinantes da apresentação. A identificação é informação pessoal protegida (§ 7º).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.3.2-07",
+    "topicoId": "1.3.2",
+    "enunciado": "Um servidor recusou-se a receber a manifestação de um usuário, alegando que o assunto não era de sua área. Nos termos da Lei nº 13.460/2017,",
+    "alternativas": [
+      "em nenhuma hipótese será recusado o recebimento de manifestações, sob pena de responsabilidade do agente.",
+      "a recusa é válida se o usuário não tiver apresentado documento de identidade com foto e CPF.",
+      "a recusa depende apenas de comunicação posterior à ouvidoria, no prazo de trinta dias.",
+      "a recusa é válida se a manifestação tiver sido feita verbalmente, sem formulário próprio.",
+      "a recusa é válida sempre que o assunto for estranho às atribuições do setor em que o servidor atua."
+    ],
+    "gabarito": "A",
+    "comentario": "Gabarito: A. O art. 11 da Lei nº 13.460/2017 é taxativo: em nenhuma hipótese será recusado o recebimento de manifestações, sob pena de responsabilidade do agente público. Se não houver ouvidoria, a manifestação pode ser apresentada diretamente ao órgão responsável pelo serviço (art. 10, § 3º).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.3.2-08",
+    "topicoId": "1.3.2",
+    "enunciado": "Segundo a Lei nº 13.460/2017, os conselhos de usuários, por meio dos quais se faz a participação no acompanhamento e na avaliação dos serviços públicos,",
+    "alternativas": [
+      "substituem as ouvidorias no recebimento e no tratamento das manifestações dos usuários.",
+      "são órgãos de controle externo, com poder de aplicar sanções aos agentes públicos responsáveis.",
+      "são compostos por servidores do órgão, remunerados por sessão, e indicados pela autoridade máxima.",
+      "são órgãos deliberativos, cujas decisões vinculam a autoridade máxima do órgão ou da entidade.",
+      "são órgãos consultivos, e a participação neles é considerada serviço relevante e sem remuneração."
+    ],
+    "gabarito": "E",
+    "comentario": "Gabarito: E. O parágrafo único do art. 18 define os conselhos de usuários como órgãos consultivos, com atribuições como acompanhar e avaliar os serviços, propor melhorias e acompanhar a atuação do ouvidor. A participação é serviço relevante e não remunerado (art. 21), e o conselho pode ser consultado sobre a indicação do ouvidor (art. 20).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.3.2-09",
+    "topicoId": "1.3.2",
+    "enunciado": "Conforme a Lei nº 13.460/2017, a avaliação continuada dos serviços públicos, que considera a satisfação do usuário e a qualidade do atendimento, será realizada por pesquisa de satisfação feita, no mínimo,",
+    "alternativas": [
+      "a cada mês.",
+      "a cada seis meses.",
+      "a cada um ano.",
+      "a cada dois anos.",
+      "a cada quatro anos."
+    ],
+    "gabarito": "C",
+    "comentario": "Gabarito: C. O § 1º do art. 23 exige pesquisa de satisfação no mínimo a cada um ano, ou outro meio que garanta significância estatística. O resultado deve ser integralmente publicado no sítio do órgão, com o ranking das entidades com mais reclamações (§ 2º).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
     "id": "1.3.3-01",
     "topicoId": "1.3.3",
     "enunciado": "Conforme o Decreto nº 9.094/2017, que trata da simplificação do atendimento prestado aos usuários dos serviços públicos, os órgãos e as entidades do Poder Executivo federal",
@@ -60,6 +444,102 @@
     ],
     "gabarito": "E",
     "comentario": "Gabarito: E. O art. 9º do Decreto nº 9.094/2017 dispensa o reconhecimento de firma e a autenticação de cópia dos documentos expedidos no País, exceto se houver dúvida fundada quanto à autenticidade ou previsão legal, e o art. 10, § 1º, permite que o servidor faça o cotejo da cópia com o original. O decreto também proíbe exigir do usuário documentos que constem de bases de dados oficiais (art. 2º) e manda divulgar a Carta de Serviços ao Usuário (art. 11).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.3.3-02",
+    "topicoId": "1.3.3",
+    "enunciado": "Para conceder um benefício, um órgão federal exigiu do usuário certidão que consta de base de dados oficial da administração pública federal. Segundo o Decreto nº 9.094/2017, salvo disposição legal em contrário,",
+    "alternativas": [
+      "o órgão deve obter o documento diretamente da entidade responsável pela base de dados, sem exigi-lo do usuário.",
+      "o órgão pode cobrar do usuário uma taxa pela consulta à base de dados de outra entidade federal.",
+      "o usuário deve apresentar a certidão, pois a obtenção do documento é ônus de quem requer o benefício.",
+      "o usuário deve apresentar a certidão autenticada em cartório, dispensado o reconhecimento de firma.",
+      "o órgão pode exigir a certidão do usuário, desde que lhe conceda prazo de trinta dias para apresentá-la."
+    ],
+    "gabarito": "A",
+    "comentario": "Gabarito: A. O art. 2º do Decreto nº 9.094/2017, na redação do Decreto nº 10.279/2020, manda obter diretamente da entidade responsável os documentos que constem de base de dados oficial da administração federal, vedada sua exigência do usuário, salvo disposição legal em contrário.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.3.3-03",
+    "topicoId": "1.3.3",
+    "enunciado": "Quando não for possível obter diretamente da entidade responsável pela base de dados oficial um documento comprobatório, o Decreto nº 9.094/2017 admite que a comprovação seja feita",
+    "alternativas": [
+      "apenas por decisão judicial que reconheça a situação alegada pelo usuário do serviço público.",
+      "por testemunho de dois servidores públicos que conheçam pessoalmente o usuário do serviço.",
+      "por qualquer meio, dispensada a assinatura do usuário e sem responsabilidade pela veracidade.",
+      "exclusivamente por certidão emitida pelo cartório de registro civil do domicílio do usuário.",
+      "por declaração escrita e assinada pelo usuário, sujeito a sanções se for falsa."
+    ],
+    "gabarito": "E",
+    "comentario": "Gabarito: E. O parágrafo único do art. 3º do Decreto nº 9.094/2017 permite, nessa hipótese, a comprovação por declaração escrita e assinada pelo usuário, que, se falsa, o sujeitará às sanções administrativas, civis e penais aplicáveis. É a aplicação prática da presunção de boa-fé (art. 1º, I).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.3.3-04",
+    "topicoId": "1.3.3",
+    "enunciado": "Um cidadão protocolou requerimento em um órgão federal que, depois, verificou não ser competente para decidir a matéria. Segundo o Decreto nº 9.094/2017, o agente público deve",
+    "alternativas": [
+      "aguardar manifestação da ouvidoria antes de adotar qualquer providência sobre o pedido.",
+      "providenciar a remessa imediata do requerimento ao órgão ou à entidade federal competente.",
+      "arquivar o requerimento e orientar o cidadão a protocolá-lo novamente no órgão competente.",
+      "devolver o requerimento ao cidadão, com a cobrança de taxa pelo serviço de protocolo.",
+      "decidir o requerimento mesmo assim, em respeito ao princípio da eficiência administrativa."
+    ],
+    "gabarito": "B",
+    "comentario": "Gabarito: B. O art. 5º, III, veda a recusa de requerimentos pelo protocolo, salvo incompetência manifesta. Constatada a incompetência após o protocolo, o § 2º manda remeter imediatamente o requerimento ao órgão competente; se a remessa não for possível, o interessado deve ser comunicado (§ 3º).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.3.3-05",
+    "topicoId": "1.3.3",
+    "enunciado": "Segundo o Decreto nº 9.094/2017, com as alterações do Decreto nº 9.723/2019, para fins de acesso a informações e serviços perante órgãos e entidades do Poder Executivo federal, o número de inscrição no CPF",
+    "alternativas": [
+      "é suficiente e substitutivo para a apresentação de dados como NIT, PIS/Pasep, número da CTPS e da CNH.",
+      "só pode ser utilizado por pessoas jurídicas, exigindo-se das pessoas físicas o registro geral.",
+      "deve ser sempre acompanhado do número do título de eleitor e do certificado de reservista.",
+      "substitui apenas o número do PIS/Pasep, sendo exigidos todos os demais documentos do usuário.",
+      "não pode ser exigido dos usuários, por se tratar de dado pessoal protegido pela lei."
+    ],
+    "gabarito": "A",
+    "comentario": "Gabarito: A. O art. 5º-A, incluído pelo Decreto nº 9.723/2019, torna o CPF suficiente e substitutivo para dados como NIT, PIS/Pasep, CTPS, CNH, matrícula em instituições federais de ensino, certificados militares, inscrição em conselho profissional e CadÚnico. Os formulários devem ter campo obrigatório para o CPF (§ 3º).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.3.3-06",
+    "topicoId": "1.3.3",
+    "enunciado": "Conforme o Decreto nº 9.094/2017, as exigências necessárias para o requerimento serão feitas",
+    "alternativas": [
+      "pelo órgão de controle interno, que define os documentos exigíveis em cada caso concreto.",
+      "de uma só vez ao interessado, admitida exigência posterior só em caso de dúvida superveniente.",
+      "somente após a análise de mérito, para evitar exigências desnecessárias ao usuário do serviço.",
+      "de forma gradual, à medida que o processo avança, conforme a conveniência da administração pública.",
+      "a critério do servidor responsável, que pode renová-las a cada etapa sem necessidade de justificativa."
+    ],
+    "gabarito": "B",
+    "comentario": "Gabarito: B. É o art. 6º do Decreto nº 9.094/2017. O art. 7º complementa: não será exigida prova de fato já comprovado pela apresentação de documento ou informação válida. São medidas de racionalização que evitam idas e vindas do usuário.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.3.3-07",
+    "topicoId": "1.3.3",
+    "enunciado": "Um órgão federal constatou que a cópia de documento público apresentada por um usuário era falsificada. Segundo o Decreto nº 9.094/2017, o órgão",
+    "alternativas": [
+      "considerará não satisfeita a exigência e, em até cinco dias, comunicará o fato à autoridade competente.",
+      "aplicará diretamente ao usuário multa administrativa equivalente a dez salários mínimos.",
+      "deverá aceitar o documento, em razão da presunção de boa-fé do usuário dos serviços públicos.",
+      "comunicará o fato à autoridade competente apenas se o usuário reincidir na conduta.",
+      "deverá arquivar o processo sem qualquer comunicação, para preservar a intimidade do usuário."
+    ],
+    "gabarito": "A",
+    "comentario": "Gabarito: A. O § 2º do art. 10 do Decreto nº 9.094/2017 determina que, constatada a qualquer tempo a falsificação de firma ou de cópia, o órgão considere não satisfeita a exigência documental e, em até cinco dias, dê conhecimento do fato à autoridade competente para as providências administrativas, civis e penais.",
     "revisada": false,
     "origem": "ia"
   },
@@ -96,6 +576,102 @@
     "origem": "ia"
   },
   {
+    "id": "1.3.4-03",
+    "topicoId": "1.3.4",
+    "enunciado": "Um profissional teve contrato temporário de 12 meses com o Ministério da Saúde, nos termos da Lei nº 8.745/1993, e não se enquadra nas exceções legais. Segundo a lei, com a redação dada pela Lei nº 15.367/2026, ele poderá ser novamente contratado com base nessa lei depois de decorridos, contados do encerramento do contrato,",
+    "alternativas": [
+      "6 meses.",
+      "12 meses.",
+      "18 meses.",
+      "24 meses.",
+      "36 meses."
+    ],
+    "gabarito": "B",
+    "comentario": "Gabarito: B. A regra geral do art. 9º, III, é a espera de 24 meses. Mas o § 1º, incluído pela Lei nº 15.367/2026, estabelece que, no contrato por período inferior a 24 meses, a nova contratação pode ocorrer depois de prazo igual ao do contrato anterior (aqui, 12 meses), observado o mínimo de 6 meses.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.3.4-04",
+    "topicoId": "1.3.4",
+    "enunciado": "Uma pessoa trabalhou 4 meses em contratação temporária regida pela Lei nº 8.745/1993 e não se enquadra nas exceções legais. Considerando a redação dada pela Lei nº 15.367/2026, a nova contratação com base nessa lei só poderá ocorrer depois de decorridos, do encerramento do contrato anterior,",
+    "alternativas": [
+      "2 meses.",
+      "4 meses.",
+      "6 meses.",
+      "12 meses.",
+      "24 meses."
+    ],
+    "gabarito": "C",
+    "comentario": "Gabarito: C. Pelo art. 9º, § 1º, da Lei nº 8.745/1993, no contrato inferior a 24 meses a recontratação pode ocorrer após prazo igual ao do contrato anterior (I), mas deve observar o prazo mínimo de 6 meses do encerramento (II). Como 4 meses é menos que o mínimo, vale o piso de 6 meses.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.3.4-05",
+    "topicoId": "1.3.4",
+    "enunciado": "Um analista contratado temporariamente nos termos da Lei nº 8.745/1993 foi orientado pela chefia a assumir, de forma permanente, atribuições de outro cargo, não previstas em seu contrato. Segundo a lei, essa orientação",
+    "alternativas": [
+      "é válida por até seis meses, prazo após o qual a mudança deve ser formalizada em aditivo.",
+      "é ilegal apenas se as novas atribuições forem de nível superior ao do cargo contratado.",
+      "é válida, se houver necessidade do serviço e o contratado concordar por escrito com a mudança.",
+      "é válida, desde que o contratado receba gratificação correspondente às novas atribuições.",
+      "é ilegal, pois o contratado não pode receber atribuições, funções ou encargos não previstos no contrato."
+    ],
+    "gabarito": "E",
+    "comentario": "Gabarito: E. O art. 9º, I, da Lei nº 8.745/1993 proíbe que o pessoal contratado receba atribuições, funções ou encargos não previstos no respectivo contrato. A contratação temporária é vinculada à necessidade que a justificou.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.3.4-06",
+    "topicoId": "1.3.4",
+    "enunciado": "Durante as férias do titular de uma função de confiança, a administração pretende designar, em substituição, um servidor contratado temporariamente com base na Lei nº 8.745/1993. Essa designação",
+    "alternativas": [
+      "é permitida, desde que o período de substituição não ultrapasse trinta dias no mesmo ano.",
+      "é vedada apenas para cargos em comissão, sendo admitida para as funções de confiança.",
+      "é permitida, por se tratar de substituição eventual e não de designação definitiva para a função.",
+      "é permitida, se o contratado tiver mais de um ano de contrato e avaliação de desempenho positiva.",
+      "é vedada, pois o contratado não pode ser designado, nem em substituição, para função de confiança."
+    ],
+    "gabarito": "E",
+    "comentario": "Gabarito: E. O art. 9º, II, da Lei nº 8.745/1993 veda ao contratado ser nomeado ou designado, ainda que a título precário ou em substituição, para cargo em comissão ou função de confiança. A substituição eventual também está proibida.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.3.4-07",
+    "topicoId": "1.3.4",
+    "enunciado": "Um profissional contratado temporariamente pela Lei nº 8.745/1993 decidiu deixar o contrato antes do prazo final. Segundo a lei, a extinção do contrato por iniciativa do contratado",
+    "alternativas": [
+      "gera ao contratado indenização de metade do que lhe caberia pelo restante do contrato.",
+      "ocorre sem direito a indenização e deve ser comunicada com antecedência mínima de trinta dias.",
+      "depende de autorização do Ministro de Estado, sem a qual o contrato não se extingue.",
+      "obriga o contratado a indenizar a administração pelo valor integral do restante do contrato.",
+      "ocorre de imediato, sem necessidade de comunicação prévia e sem qualquer indenização."
+    ],
+    "gabarito": "B",
+    "comentario": "Gabarito: B. O art. 12 extingue o contrato sem indenização pelo término do prazo, por iniciativa do contratado ou pela conclusão do projeto, e o § 1º exige comunicação com antecedência mínima de trinta dias nos casos de iniciativa do contratado e de conclusão do projeto. A indenização de metade só cabe na extinção por conveniência administrativa (§ 2º).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.3.4-08",
+    "topicoId": "1.3.4",
+    "enunciado": "Conforme a Lei nº 8.745/1993, o tempo de serviço prestado em virtude de contratação temporária nela fundamentada",
+    "alternativas": [
+      "será contado para todos os efeitos.",
+      "será contado apenas se o contrato tiver duração superior a dois anos.",
+      "não será contado para nenhum efeito, por se tratar de vínculo precário.",
+      "será contado apenas para fins de aposentadoria no regime próprio da União.",
+      "será contado somente para fins de estabilidade em futuro cargo efetivo."
+    ],
+    "gabarito": "A",
+    "comentario": "Gabarito: A. O art. 16 da Lei nº 8.745/1993 dispõe que o tempo de serviço prestado em virtude de contratação temporária será contado para todos os efeitos. Isso não se confunde com estabilidade, que é própria de servidores efetivos aprovados em concurso (art. 41 da CF).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
     "id": "1.3.5-01",
     "topicoId": "1.3.5",
     "enunciado": "Segundo a Lei nº 8.112/1990, a posse e o início do exercício no cargo público devem ocorrer, respectivamente, nos prazos de",
@@ -124,6 +700,214 @@
     ],
     "gabarito": "E",
     "comentario": "Gabarito: E. É a definição de recondução (art. 29 da Lei nº 8.112/1990). Reintegração é a volta do servidor estável ao cargo após a invalidação de sua demissão; reversão, o retorno à atividade do aposentado; aproveitamento, o retorno do servidor em disponibilidade; e readaptação, a investidura em cargo compatível com limitação de capacidade física ou mental.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.3.5-03",
+    "topicoId": "1.3.5",
+    "enunciado": "Segundo a Lei nº 8.112/1990, a posse dar-se-á pela assinatura do respectivo termo, no qual deverão constar as atribuições, os deveres, as responsabilidades e os direitos inerentes ao cargo, que",
+    "alternativas": [
+      "poderão ser alterados livremente pela administração, a qualquer tempo, sem necessidade de previsão em lei.",
+      "não poderão ser alterados unilateralmente por qualquer das partes, ressalvados os atos de ofício previstos em lei.",
+      "poderão ser alterados pelo servidor, mediante simples comunicação à chefia imediata e à unidade de pessoal.",
+      "só poderão ser alterados por decisão judicial transitada em julgado, vedada qualquer alteração por lei.",
+      "valerão apenas durante o estágio probatório, quando então serão substituídos pelo regimento do órgão."
+    ],
+    "gabarito": "B",
+    "comentario": "Gabarito: B. É o caput do art. 13 da Lei nº 8.112/1990: o termo de posse contém atribuições, deveres, responsabilidades e direitos que não poderão ser alterados unilateralmente por qualquer das partes, ressalvados os atos de ofício previstos em lei. A posse ocorre em até 30 dias da publicação do ato de provimento (§ 1º).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.3.5-04",
+    "topicoId": "1.3.5",
+    "enunciado": "Após acidente, um servidor sofreu limitação física que o impede de exercer as atribuições de seu cargo, mas não o incapacita para o serviço público, conforme inspeção médica. Segundo a Lei nº 8.112/1990, ele deverá ser",
+    "alternativas": [
+      "readaptado em cargo de atribuições compatíveis com a limitação sofrida.",
+      "aposentado por invalidez, ainda que apto para outras atribuições.",
+      "reconduzido ao cargo que ocupava antes de ingressar no cargo atual.",
+      "exonerado de ofício, por não poder mais exercer as atribuições do cargo.",
+      "posto em disponibilidade, com remuneração proporcional ao tempo de serviço."
+    ],
+    "gabarito": "A",
+    "comentario": "Gabarito: A. Readaptação é a investidura do servidor em cargo de atribuições e responsabilidades compatíveis com a limitação que tenha sofrido em sua capacidade física ou mental, verificada em inspeção médica (art. 24). Só se for julgado incapaz para o serviço público ele será aposentado (§ 1º).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.3.5-05",
+    "topicoId": "1.3.5",
+    "enunciado": "Um servidor estável foi demitido, mas a demissão foi invalidada por decisão judicial. Nos termos da Lei nº 8.112/1990, ele será",
+    "alternativas": [
+      "reconduzido ao cargo, sem direito ao ressarcimento das vantagens do período.",
+      "revertido à atividade, com remuneração apenas a partir do retorno.",
+      "aproveitado em outro cargo, mediante novo concurso público de provas.",
+      "reintegrado ao cargo, com ressarcimento de todas as vantagens.",
+      "readaptado em cargo compatível, com redução proporcional da remuneração."
+    ],
+    "gabarito": "D",
+    "comentario": "Gabarito: D. Reintegração é a reinvestidura do servidor estável no cargo anteriormente ocupado, ou no resultante de sua transformação, quando invalidada a sua demissão por decisão administrativa ou judicial, com ressarcimento de todas as vantagens (art. 28). Se o cargo foi ocupado, o eventual ocupante será reconduzido (§ 2º).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.3.5-06",
+    "topicoId": "1.3.5",
+    "enunciado": "Segundo a Lei nº 8.112/1990, NÃO constitui forma de vacância do cargo público:",
+    "alternativas": [
+      "aposentadoria.",
+      "posse em outro cargo inacumulável.",
+      "exoneração.",
+      "readaptação.",
+      "remoção."
+    ],
+    "gabarito": "E",
+    "comentario": "Gabarito: E. O art. 33 prevê como formas de vacância: exoneração, demissão, promoção, readaptação, aposentadoria, posse em outro cargo inacumulável e falecimento. A remoção é o deslocamento do servidor no âmbito do mesmo quadro, com ou sem mudança de sede (art. 36), e não gera vacância.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.3.5-07",
+    "topicoId": "1.3.5",
+    "enunciado": "Uma servidora tomou posse em cargo efetivo, mas não entrou em exercício no prazo legal. De acordo com a Lei nº 8.112/1990, ela será",
+    "alternativas": [
+      "posta em disponibilidade remunerada.",
+      "notificada para nova posse em 30 dias.",
+      "demitida, após processo disciplinar.",
+      "advertida e mantida no cargo.",
+      "exonerada de ofício."
+    ],
+    "gabarito": "E",
+    "comentario": "Gabarito: E. O parágrafo único do art. 34 prevê a exoneração de ofício quando não satisfeitas as condições do estágio probatório ou quando, tendo tomado posse, o servidor não entrar em exercício no prazo de 15 dias (art. 15, § 1º). A exoneração não é penalidade; a demissão é.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.3.5-08",
+    "topicoId": "1.3.5",
+    "enunciado": "Conforme a Lei nº 8.112/1990, o deslocamento do servidor, a pedido ou de ofício, no âmbito do mesmo quadro, com ou sem mudança de sede, denomina-se",
+    "alternativas": [
+      "remoção.",
+      "readaptação.",
+      "recondução.",
+      "redistribuição.",
+      "reversão."
+    ],
+    "gabarito": "A",
+    "comentario": "Gabarito: A. É a definição de remoção (art. 36). Redistribuição é o deslocamento do cargo, e não do servidor, para outro órgão ou entidade do mesmo Poder (art. 37); recondução é o retorno do estável ao cargo anterior (art. 29); readaptação e reversão estão nos arts. 24 e 25.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.3.5-09",
+    "topicoId": "1.3.5",
+    "enunciado": "Segundo a Lei nº 8.112/1990, remuneração é",
+    "alternativas": [
+      "o valor recebido pelo servidor em cada mês, incluídas as indenizações e as diárias pagas.",
+      "o vencimento do cargo efetivo, acrescido das vantagens pecuniárias permanentes estabelecidas em lei.",
+      "apenas o vencimento básico do cargo, excluída qualquer vantagem pecuniária paga ao servidor.",
+      "o subsídio fixado em parcela única, vedado o acréscimo de qualquer gratificação ou adicional.",
+      "a soma do vencimento com as vantagens eventuais, excluídas as permanentes previstas em lei."
+    ],
+    "gabarito": "B",
+    "comentario": "Gabarito: B. O art. 41 da Lei nº 8.112/1990 define remuneração como o vencimento do cargo efetivo, acrescido das vantagens pecuniárias permanentes estabelecidas em lei. Vencimento é a retribuição pecuniária pelo exercício do cargo, com valor fixado em lei (art. 40).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.3.5-10",
+    "topicoId": "1.3.5",
+    "enunciado": "NÃO consta entre as licenças previstas no art. 81 da Lei nº 8.112/1990, na redação atual:",
+    "alternativas": [
+      "licença para atividade política.",
+      "licença por motivo de doença em pessoa da família.",
+      "licença para capacitação.",
+      "licença-prêmio por assiduidade.",
+      "licença por motivo de afastamento do cônjuge ou companheiro."
+    ],
+    "gabarito": "D",
+    "comentario": "Gabarito: D. O art. 81 prevê licenças por motivo de doença em pessoa da família, afastamento do cônjuge ou companheiro, serviço militar, atividade política, capacitação, tratar de interesses particulares e desempenho de mandato classista. A licença-prêmio por assiduidade foi substituída pela licença para capacitação (Lei nº 9.527/1997).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.3.5-11",
+    "topicoId": "1.3.5",
+    "enunciado": "Um servidor completou cinco anos de efetivo exercício e deseja afastar-se para um curso de capacitação profissional. Segundo a Lei nº 8.112/1990, ele poderá, no interesse da administração, afastar-se",
+    "alternativas": [
+      "por até um ano, sem remuneração.",
+      "por até três meses, com a respectiva remuneração.",
+      "por até dois anos, com remuneração integral.",
+      "por até um mês, sem prejuízo das férias.",
+      "por até seis meses, com metade da remuneração."
+    ],
+    "gabarito": "B",
+    "comentario": "Gabarito: B. O art. 87 prevê que, após cada quinquênio de efetivo exercício, o servidor pode, no interesse da administração, afastar-se do cargo efetivo, com a respectiva remuneração, por até três meses, para participar de curso de capacitação profissional. Os períodos não são acumuláveis (parágrafo único).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.3.5-12",
+    "topicoId": "1.3.5",
+    "enunciado": "Segundo a Lei nº 8.112/1990, a penalidade de suspensão, aplicada em caso de reincidência das faltas punidas com advertência e de violação das demais proibições que não tipifiquem infração sujeita a demissão, não poderá exceder",
+    "alternativas": [
+      "15 dias.",
+      "30 dias.",
+      "60 dias.",
+      "90 dias.",
+      "120 dias."
+    ],
+    "gabarito": "D",
+    "comentario": "Gabarito: D. O art. 130 da Lei nº 8.112/1990 limita a suspensão a 90 dias. Quando houver conveniência para o serviço, a suspensão pode ser convertida em multa de 50% por dia de vencimento, ficando o servidor obrigado a permanecer em serviço (§ 2º).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.3.5-13",
+    "topicoId": "1.3.5",
+    "enunciado": "Um servidor deixou de comparecer ao serviço por mais de trinta dias consecutivos, de forma intencional, caracterizando abandono de cargo. Segundo a Lei nº 8.112/1990, a penalidade aplicável é a",
+    "alternativas": [
+      "demissão.",
+      "suspensão de até 90 dias.",
+      "cassação de disponibilidade.",
+      "destituição de função comissionada.",
+      "advertência."
+    ],
+    "gabarito": "A",
+    "comentario": "Gabarito: A. O art. 132, II, prevê a demissão em caso de abandono de cargo, que se configura pela ausência intencional do servidor ao serviço por mais de trinta dias consecutivos (art. 138). Também geram demissão, entre outros, crime contra a administração pública e inassiduidade habitual.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.3.5-14",
+    "topicoId": "1.3.5",
+    "enunciado": "Segundo a Lei nº 8.112/1990, da sindicância poderá resultar",
+    "alternativas": [
+      "a suspensão de até 90 dias e a cassação de aposentadoria, sem necessidade de processo disciplinar.",
+      "a demissão do servidor, desde que assegurado o contraditório e a ampla defesa no procedimento.",
+      "a destituição de cargo em comissão, como única penalidade cabível nesse tipo de procedimento.",
+      "o arquivamento, a advertência ou suspensão de até 30 dias, ou a instauração de processo disciplinar.",
+      "apenas o arquivamento do processo, vedada a aplicação de qualquer penalidade ao servidor investigado."
+    ],
+    "gabarito": "D",
+    "comentario": "Gabarito: D. O art. 145 prevê três resultados da sindicância: arquivamento, aplicação de advertência ou suspensão de até 30 dias, ou instauração de processo disciplinar. A sindicância deve ser concluída em até 30 dias, prorrogáveis por igual período (parágrafo único). Penalidades mais graves exigem processo disciplinar.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.3.5-15",
+    "topicoId": "1.3.5",
+    "enunciado": "Instaurado processo administrativo disciplinar contra um servidor, a autoridade instauradora determinou seu afastamento preventivo, para que não influa na apuração. Segundo a Lei nº 8.112/1990, esse afastamento será",
+    "alternativas": [
+      "de até 120 dias, com suspensão integral da remuneração durante o período.",
+      "de até 90 dias, sem remuneração, salvo se o servidor for absolvido ao final.",
+      "de até 30 dias, com redução de metade da remuneração e sem prorrogação.",
+      "por prazo indeterminado, até a conclusão do processo, sem remuneração.",
+      "de até 60 dias, sem prejuízo da remuneração, prorrogável por igual prazo."
+    ],
+    "gabarito": "E",
+    "comentario": "Gabarito: E. O art. 147 permite, como medida cautelar, o afastamento do servidor por até 60 dias, sem prejuízo da remuneração, prorrogável por igual prazo, findo o qual cessam seus efeitos, ainda que o processo não tenha sido concluído. O processo disciplinar deve ser concluído em 60 dias, prorrogáveis por igual prazo (art. 152).",
     "revisada": false,
     "origem": "ia"
   }

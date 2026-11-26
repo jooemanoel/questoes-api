@@ -32,6 +32,70 @@
     "origem": "ia"
   },
   {
+    "id": "1.2.1-03",
+    "topicoId": "1.2.1",
+    "enunciado": "Cinco pacientes (Ana, Beto, Caio, Dora e Eva) estão em uma fila. Sabe-se que Ana está imediatamente à frente de Beto; Caio é o último; Dora está em algum lugar à frente de Ana; e Eva está imediatamente atrás de Beto. Quem ocupa a terceira posição da fila?",
+    "alternativas": [
+      "Eva.",
+      "Caio.",
+      "Dora.",
+      "Ana.",
+      "Beto."
+    ],
+    "gabarito": "E",
+    "comentario": "Gabarito: E. Caio é o 5º. Ana, Beto e Eva formam um bloco consecutivo (Ana, Beto, Eva), e Dora está à frente de Ana. Restam as posições 1 a 4 para Dora e o bloco de três: só cabe Dora em 1º e o bloco em 2º, 3º e 4º. A ordem é Dora, Ana, Beto, Eva, Caio, e Beto é o terceiro.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.2.1-04",
+    "topicoId": "1.2.1",
+    "enunciado": "Em um plantão, Paulo, Rita e Sílvio são o médico, a técnica e o enfermeiro, não necessariamente nessa ordem. O médico sempre diz a verdade, quem é técnico sempre mente, e o enfermeiro pode mentir ou dizer a verdade. Paulo diz: 'Rita é a técnica'. Rita diz: 'Eu sou a enfermeira'. Sílvio diz: 'Rita é a médica'. Conclui-se que",
+    "alternativas": [
+      "Paulo é o médico e Rita é a técnica.",
+      "Rita é a médica e Sílvio é o técnico.",
+      "Rita é a enfermeira e Paulo é o técnico.",
+      "Paulo é o enfermeiro e Rita é a médica.",
+      "Sílvio é o médico e Paulo é o técnico."
+    ],
+    "gabarito": "A",
+    "comentario": "Gabarito: A. Rita não é a médica: a médica diria a verdade, e 'sou a enfermeira' seria falso. Se Rita fosse a enfermeira, as falas de Paulo e de Sílvio seriam ambas falsas, e o médico, que está entre eles, teria mentido. Logo, Rita é a técnica: a fala de Paulo é verdadeira (ele é o médico) e Sílvio é o enfermeiro, que pode mentir.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.2.1-05",
+    "topicoId": "1.2.1",
+    "enunciado": "Em determinado ano, o dia 1º de março caiu em uma quarta-feira. Nesse ano, o dia 31 de março caiu em",
+    "alternativas": [
+      "uma quarta-feira.",
+      "uma sexta-feira.",
+      "um domingo.",
+      "uma quinta-feira.",
+      "um sábado."
+    ],
+    "gabarito": "B",
+    "comentario": "Gabarito: B. Do dia 1º ao dia 31 passam-se 30 dias. Como 30 = 4 × 7 + 2, o dia 31 cai 2 dias da semana depois de quarta-feira: sexta-feira.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.2.1-06",
+    "topicoId": "1.2.1",
+    "enunciado": "Na sequência 2, 6, 12, 20, 30, ..., mantida a lógica de formação, o próximo termo é",
+    "alternativas": [
+      "36.",
+      "40.",
+      "42.",
+      "44.",
+      "48."
+    ],
+    "gabarito": "C",
+    "comentario": "Gabarito: C. As diferenças entre termos consecutivos são 4, 6, 8, 10, e a próxima é 12: 30 + 12 = 42. Também se pode ver que cada termo é n × (n + 1): 1×2, 2×3, 3×4, 4×5, 5×6 e 6×7 = 42.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
     "id": "1.2.2-01",
     "topicoId": "1.2.2",
     "enunciado": "Considere as premissas 'Todos os enfermeiros do hospital fizeram o curso de biossegurança' e 'Alguns plantonistas são enfermeiros do hospital'. Uma conclusão que decorre necessariamente dessas premissas é:",
@@ -60,6 +124,70 @@
     ],
     "gabarito": "E",
     "comentario": "Gabarito: E. O argumento válido é o modus tollens: de 'se p, então q' e 'não q', conclui-se 'não p'. Afirmar o consequente (o evento foi cancelado, logo choveu) e negar o antecedente (não choveu, logo não foi cancelado) são falácias, pois o evento pode ser cancelado por outro motivo. Nos dois silogismos restantes, a conclusão não decorre das premissas.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.2.2-03",
+    "topicoId": "1.2.2",
+    "enunciado": "Considere as premissas 'Nenhum médico do hospital é negligente' e 'Alguns plantonistas são médicos do hospital'. Decorre necessariamente dessas premissas que",
+    "alternativas": [
+      "alguns negligentes são plantonistas.",
+      "todos os médicos são plantonistas.",
+      "alguns plantonistas não são negligentes.",
+      "nenhum plantonista é negligente.",
+      "todos os plantonistas são médicos."
+    ],
+    "gabarito": "C",
+    "comentario": "Gabarito: C. Os plantonistas que são médicos estão fora do conjunto dos negligentes; logo, pelo menos alguns plantonistas não são negligentes. As premissas nada dizem sobre os plantonistas que não são médicos, que podem ou não ser negligentes.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.2.2-04",
+    "topicoId": "1.2.2",
+    "enunciado": "Considere: 'Se o hospital recebe o recurso, então amplia os leitos'; 'Se amplia os leitos, então reduz a fila'; 'O hospital recebeu o recurso'. A conclusão válida é:",
+    "alternativas": [
+      "A fila não foi reduzida.",
+      "O hospital não recebeu o recurso.",
+      "Nada se pode concluir sobre a fila.",
+      "Os leitos não foram ampliados.",
+      "A fila foi reduzida."
+    ],
+    "gabarito": "E",
+    "comentario": "Gabarito: E. Encadeando as condicionais (silogismo hipotético), 'se recebe o recurso, então reduz a fila'. Como o recurso foi recebido, por modus ponens, a fila foi reduzida.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.2.2-05",
+    "topicoId": "1.2.2",
+    "enunciado": "Considere as premissas 'Todo servidor é cidadão' e 'Nenhum cidadão está acima da lei'. Uma conclusão válida é:",
+    "alternativas": [
+      "Todo servidor está acima da lei.",
+      "Algum servidor está acima da lei.",
+      "Nenhum cidadão é servidor.",
+      "Nenhum servidor está acima da lei.",
+      "Todo cidadão é servidor."
+    ],
+    "gabarito": "D",
+    "comentario": "Gabarito: D. O conjunto dos servidores está contido no dos cidadãos, que não tem interseção com o dos que estão acima da lei. Portanto, nenhum servidor está acima da lei. 'Todo cidadão é servidor' inverte indevidamente a primeira premissa.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.2.2-06",
+    "topicoId": "1.2.2",
+    "enunciado": "Para que o argumento 'Todo enfermeiro é profissional de saúde. Logo, todo residente é profissional de saúde' se torne válido, basta acrescentar a premissa:",
+    "alternativas": [
+      "Todo residente é enfermeiro.",
+      "Todo enfermeiro é residente.",
+      "Nenhum residente é enfermeiro.",
+      "Algum residente é enfermeiro.",
+      "Todo profissional de saúde é residente."
+    ],
+    "gabarito": "A",
+    "comentario": "Gabarito: A. Com 'Todo residente é enfermeiro' e 'Todo enfermeiro é profissional de saúde', conclui-se que todo residente é profissional de saúde (transitividade da inclusão). 'Algum residente é enfermeiro' só garantiria que alguns residentes são profissionais de saúde.",
     "revisada": false,
     "origem": "ia"
   },
@@ -96,6 +224,102 @@
     "origem": "ia"
   },
   {
+    "id": "1.2.3-03",
+    "topicoId": "1.2.3",
+    "enunciado": "A tabela-verdade de uma proposição composta formada por quatro proposições simples distintas tem",
+    "alternativas": [
+      "4 linhas.",
+      "8 linhas.",
+      "12 linhas.",
+      "16 linhas.",
+      "32 linhas."
+    ],
+    "gabarito": "D",
+    "comentario": "Gabarito: D. Com n proposições simples, há 2ⁿ combinações de valores lógicos. Para n = 4, são 2⁴ = 16 linhas.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.2.3-04",
+    "topicoId": "1.2.3",
+    "enunciado": "É uma tautologia a proposição:",
+    "alternativas": [
+      "O exame é positivo se e somente se o paciente está doente.",
+      "O exame é positivo ou o paciente está doente.",
+      "Ou o exame é positivo, ou o exame não é positivo.",
+      "Se o exame é positivo, então o paciente está doente.",
+      "O exame é positivo e o exame não é positivo."
+    ],
+    "gabarito": "C",
+    "comentario": "Gabarito: C. Uma tautologia é sempre verdadeira, qualquer que seja o valor das proposições simples: 'p ou não p' é sempre verdadeira. 'p e não p' é contradição (sempre falsa), e as demais são contingências, cujo valor depende dos valores de p e q.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.2.3-05",
+    "topicoId": "1.2.3",
+    "enunciado": "A negação da proposição 'O paciente está febril ou está com dor' é:",
+    "alternativas": [
+      "O paciente está febril e não está com dor.",
+      "O paciente não está febril ou não está com dor.",
+      "O paciente não está febril ou está com dor.",
+      "Se o paciente não está febril, então está com dor.",
+      "O paciente não está febril e não está com dor."
+    ],
+    "gabarito": "E",
+    "comentario": "Gabarito: E. Pela lei de De Morgan, a negação de 'p ou q' é 'não p e não q'. A disjunção só é falsa quando os dois componentes são falsos: o paciente não tem febre nem dor.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.2.3-06",
+    "topicoId": "1.2.3",
+    "enunciado": "Sabendo que a proposição p é verdadeira e a proposição q é falsa, é verdadeira a proposição:",
+    "alternativas": [
+      "p ↔ q.",
+      "¬p ∨ q.",
+      "p ∧ q.",
+      "p ∨ q.",
+      "p → q."
+    ],
+    "gabarito": "D",
+    "comentario": "Gabarito: D. Com p verdadeira e q falsa: p ∨ q é verdadeira (basta um componente verdadeiro); p ∧ q é falsa; p → q é falsa (antecedente verdadeiro e consequente falso); ¬p ∨ q é falsa (F ∨ F); e p ↔ q é falsa (valores diferentes).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.2.3-07",
+    "topicoId": "1.2.3",
+    "enunciado": "É logicamente equivalente à proposição 'Se o exame é positivo, então o paciente é internado':",
+    "alternativas": [
+      "Se o paciente não é internado, então o exame não é positivo.",
+      "O exame é positivo e o paciente não é internado.",
+      "Se o exame não é positivo, então o paciente não é internado.",
+      "O exame não é positivo e o paciente é internado.",
+      "Se o paciente é internado, então o exame é positivo."
+    ],
+    "gabarito": "A",
+    "comentario": "Gabarito: A. A condicional 'se p, então q' equivale à sua contrapositiva 'se não q, então não p'. A recíproca ('se q, então p') e a inversa ('se não p, então não q') não são equivalentes. 'p e não q' é a negação da condicional.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.2.3-08",
+    "topicoId": "1.2.3",
+    "enunciado": "A negação da proposição 'O médico atendeu o paciente e a enfermeira registrou o prontuário' é:",
+    "alternativas": [
+      "O médico atendeu o paciente e a enfermeira não registrou o prontuário.",
+      "O médico não atendeu o paciente ou a enfermeira não registrou o prontuário.",
+      "O médico não atendeu o paciente e a enfermeira não registrou o prontuário.",
+      "Se o médico atendeu o paciente, então a enfermeira registrou o prontuário.",
+      "O médico atendeu o paciente ou a enfermeira registrou o prontuário."
+    ],
+    "gabarito": "B",
+    "comentario": "Gabarito: B. Pela lei de De Morgan, a negação de 'p e q' é 'não p ou não q': basta que uma das ações não tenha ocorrido para que a conjunção seja falsa.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
     "id": "1.2.4-01",
     "topicoId": "1.2.4",
     "enunciado": "A negação da proposição 'Todos os servidores do setor chegaram no horário' é:",
@@ -124,6 +348,54 @@
     ],
     "gabarito": "C",
     "comentario": "Gabarito: C. A negação de 'existe x com a propriedade P' é 'nenhum x tem a propriedade P'. 'Todos os processos foram arquivados com parecer' é mais forte do que a negação, pois exige que todos tenham sido arquivados, o que a proposição original não trata.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.2.4-03",
+    "topicoId": "1.2.4",
+    "enunciado": "A negação da proposição 'Nenhum paciente foi atendido com atraso' é:",
+    "alternativas": [
+      "Algum paciente não foi atendido com atraso.",
+      "Algum paciente foi atendido com atraso.",
+      "Todos os pacientes foram atendidos no horário.",
+      "Nenhum paciente foi atendido no horário.",
+      "Todos os pacientes foram atendidos com atraso."
+    ],
+    "gabarito": "B",
+    "comentario": "Gabarito: B. A negação de 'nenhum A é B' é 'algum A é B': basta um paciente atendido com atraso para que a afirmação original seja falsa. 'Todos foram atendidos com atraso' é mais forte do que a negação.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.2.4-04",
+    "topicoId": "1.2.4",
+    "enunciado": "É logicamente equivalente à proposição 'Todo servidor do setor é capacitado':",
+    "alternativas": [
+      "Algum servidor do setor é capacitado.",
+      "Nenhum servidor do setor é capacitado.",
+      "Não existe servidor do setor que não seja capacitado.",
+      "Todo profissional capacitado é servidor do setor.",
+      "Existe servidor do setor que não é capacitado."
+    ],
+    "gabarito": "C",
+    "comentario": "Gabarito: C. 'Todo A é B' equivale a 'não existe A que não seja B'. 'Algum servidor é capacitado' é consequência mais fraca, e não equivalente; 'todo capacitado é servidor' é a recíproca.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.2.4-05",
+    "topicoId": "1.2.4",
+    "enunciado": "A negação da proposição 'Algum exame não foi entregue no prazo' é:",
+    "alternativas": [
+      "Algum exame foi entregue fora do prazo.",
+      "Nenhum exame foi entregue no prazo.",
+      "Algum exame foi entregue no prazo.",
+      "Todos os exames foram entregues no prazo.",
+      "Todos os exames não foram entregues no prazo."
+    ],
+    "gabarito": "D",
+    "comentario": "Gabarito: D. A negação de 'algum A não é B' é 'todo A é B': para negar que existe exame fora do prazo, é preciso afirmar que todos foram entregues no prazo.",
     "revisada": false,
     "origem": "ia"
   },
@@ -160,6 +432,102 @@
     "origem": "ia"
   },
   {
+    "id": "1.2.5-03",
+    "topicoId": "1.2.5",
+    "enunciado": "O número de anagramas da palavra SAÚDE, desconsiderado o acento, é",
+    "alternativas": [
+      "24.",
+      "60.",
+      "100.",
+      "120.",
+      "720."
+    ],
+    "gabarito": "D",
+    "comentario": "Gabarito: D. A palavra tem 5 letras distintas (S, A, U, D, E). O número de anagramas é a permutação de 5 elementos: 5! = 5 × 4 × 3 × 2 × 1 = 120.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.2.5-04",
+    "topicoId": "1.2.5",
+    "enunciado": "Uma senha de acesso ao sistema de prontuários é formada por 3 algarismos distintos, escolhidos de 0 a 9. O número de senhas possíveis é",
+    "alternativas": [
+      "120.",
+      "504.",
+      "720.",
+      "900.",
+      "1.000."
+    ],
+    "gabarito": "C",
+    "comentario": "Gabarito: C. Pelo princípio multiplicativo, há 10 opções para o 1º algarismo, 9 para o 2º e 8 para o 3º: 10 × 9 × 8 = 720. Como a ordem importa, trata-se de arranjo, e não de combinação (que daria 120).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.2.5-05",
+    "topicoId": "1.2.5",
+    "enunciado": "Um conselho de saúde com 8 membros escolherá, entre eles, um presidente e um vice-presidente. O número de maneiras distintas de fazer essa escolha é",
+    "alternativas": [
+      "16.",
+      "28.",
+      "56.",
+      "64.",
+      "112."
+    ],
+    "gabarito": "C",
+    "comentario": "Gabarito: C. Como os cargos são diferentes, a ordem importa: arranjo de 8 elementos tomados 2 a 2, A(8,2) = 8 × 7 = 56. Se fossem dois cargos iguais, seria combinação: C(8,2) = 28.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.2.5-06",
+    "topicoId": "1.2.5",
+    "enunciado": "Lançam-se dois dados comuns, não viciados. A probabilidade de que a soma dos resultados seja 7 é",
+    "alternativas": [
+      "1/12.",
+      "1/9.",
+      "1/6.",
+      "7/36.",
+      "1/3."
+    ],
+    "gabarito": "C",
+    "comentario": "Gabarito: C. Há 36 resultados igualmente prováveis. A soma 7 ocorre em 6 deles: (1,6), (2,5), (3,4), (4,3), (5,2) e (6,1). A probabilidade é 6/36 = 1/6.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.2.5-07",
+    "topicoId": "1.2.5",
+    "enunciado": "Uma moeda não viciada é lançada três vezes. A probabilidade de sair cara pelo menos uma vez é",
+    "alternativas": [
+      "1/8.",
+      "3/8.",
+      "1/2.",
+      "3/4.",
+      "7/8."
+    ],
+    "gabarito": "E",
+    "comentario": "Gabarito: E. É mais simples calcular pelo evento complementar: a probabilidade de não sair nenhuma cara (três coroas) é (1/2)³ = 1/8. Logo, a de sair ao menos uma cara é 1 − 1/8 = 7/8.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.2.5-08",
+    "topicoId": "1.2.5",
+    "enunciado": "Em um setor com 40 servidores, 25 são mulheres. Entre as mulheres, 10 são enfermeiras; entre os homens, 6 são enfermeiros. Sorteando-se ao acaso um profissional de enfermagem do setor, a probabilidade de que seja mulher é",
+    "alternativas": [
+      "1/4.",
+      "5/16.",
+      "2/5.",
+      "5/8.",
+      "3/4."
+    ],
+    "gabarito": "D",
+    "comentario": "Gabarito: D. O sorteio é feito apenas entre os profissionais de enfermagem: 10 mulheres + 6 homens = 16. A probabilidade condicional é 10/16 = 5/8. Quem divide por 40 (total do setor) erra o espaço amostral.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
     "id": "1.2.6-01",
     "topicoId": "1.2.6",
     "enunciado": "Em um grupo de 120 servidores, 70 fizeram o curso A, 50 fizeram o curso B e 20 fizeram os dois cursos. O número de servidores do grupo que não fizeram nenhum dos dois cursos é",
@@ -188,6 +556,70 @@
     ],
     "gabarito": "E",
     "comentario": "Gabarito: E. A diferença A − B reúne os elementos que pertencem a A e não pertencem a B: {1, 2, 3}. {4, 5} é a interseção, {6, 7} é B − A, {1, 2, 3, 6, 7} é a diferença simétrica e {1, 2, 3, 4, 5, 6, 7} é a união.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.2.6-03",
+    "topicoId": "1.2.6",
+    "enunciado": "Um conjunto com 5 elementos possui quantos subconjuntos, incluídos o conjunto vazio e o próprio conjunto?",
+    "alternativas": [
+      "10.",
+      "25.",
+      "31.",
+      "32.",
+      "120."
+    ],
+    "gabarito": "D",
+    "comentario": "Gabarito: D. Um conjunto com n elementos tem 2ⁿ subconjuntos. Para n = 5, são 2⁵ = 32, contando o vazio e o próprio conjunto. O valor 31 esquece um deles.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.2.6-04",
+    "topicoId": "1.2.6",
+    "enunciado": "Em uma pesquisa com 100 servidores, 50 fizeram o curso A, 40 o curso B e 30 o curso C; 15 fizeram A e B, 10 fizeram A e C, 8 fizeram B e C, e 5 fizeram os três cursos. Quantos servidores não fizeram nenhum dos três cursos?",
+    "alternativas": [
+      "0.",
+      "3.",
+      "8.",
+      "13.",
+      "18."
+    ],
+    "gabarito": "C",
+    "comentario": "Gabarito: C. Pelo princípio da inclusão-exclusão: n(A∪B∪C) = 50 + 40 + 30 − 15 − 10 − 8 + 5 = 92. Logo, 100 − 92 = 8 servidores não fizeram nenhum curso.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.2.6-05",
+    "topicoId": "1.2.6",
+    "enunciado": "Na mesma pesquisa (100 servidores; 50 no curso A, 40 no B, 30 no C; 15 em A e B, 10 em A e C, 8 em B e C; 5 nos três), o número de servidores que fizeram apenas o curso A é",
+    "alternativas": [
+      "20.",
+      "25.",
+      "30.",
+      "35.",
+      "40."
+    ],
+    "gabarito": "C",
+    "comentario": "Gabarito: C. Apenas A = n(A) − n(A∩B) − n(A∩C) + n(A∩B∩C) = 50 − 15 − 10 + 5 = 30. Soma-se de volta o 5 porque os que fizeram os três cursos foram descontados duas vezes.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.2.6-06",
+    "topicoId": "1.2.6",
+    "enunciado": "Sejam A = {1, 2, 3, 4} e B = {3, 4, 5}. O número de elementos do produto cartesiano A × B é",
+    "alternativas": [
+      "5.",
+      "7.",
+      "9.",
+      "12.",
+      "16."
+    ],
+    "gabarito": "D",
+    "comentario": "Gabarito: D. O produto cartesiano A × B reúne todos os pares ordenados (a, b) com a em A e b em B. Seu número de elementos é n(A) × n(B) = 4 × 3 = 12. O valor 5 é o número de elementos de A ∪ B.",
     "revisada": false,
     "origem": "ia"
   },
@@ -236,6 +668,86 @@
     ],
     "gabarito": "B",
     "comentario": "Gabarito: B. Na diagonal principal, i = j, então aii = 2i − i = i. Os elementos são a11 = 1, a22 = 2 e a33 = 3, e a soma é 6. O valor 18 é a soma de todos os nove elementos da matriz.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.2.7-04",
+    "topicoId": "1.2.7",
+    "enunciado": "Seis enfermeiros fazem a triagem de um lote de pacientes em 8 horas. Mantido o mesmo ritmo de trabalho, quatro enfermeiros fariam a triagem do mesmo lote em",
+    "alternativas": [
+      "5 h 20 min.",
+      "10 h.",
+      "12 h.",
+      "14 h.",
+      "16 h."
+    ],
+    "gabarito": "C",
+    "comentario": "Gabarito: C. Número de enfermeiros e tempo são inversamente proporcionais: 6 × 8 = 4 × t, logo t = 48/4 = 12 horas. Quem trata a relação como direta chega a 5 h 20 min.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.2.7-05",
+    "topicoId": "1.2.7",
+    "enunciado": "Um município aplicou R$ 45 milhões em ações e serviços públicos de saúde, o que correspondeu exatamente a 15% de sua base de cálculo. Essa base de cálculo era de",
+    "alternativas": [
+      "R$ 250 milhões.",
+      "R$ 270 milhões.",
+      "R$ 300 milhões.",
+      "R$ 450 milhões.",
+      "R$ 675 milhões."
+    ],
+    "gabarito": "C",
+    "comentario": "Gabarito: C. Se 15% da base equivalem a R$ 45 milhões, a base é 45 ÷ 0,15 = R$ 300 milhões. O valor de R$ 675 milhões resulta de multiplicar 45 por 15, em vez de dividir.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.2.7-06",
+    "topicoId": "1.2.7",
+    "enunciado": "O piso de uma sala retangular de 6 m por 4 m será revestido com placas quadradas de 50 cm de lado. O número mínimo de placas necessárias é",
+    "alternativas": [
+      "24.",
+      "48.",
+      "96.",
+      "100.",
+      "192."
+    ],
+    "gabarito": "C",
+    "comentario": "Gabarito: C. A área da sala é 6 × 4 = 24 m², e cada placa tem 0,5 × 0,5 = 0,25 m². São necessárias 24 ÷ 0,25 = 96 placas. Quem usa 0,5 m² por placa chega a 48.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.2.7-07",
+    "topicoId": "1.2.7",
+    "enunciado": "O determinante da matriz A, de ordem 2, cuja primeira linha é (2, 3) e cuja segunda linha é (1, 4), é",
+    "alternativas": [
+      "−5.",
+      "3.",
+      "5.",
+      "10.",
+      "11."
+    ],
+    "gabarito": "C",
+    "comentario": "Gabarito: C. Para matriz 2 × 2, o determinante é o produto da diagonal principal menos o da secundária: 2 × 4 − 3 × 1 = 8 − 3 = 5. Somar os produtos daria 11.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.2.7-08",
+    "topicoId": "1.2.7",
+    "enunciado": "Em uma progressão aritmética, o primeiro termo é 3 e a razão é 4. O décimo termo dessa progressão é",
+    "alternativas": [
+      "35.",
+      "39.",
+      "43.",
+      "120.",
+      "210."
+    ],
+    "gabarito": "B",
+    "comentario": "Gabarito: B. O termo geral da PA é aₙ = a₁ + (n − 1) × r. Assim, a₁₀ = 3 + 9 × 4 = 39. O valor 43 usa n em vez de n − 1, e 210 é a soma dos dez primeiros termos.",
     "revisada": false,
     "origem": "ia"
   }
