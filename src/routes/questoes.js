@@ -3,20 +3,28 @@ import { FieldValue } from "firebase-admin/firestore";
 import { db } from "../firebase.js";
 import { exigirAdmin } from "../admin.js";
 
+// Questões do concurso em req.concurso (ver src/concursos.js).
+//
+// No Firestore, cada concurso é um documento da coleção "concursos":
+//   concursos/{concursoId}                  { atualizadoEm }  (versão da lista)
+//   concursos/{concursoId}/questoes/{id}    uma questão
+//
+// O campo atualizadoEm guarda a data da última alteração nas questões do concurso.
+// O front-end consulta só ele (1 leitura) para saber se a lista salva no aparelho
+// ainda está atual, sem precisar baixar todas as questões.
 const router = Router();
-const questoesRef = db.collection("questoes");
 const agora = () => FieldValue.serverTimestamp();
 
-// Documento único com a data da última alteração na coleção "questoes".
-// O front-end consulta só ele (1 leitura) para saber se a lista salva no
-// navegador ainda está atual, sem precisar baixar todas as questões.
-const versaoRef = db.collection("meta").doc("questoes");
+function refs(req) {
+  const versaoRef = db.collection("concursos").doc(req.concurso.id);
+  return { versaoRef, questoesRef: versaoRef.collection("questoes") };
+}
 
 /**
- * Cria um lote de escrita que, além das operações da rota, marca a coleção
- * como alterada. O lote é atômico: ou grava tudo, ou nada.
+ * Cria um lote de escrita que, além das operações da rota, marca as questões do
+ * concurso como alteradas. O lote é atômico: ou grava tudo, ou nada.
  */
-function loteComVersao() {
+function loteComVersao(versaoRef) {
   const lote = db.batch();
   lote.set(versaoRef, { atualizadoEm: agora() }, { merge: true });
   return lote;
@@ -33,7 +41,7 @@ function corpoVazio(req, res) {
 // Listar todas
 router.get("/", async (req, res, next) => {
   try {
-    const snapshot = await questoesRef.get();
+    const snapshot = await refs(req).questoesRef.get();
     res.json(snapshot.docs.map((d) => ({ id: d.id, ...d.data() })));
   } catch (err) {
     next(err);
@@ -44,7 +52,7 @@ router.get("/", async (req, res, next) => {
 // Declarada antes de "/:id" para não ser confundida com um id de questão.
 router.get("/versao", async (req, res, next) => {
   try {
-    const snap = await versaoRef.get();
+    const snap = await refs(req).versaoRef.get();
     const atualizadoEm = snap.exists ? (snap.data().atualizadoEm?.toMillis() ?? null) : null;
     res.set("Cache-Control", "no-store"); // precisa refletir sempre o valor atual
     res.json({ atualizadoEm });
@@ -56,7 +64,7 @@ router.get("/versao", async (req, res, next) => {
 // Buscar por id
 router.get("/:id", async (req, res, next) => {
   try {
-    const snap = await questoesRef.doc(req.params.id).get();
+    const snap = await refs(req).questoesRef.doc(req.params.id).get();
     if (!snap.exists) return res.status(404).json({ erro: "Questão não encontrada" });
     res.json({ id: snap.id, ...snap.data() });
   } catch (err) {
@@ -71,7 +79,8 @@ router.get("/:id", async (req, res, next) => {
 // editar questões direto no console do Firebase.
 router.post("/versao", exigirAdmin, async (req, res, next) => {
   try {
-    await loteComVersao().commit();
+    const { versaoRef } = refs(req);
+    await loteComVersao(versaoRef).commit();
     const snap = await versaoRef.get();
     res.json({ atualizadoEm: snap.data().atualizadoEm?.toMillis() ?? null });
   } catch (err) {
@@ -83,9 +92,10 @@ router.post("/versao", exigirAdmin, async (req, res, next) => {
 router.post("/", exigirAdmin, async (req, res, next) => {
   try {
     if (corpoVazio(req, res)) return;
+    const { versaoRef, questoesRef } = refs(req);
     const { id, criadoEm, atualizadoEm, ...dados } = req.body; // campos controlados pela API
     const novo = questoesRef.doc(); // gera o id antes de gravar
-    const lote = loteComVersao();
+    const lote = loteComVersao(versaoRef);
     lote.set(novo, { ...dados, criadoEm: agora() });
     await lote.commit();
     res.status(201).json({ id: novo.id, ...dados });
@@ -98,11 +108,12 @@ router.post("/", exigirAdmin, async (req, res, next) => {
 router.put("/:id", exigirAdmin, async (req, res, next) => {
   try {
     if (corpoVazio(req, res)) return;
+    const { versaoRef, questoesRef } = refs(req);
     const ref = questoesRef.doc(req.params.id);
     const snap = await ref.get();
     const { id, criadoEm, atualizadoEm, ...dados } = req.body; // campos controlados pela API
 
-    const lote = loteComVersao();
+    const lote = loteComVersao(versaoRef);
     lote.set(ref, {
       ...dados,
       criadoEm: snap.exists ? snap.data().criadoEm : agora(),
@@ -119,11 +130,12 @@ router.put("/:id", exigirAdmin, async (req, res, next) => {
 router.patch("/:id", exigirAdmin, async (req, res, next) => {
   try {
     if (corpoVazio(req, res)) return;
+    const { versaoRef, questoesRef } = refs(req);
     const ref = questoesRef.doc(req.params.id);
     const snap = await ref.get();
     if (!snap.exists) return res.status(404).json({ erro: "Questão não encontrada" });
     const { id, criadoEm, atualizadoEm, ...dados } = req.body; // campos controlados pela API
-    const lote = loteComVersao();
+    const lote = loteComVersao(versaoRef);
     lote.update(ref, { ...dados, atualizadoEm: agora() });
     await lote.commit();
     res.json({ id: req.params.id, ...dados });
@@ -135,7 +147,8 @@ router.patch("/:id", exigirAdmin, async (req, res, next) => {
 // Remover
 router.delete("/:id", exigirAdmin, async (req, res, next) => {
   try {
-    const lote = loteComVersao();
+    const { versaoRef, questoesRef } = refs(req);
+    const lote = loteComVersao(versaoRef);
     lote.delete(questoesRef.doc(req.params.id));
     await lote.commit();
     res.status(204).end();

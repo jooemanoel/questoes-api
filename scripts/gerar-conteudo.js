@@ -1,11 +1,21 @@
-// Gera data/conteudo.json a partir de um markdown numerado (ex.: "#### 1.1.1.1 Texto").
-// Uso: node scripts/gerar-conteudo.js <caminho/conteudo.md> [saida.json]
-import { readFileSync, writeFileSync, mkdirSync } from "node:fs";
+// Gera o conteudo.json de um concurso a partir de um markdown numerado (ex.: "#### 1.1.1.1 Texto").
+// Uso:
+//   node scripts/gerar-conteudo.js <conteudo.md> --concurso=<id>   grava em data/concursos/<id>/conteudo.json
+//   node scripts/gerar-conteudo.js <conteudo.md> <saida.json>      grava onde indicado
+import { readFileSync, writeFileSync, mkdirSync, existsSync } from "node:fs";
 import { dirname } from "node:path";
 
-const [entrada, saida = "data/conteudo.json"] = process.argv.slice(2);
-if (!entrada) {
-  console.error("Uso: node scripts/gerar-conteudo.js <conteudo.md> [saida.json]");
+const args = process.argv.slice(2);
+const concurso = args.find((a) => a.startsWith("--concurso="))?.slice("--concurso=".length);
+const [entrada, saidaInformada] = args.filter((a) => !a.startsWith("--"));
+const saida = saidaInformada || (concurso && `data/concursos/${concurso}/conteudo.json`);
+
+if (!entrada || !saida) {
+  console.error("Uso: node scripts/gerar-conteudo.js <conteudo.md> --concurso=<id>  (ou <saida.json>)");
+  process.exit(1);
+}
+if (concurso && !existsSync(`data/concursos/${concurso}/concurso.json`)) {
+  console.error(`Concurso ${concurso} não encontrado: crie antes data/concursos/${concurso}/concurso.json`);
   process.exit(1);
 }
 

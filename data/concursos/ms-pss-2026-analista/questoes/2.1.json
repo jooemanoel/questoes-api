@@ -1,0 +1,274 @@
+[
+  {
+    "id": "2.1.1.1-01",
+    "topicoId": "2.1.1.1",
+    "enunciado": "De acordo com a Lei nº 8.080/1990, as ações e os serviços públicos de saúde e os serviços privados contratados ou conveniados que integram o SUS obedecem, entre outros, ao princípio da",
+    "alternativas": [
+      "centralização político-administrativa, com direção exercida pelo Ministério da Saúde em todas as esferas de governo.",
+      "universalidade de acesso aos serviços de saúde em todos os níveis de assistência.",
+      "gratuidade restrita aos usuários que comprovem insuficiência de recursos.",
+      "seletividade da assistência, conforme a capacidade contributiva do usuário.",
+      "integralidade da assistência, limitada aos procedimentos de média e alta complexidade."
+    ],
+    "gabarito": "B",
+    "comentario": "Gabarito: B. A universalidade de acesso aos serviços de saúde em todos os níveis de assistência é o primeiro princípio do art. 7º da Lei nº 8.080/1990. A descentralização (e não a centralização) é princípio, com direção única em cada esfera de governo; o acesso não depende de renda nem de contribuição; e a integralidade abrange todos os níveis de complexidade.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.1.1.2-01",
+    "topicoId": "2.1.1.2",
+    "enunciado": "Segundo a Lei nº 8.080/1990, a direção do SUS é única e, no âmbito dos municípios, é exercida",
+    "alternativas": [
+      "pela Comissão Intergestores Bipartite do respectivo estado.",
+      "pelo Conselho Municipal de Saúde, de caráter permanente e deliberativo.",
+      "pela Secretaria Estadual de Saúde, por delegação do Ministério da Saúde.",
+      "pela respectiva Secretaria de Saúde ou órgão equivalente.",
+      "pela União, por meio do Fundo Nacional de Saúde."
+    ],
+    "gabarito": "D",
+    "comentario": "Gabarito: D. Pelo art. 9º da Lei nº 8.080/1990, a direção única do SUS é exercida, na União, pelo Ministério da Saúde e, nos estados, no DF e nos municípios, pela respectiva Secretaria de Saúde ou órgão equivalente. A CIB é foro de negociação e pactuação entre gestores (art. 14-A), e o Conselho de Saúde atua na formulação de estratégias e no controle da execução da política, sem dirigir o sistema.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.1.1.3-01",
+    "topicoId": "2.1.1.3",
+    "enunciado": "Nos termos da Lei nº 8.080/1990, ao Distrito Federal competem",
+    "alternativas": [
+      "as atribuições reservadas aos estados e aos municípios.",
+      "apenas as atribuições reservadas aos estados, cabendo à União as de natureza municipal.",
+      "apenas as atribuições reservadas aos municípios, uma vez que o DF não se divide em municípios.",
+      "as atribuições que lhe forem delegadas pela Comissão Intergestores Tripartite.",
+      "as atribuições da direção nacional do SUS, no limite do seu território."
+    ],
+    "gabarito": "A",
+    "comentario": "Gabarito: A. O art. 19 da Lei nº 8.080/1990 atribui ao Distrito Federal as competências reservadas aos estados e aos municípios, o que reflete sua natureza híbrida na Federação. A lei não condiciona essas atribuições a delegação da CIT, e a direção nacional do SUS cabe à União, pelo Ministério da Saúde.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.1.1.4-01",
+    "topicoId": "2.1.1.4",
+    "enunciado": "Quanto ao Subsistema de Atenção à Saúde Indígena, previsto na Lei nº 8.080/1990, é correto afirmar que",
+    "alternativas": [
+      "é um sistema paralelo ao SUS, gerido exclusivamente pelo órgão indigenista federal, sem articulação com a rede do SUS.",
+      "seu financiamento cabe exclusivamente aos municípios em cujo território se localizam as terras indígenas, com apoio técnico da União.",
+      "cabe à União, com recursos próprios, financiá-lo, podendo estados, municípios e outras instituições atuar complementarmente no custeio e na execução das ações.",
+      "sua organização deve ser centralizada, para assegurar a padronização nacional dos serviços, independentemente das especificidades culturais dos povos atendidos.",
+      "as populações indígenas atendidas por ele não têm acesso às unidades do SUS situadas fora do subsistema."
+    ],
+    "gabarito": "C",
+    "comentario": "Gabarito: C. O subsistema é componente do SUS (art. 19-B), financiado pela União com recursos próprios (art. 19-C), com atuação complementar de estados, municípios e outras instituições (art. 19-E). Ele deve ser descentralizado, hierarquizado e regionalizado e considerar a realidade local e as especificidades da cultura dos povos indígenas, que têm acesso garantido ao SUS conforme suas necessidades.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.1.1.5-01",
+    "topicoId": "2.1.1.5",
+    "enunciado": "De acordo com a Lei nº 8.080/1990, a incorporação, a exclusão ou a alteração, pelo SUS, de novos medicamentos, produtos e procedimentos será efetuada mediante processo administrativo, a ser concluído em prazo não superior a",
+    "alternativas": [
+      "90 dias, contados da data do protocolo do pedido, prorrogável por 30 dias corridos, quando as circunstâncias exigirem.",
+      "120 dias, contados da publicação do pedido no Diário Oficial da União, sem possibilidade de prorrogação.",
+      "180 dias, contados da data do protocolo do pedido, vedada a prorrogação, mesmo quando as circunstâncias exigirem.",
+      "1 ano, contado da data do protocolo do pedido, admitida a prorrogação por igual período, quando as circunstâncias exigirem.",
+      "180 dias, contados da data do protocolo do pedido, admitida a prorrogação por 90 dias corridos."
+    ],
+    "gabarito": "E",
+    "comentario": "Gabarito: E. É o art. 19-R da Lei nº 8.080/1990: o processo administrativo deve ser concluído em até 180 dias do protocolo, prorrogáveis por 90 dias corridos quando as circunstâncias exigirem. A decisão cabe ao Ministério da Saúde, assessorado pela Conitec (art. 19-Q).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.1.1.6-01",
+    "topicoId": "2.1.1.6",
+    "enunciado": "Conforme a Lei nº 8.080/1990, a participação complementar da iniciativa privada no SUS",
+    "alternativas": [
+      "é admitida quando as disponibilidades do SUS forem insuficientes para garantir a cobertura assistencial de determinada área, por contrato ou convênio.",
+      "independe da insuficiência da rede pública e pode ser formalizada por simples credenciamento, sem as normas de direito público, desde que a contratação seja vantajosa.",
+      "é vedada às entidades filantrópicas, que só podem atuar no SUS mediante doação de serviços, sem contrapartida financeira.",
+      "deve dar preferência às empresas com fins lucrativos de maior capacidade instalada na região, formalizada a participação por credenciamento.",
+      "é formalizada por ato unilateral do gestor, dispensados contrato ou convênio, desde que haja dotação orçamentária suficiente."
+    ],
+    "gabarito": "A",
+    "comentario": "Gabarito: A. Pelo art. 24 da Lei nº 8.080/1990, o SUS pode recorrer aos serviços privados quando suas disponibilidades forem insuficientes para garantir a cobertura assistencial de determinada área, por contrato ou convênio, observadas as normas de direito público. O art. 25 dá preferência às entidades filantrópicas e às sem fins lucrativos.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.1.1.7-01",
+    "topicoId": "2.1.1.7",
+    "enunciado": "Segundo a Lei nº 8.080/1990, os recursos financeiros do SUS serão",
+    "alternativas": [
+      "recolhidos à conta única do Tesouro Nacional e movimentados sob fiscalização exclusiva do Tribunal de Contas da União.",
+      "depositados em conta especial do Ministério da Saúde, que os movimenta diretamente em todas as esferas, dispensada a fiscalização dos conselhos.",
+      "depositados em conta especial, em cada esfera de sua atuação, e movimentados sob fiscalização dos respectivos Conselhos de Saúde.",
+      "administrados, na esfera federal, pela Secretaria do Tesouro Nacional, por meio de fundo vinculado ao Ministério da Fazenda.",
+      "geridos pelas Comissões Intergestores, que deliberam sobre sua aplicação em cada esfera de governo."
+    ],
+    "gabarito": "C",
+    "comentario": "Gabarito: C. Pelo art. 33 da Lei nº 8.080/1990, os recursos do SUS são depositados em conta especial, em cada esfera de atuação, e movimentados sob fiscalização dos respectivos Conselhos de Saúde. Na esfera federal, são administrados pelo Ministério da Saúde, por meio do Fundo Nacional de Saúde (§ 1º).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.1.2.1-01",
+    "topicoId": "2.1.2.1",
+    "enunciado": "De acordo com a Lei nº 8.142/1990, a Conferência de Saúde",
+    "alternativas": [
+      "tem caráter permanente e deliberativo, e suas decisões são homologadas pelo chefe do poder legalmente constituído em cada esfera de governo, após aprovação do Legislativo.",
+      "reúne-se a cada quatro anos, com representação dos vários segmentos sociais, para avaliar a situação de saúde e propor diretrizes para a política de saúde.",
+      "reúne-se a cada dois anos, convocada exclusivamente pelo Conselho Nacional de Saúde, para aprovar o orçamento da saúde de cada esfera.",
+      "é composta apenas por representantes do governo e dos prestadores de serviço, e os usuários participam somente dos conselhos.",
+      "existe somente no âmbito federal, cabendo aos estados e aos municípios apenas os conselhos de saúde, de caráter permanente."
+    ],
+    "gabarito": "B",
+    "comentario": "Gabarito: B. É o art. 1º, § 1º, da Lei nº 8.142/1990. A Conferência é convocada pelo Poder Executivo ou, extraordinariamente, por ela própria ou pelo Conselho de Saúde. O caráter permanente e deliberativo, com homologação das decisões pelo chefe do poder, é do Conselho (§ 2º). As duas instâncias existem em cada esfera de governo, e a representação dos usuários é paritária em relação ao conjunto dos demais segmentos (§ 4º).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.1.2.2-01",
+    "topicoId": "2.1.2.2",
+    "enunciado": "Nos termos da Lei nº 8.142/1990, caso municípios, estados ou o Distrito Federal deixem de atender aos requisitos para receber os recursos de que trata a lei, como contar com fundo de saúde, conselho de saúde e plano de saúde, os recursos correspondentes serão",
+    "alternativas": [
+      "devolvidos ao Tesouro Nacional e redistribuídos entre os entes que cumprirem os requisitos.",
+      "bloqueados até a regularização, vedada sua administração por outro ente da Federação.",
+      "transferidos diretamente às entidades filantrópicas que prestam serviços ao SUS no território do ente.",
+      "administrados, respectivamente, pelos estados ou pela União.",
+      "geridos pelo Conselho Nacional de Saúde até que o ente comprove o atendimento dos requisitos."
+    ],
+    "gabarito": "D",
+    "comentario": "Gabarito: D. O parágrafo único do art. 4º da Lei nº 8.142/1990 determina que, descumpridos os requisitos, os recursos sejam administrados, respectivamente, pelos estados ou pela União. Os requisitos são: fundo de saúde; conselho de saúde paritário; plano de saúde; relatórios de gestão; contrapartida de recursos no orçamento; e comissão de elaboração do plano de carreira, cargos e salários (PCCS).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.1.3.1-01",
+    "topicoId": "2.1.3.1",
+    "enunciado": "Segundo o Decreto nº 7.508/2011, NÃO constitui Porta de Entrada às ações e aos serviços de saúde nas Redes de Atenção à Saúde o serviço de",
+    "alternativas": [
+      "atenção primária.",
+      "atenção de urgência e emergência.",
+      "atenção psicossocial.",
+      "caráter especial de acesso aberto.",
+      "atenção ambulatorial especializada."
+    ],
+    "gabarito": "E",
+    "comentario": "Gabarito: E. O art. 9º do Decreto nº 7.508/2011 lista como Portas de Entrada os serviços de atenção primária, de urgência e emergência, de atenção psicossocial e os especiais de acesso aberto. A atenção ambulatorial especializada integra o mínimo de uma Região de Saúde (art. 5º), mas é acessada por referência a partir das Portas de Entrada. Novas portas podem ser criadas com justificativa técnica e pactuação nas Comissões Intergestores.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.1.3.2-01",
+    "topicoId": "2.1.3.2",
+    "enunciado": "Conforme o Decreto nº 7.508/2011, a Relação Nacional de Medicamentos Essenciais (RENAME)",
+    "alternativas": [
+      "compreende a seleção e a padronização de medicamentos indicados para atendimento de doenças ou de agravos no âmbito do SUS e é acompanhada do Formulário Terapêutico Nacional.",
+      "é o conjunto de todas as ações e serviços de saúde que o SUS oferece ao usuário para atendimento da integralidade da assistência.",
+      "é o documento que estabelece critérios para o diagnóstico da doença ou do agravo, o tratamento preconizado, as posologias recomendadas e os mecanismos de controle clínico.",
+      "é a descrição geográfica da distribuição de recursos humanos e de ações e serviços de saúde ofertados pelo SUS e pela iniciativa privada.",
+      "é o acordo de colaboração firmado entre entes federativos para organizar e integrar as ações e os serviços de saúde na rede regionalizada e hierarquizada."
+    ],
+    "gabarito": "A",
+    "comentario": "Gabarito: A. É a definição do art. 25 do Decreto nº 7.508/2011. As demais alternativas descrevem, na ordem, a RENASES (art. 21), o Protocolo Clínico e Diretriz Terapêutica, o Mapa da Saúde e o Contrato Organizativo da Ação Pública da Saúde (COAP), os três últimos definidos no art. 2º.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.1.3.3-01",
+    "topicoId": "2.1.3.3",
+    "enunciado": "Segundo o Decreto nº 7.508/2011, a Comissão Intergestores Regional (CIR)",
+    "alternativas": [
+      "atua no âmbito da União e, assim como a CIT, é vinculada ao Ministério da Saúde para efeitos administrativos e operacionais.",
+      "é instância deliberativa composta paritariamente por usuários e pelos demais segmentos, nos termos da Lei nº 8.142/1990.",
+      "atua no âmbito regional, vincula-se à Secretaria Estadual de Saúde e deve observar as diretrizes da CIB.",
+      "atua no âmbito regional, vincula-se ao município-polo da região e não se submete às diretrizes de outras comissões.",
+      "substitui a Comissão Intergestores Bipartite nos estados que tenham instituído Regiões de Saúde, assumindo a pactuação estadual."
+    ],
+    "gabarito": "C",
+    "comentario": "Gabarito: C. Pelo art. 30 do Decreto nº 7.508/2011, a CIT atua no âmbito da União, vinculada ao Ministério da Saúde; a CIB, no do estado; e a CIR, no regional, ambas vinculadas à Secretaria Estadual de Saúde, e a CIR observa as diretrizes da CIB. As comissões intergestores são instâncias de pactuação consensual entre gestores; a composição paritária com usuários é própria dos conselhos de saúde.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.1.4-01",
+    "topicoId": "2.1.4",
+    "enunciado": "Nos termos do Decreto nº 1.232/1994, os recursos do Orçamento da Seguridade Social alocados ao Fundo Nacional de Saúde e destinados à cobertura de ações e serviços de saúde a cargo de estados, Distrito Federal e municípios são transferidos",
+    "alternativas": [
+      "somente mediante convênio firmado com cada ente, após aprovação do plano de trabalho pelo Ministério da Saúde e da prestação de contas anterior.",
+      "independentemente de convênio, desde que o ente tenha fundo de saúde e plano de saúde aprovado pelo respectivo Conselho de Saúde.",
+      "por meio de contrato de repasse celebrado com instituição financeira oficial, que fiscaliza a execução das ações.",
+      "diretamente às unidades prestadoras de serviço, sem passar pelos fundos de saúde dos entes, conforme a produção registrada no mês anterior.",
+      "independentemente de qualquer condição, por se tratar de transferência constitucional obrigatória, vedada a exigência de plano de saúde."
+    ],
+    "gabarito": "B",
+    "comentario": "Gabarito: B. O art. 1º do Decreto nº 1.232/1994 prevê a transferência fundo a fundo, independentemente de convênio, e o art. 2º a condiciona à existência de fundo de saúde e à apresentação de plano de saúde aprovado pelo Conselho de Saúde, com contrapartida de recursos no orçamento do ente. Os recursos são movimentados sob fiscalização do Conselho, sem prejuízo do controle interno e do TCU (art. 3º).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.1.5.1-01",
+    "topicoId": "2.1.5.1",
+    "enunciado": "Para efeito de apuração da aplicação dos recursos mínimos previstos na Lei Complementar nº 141/2012, NÃO constituem despesas com ações e serviços públicos de saúde as referentes a",
+    "alternativas": [
+      "vigilância em saúde, incluindo a epidemiológica e a sanitária.",
+      "capacitação do pessoal de saúde do SUS.",
+      "produção, aquisição e distribuição de insumos específicos dos serviços de saúde do SUS, como imunobiológicos, sangue e hemoderivados e medicamentos.",
+      "pagamento de aposentadorias e pensões, inclusive dos servidores da saúde.",
+      "remuneração do pessoal ativo da área de saúde em atividade nas ações de que trata a lei complementar."
+    ],
+    "gabarito": "D",
+    "comentario": "Gabarito: D. O art. 4º, I, da LC nº 141/2012 exclui do cômputo o pagamento de aposentadorias e pensões, inclusive dos servidores da saúde. As demais alternativas estão no art. 3º, que lista as despesas que contam como ações e serviços públicos de saúde. Também não contam, por exemplo, merenda escolar, limpeza urbana, assistência social e obras de infraestrutura.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.1.5.2-01",
+    "topicoId": "2.1.5.2",
+    "enunciado": "De acordo com a Lei Complementar nº 141/2012, os estados e os municípios aplicarão anualmente em ações e serviços públicos de saúde, no mínimo, os seguintes percentuais da arrecadação dos impostos e das transferências constitucionais indicados na lei, respectivamente:",
+    "alternativas": [
+      "15% e 12%.",
+      "10% e 15%.",
+      "12% e 25%.",
+      "15% e 15%.",
+      "12% e 15%."
+    ],
+    "gabarito": "E",
+    "comentario": "Gabarito: E. Os estados aplicam, no mínimo, 12% (art. 6º) e os municípios, no mínimo, 15% (art. 7º) da arrecadação dos impostos e das transferências constitucionais indicados na LC nº 141/2012. O Distrito Federal observa os dois percentuais, conforme a base de cada receita (arts. 6º a 8º). Não confunda com o mínimo de 25% para a educação.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.1.5.3-01",
+    "topicoId": "2.1.5.3",
+    "enunciado": "Segundo a Lei Complementar nº 141/2012, o Fundo de Saúde",
+    "alternativas": [
+      "é instituído por lei, mantido pela administração direta do ente e constitui unidade orçamentária e gestora dos recursos da saúde.",
+      "é instituído por decreto do chefe do Poder Executivo e pode ser mantido por entidade da administração indireta, como uma fundação pública.",
+      "é gerido pelo Conselho de Saúde, que executa diretamente as despesas com ações e serviços públicos de saúde e presta contas ao Legislativo.",
+      "é facultativo para municípios com menos de 50 mil habitantes, que podem movimentar os recursos da saúde na conta geral do Tesouro municipal.",
+      "recebe apenas as transferências da União, devendo os recursos próprios do ente ser aplicados diretamente pelo órgão de saúde, fora do fundo."
+    ],
+    "gabarito": "A",
+    "comentario": "Gabarito: A. É o art. 14 da LC nº 141/2012, ressalvados os recursos repassados diretamente às unidades vinculadas ao Ministério da Saúde. As despesas com ações e serviços públicos de saúde, inclusive as custeadas com recursos próprios do ente, são movimentadas pelos fundos de saúde (art. 2º, parágrafo único); ao Conselho de Saúde cabe fiscalizar, e não executar, essas despesas.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "2.1.5.4-01",
+    "topicoId": "2.1.5.4",
+    "enunciado": "Nos termos da Lei Complementar nº 141/2012, o gestor do SUS em cada ente da Federação deve apresentar, em audiência pública na Casa Legislativa do respectivo ente, o relatório detalhado referente ao quadrimestre anterior até o final dos meses de",
+    "alternativas": [
+      "abril, agosto e dezembro.",
+      "março, julho e novembro.",
+      "maio, setembro e fevereiro.",
+      "junho e dezembro, por se tratar de relatório semestral.",
+      "março, por se tratar do relatório anual de gestão."
+    ],
+    "gabarito": "C",
+    "comentario": "Gabarito: C. Pelo art. 36, § 5º, da LC nº 141/2012, o relatório quadrimestral é apresentado em audiência pública na Casa Legislativa até o final de maio, setembro e fevereiro. Ele informa o montante e a fonte dos recursos aplicados, as auditorias realizadas ou em curso e a oferta e produção de serviços. O Relatório de Gestão vai ao Conselho de Saúde até 30 de março do ano seguinte (art. 36, § 1º).",
+    "revisada": false,
+    "origem": "ia"
+  }
+]

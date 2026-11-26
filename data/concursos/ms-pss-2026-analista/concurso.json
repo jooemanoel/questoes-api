@@ -1,0 +1,12 @@
+{
+  "id": "ms-pss-2026-analista",
+  "nome": "MS PSS 2026 · Analista",
+  "orgao": "Ministério da Saúde (SAA/MS)",
+  "edital": "Edital nº 1, de 11 de novembro de 2026 – Processo Seletivo Simplificado – PSS – SAA/MS (DOU de 12/11/2026)",
+  "cargo": "403 – Analista de Requisitos Processuais, Normativos, Econômicos, Financeiros e Políticas de Saúde (conteúdo comum aos cargos 401 a 405)",
+  "banca": "Instituto Avalia",
+  "dataProva": "2027-01-17",
+  "formato": "multipla-escolha",
+  "alternativas": 5,
+  "distribuicao": { "1.1": 5, "1.2": 5, "1.3": 5, "1.4": 5, "2.1": 20 }
+}

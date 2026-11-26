@@ -2,6 +2,8 @@ import express from "express";
 import cors from "cors";
 import questoesRouter from "./routes/questoes.js";
 import conteudoRouter from "./routes/conteudo.js";
+import concursosRouter from "./routes/concursos.js";
+import { CONCURSO_LEGADO, usarConcurso } from "./concursos.js";
 
 const app = express();
 
@@ -13,8 +15,12 @@ app.get("/", (req, res) => {
   res.json({ status: "ok", mensagem: "API Questões no ar" });
 });
 
-app.use("/questoes", questoesRouter);
-app.use("/conteudo", conteudoRouter);
+app.use("/concursos", concursosRouter);
+
+// Rotas antigas, do tempo de um concurso só: equivalem a /concursos/cgu-2026/...
+// Mantidas para as versões dos apps já instaladas; podem sair quando todos usarem /concursos.
+app.use("/questoes", usarConcurso(CONCURSO_LEGADO), questoesRouter);
+app.use("/conteudo", usarConcurso(CONCURSO_LEGADO), conteudoRouter);
 
 app.use((req, res) => {
   res.status(404).json({ erro: "Rota não encontrada" });
