@@ -284,10 +284,6 @@ Rotas de leitura (públicas): `GET /concursos` (catálogo), `GET /concursos/<id>
 `GET /concursos/<id>/conteudo[/<topicoId>]`, `GET /concursos/<id>/questoes[/<qid>]` e
 `GET /concursos/<id>/questoes/versao`.
 
-> As rotas antigas `/questoes` e `/conteudo` continuam respondendo pelo `cgu-2026`, para as
-> versões dos apps anteriores aos vários concursos (APK 1.2). Podem sair quando ninguém
-> mais as usar.
-
 ## Cuidados
 
 - **O `id` é a chave do histórico.** Os apps guardam acertos e erros por concurso e por
@@ -299,15 +295,13 @@ Rotas de leitura (públicas): `GET /concursos` (catálogo), `GET /concursos/<id>
   `conteudo.json` falha na validação; e, sem deploy, os apps não mostram o tópico novo.
 - **Mudar o formato de um concurso** invalida as questões já gravadas: não faça.
 
-## Migração para vários concursos (uma vez só)
+## Histórico: de um concurso para vários
 
-Até novembro de 2026 havia um concurso só, com as questões na coleção raiz `questoes` e a
-versão em `meta/questoes`. O script `npm run migrar` mostra o que seria copiado, e
-`npm run migrar -- --gravar` copia tudo para `concursos/cgu-2026` (direto do Firestore,
-preservando alterações feitas pela API). Ele não apaga a coleção antiga.
-
-Ordem: migrar → deploy da API → publicar web e APK novos → mais tarde, remover as rotas
-antigas e a coleção `questoes`.
+Até novembro de 2026 havia um concurso só, com as questões na coleção raiz `questoes`, a
+versão em `meta/questoes` e as rotas `/questoes` e `/conteudo`. Tudo foi copiado para
+`concursos/cgu-2026` (o script de migração está no histórico do git, commit bfd1b01). Em
+26/11/2026, com os apps na versão com vários concursos (web e APK 1.3 em diante), as rotas
+antigas, a coleção `questoes` e o documento `meta/questoes` foram removidos.
 
 ## Modelo de pedido para gerar questões
 

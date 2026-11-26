@@ -9,7 +9,6 @@
     "dev": "node --env-file=.env --watch src/index.js",
     "semear": "node --env-file=.env scripts/semear-questoes.js",
     "conteudo": "node scripts/gerar-conteudo.js",
-    "migrar": "node --env-file=.env scripts/migrar-cgu.js",
     "segredo": "node -e \"console.log(require('node:crypto').randomBytes(48).toString('base64url'))\""
   },
   "dependencies": {

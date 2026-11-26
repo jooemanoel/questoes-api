@@ -14,12 +14,6 @@ import msPss2026Conteudo from "../data/concursos/ms-pss-2026-analista/conteudo.j
 
 export const FORMATOS = ["certo-errado", "multipla-escolha"];
 
-/**
- * Concurso atendido pelas rotas antigas (/questoes e /conteudo), da época em que a API
- * tinha um concurso só. Ficam até todos os apps usarem /concursos/:id/...
- */
-export const CONCURSO_LEGADO = "cgu-2026";
-
 const lista = [
   { dados: cgu2026, conteudo: cgu2026Conteudo },
   { dados: msPss2026, conteudo: msPss2026Conteudo },
@@ -48,11 +42,3 @@ export function resolverConcurso(req, res, next) {
   next();
 }
 
-/** Middleware: usa sempre o mesmo concurso (rotas antigas). */
-export function usarConcurso(id) {
-  const concurso = concursos.get(id);
-  return (req, res, next) => {
-    req.concurso = concurso;
-    next();
-  };
-}
