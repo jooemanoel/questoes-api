@@ -1,0 +1,358 @@
+[
+  {
+    "id": "1.1.1-01",
+    "topicoId": "1.1.1",
+    "textoBase": "A ampliação do acesso a serviços de saúde não depende apenas da construção de novas unidades. Em muitas regiões, o principal obstáculo é a distância entre o lugar onde o cidadão vive e o local em que o atendimento especializado está disponível. Por isso, estratégias como a regionalização e a telessaúde ganharam espaço nas políticas públicas: elas aproximam o serviço do usuário sem exigir que cada município mantenha, sozinho, toda a estrutura necessária. Essas soluções, contudo, só funcionam quando há planejamento conjunto entre os entes federativos e investimento contínuo em conectividade e em profissionais capacitados.",
+    "enunciado": "De acordo com o texto,",
+    "alternativas": [
+      "a regionalização e a telessaúde tornaram desnecessário o planejamento conjunto entre os entes federativos.",
+      "cada município deve manter, isoladamente, toda a estrutura necessária ao atendimento especializado.",
+      "a construção de novas unidades de saúde basta para ampliar o acesso da população aos serviços.",
+      "a telessaúde dispensa investimentos em conectividade e em profissionais capacitados.",
+      "a distância entre o cidadão e o atendimento especializado é apontada como obstáculo relevante em muitas regiões."
+    ],
+    "gabarito": "E",
+    "comentario": "Gabarito: E. O segundo período afirma que, em muitas regiões, o principal obstáculo é a distância entre o lugar onde o cidadão vive e o local do atendimento especializado. O texto nega que novas unidades bastem ('não depende apenas'), diz que as estratégias evitam que cada município mantenha sozinho toda a estrutura e condiciona o sucesso delas ao planejamento conjunto e ao investimento contínuo.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.2-01",
+    "topicoId": "1.1.2",
+    "textoBase": "Antes de aplicar o colírio, lave bem as mãos. Incline a cabeça para trás, puxe levemente a pálpebra inferior e pingue uma gota em cada olho. Não encoste a ponta do frasco nos olhos e mantenha-o bem fechado após o uso.",
+    "enunciado": "Quanto à tipologia textual, predomina no texto o tipo",
+    "alternativas": [
+      "narrativo, pois o texto relata fatos vividos por personagens ao longo do tempo.",
+      "expositivo, pois o texto apresenta conceitos de forma neutra, sem se dirigir ao leitor.",
+      "dissertativo-argumentativo, pois o texto defende um ponto de vista com argumentos.",
+      "injuntivo, pois o texto orienta o leitor sobre como realizar uma ação.",
+      "descritivo, pois o texto caracteriza objetos e lugares por meio de adjetivos."
+    ],
+    "gabarito": "D",
+    "comentario": "Gabarito: D. O texto é instrucional: os verbos no imperativo ('lave', 'incline', 'puxe', 'pingue', 'não encoste', 'mantenha') orientam o leitor a executar um procedimento, o que caracteriza a tipologia injuntiva, típica de bulas, manuais e receitas. Não há relato de fatos, caracterização de seres nem defesa de tese.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.3-01",
+    "topicoId": "1.1.3",
+    "enunciado": "Na frase 'Durante as férias, ele leu Machado de Assis', há a figura de linguagem denominada",
+    "alternativas": [
+      "eufemismo, pois uma ideia desagradável é expressa de forma suavizada.",
+      "metáfora, pois há uma comparação implícita entre o autor e um livro.",
+      "antítese, pois há aproximação de palavras de sentidos opostos.",
+      "hipérbole, pois há um exagero intencional na quantidade de leitura.",
+      "metonímia, pois o nome do autor é empregado no lugar de sua obra."
+    ],
+    "gabarito": "E",
+    "comentario": "Gabarito: E. Há metonímia quando um termo é usado no lugar de outro com o qual mantém relação de proximidade, como o autor pela obra: 'ler Machado de Assis' é ler os livros dele. Na metáfora, há comparação implícita por semelhança; na hipérbole, exagero; no eufemismo, suavização; e na antítese, oposição de ideias.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.4-01",
+    "topicoId": "1.1.4",
+    "enunciado": "Na frase 'Após a análise dos recursos, a banca ratificou o resultado preliminar', o verbo 'ratificou' tem o sentido de",
+    "alternativas": [
+      "corrigiu.",
+      "adiou.",
+      "contestou.",
+      "confirmou.",
+      "anulou."
+    ],
+    "gabarito": "D",
+    "comentario": "Gabarito: D. Ratificar é confirmar, validar. Não confunda com retificar, que significa corrigir: se a banca tivesse alterado o resultado depois dos recursos, o verbo adequado seria 'retificou'. Os dois são parônimos, palavras parecidas na forma e diferentes no sentido.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.5-01",
+    "topicoId": "1.1.5",
+    "enunciado": "Na frase 'O prazo para o envio dos documentos foi exíguo', a palavra 'exíguo' pode ser substituída, sem alteração do sentido, por",
+    "alternativas": [
+      "reduzido.",
+      "adequado.",
+      "flexível.",
+      "improrrogável.",
+      "extenso."
+    ],
+    "gabarito": "A",
+    "comentario": "Gabarito: A. Exíguo significa pequeno, escasso, insuficiente: um prazo exíguo é um prazo curto, reduzido. 'Extenso' é antônimo de exíguo. 'Flexível', 'adequado' e 'improrrogável' atribuem ao prazo qualidades que a palavra não expressa.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.6-01",
+    "topicoId": "1.1.6",
+    "enunciado": "Está correta quanto à ortografia a frase:",
+    "alternativas": [
+      "A paralização dos serviços prejudicou os usuários.",
+      "A entidade beneficiente atende crianças da região.",
+      "A análize dos documentos foi concluída ontem.",
+      "O gestor abriu uma exceção para o caso urgente.",
+      "Houve excesso de previlégios na distribuição das vagas."
+    ],
+    "gabarito": "D",
+    "comentario": "Gabarito: D. Escreve-se 'exceção', com xc e ç. As demais frases têm um erro cada: o correto é 'paralisação' (de 'paralisar', com s), 'beneficente' (sem i depois do c), 'privilégios' (com i na primeira sílaba) e 'análise' (com s).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.7-01",
+    "topicoId": "1.1.7",
+    "enunciado": "De acordo com as regras de acentuação gráfica em vigor, todas as palavras estão corretamente grafadas em:",
+    "alternativas": [
+      "assembléia, saúde, juíz.",
+      "ideia, herói, voo.",
+      "jóia, baú, têm.",
+      "ideia, heroico, pára.",
+      "idéia, herói, vôo."
+    ],
+    "gabarito": "B",
+    "comentario": "Gabarito: B. Pelo Acordo Ortográfico, perdem o acento os ditongos abertos éi e ói das paroxítonas (ideia, heroico, assembleia, joia), o hiato oo (voo) e o acento diferencial de 'para' (verbo). O acento permanece nas oxítonas terminadas em ói, como 'herói'. 'Juiz' não leva acento, porque o i tônico forma sílaba com o z.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.8-01",
+    "topicoId": "1.1.8",
+    "enunciado": "O acento grave indicativo de crase está corretamente empregado em:",
+    "alternativas": [
+      "A equipe vai à Brasília para o congresso de saúde.",
+      "O servidor fez referência à este documento na reunião.",
+      "O atendimento será feito de segunda à sexta-feira.",
+      "Ele começou à trabalhar no hospital muito cedo.",
+      "O enfermeiro entregou o relatório à diretora do hospital."
+    ],
+    "gabarito": "E",
+    "comentario": "Gabarito: E. 'Entregar' exige a preposição a, e 'diretora' admite o artigo a: a + a = à. Não há crase antes de verbo ('a trabalhar'), de pronome demonstrativo como 'este' ('a este'), de nome de cidade que não admite artigo ('vou a Brasília', pois 'venho de Brasília') nem na expressão 'de... a...' ('de segunda a sexta').",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.9-01",
+    "topicoId": "1.1.9",
+    "enunciado": "Há dígrafo em todas as palavras de:",
+    "alternativas": [
+      "prato, claro, livro.",
+      "chave, carro, nascer.",
+      "táxi, fixo, exame.",
+      "quatro, água, frequente.",
+      "pneu, psicologia, advogado."
+    ],
+    "gabarito": "B",
+    "comentario": "Gabarito: B. Dígrafo é o grupo de duas letras que representa um só som: ch, rr e sc em 'chave', 'carro' e 'nascer'. Em 'prato', 'claro', 'livro', 'pneu', 'psicologia' e 'advogado' há encontros consonantais (duas letras, dois sons). Em 'quatro', 'água' e 'frequente', o u é pronunciado, então qu e gu não são dígrafos. E o x é uma letra só.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.10-01",
+    "topicoId": "1.1.10",
+    "enunciado": "Na frase 'A enfermeira chegou meio cansada ao fim do plantão', a palavra 'meio' classifica-se como",
+    "alternativas": [
+      "adjetivo, e por isso deveria concordar com 'enfermeira'.",
+      "numeral fracionário, equivalente a 'metade'.",
+      "substantivo, núcleo do predicativo do sujeito.",
+      "advérbio, e por isso permanece invariável.",
+      "pronome indefinido, equivalente a 'algum'."
+    ],
+    "gabarito": "D",
+    "comentario": "Gabarito: D. Na frase, 'meio' significa 'um pouco' e modifica o adjetivo 'cansada': é advérbio de intensidade e, como advérbio, não varia. Por isso, a forma 'meia cansada' está errada. 'Meio' só concorda quando é numeral ou adjetivo, com o sentido de 'metade', como em 'meia hora'.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.11-01",
+    "topicoId": "1.1.11",
+    "enunciado": "Há locução verbal em:",
+    "alternativas": [
+      "O médico solicitou novos exames ao paciente internado.",
+      "O servidor saiu mais cedo para almoçar com a família.",
+      "A enfermeira parece cansada depois do longo plantão.",
+      "A diretora considerou excelente o relatório da equipe.",
+      "Os candidatos devem chegar ao local de prova com antecedência."
+    ],
+    "gabarito": "E",
+    "comentario": "Gabarito: E. Locução verbal é a combinação de um verbo auxiliar com um verbo principal no infinitivo, no gerúndio ou no particípio, funcionando como um só verbo: 'devem chegar'. Em 'parece cansada', há verbo de ligação e predicativo; em 'saiu para almoçar', 'para almoçar' é oração reduzida de finalidade; e nas demais frases há um só verbo.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.12-01",
+    "topicoId": "1.1.12",
+    "enunciado": "Na frase 'Precisa-se de técnicos de enfermagem para o turno da noite', a palavra 'se' funciona como",
+    "alternativas": [
+      "índice de indeterminação do sujeito.",
+      "partícula expletiva, de realce.",
+      "partícula apassivadora.",
+      "pronome reflexivo.",
+      "conjunção condicional."
+    ],
+    "gabarito": "A",
+    "comentario": "Gabarito: A. 'Precisar' é verbo transitivo indireto ('precisar de'). Com verbo que não é transitivo direto, o 'se' indetermina o sujeito, e o verbo fica no singular ('Precisa-se de técnicos'). Seria partícula apassivadora com verbo transitivo direto, que concorda com o sujeito paciente: 'Contratam-se técnicos'.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.13-01",
+    "topicoId": "1.1.13",
+    "enunciado": "Formou-se por derivação parassintética a palavra:",
+    "alternativas": [
+      "planalto.",
+      "jantar, em 'o jantar foi servido'.",
+      "entardecer.",
+      "deslealdade.",
+      "infelizmente."
+    ],
+    "gabarito": "C",
+    "comentario": "Gabarito: C. Na parassíntese, o prefixo e o sufixo entram ao mesmo tempo: não existem 'entarde' nem 'tardecer'. Em 'infelizmente' e 'deslealdade', a derivação é prefixal e sufixal, pois existem 'infeliz', 'felizmente', 'desleal' e 'lealdade'. 'Planalto' formou-se por composição (aglutinação), e 'o jantar', por derivação imprópria.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.14-01",
+    "topicoId": "1.1.14",
+    "enunciado": "No início de uma ligação telefônica, o atendente pergunta: 'Alô? Está me ouvindo bem?'. Nessa fala, a mensagem está centrada no(a)",
+    "alternativas": [
+      "referente, o que caracteriza a função referencial da linguagem.",
+      "canal, o que caracteriza a função fática da linguagem.",
+      "emissor, o que caracteriza a função emotiva da linguagem.",
+      "mensagem, o que caracteriza a função poética da linguagem.",
+      "código, o que caracteriza a função metalinguística da linguagem."
+    ],
+    "gabarito": "B",
+    "comentario": "Gabarito: B. A fala serve para testar o contato entre os interlocutores, e não para informar algo: o foco está no canal de comunicação, o que caracteriza a função fática. A função emotiva centra-se no emissor; a metalinguística, no código (a língua explicando a própria língua); a referencial, no referente; e a poética, na elaboração da mensagem.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.15-01",
+    "topicoId": "1.1.15",
+    "enunciado": "No período 'Como o sistema estava fora do ar, o atendimento foi suspenso', a oração iniciada por 'como' expressa ideia de",
+    "alternativas": [
+      "finalidade.",
+      "conformidade.",
+      "comparação.",
+      "concessão.",
+      "causa."
+    ],
+    "gabarito": "E",
+    "comentario": "Gabarito: E. A oração 'como o sistema estava fora do ar' apresenta o motivo da suspensão do atendimento: é adverbial causal, equivalente a 'porque o sistema estava fora do ar'. 'Como' também pode ser comparativo ('trabalha como um relógio') ou conformativo ('fez como o manual mandava'), mas não neste período.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.16-01",
+    "topicoId": "1.1.16",
+    "enunciado": "Está de acordo com a norma-padrão quanto à concordância a frase:",
+    "alternativas": [
+      "Seguem anexas as cópias dos documentos solicitados.",
+      "É proibido a entrada de pessoas estranhas ao setor.",
+      "Mais de um candidato faltaram à prova objetiva.",
+      "Fazem dois anos que o hospital foi inaugurado.",
+      "Haviam muitos pacientes aguardando na fila."
+    ],
+    "gabarito": "A",
+    "comentario": "Gabarito: A. 'Anexo' é adjetivo e concorda com o substantivo: 'anexas as cópias'. 'Fazer' indicando tempo decorrido e 'haver' no sentido de existir são impessoais e ficam no singular ('Faz dois anos', 'Havia muitos pacientes'). Com artigo, 'proibido' concorda: 'É proibida a entrada'. Com 'mais de um', o verbo fica, em regra, no singular.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.17-01",
+    "topicoId": "1.1.17",
+    "enunciado": "Está de acordo com a norma-padrão quanto à regência a frase:",
+    "alternativas": [
+      "Esqueci do prazo de entrega da documentação.",
+      "Prefiro trabalhar no plantão diurno do que no noturno.",
+      "A ambulância chegou no hospital às oito horas.",
+      "O paciente obedeceu às orientações da equipe médica.",
+      "Os residentes assistiram o vídeo sobre biossegurança."
+    ],
+    "gabarito": "D",
+    "comentario": "Gabarito: D. 'Obedecer' é transitivo indireto e exige a preposição a: 'obedeceu às orientações'. Na norma-padrão, 'assistir' no sentido de ver pede a ('assistiram ao vídeo'); 'preferir' pede a, e não 'do que' ('prefiro o diurno ao noturno'); 'esquecer' sem pronome é transitivo direto ('esqueci o prazo'); e 'chegar' pede a ('chegou ao hospital').",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.18-01",
+    "topicoId": "1.1.18",
+    "enunciado": "Está de acordo com a norma-padrão quanto à colocação pronominal a frase:",
+    "alternativas": [
+      "Ninguém informou-nos sobre a mudança de horário.",
+      "Não esqueça-se de levar o documento de identidade.",
+      "Me disseram que o resultado sairá amanhã.",
+      "Entregar-te-ei o relatório amanhã pela manhã.",
+      "Quando encontrei-o, a reunião já havia terminado."
+    ],
+    "gabarito": "D",
+    "comentario": "Gabarito: D. Com verbo no futuro do presente e sem palavra atrativa antes, usa-se a mesóclise: 'entregar-te-ei'. A norma-padrão não admite pronome átono no início do período ('Disseram-me') e exige a próclise depois de palavras negativas ('Não se esqueça', 'Ninguém nos informou') e de conjunções subordinativas ('Quando o encontrei').",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.19-01",
+    "topicoId": "1.1.19",
+    "enunciado": "O emprego da vírgula está de acordo com a norma-padrão em:",
+    "alternativas": [
+      "O diretor do hospital, Carlos Mendes, apresentou o relatório anual.",
+      "A unidade de pronto atendimento precisa de, médicos e enfermeiros com urgência.",
+      "A reunião que estava marcada para hoje, foi adiada.",
+      "Ontem à noite o paciente, recebeu alta médica.",
+      "Os servidores do setor, receberam o aviso ontem."
+    ],
+    "gabarito": "A",
+    "comentario": "Gabarito: A. As vírgulas isolam o aposto explicativo 'Carlos Mendes', que identifica o diretor. Nas demais frases, a vírgula separa indevidamente o sujeito do verbo ('Os servidores do setor, receberam'; 'A reunião que estava marcada para hoje, foi adiada'; 'o paciente, recebeu') ou o verbo de seu complemento ('precisa de, médicos').",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.20-01",
+    "topicoId": "1.1.20",
+    "textoBase": "A ampliação do acesso a serviços de saúde não depende apenas da construção de novas unidades. Em muitas regiões, o principal obstáculo é a distância entre o lugar onde o cidadão vive e o local em que o atendimento especializado está disponível. Por isso, estratégias como a regionalização e a telessaúde ganharam espaço nas políticas públicas: elas aproximam o serviço do usuário sem exigir que cada município mantenha, sozinho, toda a estrutura necessária. Essas soluções, contudo, só funcionam quando há planejamento conjunto entre os entes federativos e investimento contínuo em conectividade e em profissionais capacitados.",
+    "enunciado": "No terceiro período do texto, o pronome 'elas' retoma",
+    "alternativas": [
+      "as novas unidades de saúde.",
+      "as distâncias entre o cidadão e o atendimento.",
+      "estratégias como a regionalização e a telessaúde.",
+      "as políticas públicas.",
+      "as muitas regiões mencionadas no período anterior."
+    ],
+    "gabarito": "C",
+    "comentario": "Gabarito: C. Em 'elas aproximam o serviço do usuário', o pronome se refere ao que aproxima o serviço: as estratégias de regionalização e de telessaúde. Embora 'políticas públicas' seja o termo feminino plural mais próximo, são as estratégias, e não as políticas em geral, que dispensam cada município de manter sozinho toda a estrutura.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.21-01",
+    "topicoId": "1.1.21",
+    "textoBase": "A ampliação do acesso a serviços de saúde não depende apenas da construção de novas unidades. Em muitas regiões, o principal obstáculo é a distância entre o lugar onde o cidadão vive e o local em que o atendimento especializado está disponível. Por isso, estratégias como a regionalização e a telessaúde ganharam espaço nas políticas públicas: elas aproximam o serviço do usuário sem exigir que cada município mantenha, sozinho, toda a estrutura necessária. Essas soluções, contudo, só funcionam quando há planejamento conjunto entre os entes federativos e investimento contínuo em conectividade e em profissionais capacitados.",
+    "enunciado": "No último período do texto, o vocábulo 'contudo' pode ser substituído, sem alteração do sentido original, por",
+    "alternativas": [
+      "porque.",
+      "por exemplo.",
+      "além disso.",
+      "portanto.",
+      "no entanto."
+    ],
+    "gabarito": "E",
+    "comentario": "Gabarito: E. 'Contudo' é conjunção adversativa: introduz uma ressalva às vantagens apresentadas antes, pois as soluções só funcionam sob certas condições. Equivale a 'no entanto', 'todavia' e 'entretanto'. 'Portanto' indica conclusão; 'porque', causa; 'por exemplo', exemplificação; e 'além disso', adição.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.1.22-01",
+    "topicoId": "1.1.22",
+    "enunciado": "O uso das palavras 'mandioca', 'aipim' e 'macaxeira' para designar o mesmo alimento, conforme a região do Brasil, exemplifica a variação linguística",
+    "alternativas": [
+      "histórica, também chamada diacrônica.",
+      "geográfica, também chamada diatópica.",
+      "social, também chamada diastrática.",
+      "situacional, também chamada diafásica.",
+      "entre fala e escrita, também chamada diamésica."
+    ],
+    "gabarito": "B",
+    "comentario": "Gabarito: B. A variação geográfica (diatópica) aparece nas diferenças entre regiões, como no vocabulário ('mandioca', 'aipim', 'macaxeira') e no sotaque. A histórica muda com o tempo; a social, com grupos como classe, idade e escolaridade; a situacional, com o grau de formalidade da situação; e a diamésica, entre as modalidades oral e escrita.",
+    "revisada": false,
+    "origem": "ia"
+  }
+]

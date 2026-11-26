@@ -1,0 +1,162 @@
+[
+  {
+    "id": "1.4.1-01",
+    "topicoId": "1.4.1",
+    "enunciado": "Segundo a Constituição Federal, constitui objetivo fundamental da República Federativa do Brasil:",
+    "alternativas": [
+      "erradicar a pobreza e a marginalização e reduzir as desigualdades sociais e regionais.",
+      "a soberania, a cidadania e o pluralismo político.",
+      "a prevalência dos direitos humanos e a cooperação entre os povos para o progresso da humanidade.",
+      "a independência nacional e a autodeterminação dos povos nas relações internacionais.",
+      "a dignidade da pessoa humana e os valores sociais do trabalho e da livre iniciativa."
+    ],
+    "gabarito": "A",
+    "comentario": "Gabarito: A. Os objetivos fundamentais (art. 3º) são expressos por verbos: construir uma sociedade livre, justa e solidária; garantir o desenvolvimento nacional; erradicar a pobreza e a marginalização e reduzir as desigualdades; e promover o bem de todos. Soberania, cidadania, dignidade, valores sociais do trabalho e da livre iniciativa e pluralismo político são fundamentos (art. 1º); os demais itens são princípios das relações internacionais (art. 4º).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.4.2-01",
+    "topicoId": "1.4.2",
+    "enunciado": "Para assegurar o conhecimento de informações relativas à pessoa do impetrante, constantes de registros ou bancos de dados de entidades governamentais ou de caráter público, a Constituição Federal prevê o",
+    "alternativas": [
+      "mandado de injunção.",
+      "habeas data.",
+      "habeas corpus.",
+      "mandado de segurança.",
+      "ação popular."
+    ],
+    "gabarito": "B",
+    "comentario": "Gabarito: B. O habeas data (art. 5º, LXXII) serve para conhecer e para retificar informações pessoais em registros públicos. O mandado de segurança protege direito líquido e certo não amparado por habeas corpus ou habeas data; o mandado de injunção supre a falta de norma regulamentadora; a ação popular anula ato lesivo ao patrimônio público; e o habeas corpus protege a liberdade de locomoção.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.4.2-02",
+    "topicoId": "1.4.2",
+    "enunciado": "Segundo a Constituição Federal, a casa é asilo inviolável do indivíduo, e ninguém nela pode penetrar sem consentimento do morador, salvo",
+    "alternativas": [
+      "por determinação de autoridade sanitária, em qualquer horário, para fins de fiscalização.",
+      "em caso de flagrante delito, ou, a qualquer hora do dia ou da noite, por determinação judicial.",
+      "em caso de flagrante delito ou desastre, ou para prestar socorro, ou, durante o dia, por determinação judicial.",
+      "em nenhuma hipótese, pois a inviolabilidade do domicílio é garantia absoluta.",
+      "por determinação de autoridade policial, a qualquer hora, quando houver investigação criminal em curso sobre o morador."
+    ],
+    "gabarito": "C",
+    "comentario": "Gabarito: C. É o art. 5º, XI, da CF. Flagrante delito, desastre e prestação de socorro autorizam a entrada a qualquer hora; a ordem judicial, só durante o dia. Não há previsão de entrada por ordem de autoridade policial ou administrativa sem mandado judicial, e a inviolabilidade não é absoluta.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.4.3-01",
+    "topicoId": "1.4.3",
+    "enunciado": "De acordo com a Constituição Federal, cuidar da saúde e da assistência pública é competência",
+    "alternativas": [
+      "exclusiva dos municípios, cabendo à União apenas o financiamento das ações.",
+      "exclusiva dos estados, cabendo aos municípios apenas a execução das ações.",
+      "comum da União, dos estados, do Distrito Federal e dos municípios.",
+      "concorrente da União e dos estados, excluídos o Distrito Federal e os municípios.",
+      "privativa da União, que pode delegá-la aos estados por meio de lei complementar."
+    ],
+    "gabarito": "C",
+    "comentario": "Gabarito: C. Cuidar da saúde e da assistência pública é competência administrativa comum dos quatro entes (art. 23, II). Não confunda com a competência para legislar sobre proteção e defesa da saúde, que é concorrente da União, dos estados e do DF (art. 24, XII), cabendo aos municípios suplementar a legislação no que couber (art. 30, II).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.4.3-02",
+    "topicoId": "1.4.3",
+    "enunciado": "Compete privativamente à União legislar sobre",
+    "alternativas": [
+      "orçamento.",
+      "direito tributário e financeiro.",
+      "proteção e defesa da saúde.",
+      "educação, cultura e ensino.",
+      "direito do trabalho."
+    ],
+    "gabarito": "E",
+    "comentario": "Gabarito: E. O direito do trabalho está entre as matérias de competência legislativa privativa da União (art. 22, I, da CF), ao lado do direito civil, comercial, penal, processual e eleitoral, entre outros. As demais são de competência concorrente da União, dos estados e do DF (art. 24): direito tributário e financeiro (I), orçamento (II), educação, cultura e ensino (IX) e proteção e defesa da saúde (XII).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.4.4-01",
+    "topicoId": "1.4.4",
+    "enunciado": "Segundo a Constituição Federal, havendo compatibilidade de horários, é permitida a acumulação remunerada de",
+    "alternativas": [
+      "três cargos de professor, em instituições públicas diferentes.",
+      "dois cargos técnicos ou científicos, de qualquer área de atuação.",
+      "um cargo técnico ou científico com outro cargo de qualquer natureza.",
+      "dois cargos ou empregos privativos de profissionais de saúde, com profissões regulamentadas.",
+      "dois cargos administrativos de nível superior, desde que em entes federativos diferentes."
+    ],
+    "gabarito": "D",
+    "comentario": "Gabarito: D. O art. 37, XVI, da CF permite, com compatibilidade de horários, acumular dois cargos de professor; um de professor com outro de qualquer natureza (redação da EC nº 138/2025; antes, só com cargo técnico ou científico); ou dois cargos ou empregos privativos de profissionais de saúde, com profissões regulamentadas. Fora dessas hipóteses, a acumulação remunerada é vedada, inclusive entre entes diferentes.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.4.4-02",
+    "topicoId": "1.4.4",
+    "enunciado": "Conforme a Constituição Federal, o prazo de validade do concurso público será de",
+    "alternativas": [
+      "até dois anos, prorrogável uma vez, por até um ano.",
+      "até dois anos, prorrogável uma vez, por igual período.",
+      "até um ano, prorrogável duas vezes, por igual período.",
+      "até quatro anos, improrrogável.",
+      "dois anos, prorrogável sucessivamente, a critério da administração."
+    ],
+    "gabarito": "B",
+    "comentario": "Gabarito: B. É o art. 37, III, da CF: até dois anos, prorrogável uma vez, por igual período. Assim, um concurso com validade de um ano só pode ser prorrogado por mais um ano. Durante o prazo improrrogável do edital, o aprovado tem prioridade sobre novos concursados para assumir o cargo (art. 37, IV).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.4.4-03",
+    "topicoId": "1.4.4",
+    "enunciado": "Segundo a Constituição Federal, a contratação por tempo determinado para atender a necessidade temporária de excepcional interesse público",
+    "alternativas": [
+      "ocorrerá nos casos estabelecidos em lei.",
+      "só é admitida para as atribuições de direção, chefia e assessoramento.",
+      "dispensa previsão legal, bastando ato do chefe do Poder Executivo.",
+      "assegura ao contratado estabilidade após três anos de efetivo exercício.",
+      "exige prévia aprovação em concurso público de provas e títulos."
+    ],
+    "gabarito": "A",
+    "comentario": "Gabarito: A. O art. 37, IX, da CF determina que a lei estabeleça os casos dessa contratação; na esfera federal, é a Lei nº 8.745/1993, base dos processos seletivos simplificados como o do Ministério da Saúde. Direção, chefia e assessoramento são atribuições de cargos em comissão e funções de confiança (art. 37, V), e a estabilidade é própria dos servidores efetivos nomeados por concurso (art. 41).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.4.5-01",
+    "topicoId": "1.4.5",
+    "enunciado": "Segundo a Constituição Federal, as ações e os serviços públicos de saúde integram uma rede regionalizada e hierarquizada e constituem um sistema único, organizado de acordo com diretrizes que incluem:",
+    "alternativas": [
+      "descentralização, com direção única em cada esfera de governo; atendimento integral, com prioridade para os serviços assistenciais, sem prejuízo das atividades preventivas; e participação da comunidade.",
+      "descentralização, com direção única em cada esfera de governo; atendimento integral, com prioridade para as atividades preventivas, sem prejuízo dos serviços assistenciais; e participação da comunidade.",
+      "centralização, com direção única na União; atendimento integral, com prioridade para os serviços assistenciais; e participação da comunidade.",
+      "regionalização, com direção única nos estados; atendimento universal restrito à atenção primária; e participação dos gestores.",
+      "descentralização, com direção compartilhada entre as esferas de governo; atendimento seletivo; e controle exclusivo do Poder Legislativo."
+    ],
+    "gabarito": "B",
+    "comentario": "Gabarito: B. São as diretrizes dos incisos I a III do art. 198 da CF (a EC nº 140/2026 acrescentou um inciso IV, sobre os agentes comunitários de saúde e de combate às endemias). Atenção à ordem da prioridade: o atendimento integral prioriza as atividades preventivas, sem prejuízo dos serviços assistenciais, e não o contrário. A direção é única em cada esfera de governo, e a participação é da comunidade.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.4.5-02",
+    "topicoId": "1.4.5",
+    "enunciado": "Quanto à participação da iniciativa privada na saúde, a Constituição Federal estabelece que",
+    "alternativas": [
+      "a assistência à saúde é atividade exclusiva do Estado, vedada à iniciativa privada.",
+      "a lei pode autorizar a comercialização de órgãos e de tecidos humanos destinados a transplante.",
+      "as instituições privadas com fins lucrativos têm preferência na participação complementar no SUS.",
+      "é livre a participação direta de empresas e de capitais estrangeiros na assistência à saúde no País, independentemente de lei.",
+      "é vedada a destinação de recursos públicos para auxílios ou subvenções às instituições privadas com fins lucrativos."
+    ],
+    "gabarito": "E",
+    "comentario": "Gabarito: E. É o § 2º do art. 199 da CF. A assistência à saúde é livre à iniciativa privada (caput); as instituições privadas participam do SUS de forma complementar, com preferência para as filantrópicas e as sem fins lucrativos (§ 1º); a participação de empresas ou capitais estrangeiros é vedada, salvo nos casos previstos em lei (§ 3º); e é vedado todo tipo de comercialização de órgãos, tecidos e substâncias humanas (§ 4º).",
+    "revisada": false,
+    "origem": "ia"
+  }
+]

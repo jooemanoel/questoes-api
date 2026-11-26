@@ -1,0 +1,130 @@
+[
+  {
+    "id": "1.3.1-01",
+    "topicoId": "1.3.1",
+    "enunciado": "São modalidades de licitação previstas na Lei nº 14.133/2021:",
+    "alternativas": [
+      "concorrência, tomada de preços, convite, concurso e leilão.",
+      "pregão, concorrência, concurso, leilão e diálogo competitivo.",
+      "pregão, concorrência, convite, leilão e credenciamento.",
+      "concorrência, concurso, leilão, registro de preços e diálogo competitivo.",
+      "pregão, tomada de preços, concurso, leilão e manifestação de interesse."
+    ],
+    "gabarito": "B",
+    "comentario": "Gabarito: B. O art. 28 da Lei nº 14.133/2021 prevê cinco modalidades: pregão, concorrência, concurso, leilão e diálogo competitivo, vedadas a criação de outras e a combinação delas. Tomada de preços e convite eram modalidades da Lei nº 8.666/1993. Credenciamento, registro de preços e manifestação de interesse são procedimentos auxiliares (art. 78), não modalidades.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.3.1-02",
+    "topicoId": "1.3.1",
+    "enunciado": "Segundo a Lei nº 14.133/2021, a fase de habilitação do processo de licitação ocorre, em regra,",
+    "alternativas": [
+      "depois da fase recursal, sem possibilidade de inversão, mesmo que haja previsão no edital.",
+      "antes da apresentação das propostas, sendo vedada a inversão dessa ordem pelo edital, ainda que por ato motivado.",
+      "depois da homologação, como condição para a assinatura do contrato com o licitante vencedor.",
+      "depois do julgamento, admitida a inversão por ato motivado, com previsão expressa no edital.",
+      "antes da fase preparatória, para a formação do cadastro dos licitantes interessados no certame."
+    ],
+    "gabarito": "D",
+    "comentario": "Gabarito: D. O art. 17 da Lei nº 14.133/2021 ordena as fases: preparatória, divulgação do edital, apresentação de propostas e lances, julgamento, habilitação, recursal e homologação. O § 1º permite que a habilitação anteceda as propostas e o julgamento, por ato motivado que explicite os benefícios e com previsão expressa no edital. Na Lei nº 8.666/1993, a regra era o inverso.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.3.2-01",
+    "topicoId": "1.3.2",
+    "enunciado": "Nos termos da Lei nº 13.460/2017, que dispõe sobre a defesa dos direitos dos usuários dos serviços públicos, a ouvidoria encaminhará a decisão administrativa final ao usuário no prazo de",
+    "alternativas": [
+      "30 dias, prorrogável de forma justificada uma única vez, por igual período.",
+      "20 dias, prorrogável por mais 10 dias, mediante justificativa expressa.",
+      "60 dias, prorrogável uma vez por mais 30 dias, a critério da autoridade.",
+      "15 dias, improrrogável, sob pena de responsabilização do agente.",
+      "30 dias, prorrogável sucessivamente enquanto durar a apuração dos fatos."
+    ],
+    "gabarito": "A",
+    "comentario": "Gabarito: A. É o prazo do art. 16 da Lei nº 13.460/2017: 30 dias, prorrogáveis de forma justificada uma única vez, por igual período. Não confunda com a Lei de Acesso à Informação (Lei nº 12.527/2011), que fixa 20 dias, prorrogáveis por mais 10, para responder a pedidos de acesso a informação.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.3.3-01",
+    "topicoId": "1.3.3",
+    "enunciado": "Conforme o Decreto nº 9.094/2017, que trata da simplificação do atendimento prestado aos usuários dos serviços públicos, os órgãos e as entidades do Poder Executivo federal",
+    "alternativas": [
+      "poderão exigir dos usuários certidões e documentos que já constem de bases de dados oficiais da administração federal.",
+      "só aceitarão cópias autenticadas em cartório, vedada a conferência da cópia com o original pelo próprio servidor.",
+      "cobrarão dos usuários uma taxa pela elaboração e pela divulgação da Carta de Serviços ao Usuário do órgão.",
+      "exigirão reconhecimento de firma em todos os requerimentos apresentados pelos usuários, como forma de garantir a autenticidade dos documentos.",
+      "dispensarão o reconhecimento de firma e a autenticação de cópia de documentos expedidos no País, salvo dúvida fundada ou previsão legal."
+    ],
+    "gabarito": "E",
+    "comentario": "Gabarito: E. O art. 9º do Decreto nº 9.094/2017 dispensa o reconhecimento de firma e a autenticação de cópia dos documentos expedidos no País, exceto se houver dúvida fundada quanto à autenticidade ou previsão legal, e o art. 10, § 1º, permite que o servidor faça o cotejo da cópia com o original. O decreto também proíbe exigir do usuário documentos que constem de bases de dados oficiais (art. 2º) e manda divulgar a Carta de Serviços ao Usuário (art. 11).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.3.4-01",
+    "topicoId": "1.3.4",
+    "enunciado": "Nos termos da Lei nº 8.745/1993, o pessoal contratado por tempo determinado para atender a necessidade temporária de excepcional interesse público",
+    "alternativas": [
+      "adquire estabilidade após três anos de efetivo exercício, se aprovado em avaliação especial de desempenho.",
+      "não pode ser recontratado com base nessa lei antes de 24 meses do fim do contrato anterior, salvo exceções legais.",
+      "tem as infrações disciplinares apuradas em processo administrativo disciplinar, a ser concluído em 120 dias.",
+      "pode receber atribuições, funções ou encargos não previstos no contrato, se houver necessidade do serviço.",
+      "pode ser designado para função de confiança, desde que a título precário ou em substituição ao titular."
+    ],
+    "gabarito": "B",
+    "comentario": "Gabarito: B. O art. 9º da Lei nº 8.745/1993 proíbe que o contratado receba atribuições não previstas no contrato, seja nomeado ou designado, mesmo a título precário ou em substituição, para cargo em comissão ou função de confiança, e seja recontratado antes de 24 meses do fim do contrato anterior, salvo as exceções previstas na própria lei. As infrações são apuradas por sindicância concluída em 30 dias (art. 10), e não há estabilidade.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.3.4-02",
+    "topicoId": "1.3.4",
+    "enunciado": "De acordo com a Lei nº 8.745/1993, a extinção do contrato por iniciativa do órgão ou da entidade contratante, decorrente de conveniência administrativa, importará",
+    "alternativas": [
+      "a ausência de qualquer indenização ao contratado, por se tratar de vínculo precário com a administração.",
+      "o pagamento ao contratado da remuneração integral correspondente a todo o período restante do contrato.",
+      "o pagamento de indenização de metade do que caberia ao contratado pelo restante do contrato.",
+      "o pagamento ao contratado de indenização correspondente a um terço do que lhe caberia até o termo final.",
+      "o pagamento de indenização equivalente a uma remuneração mensal para cada ano de duração do contrato."
+    ],
+    "gabarito": "C",
+    "comentario": "Gabarito: C. É o § 2º do art. 12 da Lei nº 8.745/1993: a extinção por conveniência administrativa gera indenização de metade do que caberia ao contratado pelo restante do contrato. Já a extinção pelo término do prazo, por iniciativa do contratado ou pela conclusão do projeto ocorre sem indenização (caput); nos dois últimos casos, deve ser comunicada com antecedência mínima de 30 dias (§ 1º).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.3.5-01",
+    "topicoId": "1.3.5",
+    "enunciado": "Segundo a Lei nº 8.112/1990, a posse e o início do exercício no cargo público devem ocorrer, respectivamente, nos prazos de",
+    "alternativas": [
+      "60 dias, contados da publicação do ato de provimento, e 15 dias, contados da nomeação.",
+      "15 dias, contados da publicação do ato de provimento, e 30 dias, contados da data da posse.",
+      "30 dias, contados da homologação do concurso, e 30 dias, contados da data da posse.",
+      "30 dias, contados da publicação do ato de provimento, e 15 dias, contados da data da posse.",
+      "10 dias, contados da nomeação, e 5 dias, contados da data da posse no cargo público."
+    ],
+    "gabarito": "D",
+    "comentario": "Gabarito: D. Pelo art. 13, § 1º, da Lei nº 8.112/1990, a posse ocorre em até 30 dias da publicação do ato de provimento; pelo art. 15, § 1º, o exercício começa em até 15 dias da posse. Se a posse não ocorre no prazo, o ato de provimento é tornado sem efeito; se o servidor não entra em exercício, é exonerado.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.3.5-02",
+    "topicoId": "1.3.5",
+    "enunciado": "De acordo com a Lei nº 8.112/1990, o retorno do servidor estável ao cargo anteriormente ocupado, decorrente de inabilitação em estágio probatório relativo a outro cargo ou de reintegração do anterior ocupante, denomina-se",
+    "alternativas": [
+      "reintegração.",
+      "aproveitamento.",
+      "readaptação.",
+      "reversão.",
+      "recondução."
+    ],
+    "gabarito": "E",
+    "comentario": "Gabarito: E. É a definição de recondução (art. 29 da Lei nº 8.112/1990). Reintegração é a volta do servidor estável ao cargo após a invalidação de sua demissão; reversão, o retorno à atividade do aposentado; aproveitamento, o retorno do servidor em disponibilidade; e readaptação, a investidura em cargo compatível com limitação de capacidade física ou mental.",
+    "revisada": false,
+    "origem": "ia"
+  }
+]

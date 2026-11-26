@@ -1,0 +1,242 @@
+[
+  {
+    "id": "1.2.1-01",
+    "topicoId": "1.2.1",
+    "enunciado": "Ana, Bruno e Carla trabalham, cada um, em um setor diferente (Compras, Contratos e Finanças) e têm idades diferentes. Sabe-se que: a pessoa que trabalha em Finanças é a mais nova das três; Ana é mais velha que Bruno; Carla não trabalha em Finanças; e Ana não trabalha em Contratos. Com base nessas informações, é correto afirmar que",
+    "alternativas": [
+      "Ana é, necessariamente, mais nova que Carla.",
+      "Ana trabalha em Contratos e é a mais velha dos três.",
+      "Bruno trabalha em Finanças e é o mais novo dos três.",
+      "Carla é, necessariamente, a mais velha dos três.",
+      "Carla trabalha em Compras e é mais nova que Bruno."
+    ],
+    "gabarito": "C",
+    "comentario": "Gabarito: C. Como Carla não está em Finanças, quem está lá é Ana ou Bruno. Ana é mais velha que Bruno, então não pode ser a mais nova; logo, Bruno trabalha em Finanças e é o mais novo. Como Ana não está em Contratos, ela trabalha em Compras, e Carla, em Contratos. A ordem de idade entre Ana e Carla não pode ser determinada.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.2.1-02",
+    "topicoId": "1.2.1",
+    "enunciado": "Um documento desapareceu do arquivo, e sabe-se que foi retirado por exatamente uma destas três pessoas. Questionadas, elas disseram — Ana: 'Foi Bruno'; Bruno: 'Foi Carla'; Carla: 'Bruno está mentindo'. Sabendo que exatamente duas delas disseram a verdade, conclui-se que o documento foi retirado por",
+    "alternativas": [
+      "nenhuma delas, pois as informações são contraditórias.",
+      "Bruno.",
+      "Ana.",
+      "Carla.",
+      "Ana ou Carla, sem que seja possível determinar qual."
+    ],
+    "gabarito": "B",
+    "comentario": "Gabarito: B. Teste cada hipótese. Se foi Ana, só Carla diz a verdade. Se foi Carla, só Bruno diz a verdade. Se foi Bruno, Ana diz a verdade, Bruno mente e Carla, ao dizer que Bruno mente, também diz a verdade: são exatamente duas verdades. Só essa hipótese atende à condição.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.2.2-01",
+    "topicoId": "1.2.2",
+    "enunciado": "Considere as premissas 'Todos os enfermeiros do hospital fizeram o curso de biossegurança' e 'Alguns plantonistas são enfermeiros do hospital'. Uma conclusão que decorre necessariamente dessas premissas é:",
+    "alternativas": [
+      "Nenhum plantonista que não é enfermeiro fez o curso de biossegurança.",
+      "Todos os plantonistas fizeram o curso de biossegurança.",
+      "Todos os que fizeram o curso de biossegurança são enfermeiros do hospital.",
+      "Alguns plantonistas fizeram o curso de biossegurança.",
+      "Alguns enfermeiros do hospital não são plantonistas."
+    ],
+    "gabarito": "D",
+    "comentario": "Gabarito: D. Os plantonistas que são enfermeiros do hospital estão no conjunto dos que fizeram o curso, então pelo menos alguns plantonistas fizeram o curso. As premissas nada dizem sobre os plantonistas que não são enfermeiros, nem garantem que só enfermeiros fizeram o curso ou que existam enfermeiros fora do plantão.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.2.2-02",
+    "topicoId": "1.2.2",
+    "enunciado": "Assinale a alternativa que apresenta um argumento válido.",
+    "alternativas": [
+      "Todo médico é profissional de saúde. Carlos é profissional de saúde. Logo, Carlos é médico.",
+      "Alguns servidores são médicos. Alguns médicos são professores. Logo, alguns servidores são professores.",
+      "Se chover, o evento será cancelado. O evento foi cancelado. Logo, choveu.",
+      "Se chover, o evento será cancelado. Não choveu. Logo, o evento não foi cancelado.",
+      "Se chover, o evento será cancelado. O evento não foi cancelado. Logo, não choveu."
+    ],
+    "gabarito": "E",
+    "comentario": "Gabarito: E. O argumento válido é o modus tollens: de 'se p, então q' e 'não q', conclui-se 'não p'. Afirmar o consequente (o evento foi cancelado, logo choveu) e negar o antecedente (não choveu, logo não foi cancelado) são falácias, pois o evento pode ser cancelado por outro motivo. Nos dois silogismos restantes, a conclusão não decorre das premissas.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.2.3-01",
+    "topicoId": "1.2.3",
+    "enunciado": "A negação da proposição 'Se o paciente tem febre, então ele toma antitérmico' é:",
+    "alternativas": [
+      "O paciente tem febre e não toma antitérmico.",
+      "O paciente não tem febre e toma antitérmico.",
+      "O paciente não tem febre ou não toma antitérmico.",
+      "Se o paciente não tem febre, então ele não toma antitérmico.",
+      "Se o paciente toma antitérmico, então ele tem febre."
+    ],
+    "gabarito": "A",
+    "comentario": "Gabarito: A. A condicional 'se p, então q' só é falsa quando p é verdadeira e q é falsa. Por isso, sua negação é 'p e não q': o paciente tem febre e não toma antitérmico. A negação de uma condicional nunca é outra condicional.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.2.3-02",
+    "topicoId": "1.2.3",
+    "enunciado": "É logicamente equivalente à proposição 'Se o servidor cumpre a meta, então recebe a gratificação':",
+    "alternativas": [
+      "O servidor cumpre a meta ou não recebe a gratificação.",
+      "O servidor cumpre a meta e recebe a gratificação.",
+      "Se o servidor não cumpre a meta, então não recebe a gratificação.",
+      "O servidor não cumpre a meta ou recebe a gratificação.",
+      "Se o servidor recebe a gratificação, então cumpre a meta."
+    ],
+    "gabarito": "D",
+    "comentario": "Gabarito: D. 'Se p, então q' equivale a 'não p ou q' e à contrapositiva 'se não q, então não p'. A recíproca ('se q, então p') e a inversa ('se não p, então não q') não são equivalentes à proposição, e 'p ou não q' equivale justamente à recíproca.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.2.4-01",
+    "topicoId": "1.2.4",
+    "enunciado": "A negação da proposição 'Todos os servidores do setor chegaram no horário' é:",
+    "alternativas": [
+      "Pelo menos um servidor do setor não chegou no horário.",
+      "Algum servidor do setor chegou no horário.",
+      "Todos os servidores do setor chegaram atrasados.",
+      "Nenhum servidor do setor chegou no horário.",
+      "Nem todos os servidores do setor chegaram atrasados."
+    ],
+    "gabarito": "A",
+    "comentario": "Gabarito: A. A negação de 'todo A é B' é 'algum A não é B': basta um servidor que não tenha chegado no horário para que a afirmação seja falsa. 'Nenhum chegou no horário' e 'todos chegaram atrasados' são afirmações mais fortes do que a negação, e 'algum chegou no horário' é compatível com a proposição original.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.2.4-02",
+    "topicoId": "1.2.4",
+    "enunciado": "A negação da proposição 'Existe um processo que foi arquivado sem parecer' é:",
+    "alternativas": [
+      "Existe um processo que não foi arquivado.",
+      "Todos os processos foram arquivados sem parecer.",
+      "Nenhum processo foi arquivado sem parecer.",
+      "Existe um processo que foi arquivado com parecer.",
+      "Todos os processos foram arquivados com parecer."
+    ],
+    "gabarito": "C",
+    "comentario": "Gabarito: C. A negação de 'existe x com a propriedade P' é 'nenhum x tem a propriedade P'. 'Todos os processos foram arquivados com parecer' é mais forte do que a negação, pois exige que todos tenham sido arquivados, o que a proposição original não trata.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.2.5-01",
+    "topicoId": "1.2.5",
+    "enunciado": "Uma comissão de 3 pessoas será formada a partir de um grupo de 5 médicos e 4 enfermeiros, de modo que tenha exatamente 2 médicos. O número de comissões diferentes que podem ser formadas é",
+    "alternativas": [
+      "20.",
+      "30.",
+      "40.",
+      "60.",
+      "84."
+    ],
+    "gabarito": "C",
+    "comentario": "Gabarito: C. Escolhem-se 2 dos 5 médicos, C(5,2) = 10, e 1 dos 4 enfermeiros, C(4,1) = 4. Pelo princípio multiplicativo, há 10 × 4 = 40 comissões. O valor 84 corresponde a C(9,3), que ignora a exigência de exatamente 2 médicos.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.2.5-02",
+    "topicoId": "1.2.5",
+    "enunciado": "Uma urna contém 4 bolas azuis e 6 vermelhas. Retiram-se, ao acaso e sem reposição, duas bolas. A probabilidade de as duas serem azuis é",
+    "alternativas": [
+      "2/15.",
+      "4/25.",
+      "1/5.",
+      "6/25.",
+      "2/5."
+    ],
+    "gabarito": "A",
+    "comentario": "Gabarito: A. Na primeira retirada, a chance de sair azul é 4/10; sem reposição, restam 3 azuis entre 9 bolas, e a chance de a segunda ser azul é 3/9. Logo, P = 4/10 × 3/9 = 12/90 = 2/15. O valor 4/25 = (4/10)² seria a resposta com reposição.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.2.6-01",
+    "topicoId": "1.2.6",
+    "enunciado": "Em um grupo de 120 servidores, 70 fizeram o curso A, 50 fizeram o curso B e 20 fizeram os dois cursos. O número de servidores do grupo que não fizeram nenhum dos dois cursos é",
+    "alternativas": [
+      "0.",
+      "10.",
+      "20.",
+      "30.",
+      "40."
+    ],
+    "gabarito": "C",
+    "comentario": "Gabarito: C. Os que fizeram pelo menos um curso são n(A ∪ B) = n(A) + n(B) − n(A ∩ B) = 70 + 50 − 20 = 100. Logo, 120 − 100 = 20 não fizeram nenhum. Quem soma 70 + 50 sem descontar os 20 contados duas vezes chega a 120 e conclui, erradamente, que todos fizeram algum curso.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.2.6-02",
+    "topicoId": "1.2.6",
+    "enunciado": "Sejam A = {1, 2, 3, 4, 5} e B = {4, 5, 6, 7}. O conjunto A − B é",
+    "alternativas": [
+      "{4, 5}.",
+      "{1, 2, 3, 4, 5, 6, 7}.",
+      "{6, 7}.",
+      "{1, 2, 3, 6, 7}.",
+      "{1, 2, 3}."
+    ],
+    "gabarito": "E",
+    "comentario": "Gabarito: E. A diferença A − B reúne os elementos que pertencem a A e não pertencem a B: {1, 2, 3}. {4, 5} é a interseção, {6, 7} é B − A, {1, 2, 3, 6, 7} é a diferença simétrica e {1, 2, 3, 4, 5, 6, 7} é a união.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.2.7-01",
+    "topicoId": "1.2.7",
+    "enunciado": "O preço de um medicamento, que era de R$ 80,00, teve aumento de 25%. Em seguida, sofreu desconto de 20% sobre o novo preço. O preço final do medicamento é",
+    "alternativas": [
+      "R$ 76,00.",
+      "R$ 80,00.",
+      "R$ 84,00.",
+      "R$ 85,00.",
+      "R$ 100,00."
+    ],
+    "gabarito": "B",
+    "comentario": "Gabarito: B. Com o aumento de 25%, o preço passa a 80 × 1,25 = R$ 100,00. O desconto de 20% sobre esse valor leva a 100 × 0,80 = R$ 80,00. Percentuais sucessivos se multiplicam (1,25 × 0,80 = 1), e não se somam: quem faz 25% − 20% = 5% chega, erradamente, a R$ 84,00.",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.2.7-02",
+    "topicoId": "1.2.7",
+    "enunciado": "Um terreno retangular tem perímetro de 60 m, e seu comprimento é o dobro da largura. A área desse terreno é",
+    "alternativas": [
+      "100 m².",
+      "150 m².",
+      "200 m².",
+      "225 m².",
+      "300 m²."
+    ],
+    "gabarito": "C",
+    "comentario": "Gabarito: C. Sendo x a largura, o comprimento é 2x e o perímetro é 2(x + 2x) = 6x = 60, então x = 10 m e o comprimento é 20 m. A área é 10 × 20 = 200 m². O valor 225 m² seria a área de um quadrado com o mesmo perímetro (lado de 15 m).",
+    "revisada": false,
+    "origem": "ia"
+  },
+  {
+    "id": "1.2.7-03",
+    "topicoId": "1.2.7",
+    "enunciado": "Seja A = (aij) uma matriz quadrada de ordem 3 cujos elementos são definidos por aij = 2i − j. A soma dos elementos da diagonal principal de A é",
+    "alternativas": [
+      "3.",
+      "6.",
+      "9.",
+      "12.",
+      "18."
+    ],
+    "gabarito": "B",
+    "comentario": "Gabarito: B. Na diagonal principal, i = j, então aii = 2i − i = i. Os elementos são a11 = 1, a22 = 2 e a33 = 3, e a soma é 6. O valor 18 é a soma de todos os nove elementos da matriz.",
+    "revisada": false,
+    "origem": "ia"
+  }
+]
